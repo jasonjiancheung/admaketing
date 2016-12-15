@@ -1,0 +1,29 @@
+server:
+  host: localhost
+  port: 80
+  reqlogfile: req.log 
+  rsplogfile: rsp.log
+
+hook:
+  devidon: true 
+  devidfile: /home/jian/devidfile
+
+  mediumon: true 
+  mediumfile: /home/jian/mediumfile 
+
+  ipsearchlib: /home/jian/iplib.dat
+
+creativeredis:
+  host: 192.168.0.11 
+  port: 30020
+
+auctionredis:
+  host: 192.168.0.11
+  port: 30020
+
+adretrieval:
+  #host: 192.168.0.11 
+  host: localhost
+  port: 8000
+  initcap: 256 
+  maxcap : 256
