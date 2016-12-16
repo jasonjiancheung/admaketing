@@ -1,0 +1,1502 @@
+{
+  "cityName": "南宁市",
+  "businessCenters": [
+    {
+      "name": "兴宁区",
+      "locations": [
+        {
+          "name": "望州岭",
+          "longitude": 108.3345,
+          "latitude": 22.838793,
+          "radius": "484"
+        },
+        {
+          "name": "朝阳",
+          "longitude": 108.31926,
+          "latitude": 22.821823,
+          "radius": "842"
+        },
+        {
+          "name": "民生",
+          "longitude": 108.32187,
+          "latitude": 22.815899,
+          "radius": "577"
+        },
+        {
+          "name": "五塘",
+          "longitude": 108.54417,
+          "latitude": 22.937286,
+          "radius": "1058"
+        },
+        {
+          "name": "华强",
+          "longitude": 108.312744,
+          "latitude": 22.821526,
+          "radius": "431"
+        }
+      ]
+    },
+    {
+      "name": "青秀区",
+      "locations": [
+        {
+          "name": "望园路",
+          "longitude": 108.35647,
+          "latitude": 22.8239,
+          "radius": "377"
+        },
+        {
+          "name": "五象广场",
+          "longitude": 108.37051,
+          "latitude": 22.814259,
+          "radius": "499"
+        },
+        {
+          "name": "东葛路",
+          "longitude": 108.35339,
+          "latitude": 22.823536,
+          "radius": "1215"
+        },
+        {
+          "name": "会展中心",
+          "longitude": 108.38072,
+          "latitude": 22.811626,
+          "radius": "972"
+        },
+        {
+          "name": "新竹",
+          "longitude": 108.347084,
+          "latitude": 22.815813,
+          "radius": "1139"
+        },
+        {
+          "name": "中山",
+          "longitude": 108.32394,
+          "latitude": 22.8083,
+          "radius": "556"
+        },
+        {
+          "name": "建政",
+          "longitude": 108.340935,
+          "latitude": 22.824074,
+          "radius": "785"
+        },
+        {
+          "name": "南湖",
+          "longitude": 108.34829,
+          "latitude": 22.80376,
+          "radius": "3025"
+        },
+        {
+          "name": "津头",
+          "longitude": 108.34698,
+          "latitude": 22.795744,
+          "radius": "1334"
+        }
+      ]
+    },
+    {
+      "name": "江南区",
+      "locations": [
+        {
+          "name": "五一路",
+          "longitude": 108.29532,
+          "latitude": 22.794628,
+          "radius": "2222"
+        },
+        {
+          "name": "苏圩",
+          "longitude": 108.10034,
+          "latitude": 22.546408,
+          "radius": "1389"
+        },
+        {
+          "name": "沙井大道",
+          "longitude": 108.25212,
+          "latitude": 22.79236,
+          "radius": "2356"
+        },
+        {
+          "name": "福建园",
+          "longitude": 108.31406,
+          "latitude": 22.79549,
+          "radius": "339"
+        },
+        {
+          "name": "10+1商业大道",
+          "longitude": 108.30751,
+          "latitude": 22.78886,
+          "radius": "1430"
+        },
+        {
+          "name": "江西",
+          "longitude": 108.100876,
+          "latitude": 22.774458,
+          "radius": "462"
+        },
+        {
+          "name": "星光大道",
+          "longitude": 108.313324,
+          "latitude": 22.78556,
+          "radius": "2409"
+        },
+        {
+          "name": "壮锦大道",
+          "longitude": 108.27123,
+          "latitude": 22.774061,
+          "radius": "2661"
+        },
+        {
+          "name": "白沙大道",
+          "longitude": 108.31176,
+          "latitude": 22.781284,
+          "radius": "3331"
+        }
+      ]
+    },
+    {
+      "name": "西乡塘区",
+      "locations": [
+        {
+          "name": "北大路",
+          "longitude": 108.300575,
+          "latitude": 22.824202,
+          "radius": "725"
+        },
+        {
+          "name": "明秀路",
+          "longitude": 108.29693,
+          "latitude": 22.833202,
+          "radius": "757"
+        },
+        {
+          "name": "大学东路",
+          "longitude": 108.26143,
+          "latitude": 22.836185,
+          "radius": "3091"
+        },
+        {
+          "name": "安吉",
+          "longitude": 108.30037,
+          "latitude": 22.878288,
+          "radius": "2659"
+        },
+        {
+          "name": "秀厢大道",
+          "longitude": 108.30942,
+          "latitude": 22.856455,
+          "radius": "5793"
+        },
+        {
+          "name": "秀安",
+          "longitude": 108.31014,
+          "latitude": 22.867847,
+          "radius": "870"
+        },
+        {
+          "name": "北湖",
+          "longitude": 108.32319,
+          "latitude": 22.853209,
+          "radius": "2374"
+        },
+        {
+          "name": "衡阳",
+          "longitude": 108.31446,
+          "latitude": 22.835596,
+          "radius": "1663"
+        },
+        {
+          "name": "金陵镇",
+          "longitude": 108.048836,
+          "latitude": 22.91942,
+          "radius": "620"
+        },
+        {
+          "name": "心圩",
+          "longitude": 108.26494,
+          "latitude": 22.868177,
+          "radius": "608"
+        },
+        {
+          "name": "科园大道",
+          "longitude": 108.27086,
+          "latitude": 22.854506,
+          "radius": "1769"
+        },
+        {
+          "name": "新阳",
+          "longitude": 108.29176,
+          "latitude": 22.81972,
+          "radius": "1980"
+        },
+        {
+          "name": "鲁班路",
+          "longitude": 108.283394,
+          "latitude": 22.837332,
+          "radius": "1557"
+        }
+      ]
+    },
+    {
+      "name": "良庆区",
+      "locations": [
+        {
+          "name": "大塘镇",
+          "longitude": 108.38436,
+          "latitude": 22.383568,
+          "radius": "852"
+        },
+        {
+          "name": "那陈镇",
+          "longitude": 108.28101,
+          "latitude": 22.448095,
+          "radius": "575"
+        },
+        {
+          "name": "那马镇",
+          "longitude": 108.3876,
+          "latitude": 22.631557,
+          "radius": "971"
+        },
+        {
+          "name": "良庆镇",
+          "longitude": 108.41705,
+          "latitude": 22.750296,
+          "radius": "324"
+        },
+        {
+          "name": "南晓",
+          "longitude": 108.41743,
+          "latitude": 22.305616,
+          "radius": "662"
+        },
+        {
+          "name": "大沙田",
+          "longitude": 108.330246,
+          "latitude": 22.758492,
+          "radius": "1837"
+        }
+      ]
+    },
+    {
+      "name": "邕宁区",
+      "locations": [
+        {
+          "name": "百济乡",
+          "longitude": 108.57812,
+          "latitude": 22.466267,
+          "radius": "481"
+        },
+        {
+          "name": "新江镇",
+          "longitude": 108.496735,
+          "latitude": 22.620205,
+          "radius": "646"
+        },
+        {
+          "name": "中和乡",
+          "longitude": 108.748985,
+          "latitude": 22.679056,
+          "radius": "549"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "兴宁区",
+      "locations": [
+        {
+          "name": "广西壮族自治区体育场",
+          "longitude": 108.32801,
+          "latitude": 22.82964,
+          "radius": ""
+        },
+        {
+          "name": "嘉和城温泉谷",
+          "longitude": 108.454216,
+          "latitude": 22.901154,
+          "radius": ""
+        },
+        {
+          "name": "双孖井",
+          "longitude": 108.32371,
+          "latitude": 22.82304,
+          "radius": ""
+        },
+        {
+          "name": "新会书院",
+          "longitude": 108.31606,
+          "latitude": 22.81564,
+          "radius": ""
+        },
+        {
+          "name": "邕州知州苏缄殉难遗址",
+          "longitude": 108.32031,
+          "latitude": 22.81454,
+          "radius": ""
+        },
+        {
+          "name": "两湖会馆",
+          "longitude": 108.31621,
+          "latitude": 22.81553,
+          "radius": ""
+        },
+        {
+          "name": "天姿健美游泳中心(公园路店)",
+          "longitude": 108.32629,
+          "latitude": 22.82835,
+          "radius": ""
+        },
+        {
+          "name": "黄石古道俱乐部",
+          "longitude": 108.35516,
+          "latitude": 22.90958,
+          "radius": ""
+        },
+        {
+          "name": "广西畜牧所球馆",
+          "longitude": 108.37508,
+          "latitude": 22.88743,
+          "radius": ""
+        },
+        {
+          "name": "广西体校球馆",
+          "longitude": 108.32856,
+          "latitude": 22.83108,
+          "radius": ""
+        },
+        {
+          "name": "八雅杨式太极馆",
+          "longitude": 108.37084,
+          "latitude": 22.85895,
+          "radius": ""
+        },
+        {
+          "name": "天健青少年篮球训练营",
+          "longitude": 108.32616,
+          "latitude": 22.82795,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "青秀区",
+      "locations": [
+        {
+          "name": "南宁市体育场",
+          "longitude": 108.3312,
+          "latitude": 22.80099,
+          "radius": ""
+        },
+        {
+          "name": "广西民族博物馆",
+          "longitude": 108.40075,
+          "latitude": 22.77312,
+          "radius": ""
+        },
+        {
+          "name": "广西壮族自治区博物馆",
+          "longitude": 108.33535,
+          "latitude": 22.81239,
+          "radius": ""
+        },
+        {
+          "name": "青秀山风景区",
+          "longitude": 108.38863,
+          "latitude": 22.787054,
+          "radius": ""
+        },
+        {
+          "name": "南宁市石门森林公园",
+          "longitude": 108.38754,
+          "latitude": 22.80639,
+          "radius": ""
+        },
+        {
+          "name": "民族文物苑",
+          "longitude": 108.33539,
+          "latitude": 22.8117,
+          "radius": ""
+        },
+        {
+          "name": "广西电信博物馆",
+          "longitude": 108.32154,
+          "latitude": 22.81041,
+          "radius": ""
+        },
+        {
+          "name": "广西钱币博物馆",
+          "longitude": 108.32985,
+          "latitude": 22.80316,
+          "radius": ""
+        },
+        {
+          "name": "半岛球馆",
+          "longitude": 108.33606,
+          "latitude": 22.77219,
+          "radius": ""
+        },
+        {
+          "name": "逸夫体育馆",
+          "longitude": 108.35562,
+          "latitude": 22.80124,
+          "radius": ""
+        },
+        {
+          "name": "邕州阁",
+          "longitude": 108.36684,
+          "latitude": 22.79529,
+          "radius": ""
+        },
+        {
+          "name": "皇嘉凯歌大剧院",
+          "longitude": 108.33187,
+          "latitude": 22.80115,
+          "radius": ""
+        },
+        {
+          "name": "洋关码头",
+          "longitude": 108.32809,
+          "latitude": 22.79248,
+          "radius": ""
+        },
+        {
+          "name": "明星剧场",
+          "longitude": 108.33664,
+          "latitude": 22.8254,
+          "radius": ""
+        },
+        {
+          "name": "广西省第二次代表大会旧址",
+          "longitude": 108.3382,
+          "latitude": 22.796,
+          "radius": ""
+        },
+        {
+          "name": "广西省体育场门楼",
+          "longitude": 108.33176,
+          "latitude": 22.80139,
+          "radius": ""
+        },
+        {
+          "name": "沱江漂流",
+          "longitude": 108.73685,
+          "latitude": 22.90753,
+          "radius": ""
+        },
+        {
+          "name": "南宁十七中球馆",
+          "longitude": 108.3664,
+          "latitude": 22.83995,
+          "radius": ""
+        },
+        {
+          "name": "黄旭初旧居",
+          "longitude": 108.32155,
+          "latitude": 22.81026,
+          "radius": ""
+        },
+        {
+          "name": "横龙景区",
+          "longitude": 108.73819,
+          "latitude": 22.90752,
+          "radius": ""
+        },
+        {
+          "name": "邕江防洪古堤",
+          "longitude": 108.32143,
+          "latitude": 22.80944,
+          "radius": ""
+        },
+        {
+          "name": "广西省委机关秘书处旧址",
+          "longitude": 108.33853,
+          "latitude": 22.79574,
+          "radius": ""
+        },
+        {
+          "name": "邓颖超出生地旧址",
+          "longitude": 108.32078,
+          "latitude": 22.8126,
+          "radius": ""
+        },
+        {
+          "name": "南宁古城墙",
+          "longitude": 108.32067,
+          "latitude": 22.81074,
+          "radius": ""
+        },
+        {
+          "name": "雷沛鸿故居",
+          "longitude": 108.3386,
+          "latitude": 22.7958,
+          "radius": ""
+        },
+        {
+          "name": "广西天珠艺术博物馆",
+          "longitude": 108.40396,
+          "latitude": 22.8101,
+          "radius": ""
+        },
+        {
+          "name": "广西壮族自治区戏剧院",
+          "longitude": 108.33789,
+          "latitude": 22.82264,
+          "radius": ""
+        },
+        {
+          "name": "广西水产畜牧学校体育运动中心",
+          "longitude": 108.36199,
+          "latitude": 22.8016,
+          "radius": ""
+        },
+        {
+          "name": "广西体育局青秀山体能训练与康复馆",
+          "longitude": 108.34748,
+          "latitude": 22.78256,
+          "radius": ""
+        },
+        {
+          "name": "力波足球场",
+          "longitude": 108.34637,
+          "latitude": 22.80135,
+          "radius": ""
+        },
+        {
+          "name": "桂淞足球场",
+          "longitude": 108.36229,
+          "latitude": 22.80185,
+          "radius": ""
+        },
+        {
+          "name": "广西华泰篮球休闲基地",
+          "longitude": 108.49319,
+          "latitude": 22.77242,
+          "radius": ""
+        },
+        {
+          "name": "南宁市体育运动学校少年儿童足球青秀足球场训练基地",
+          "longitude": 108.38491,
+          "latitude": 22.80032,
+          "radius": ""
+        },
+        {
+          "name": "龙腾球馆",
+          "longitude": 108.37505,
+          "latitude": 22.84529,
+          "radius": ""
+        },
+        {
+          "name": "游泳池",
+          "longitude": 108.37569,
+          "latitude": 22.80547,
+          "radius": ""
+        },
+        {
+          "name": "球馆",
+          "longitude": 108.37677,
+          "latitude": 22.80526,
+          "radius": ""
+        },
+        {
+          "name": "生态岛",
+          "longitude": 108.35037,
+          "latitude": 22.80818,
+          "radius": ""
+        },
+        {
+          "name": "消防博物馆",
+          "longitude": 108.32428,
+          "latitude": 22.8054,
+          "radius": ""
+        },
+        {
+          "name": "猴哥花果山景区",
+          "longitude": 108.52723,
+          "latitude": 22.85323,
+          "radius": ""
+        },
+        {
+          "name": "艺海绿廊",
+          "longitude": 108.3433,
+          "latitude": 22.80391,
+          "radius": ""
+        },
+        {
+          "name": "鉴水廊",
+          "longitude": 108.35302,
+          "latitude": 22.80992,
+          "radius": ""
+        },
+        {
+          "name": "广西壮族自治区广播电影电视博物馆",
+          "longitude": 108.39184,
+          "latitude": 22.8185,
+          "radius": ""
+        },
+        {
+          "name": "凌铁水塔",
+          "longitude": 108.32784,
+          "latitude": 22.79618,
+          "radius": ""
+        },
+        {
+          "name": "镜心亭",
+          "longitude": 108.3565,
+          "latitude": 22.81251,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "江南区",
+      "locations": [
+        {
+          "name": "南宁吴圩国际机场",
+          "longitude": 108.18574,
+          "latitude": 22.599495,
+          "radius": ""
+        },
+        {
+          "name": "广西壮族自治区体育馆",
+          "longitude": 108.31679,
+          "latitude": 22.80485,
+          "radius": ""
+        },
+        {
+          "name": "良凤江国家森林公园",
+          "longitude": 108.29082,
+          "latitude": 22.72337,
+          "radius": ""
+        },
+        {
+          "name": "新屋春天球馆",
+          "longitude": 108.28054,
+          "latitude": 22.80062,
+          "radius": ""
+        },
+        {
+          "name": "二王庙",
+          "longitude": 108.2047,
+          "latitude": 22.70034,
+          "radius": ""
+        },
+        {
+          "name": "青少年体育俱乐部",
+          "longitude": 108.31902,
+          "latitude": 22.80136,
+          "radius": ""
+        },
+        {
+          "name": "扬美",
+          "longitude": 108.05674,
+          "latitude": 22.82603,
+          "radius": ""
+        },
+        {
+          "name": "侗鼓楼",
+          "longitude": 108.30394,
+          "latitude": 22.79286,
+          "radius": ""
+        },
+        {
+          "name": "淡村足球训练基地",
+          "longitude": 108.30143,
+          "latitude": 22.79988,
+          "radius": ""
+        },
+        {
+          "name": "江南训练基地足球场",
+          "longitude": 108.31772,
+          "latitude": 22.80363,
+          "radius": ""
+        },
+        {
+          "name": "发现5球馆",
+          "longitude": 108.26527,
+          "latitude": 22.8108,
+          "radius": ""
+        },
+        {
+          "name": "瑞安球馆",
+          "longitude": 108.25526,
+          "latitude": 22.80763,
+          "radius": ""
+        },
+        {
+          "name": "十八罗汉洞",
+          "longitude": 108.03084,
+          "latitude": 22.53611,
+          "radius": ""
+        },
+        {
+          "name": "五一综合市场桌球乒乓球娱乐运动城",
+          "longitude": 108.25868,
+          "latitude": 22.80374,
+          "radius": ""
+        },
+        {
+          "name": "凤凰湖",
+          "longitude": 108.30015,
+          "latitude": 22.59695,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "西乡塘区",
+      "locations": [
+        {
+          "name": "八桂田园景区",
+          "longitude": 108.24333,
+          "latitude": 22.84954,
+          "radius": ""
+        },
+        {
+          "name": "南宁体育馆",
+          "longitude": 108.31208,
+          "latitude": 22.84139,
+          "radius": ""
+        },
+        {
+          "name": "宥胜经典球馆",
+          "longitude": 108.3056,
+          "latitude": 22.85378,
+          "radius": ""
+        },
+        {
+          "name": "金沙湖风景区",
+          "longitude": 108.17213,
+          "latitude": 22.8349,
+          "radius": ""
+        },
+        {
+          "name": "悍马足球场",
+          "longitude": 108.29222,
+          "latitude": 22.80438,
+          "radius": ""
+        },
+        {
+          "name": "美丽南方·忠良景区",
+          "longitude": 108.16161,
+          "latitude": 22.77215,
+          "radius": ""
+        },
+        {
+          "name": "圣天宝风景旅游度假区",
+          "longitude": 108.23897,
+          "latitude": 22.86807,
+          "radius": ""
+        },
+        {
+          "name": "粤东会馆",
+          "longitude": 108.31237,
+          "latitude": 22.81409,
+          "radius": ""
+        },
+        {
+          "name": "越南中央学舍区(广西南宁育才学校)总部旧址",
+          "longitude": 108.26122,
+          "latitude": 22.86762,
+          "radius": ""
+        },
+        {
+          "name": "黄氏家族民居",
+          "longitude": 108.28816,
+          "latitude": 22.80812,
+          "radius": ""
+        },
+        {
+          "name": "雅里足球场",
+          "longitude": 108.29877,
+          "latitude": 22.80334,
+          "radius": ""
+        },
+        {
+          "name": "赏荷塘",
+          "longitude": 108.246,
+          "latitude": 22.84806,
+          "radius": ""
+        },
+        {
+          "name": "广西史志博物馆",
+          "longitude": 108.21457,
+          "latitude": 22.83641,
+          "radius": ""
+        },
+        {
+          "name": "人之林球馆",
+          "longitude": 108.30473,
+          "latitude": 22.81894,
+          "radius": ""
+        },
+        {
+          "name": "大学生见习基地球馆",
+          "longitude": 108.28298,
+          "latitude": 22.86529,
+          "radius": ""
+        },
+        {
+          "name": "振宁友爱球馆",
+          "longitude": 108.31877,
+          "latitude": 22.83145,
+          "radius": ""
+        },
+        {
+          "name": "南宁农工商集团北湖工业管理区球馆",
+          "longitude": 108.32609,
+          "latitude": 22.9002,
+          "radius": ""
+        },
+        {
+          "name": "陈村水厂游泳馆",
+          "longitude": 108.25956,
+          "latitude": 22.83846,
+          "radius": ""
+        },
+        {
+          "name": "新阳游泳场",
+          "longitude": 108.29202,
+          "latitude": 22.81839,
+          "radius": ""
+        },
+        {
+          "name": "广西农科院门球场",
+          "longitude": 108.24798,
+          "latitude": 22.84459,
+          "radius": ""
+        },
+        {
+          "name": "大学生见习基地篮球场",
+          "longitude": 108.28298,
+          "latitude": 22.86529,
+          "radius": ""
+        },
+        {
+          "name": "空间运动城",
+          "longitude": 108.32514,
+          "latitude": 22.85222,
+          "radius": ""
+        },
+        {
+          "name": "洛克·玫瑰庄园",
+          "longitude": 108.17036,
+          "latitude": 22.76804,
+          "radius": ""
+        },
+        {
+          "name": "相思湖足球场",
+          "longitude": 108.21594,
+          "latitude": 22.85638,
+          "radius": ""
+        },
+        {
+          "name": "江边河滩",
+          "longitude": 108.19564,
+          "latitude": 22.82275,
+          "radius": ""
+        },
+        {
+          "name": "广西南宁(国际)水上运动休闲基地",
+          "longitude": 108.17867,
+          "latitude": 22.76241,
+          "radius": ""
+        },
+        {
+          "name": "怡景生态园景区",
+          "longitude": 108.34254,
+          "latitude": 22.90906,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "良庆区",
+      "locations": [
+        {
+          "name": "广西体育中心",
+          "longitude": 108.39787,
+          "latitude": 22.76117,
+          "radius": ""
+        },
+        {
+          "name": "五象岭森林公园",
+          "longitude": 108.34919,
+          "latitude": 22.755083,
+          "radius": ""
+        },
+        {
+          "name": "南宁博物馆",
+          "longitude": 108.38259,
+          "latitude": 22.77423,
+          "radius": ""
+        },
+        {
+          "name": "龙象谷国际旅游度假区",
+          "longitude": 108.36874,
+          "latitude": 22.29255,
+          "radius": ""
+        },
+        {
+          "name": "磐威球馆",
+          "longitude": 108.31524,
+          "latitude": 22.75981,
+          "radius": ""
+        },
+        {
+          "name": "园林泳池",
+          "longitude": 108.33411,
+          "latitude": 22.75644,
+          "radius": ""
+        },
+        {
+          "name": "五象体育馆",
+          "longitude": 108.35475,
+          "latitude": 22.76731,
+          "radius": ""
+        },
+        {
+          "name": "开墟纪念亭",
+          "longitude": 108.38656,
+          "latitude": 22.63398,
+          "radius": ""
+        },
+        {
+          "name": "竹泉岛",
+          "longitude": 108.3763,
+          "latitude": 22.62685,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "邕宁区",
+      "locations": [
+        {
+          "name": "邕宁区老干部门球场",
+          "longitude": 108.47883,
+          "latitude": 22.75604,
+          "radius": ""
+        },
+        {
+          "name": "顶蛳山遗址",
+          "longitude": 108.48018,
+          "latitude": 22.70355,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "武鸣县",
+      "locations": [
+        {
+          "name": "大明山景区",
+          "longitude": 108.337425,
+          "latitude": 23.525742,
+          "radius": ""
+        },
+        {
+          "name": "伊岭岩",
+          "longitude": 108.2959,
+          "latitude": 23.03661,
+          "radius": ""
+        },
+        {
+          "name": "风雨桥",
+          "longitude": 108.28196,
+          "latitude": 23.15296,
+          "radius": ""
+        },
+        {
+          "name": "灵水风景区",
+          "longitude": 108.26895,
+          "latitude": 23.14992,
+          "radius": ""
+        },
+        {
+          "name": "仙山旅游风景区",
+          "longitude": 108.29864,
+          "latitude": 23.03173,
+          "radius": ""
+        },
+        {
+          "name": "仙山院",
+          "longitude": 108.29801,
+          "latitude": 23.0314,
+          "radius": ""
+        },
+        {
+          "name": "明秀园",
+          "longitude": 108.26608,
+          "latitude": 23.16184,
+          "radius": ""
+        },
+        {
+          "name": "起凤山",
+          "longitude": 108.3355,
+          "latitude": 23.18113,
+          "radius": ""
+        },
+        {
+          "name": "罗波潭",
+          "longitude": 108.41881,
+          "latitude": 23.27755,
+          "radius": ""
+        },
+        {
+          "name": "黄道山景区",
+          "longitude": 108.25681,
+          "latitude": 23.23125,
+          "radius": ""
+        },
+        {
+          "name": "灵水社区同心·戏台",
+          "longitude": 108.26339,
+          "latitude": 23.15069,
+          "radius": ""
+        },
+        {
+          "name": "红岭球馆",
+          "longitude": 108.30761,
+          "latitude": 23.18608,
+          "radius": ""
+        },
+        {
+          "name": "陆荣廷石狮",
+          "longitude": 108.27569,
+          "latitude": 23.15812,
+          "radius": ""
+        },
+        {
+          "name": "武鸣体育馆",
+          "longitude": 108.30504,
+          "latitude": 23.14481,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "隆安县",
+      "locations": [
+        {
+          "name": "龙虎山风景区",
+          "longitude": 107.63538,
+          "latitude": 22.96048,
+          "radius": ""
+        },
+        {
+          "name": "绿水江·仙缘谷景区",
+          "longitude": 107.56855,
+          "latitude": 22.93931,
+          "radius": ""
+        },
+        {
+          "name": "义海云天",
+          "longitude": 107.86675,
+          "latitude": 23.01096,
+          "radius": ""
+        },
+        {
+          "name": "拱搁楼",
+          "longitude": 107.69293,
+          "latitude": 23.17636,
+          "radius": ""
+        },
+        {
+          "name": "关帝大王庙",
+          "longitude": 107.69017,
+          "latitude": 23.17724,
+          "radius": ""
+        },
+        {
+          "name": "那桐村剧场",
+          "longitude": 107.86926,
+          "latitude": 23.03942,
+          "radius": ""
+        },
+        {
+          "name": "榜山文塔",
+          "longitude": 107.74706,
+          "latitude": 23.1841,
+          "radius": ""
+        },
+        {
+          "name": "均沟自然保护区",
+          "longitude": 107.84896,
+          "latitude": 23.2369,
+          "radius": ""
+        },
+        {
+          "name": "隆安县革命烈士纪念碑",
+          "longitude": 107.70002,
+          "latitude": 23.15932,
+          "radius": ""
+        },
+        {
+          "name": "绿水江漂流",
+          "longitude": 107.57105,
+          "latitude": 22.93922,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "马山县",
+      "locations": [
+        {
+          "name": "马山体育馆",
+          "longitude": 108.17339,
+          "latitude": 23.7026,
+          "radius": ""
+        },
+        {
+          "name": "马山金伦洞风景区",
+          "longitude": 108.26595,
+          "latitude": 23.554495,
+          "radius": ""
+        },
+        {
+          "name": "弄拉景区",
+          "longitude": 108.3247,
+          "latitude": 23.65507,
+          "radius": ""
+        },
+        {
+          "name": "红水河景区体育馆",
+          "longitude": 108.14017,
+          "latitude": 23.84765,
+          "radius": ""
+        },
+        {
+          "name": "马山红水河旅游度假景区",
+          "longitude": 108.14017,
+          "latitude": 23.84765,
+          "radius": ""
+        },
+        {
+          "name": "弄拉自然保护区",
+          "longitude": 108.31553,
+          "latitude": 23.63545,
+          "radius": ""
+        },
+        {
+          "name": "三潮水山庄",
+          "longitude": 108.19354,
+          "latitude": 23.64886,
+          "radius": ""
+        },
+        {
+          "name": "革命烈士纪念碑",
+          "longitude": 108.1735,
+          "latitude": 23.70479,
+          "radius": ""
+        },
+        {
+          "name": "仙岩",
+          "longitude": 108.16947,
+          "latitude": 23.69945,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "上林县",
+      "locations": [
+        {
+          "name": "霞客古渡",
+          "longitude": 108.71397,
+          "latitude": 23.45331,
+          "radius": ""
+        },
+        {
+          "name": "三里·洋渡",
+          "longitude": 108.70695,
+          "latitude": 23.46288,
+          "radius": ""
+        },
+        {
+          "name": "大龙湖景区",
+          "longitude": 108.59726,
+          "latitude": 23.58708,
+          "radius": ""
+        },
+        {
+          "name": "大明山山地养生运动馆",
+          "longitude": 108.43873,
+          "latitude": 23.50031,
+          "radius": ""
+        },
+        {
+          "name": "金澄江阳光青少年体育俱乐部",
+          "longitude": 108.59058,
+          "latitude": 23.43529,
+          "radius": ""
+        },
+        {
+          "name": "大龙洞景区",
+          "longitude": 108.58663,
+          "latitude": 23.57748,
+          "radius": ""
+        },
+        {
+          "name": "霞客森源",
+          "longitude": 108.71403,
+          "latitude": 23.45334,
+          "radius": ""
+        },
+        {
+          "name": "知音来",
+          "longitude": 108.43773,
+          "latitude": 23.49655,
+          "radius": ""
+        },
+        {
+          "name": "金牛洞",
+          "longitude": 108.74837,
+          "latitude": 23.4534,
+          "radius": ""
+        },
+        {
+          "name": "洋渡风景区",
+          "longitude": 108.70675,
+          "latitude": 23.4629,
+          "radius": ""
+        },
+        {
+          "name": "上林县非物质文化遗产展示厅",
+          "longitude": 108.6014,
+          "latitude": 23.42891,
+          "radius": ""
+        },
+        {
+          "name": "龙榜会议革命遗址",
+          "longitude": 108.7015,
+          "latitude": 23.37408,
+          "radius": ""
+        },
+        {
+          "name": "上林县革命烈士纪念碑",
+          "longitude": 108.59451,
+          "latitude": 23.43379,
+          "radius": ""
+        },
+        {
+          "name": "仙境之旅",
+          "longitude": 108.44005,
+          "latitude": 23.47588,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "宾阳县",
+      "locations": [
+        {
+          "name": "黎塘体育馆",
+          "longitude": 109.13255,
+          "latitude": 23.20131,
+          "radius": ""
+        },
+        {
+          "name": "白鹤观竹海",
+          "longitude": 108.8542,
+          "latitude": 23.15552,
+          "radius": ""
+        },
+        {
+          "name": "昆仑关",
+          "longitude": 108.68498,
+          "latitude": 23.09344,
+          "radius": ""
+        },
+        {
+          "name": "宾阳县体育馆",
+          "longitude": 108.82525,
+          "latitude": 23.21561,
+          "radius": ""
+        },
+        {
+          "name": "蔡氏书香古宅旅游景区",
+          "longitude": 108.98275,
+          "latitude": 23.1056,
+          "radius": ""
+        },
+        {
+          "name": "宾州古城",
+          "longitude": 108.82089,
+          "latitude": 23.24789,
+          "radius": ""
+        },
+        {
+          "name": "荷香人间",
+          "longitude": 109.17936,
+          "latitude": 23.18999,
+          "radius": ""
+        },
+        {
+          "name": "宾阳碗窑峡谷漂流",
+          "longitude": 108.8223,
+          "latitude": 23.12454,
+          "radius": ""
+        },
+        {
+          "name": "黎塘龙珠亭",
+          "longitude": 109.13441,
+          "latitude": 23.20238,
+          "radius": ""
+        },
+        {
+          "name": "程思远故居",
+          "longitude": 108.90535,
+          "latitude": 23.21488,
+          "radius": ""
+        },
+        {
+          "name": "王灵墟",
+          "longitude": 108.9991,
+          "latitude": 23.17588,
+          "radius": ""
+        },
+        {
+          "name": "古辣乡灯光球场",
+          "longitude": 108.98553,
+          "latitude": 23.11075,
+          "radius": ""
+        },
+        {
+          "name": "平龙游泳池",
+          "longitude": 109.12739,
+          "latitude": 23.21099,
+          "radius": ""
+        },
+        {
+          "name": "山泉游泳池",
+          "longitude": 108.8073,
+          "latitude": 23.17671,
+          "radius": ""
+        },
+        {
+          "name": "蔡氏书香古宅群景区",
+          "longitude": 108.98325,
+          "latitude": 23.10505,
+          "radius": ""
+        },
+        {
+          "name": "立新亭",
+          "longitude": 108.78471,
+          "latitude": 23.21545,
+          "radius": ""
+        },
+        {
+          "name": "彦希游泳馆",
+          "longitude": 108.79476,
+          "latitude": 23.21366,
+          "radius": ""
+        },
+        {
+          "name": "大龙体育广场",
+          "longitude": 109.12071,
+          "latitude": 23.19801,
+          "radius": ""
+        },
+        {
+          "name": "金坑峡景区",
+          "longitude": 108.79676,
+          "latitude": 23.02858,
+          "radius": ""
+        },
+        {
+          "name": "回风塔",
+          "longitude": 108.80577,
+          "latitude": 23.22732,
+          "radius": ""
+        },
+        {
+          "name": "立影亭",
+          "longitude": 108.78474,
+          "latitude": 23.21545,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "横县",
+      "locations": [
+        {
+          "name": "横县体育馆",
+          "longitude": 109.26675,
+          "latitude": 22.6881,
+          "radius": ""
+        },
+        {
+          "name": "西津湖旅游风景区",
+          "longitude": 109.24485,
+          "latitude": 22.64728,
+          "radius": ""
+        },
+        {
+          "name": "九龙瀑布群国家森林公园",
+          "longitude": 109.15911,
+          "latitude": 23.04044,
+          "radius": ""
+        },
+        {
+          "name": "宝华山风景区",
+          "longitude": 109.28553,
+          "latitude": 22.62003,
+          "radius": ""
+        },
+        {
+          "name": "中华茉莉园",
+          "longitude": 109.25822,
+          "latitude": 22.78017,
+          "radius": ""
+        },
+        {
+          "name": "横县大地农业生态旅游园",
+          "longitude": 109.41675,
+          "latitude": 22.89278,
+          "radius": ""
+        },
+        {
+          "name": "横县体育中心",
+          "longitude": 109.26553,
+          "latitude": 22.68765,
+          "radius": ""
+        },
+        {
+          "name": "佛子圣山景区",
+          "longitude": 109.14934,
+          "latitude": 22.75248,
+          "radius": ""
+        },
+        {
+          "name": "横县博物馆",
+          "longitude": 109.25889,
+          "latitude": 22.678,
+          "radius": ""
+        },
+        {
+          "name": "横县校椅岭脚农家游乐园",
+          "longitude": 109.2568,
+          "latitude": 22.73982,
+          "radius": ""
+        },
+        {
+          "name": "岭脚生态游泳池",
+          "longitude": 109.2568,
+          "latitude": 22.73982,
+          "radius": ""
+        },
+        {
+          "name": "施恒益大院",
+          "longitude": 109.26835,
+          "latitude": 22.68446,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

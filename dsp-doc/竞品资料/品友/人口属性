@@ -1,0 +1,253 @@
+{
+  "name": "人口属性",
+  "nameEn": "Population attributes",
+  "children": [
+    {
+      "name": "性别",
+      "nameEn": "Sex",
+      "children": [
+        {
+          "name": "男性",
+          "nameEn": "Male",
+          "children": []
+        },
+        {
+          "name": "女性",
+          "nameEn": "Female",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "年龄",
+      "nameEn": "Age",
+      "children": [
+        {
+          "name": "18岁以下",
+          "nameEn": "18 years old",
+          "children": []
+        },
+        {
+          "name": "19-24",
+          "nameEn": "19-24",
+          "children": []
+        },
+        {
+          "name": "25-34",
+          "nameEn": "25-34",
+          "children": []
+        },
+        {
+          "name": "35-49",
+          "nameEn": "35-49",
+          "children": []
+        },
+        {
+          "name": "50以上",
+          "nameEn": "More than 50",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "月收入",
+      "nameEn": "Monthly income",
+      "children": [
+        {
+          "name": "2000元以下",
+          "nameEn": "2,000 yuan",
+          "children": []
+        },
+        {
+          "name": "2000-5000元",
+          "nameEn": "2000-5000 yuan",
+          "children": []
+        },
+        {
+          "name": "5001-8000元",
+          "nameEn": "5001-8000 yuan",
+          "children": []
+        },
+        {
+          "name": "8001-15000元",
+          "nameEn": "8001-15000 yuan",
+          "children": []
+        },
+        {
+          "name": "15000以上",
+          "nameEn": "More than 15,000",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "身份职业",
+      "nameEn": "Professional identity",
+      "children": [
+        {
+          "name": "学生",
+          "nameEn": "Student",
+          "children": []
+        },
+        {
+          "name": "职员",
+          "nameEn": "Staff member",
+          "children": []
+        },
+        {
+          "name": "企业管理者、企业主",
+          "nameEn": "Business managers, business owners",
+          "children": []
+        },
+        {
+          "name": "个体经营、自由职业者",
+          "nameEn": "Self-employed, freelancers",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "受教育程度",
+      "nameEn": "Level of education",
+      "children": [
+        {
+          "name": "高中（中专）及以下",
+          "nameEn": "High school (secondary school) and below",
+          "children": []
+        },
+        {
+          "name": "大专及本科",
+          "nameEn": "College and undergraduate",
+          "children": []
+        },
+        {
+          "name": "硕士及以上",
+          "nameEn": "Master or above",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "职能",
+      "nameEn": "职能",
+      "children": [
+        {
+          "name": "IT",
+          "nameEn": "IT",
+          "children": []
+        },
+        {
+          "name": "教育",
+          "nameEn": "Education",
+          "children": []
+        },
+        {
+          "name": "医药",
+          "nameEn": "Medicine",
+          "children": []
+        },
+        {
+          "name": "人事",
+          "nameEn": "人事",
+          "children": []
+        },
+        {
+          "name": "市场",
+          "nameEn": "市场",
+          "children": []
+        },
+        {
+          "name": "服务业",
+          "nameEn": "服务业",
+          "children": []
+        },
+        {
+          "name": "房地产",
+          "nameEn": "Real estate",
+          "children": []
+        },
+        {
+          "name": "商业服务",
+          "nameEn": "商业服务",
+          "children": []
+        },
+        {
+          "name": "金融、财会",
+          "nameEn": "金融、财会",
+          "children": []
+        },
+        {
+          "name": "广告、媒体",
+          "nameEn": "广告、媒体",
+          "children": []
+        },
+        {
+          "name": "消费品、贸易",
+          "nameEn": "消费品、贸易",
+          "children": []
+        },
+        {
+          "name": "政府、非盈利机构",
+          "nameEn": "政府、非盈利机构",
+          "children": []
+        },
+        {
+          "name": "工业",
+          "nameEn": "Industry",
+          "children": []
+        },
+        {
+          "name": "农林牧渔",
+          "nameEn": "Agriculture, forestry, animal husbandry and fishery",
+          "children": []
+        },
+        {
+          "name": "其他",
+          "nameEn": "Other",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "关键人生阶段",
+      "nameEn": "The key stages of life",
+      "children": [
+        {
+          "name": "学生时期",
+          "nameEn": "Students period",
+          "children": []
+        },
+        {
+          "name": "求职时期",
+          "nameEn": "Job period",
+          "children": []
+        },
+        {
+          "name": "适婚时期",
+          "nameEn": "Marriageable period",
+          "children": []
+        },
+        {
+          "name": "孕产时期",
+          "nameEn": "Motherhood period",
+          "children": []
+        },
+        {
+          "name": "育儿时期",
+          "nameEn": "Parenting period",
+          "children": []
+        },
+        {
+          "name": "事业成熟期",
+          "nameEn": "Career maturity",
+          "children": []
+        },
+        {
+          "name": "老年黄金期",
+          "nameEn": "Elderly golden period",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

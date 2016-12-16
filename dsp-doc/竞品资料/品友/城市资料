@@ -1,0 +1,1918 @@
+[
+  {
+    "id": 1,
+    "name": "北京",
+    "nameEn": "Beijing",
+    "children": []
+  },
+  {
+    "id": 275,
+    "name": "重庆",
+    "nameEn": "Chongqing",
+    "children": []
+  },
+  {
+    "id": 79,
+    "name": "上海",
+    "nameEn": "Shanghai",
+    "children": []
+  },
+  {
+    "id": 2,
+    "name": "天津",
+    "nameEn": "Tianjin",
+    "children": []
+  },
+  {
+    "id": 106,
+    "name": "安徽",
+    "nameEn": "Anhui",
+    "children": [
+      {
+        "id": 107,
+        "name": "合肥市",
+        "nameEn": "Hefei"
+      },
+      {
+        "id": 108,
+        "name": "芜湖市",
+        "nameEn": "Wuhu"
+      },
+      {
+        "id": 109,
+        "name": "蚌埠市",
+        "nameEn": "Bengbu"
+      },
+      {
+        "id": 110,
+        "name": "淮南市",
+        "nameEn": "Huainan City"
+      },
+      {
+        "id": 111,
+        "name": "马鞍山市",
+        "nameEn": "Ma\u0027anshan City"
+      },
+      {
+        "id": 112,
+        "name": "淮北市",
+        "nameEn": "Huaibei"
+      },
+      {
+        "id": 113,
+        "name": "铜陵市",
+        "nameEn": "Tongling"
+      },
+      {
+        "id": 114,
+        "name": "安庆市",
+        "nameEn": "Anqing City"
+      },
+      {
+        "id": 115,
+        "name": "黄山市",
+        "nameEn": "Huangshan City"
+      },
+      {
+        "id": 116,
+        "name": "滁州市",
+        "nameEn": "Chuzhou"
+      },
+      {
+        "id": 117,
+        "name": "阜阳市",
+        "nameEn": "Fuyang City"
+      },
+      {
+        "id": 118,
+        "name": "宿州市",
+        "nameEn": "Suzhou City"
+      },
+      {
+        "id": 119,
+        "name": "巢湖市",
+        "nameEn": "Chaohu"
+      },
+      {
+        "id": 120,
+        "name": "六安市",
+        "nameEn": "Lu\u0027an"
+      },
+      {
+        "id": 121,
+        "name": "亳州市",
+        "nameEn": "Bozhou"
+      },
+      {
+        "id": 122,
+        "name": "池州市",
+        "nameEn": "Chizhou"
+      },
+      {
+        "id": 123,
+        "name": "宣城市",
+        "nameEn": "Xuancheng City"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "福建",
+    "nameEn": "Fujian Province",
+    "children": [
+      {
+        "id": 125,
+        "name": "福州市",
+        "nameEn": "Fuzhou"
+      },
+      {
+        "id": 126,
+        "name": "厦门市",
+        "nameEn": "Xiamen City"
+      },
+      {
+        "id": 127,
+        "name": "莆田市",
+        "nameEn": "Putian City"
+      },
+      {
+        "id": 128,
+        "name": "三明市",
+        "nameEn": "Sanming"
+      },
+      {
+        "id": 129,
+        "name": "泉州市",
+        "nameEn": "Quanzhou"
+      },
+      {
+        "id": 130,
+        "name": "漳州市",
+        "nameEn": "Zhangzhou"
+      },
+      {
+        "id": 131,
+        "name": "南平市",
+        "nameEn": "Nanping City"
+      },
+      {
+        "id": 132,
+        "name": "龙岩市",
+        "nameEn": "Longyan"
+      },
+      {
+        "id": 133,
+        "name": "宁德市",
+        "nameEn": "Ningde"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "name": "甘肃",
+    "nameEn": "Gansu Province",
+    "children": [
+      {
+        "id": 345,
+        "name": "兰州市",
+        "nameEn": "Lanzhou"
+      },
+      {
+        "id": 346,
+        "name": "嘉峪关市",
+        "nameEn": "Jiayuguan"
+      },
+      {
+        "id": 347,
+        "name": "金昌市",
+        "nameEn": "Jinchang"
+      },
+      {
+        "id": 348,
+        "name": "白银市",
+        "nameEn": "Silver City"
+      },
+      {
+        "id": 349,
+        "name": "天水市",
+        "nameEn": "Tianshui City"
+      },
+      {
+        "id": 350,
+        "name": "武威市",
+        "nameEn": "Wuwei City"
+      },
+      {
+        "id": 351,
+        "name": "张掖市",
+        "nameEn": "Zhangye City"
+      },
+      {
+        "id": 352,
+        "name": "平凉市",
+        "nameEn": "Pingliang"
+      },
+      {
+        "id": 353,
+        "name": "酒泉市",
+        "nameEn": "Jiuquan City"
+      },
+      {
+        "id": 354,
+        "name": "庆阳市",
+        "nameEn": "Qingyang City"
+      },
+      {
+        "id": 355,
+        "name": "定西市",
+        "nameEn": "Dingxi City"
+      },
+      {
+        "id": 356,
+        "name": "陇南市",
+        "nameEn": "Longnan"
+      },
+      {
+        "id": 357,
+        "name": "临夏回族自治州",
+        "nameEn": "Linxia Hui Autonomous Prefecture"
+      },
+      {
+        "id": 358,
+        "name": "甘南藏族自治州",
+        "nameEn": "Gannan Tibetan Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "name": "广东",
+    "nameEn": "Guangdong",
+    "children": [
+      {
+        "id": 217,
+        "name": "广州市",
+        "nameEn": "Guangzhou"
+      },
+      {
+        "id": 218,
+        "name": "韶关市",
+        "nameEn": "Shaoguan"
+      },
+      {
+        "id": 219,
+        "name": "深圳市",
+        "nameEn": "Shenzhen"
+      },
+      {
+        "id": 220,
+        "name": "珠海市",
+        "nameEn": "Zhuhai"
+      },
+      {
+        "id": 221,
+        "name": "汕头市",
+        "nameEn": "Shantou"
+      },
+      {
+        "id": 222,
+        "name": "佛山市",
+        "nameEn": "Foshan"
+      },
+      {
+        "id": 223,
+        "name": "江门市",
+        "nameEn": "Jiangmen"
+      },
+      {
+        "id": 224,
+        "name": "湛江市",
+        "nameEn": "Zhanjiang"
+      },
+      {
+        "id": 225,
+        "name": "茂名市",
+        "nameEn": "Maoming City"
+      },
+      {
+        "id": 226,
+        "name": "肇庆市",
+        "nameEn": "Zhaoqing"
+      },
+      {
+        "id": 227,
+        "name": "惠州市",
+        "nameEn": "Huizhou City"
+      },
+      {
+        "id": 228,
+        "name": "梅州市",
+        "nameEn": "Meizhou"
+      },
+      {
+        "id": 229,
+        "name": "汕尾市",
+        "nameEn": "Shanwei"
+      },
+      {
+        "id": 230,
+        "name": "河源市",
+        "nameEn": "Heyuan"
+      },
+      {
+        "id": 231,
+        "name": "阳江市",
+        "nameEn": "Yangjiang"
+      },
+      {
+        "id": 232,
+        "name": "清远市",
+        "nameEn": "Qingyuan"
+      },
+      {
+        "id": 233,
+        "name": "东莞市",
+        "nameEn": "Dongguan"
+      },
+      {
+        "id": 234,
+        "name": "中山市",
+        "nameEn": "Zhongshan"
+      },
+      {
+        "id": 235,
+        "name": "潮州市",
+        "nameEn": "Chaozhou"
+      },
+      {
+        "id": 236,
+        "name": "揭阳市",
+        "nameEn": "Jieyang"
+      },
+      {
+        "id": 237,
+        "name": "云浮市",
+        "nameEn": "Yunfu City"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "name": "广西",
+    "nameEn": "Guangxi",
+    "children": [
+      {
+        "id": 239,
+        "name": "南宁市",
+        "nameEn": "Nanning"
+      },
+      {
+        "id": 240,
+        "name": "柳州市",
+        "nameEn": "Liuzhou"
+      },
+      {
+        "id": 241,
+        "name": "桂林市",
+        "nameEn": "Guilin"
+      },
+      {
+        "id": 242,
+        "name": "梧州市",
+        "nameEn": "Wuzhou"
+      },
+      {
+        "id": 243,
+        "name": "北海市",
+        "nameEn": "Beihai"
+      },
+      {
+        "id": 244,
+        "name": "防城港市",
+        "nameEn": "Fangchenggang"
+      },
+      {
+        "id": 245,
+        "name": "钦州市",
+        "nameEn": "Qinzhou"
+      },
+      {
+        "id": 246,
+        "name": "贵港市",
+        "nameEn": "Guigang"
+      },
+      {
+        "id": 247,
+        "name": "玉林市",
+        "nameEn": "Yulin"
+      },
+      {
+        "id": 248,
+        "name": "百色市",
+        "nameEn": "Baise City"
+      },
+      {
+        "id": 249,
+        "name": "贺州市",
+        "nameEn": "Hezhou"
+      },
+      {
+        "id": 250,
+        "name": "河池市",
+        "nameEn": "Hechi City"
+      },
+      {
+        "id": 251,
+        "name": "来宾市",
+        "nameEn": "Laibin"
+      },
+      {
+        "id": 252,
+        "name": "崇左市",
+        "nameEn": "Chongzuo"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "name": "贵州",
+    "nameEn": "Guizhou",
+    "children": [
+      {
+        "id": 299,
+        "name": "贵阳市",
+        "nameEn": "Guiyang"
+      },
+      {
+        "id": 300,
+        "name": "六盘水市",
+        "nameEn": "Liupanshui"
+      },
+      {
+        "id": 301,
+        "name": "遵义市",
+        "nameEn": "Zunyi"
+      },
+      {
+        "id": 302,
+        "name": "安顺市",
+        "nameEn": "Anshun City"
+      },
+      {
+        "id": 303,
+        "name": "铜仁地区",
+        "nameEn": "Tongren Prefecture"
+      },
+      {
+        "id": 304,
+        "name": "黔西南布依族苗族自治州",
+        "nameEn": "Buyi and Miao Autonomous Prefecture in southwest Guizhou"
+      },
+      {
+        "id": 305,
+        "name": "毕节地区",
+        "nameEn": "Bijie Prefecture"
+      },
+      {
+        "id": 306,
+        "name": "黔东南苗族侗族自治州",
+        "nameEn": "QianDongBan"
+      },
+      {
+        "id": 307,
+        "name": "黔南布依族苗族自治州",
+        "nameEn": "Miao Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "海南",
+    "nameEn": "Hainan",
+    "children": [
+      {
+        "id": 254,
+        "name": "海口市",
+        "nameEn": "Haikou City"
+      },
+      {
+        "id": 255,
+        "name": "三亚市",
+        "nameEn": "Sanya City"
+      },
+      {
+        "id": 398,
+        "name": "海南省直辖县级行政区划",
+        "nameEn": "Hainan directly under the county administrative divisions"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "河北",
+    "nameEn": "Hebei",
+    "children": [
+      {
+        "id": 4,
+        "name": "石家庄市",
+        "nameEn": "Shijiazhuang City"
+      },
+      {
+        "id": 5,
+        "name": "唐山市",
+        "nameEn": "Tangshan"
+      },
+      {
+        "id": 6,
+        "name": "秦皇岛市",
+        "nameEn": "Qinhuangdao"
+      },
+      {
+        "id": 7,
+        "name": "邯郸市",
+        "nameEn": "Handan City"
+      },
+      {
+        "id": 8,
+        "name": "邢台市",
+        "nameEn": "Xingtai City"
+      },
+      {
+        "id": 9,
+        "name": "保定市",
+        "nameEn": "Baoding"
+      },
+      {
+        "id": 10,
+        "name": "张家口市",
+        "nameEn": "Zhangjiakou City"
+      },
+      {
+        "id": 11,
+        "name": "承德市",
+        "nameEn": "Chengde City"
+      },
+      {
+        "id": 12,
+        "name": "沧州市",
+        "nameEn": "Cangzhou City"
+      },
+      {
+        "id": 13,
+        "name": "廊坊市",
+        "nameEn": "Langfang"
+      },
+      {
+        "id": 14,
+        "name": "衡水市",
+        "nameEn": "Hengshui City"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "河南",
+    "nameEn": "Henan",
+    "children": [
+      {
+        "id": 165,
+        "name": "郑州市",
+        "nameEn": "Zhengzhou City"
+      },
+      {
+        "id": 166,
+        "name": "开封市",
+        "nameEn": "Kaifeng"
+      },
+      {
+        "id": 167,
+        "name": "洛阳市",
+        "nameEn": "Luoyang"
+      },
+      {
+        "id": 168,
+        "name": "平顶山市",
+        "nameEn": "Pingdingshan"
+      },
+      {
+        "id": 169,
+        "name": "安阳市",
+        "nameEn": "Anyang City"
+      },
+      {
+        "id": 170,
+        "name": "鹤壁市",
+        "nameEn": "Hebi"
+      },
+      {
+        "id": 171,
+        "name": "新乡市",
+        "nameEn": "Xinxiang"
+      },
+      {
+        "id": 172,
+        "name": "焦作市",
+        "nameEn": "Jiaozuo"
+      },
+      {
+        "id": 173,
+        "name": "濮阳市",
+        "nameEn": "Puyang"
+      },
+      {
+        "id": 174,
+        "name": "许昌市",
+        "nameEn": "Xuchang"
+      },
+      {
+        "id": 175,
+        "name": "漯河市",
+        "nameEn": "Luohe"
+      },
+      {
+        "id": 176,
+        "name": "三门峡市",
+        "nameEn": "Sanmenxia City"
+      },
+      {
+        "id": 177,
+        "name": "南阳市",
+        "nameEn": "Nanyang City"
+      },
+      {
+        "id": 178,
+        "name": "商丘市",
+        "nameEn": "Shangqiu"
+      },
+      {
+        "id": 179,
+        "name": "信阳市",
+        "nameEn": "Xinyang City"
+      },
+      {
+        "id": 180,
+        "name": "周口市",
+        "nameEn": "Zhoukou City"
+      },
+      {
+        "id": 181,
+        "name": "驻马店市",
+        "nameEn": "Zhumadian"
+      },
+      {
+        "id": 396,
+        "name": "河南省直辖县级行政区划",
+        "nameEn": "Henan Province, directly under the county administrative divisions"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "黑龙江",
+    "nameEn": "Heilongjiang",
+    "children": [
+      {
+        "id": 66,
+        "name": "哈尔滨市",
+        "nameEn": "Harbin"
+      },
+      {
+        "id": 67,
+        "name": "齐齐哈尔市",
+        "nameEn": "Qiqihar"
+      },
+      {
+        "id": 68,
+        "name": "鸡西市",
+        "nameEn": "Jixi"
+      },
+      {
+        "id": 69,
+        "name": "鹤岗市",
+        "nameEn": "Hegang"
+      },
+      {
+        "id": 70,
+        "name": "双鸭山市",
+        "nameEn": "Shuangyashan"
+      },
+      {
+        "id": 71,
+        "name": "大庆市",
+        "nameEn": "Daqing City"
+      },
+      {
+        "id": 72,
+        "name": "伊春市",
+        "nameEn": "Yichun City"
+      },
+      {
+        "id": 73,
+        "name": "佳木斯市",
+        "nameEn": "Jiamusi City"
+      },
+      {
+        "id": 74,
+        "name": "七台河市",
+        "nameEn": "Qitaihe"
+      },
+      {
+        "id": 75,
+        "name": "牡丹江市",
+        "nameEn": "Mudanjiang City"
+      },
+      {
+        "id": 76,
+        "name": "黑河市",
+        "nameEn": "Heihe City"
+      },
+      {
+        "id": 77,
+        "name": "绥化市",
+        "nameEn": "Suihua"
+      },
+      {
+        "id": 78,
+        "name": "大兴安岭地区",
+        "nameEn": "Da Hinggan Mountains area"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "湖北",
+    "nameEn": "Hubei",
+    "children": [
+      {
+        "id": 184,
+        "name": "武汉市",
+        "nameEn": "Wuhan"
+      },
+      {
+        "id": 185,
+        "name": "黄石市",
+        "nameEn": "Huangshi"
+      },
+      {
+        "id": 186,
+        "name": "十堰市",
+        "nameEn": "Shiyan"
+      },
+      {
+        "id": 187,
+        "name": "宜昌市",
+        "nameEn": "Yichang City"
+      },
+      {
+        "id": 188,
+        "name": "襄阳市",
+        "nameEn": "Xiangyang"
+      },
+      {
+        "id": 189,
+        "name": "鄂州市",
+        "nameEn": "Ezhou"
+      },
+      {
+        "id": 190,
+        "name": "荆门市",
+        "nameEn": "Jingmen"
+      },
+      {
+        "id": 191,
+        "name": "孝感市",
+        "nameEn": "Xiaogan"
+      },
+      {
+        "id": 192,
+        "name": "荆州市",
+        "nameEn": "Jingzhou"
+      },
+      {
+        "id": 193,
+        "name": "黄冈市",
+        "nameEn": "Huanggang City"
+      },
+      {
+        "id": 194,
+        "name": "咸宁市",
+        "nameEn": "Xianning"
+      },
+      {
+        "id": 195,
+        "name": "随州市",
+        "nameEn": "Suizhou"
+      },
+      {
+        "id": 196,
+        "name": "恩施土家族苗族自治州",
+        "nameEn": "Enshi Tujia and Miao Autonomous Prefecture"
+      },
+      {
+        "id": 397,
+        "name": "湖北省直辖县级行政区划",
+        "nameEn": "Hubei Province, directly under the county administrative divisions"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "湖南",
+    "nameEn": "Hunan",
+    "children": [
+      {
+        "id": 202,
+        "name": "长沙市",
+        "nameEn": "Changsha City"
+      },
+      {
+        "id": 203,
+        "name": "株洲市",
+        "nameEn": "Zhuzhou City"
+      },
+      {
+        "id": 204,
+        "name": "湘潭市",
+        "nameEn": "Xiangtan City"
+      },
+      {
+        "id": 205,
+        "name": "衡阳市",
+        "nameEn": "Hengyang"
+      },
+      {
+        "id": 206,
+        "name": "邵阳市",
+        "nameEn": "Shaoyang"
+      },
+      {
+        "id": 207,
+        "name": "岳阳市",
+        "nameEn": "Yueyang"
+      },
+      {
+        "id": 208,
+        "name": "常德市",
+        "nameEn": "Changde City"
+      },
+      {
+        "id": 209,
+        "name": "张家界市",
+        "nameEn": "Zhangjiajie"
+      },
+      {
+        "id": 210,
+        "name": "益阳市",
+        "nameEn": "Yiyang City"
+      },
+      {
+        "id": 211,
+        "name": "郴州市",
+        "nameEn": "Chenzhou City"
+      },
+      {
+        "id": 212,
+        "name": "永州市",
+        "nameEn": "Yongzhou"
+      },
+      {
+        "id": 213,
+        "name": "怀化市",
+        "nameEn": "Huaihua"
+      },
+      {
+        "id": 214,
+        "name": "娄底市",
+        "nameEn": "Loudi"
+      },
+      {
+        "id": 215,
+        "name": "湘西土家族苗族自治州",
+        "nameEn": "Xiangxi Tujia and Miao Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "吉林",
+    "nameEn": "Jilin",
+    "children": [
+      {
+        "id": 56,
+        "name": "长春市",
+        "nameEn": "Changchun"
+      },
+      {
+        "id": 57,
+        "name": "吉林市",
+        "nameEn": "Jilin"
+      },
+      {
+        "id": 58,
+        "name": "四平市",
+        "nameEn": "Siping"
+      },
+      {
+        "id": 59,
+        "name": "辽源市",
+        "nameEn": "Liaoyuan"
+      },
+      {
+        "id": 60,
+        "name": "通化市",
+        "nameEn": "Tonghua City"
+      },
+      {
+        "id": 61,
+        "name": "白山市",
+        "nameEn": "Hakusan City"
+      },
+      {
+        "id": 62,
+        "name": "松原市",
+        "nameEn": "Songyuan City"
+      },
+      {
+        "id": 63,
+        "name": "白城市",
+        "nameEn": "White City"
+      },
+      {
+        "id": 64,
+        "name": "延边朝鲜族自治州",
+        "nameEn": "Yanbian Korean Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "江苏",
+    "nameEn": "Jiangsu Province",
+    "children": [
+      {
+        "id": 81,
+        "name": "南京市",
+        "nameEn": "Nanjing"
+      },
+      {
+        "id": 82,
+        "name": "无锡市",
+        "nameEn": "Wuxi"
+      },
+      {
+        "id": 83,
+        "name": "徐州市",
+        "nameEn": "Xuzhou"
+      },
+      {
+        "id": 84,
+        "name": "常州市",
+        "nameEn": "Changzhou"
+      },
+      {
+        "id": 85,
+        "name": "苏州市",
+        "nameEn": "Suzhou City"
+      },
+      {
+        "id": 86,
+        "name": "南通市",
+        "nameEn": "Nantong"
+      },
+      {
+        "id": 87,
+        "name": "连云港市",
+        "nameEn": "Lianyungang"
+      },
+      {
+        "id": 88,
+        "name": "淮安市",
+        "nameEn": "Huaian"
+      },
+      {
+        "id": 89,
+        "name": "盐城市",
+        "nameEn": "Yancheng"
+      },
+      {
+        "id": 90,
+        "name": "扬州市",
+        "nameEn": "Yangzhou"
+      },
+      {
+        "id": 91,
+        "name": "镇江市",
+        "nameEn": "Zhenjiang"
+      },
+      {
+        "id": 92,
+        "name": "泰州市",
+        "nameEn": "Taizhou City"
+      },
+      {
+        "id": 93,
+        "name": "宿迁市",
+        "nameEn": "Suqian"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "江西",
+    "nameEn": "Jiangxi Province",
+    "children": [
+      {
+        "id": 135,
+        "name": "南昌市",
+        "nameEn": "Nanchang"
+      },
+      {
+        "id": 136,
+        "name": "景德镇市",
+        "nameEn": "Jingdezhen"
+      },
+      {
+        "id": 137,
+        "name": "萍乡市",
+        "nameEn": "Pingxiang"
+      },
+      {
+        "id": 138,
+        "name": "九江市",
+        "nameEn": "Jiujiang"
+      },
+      {
+        "id": 139,
+        "name": "新余市",
+        "nameEn": "Xinyu City"
+      },
+      {
+        "id": 140,
+        "name": "鹰潭市",
+        "nameEn": "Yingtan"
+      },
+      {
+        "id": 141,
+        "name": "赣州市",
+        "nameEn": "Ganzhou"
+      },
+      {
+        "id": 142,
+        "name": "吉安市",
+        "nameEn": "Ji\u0027an City"
+      },
+      {
+        "id": 143,
+        "name": "宜春市",
+        "nameEn": "Yichun City"
+      },
+      {
+        "id": 144,
+        "name": "抚州市",
+        "nameEn": "Fuzhou City"
+      },
+      {
+        "id": 145,
+        "name": "上饶市",
+        "nameEn": "Shangrao City"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "辽宁",
+    "nameEn": "Liaoning Province",
+    "children": [
+      {
+        "id": 41,
+        "name": "沈阳市",
+        "nameEn": "Shenyang"
+      },
+      {
+        "id": 42,
+        "name": "大连市",
+        "nameEn": "Dalian"
+      },
+      {
+        "id": 43,
+        "name": "鞍山市",
+        "nameEn": "Anshan"
+      },
+      {
+        "id": 44,
+        "name": "抚顺市",
+        "nameEn": "Fushun"
+      },
+      {
+        "id": 45,
+        "name": "本溪市",
+        "nameEn": "Benxi City"
+      },
+      {
+        "id": 46,
+        "name": "丹东市",
+        "nameEn": "Dandong"
+      },
+      {
+        "id": 47,
+        "name": "锦州市",
+        "nameEn": "Jinzhou City"
+      },
+      {
+        "id": 48,
+        "name": "营口市",
+        "nameEn": "Yingkou"
+      },
+      {
+        "id": 49,
+        "name": "阜新市",
+        "nameEn": "Fuxin"
+      },
+      {
+        "id": 50,
+        "name": "辽阳市",
+        "nameEn": "Liaoyang"
+      },
+      {
+        "id": 51,
+        "name": "盘锦市",
+        "nameEn": "Panjin"
+      },
+      {
+        "id": 52,
+        "name": "铁岭市",
+        "nameEn": "Tieling City"
+      },
+      {
+        "id": 53,
+        "name": "朝阳市",
+        "nameEn": "Chaoyang City"
+      },
+      {
+        "id": 54,
+        "name": "葫芦岛市",
+        "nameEn": "Huludao City"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "内蒙古",
+    "nameEn": "Inner Mongolia",
+    "children": [
+      {
+        "id": 28,
+        "name": "呼和浩特市",
+        "nameEn": "Hohhot"
+      },
+      {
+        "id": 29,
+        "name": "包头市",
+        "nameEn": "Baotou"
+      },
+      {
+        "id": 30,
+        "name": "乌海市",
+        "nameEn": "Wuhai"
+      },
+      {
+        "id": 31,
+        "name": "赤峰市",
+        "nameEn": "Chifeng City"
+      },
+      {
+        "id": 32,
+        "name": "通辽市",
+        "nameEn": "Tongliao"
+      },
+      {
+        "id": 33,
+        "name": "鄂尔多斯市",
+        "nameEn": "Ordos City"
+      },
+      {
+        "id": 34,
+        "name": "呼伦贝尔市",
+        "nameEn": "Hulunbeir"
+      },
+      {
+        "id": 35,
+        "name": "巴彦淖尔市",
+        "nameEn": "Bayannao\u0027er"
+      },
+      {
+        "id": 36,
+        "name": "乌兰察布市",
+        "nameEn": "Wulanchabu"
+      },
+      {
+        "id": 37,
+        "name": "兴安盟",
+        "nameEn": "Xinganmeng"
+      },
+      {
+        "id": 38,
+        "name": "锡林郭勒盟",
+        "nameEn": "Xilin Gol League"
+      },
+      {
+        "id": 39,
+        "name": "阿拉善盟",
+        "nameEn": "Alashan"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "宁夏",
+    "nameEn": "Ningxia",
+    "children": [
+      {
+        "id": 369,
+        "name": "银川市",
+        "nameEn": "Yinchuan"
+      },
+      {
+        "id": 370,
+        "name": "石嘴山市",
+        "nameEn": "Shizuishan"
+      },
+      {
+        "id": 371,
+        "name": "吴忠市",
+        "nameEn": "Wuzhong City"
+      },
+      {
+        "id": 372,
+        "name": "固原市",
+        "nameEn": "Guyuan"
+      },
+      {
+        "id": 373,
+        "name": "中卫市",
+        "nameEn": "Zhongwei"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "青海",
+    "nameEn": "Qinghai",
+    "children": [
+      {
+        "id": 360,
+        "name": "西宁市",
+        "nameEn": "Xining"
+      },
+      {
+        "id": 361,
+        "name": "海东地区",
+        "nameEn": "Haidong Prefecture"
+      },
+      {
+        "id": 362,
+        "name": "海北藏族自治州",
+        "nameEn": "Haibei"
+      },
+      {
+        "id": 363,
+        "name": "黄南藏族自治州",
+        "nameEn": "Huangnan Tibetan Autonomous Prefecture"
+      },
+      {
+        "id": 364,
+        "name": "海南藏族自治州",
+        "nameEn": "Hainan Tibetan Autonomous Prefecture"
+      },
+      {
+        "id": 365,
+        "name": "果洛藏族自治州",
+        "nameEn": "Golog Tibetan Autonomous Prefecture"
+      },
+      {
+        "id": 366,
+        "name": "玉树藏族自治州",
+        "nameEn": "Yushu Tibetan Autonomous Prefecture"
+      },
+      {
+        "id": 367,
+        "name": "海西蒙古族藏族自治州",
+        "nameEn": "Haixi Mongolian-Tibetan Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "山东",
+    "nameEn": "Shandong",
+    "children": [
+      {
+        "id": 147,
+        "name": "济南市",
+        "nameEn": "Jinan"
+      },
+      {
+        "id": 148,
+        "name": "青岛市",
+        "nameEn": "Qingdao"
+      },
+      {
+        "id": 149,
+        "name": "淄博市",
+        "nameEn": "Zibo City"
+      },
+      {
+        "id": 150,
+        "name": "枣庄市",
+        "nameEn": "Zaozhuang"
+      },
+      {
+        "id": 151,
+        "name": "东营市",
+        "nameEn": "Dongying City"
+      },
+      {
+        "id": 152,
+        "name": "烟台市",
+        "nameEn": "Yantai City"
+      },
+      {
+        "id": 153,
+        "name": "潍坊市",
+        "nameEn": "Weifang"
+      },
+      {
+        "id": 154,
+        "name": "济宁市",
+        "nameEn": "Jining City"
+      },
+      {
+        "id": 155,
+        "name": "泰安市",
+        "nameEn": "Tai\u0027an City"
+      },
+      {
+        "id": 156,
+        "name": "威海市",
+        "nameEn": "Weihai"
+      },
+      {
+        "id": 157,
+        "name": "日照市",
+        "nameEn": "Rizhao City"
+      },
+      {
+        "id": 158,
+        "name": "莱芜市",
+        "nameEn": "Laiwu"
+      },
+      {
+        "id": 159,
+        "name": "临沂市",
+        "nameEn": "Linyi City"
+      },
+      {
+        "id": 160,
+        "name": "德州市",
+        "nameEn": "Dezhou"
+      },
+      {
+        "id": 161,
+        "name": "聊城市",
+        "nameEn": "Liaocheng"
+      },
+      {
+        "id": 162,
+        "name": "滨州市",
+        "nameEn": "Binzhou"
+      },
+      {
+        "id": 163,
+        "name": "菏泽市",
+        "nameEn": "Heze"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "山西",
+    "nameEn": "Shanxi",
+    "children": [
+      {
+        "id": 16,
+        "name": "太原市",
+        "nameEn": "Taiyuan"
+      },
+      {
+        "id": 17,
+        "name": "大同市",
+        "nameEn": "Datong"
+      },
+      {
+        "id": 18,
+        "name": "阳泉市",
+        "nameEn": "Yangquan"
+      },
+      {
+        "id": 19,
+        "name": "长治市",
+        "nameEn": "Changzhi"
+      },
+      {
+        "id": 20,
+        "name": "晋城市",
+        "nameEn": "Jincheng"
+      },
+      {
+        "id": 21,
+        "name": "朔州市",
+        "nameEn": "Shuozhou"
+      },
+      {
+        "id": 22,
+        "name": "晋中市",
+        "nameEn": "Jinzhong"
+      },
+      {
+        "id": 23,
+        "name": "运城市",
+        "nameEn": "Yuncheng"
+      },
+      {
+        "id": 24,
+        "name": "忻州市",
+        "nameEn": "Xinzhou"
+      },
+      {
+        "id": 25,
+        "name": "临汾市",
+        "nameEn": "Linfen"
+      },
+      {
+        "id": 26,
+        "name": "吕梁市",
+        "nameEn": "Luliang City"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "name": "陕西",
+    "nameEn": "Shanxi Province",
+    "children": [
+      {
+        "id": 334,
+        "name": "西安市",
+        "nameEn": "Xi\u0027an"
+      },
+      {
+        "id": 335,
+        "name": "铜川市",
+        "nameEn": "Tongchuan"
+      },
+      {
+        "id": 336,
+        "name": "宝鸡市",
+        "nameEn": "Baoji"
+      },
+      {
+        "id": 337,
+        "name": "咸阳市",
+        "nameEn": "Xianyang City"
+      },
+      {
+        "id": 338,
+        "name": "渭南市",
+        "nameEn": "Weinan"
+      },
+      {
+        "id": 339,
+        "name": "延安市",
+        "nameEn": "Yan\u0027an City"
+      },
+      {
+        "id": 340,
+        "name": "汉中市",
+        "nameEn": "Hanzhong City"
+      },
+      {
+        "id": 341,
+        "name": "榆林市",
+        "nameEn": "Yulin City"
+      },
+      {
+        "id": 342,
+        "name": "安康市",
+        "nameEn": "Ankang City"
+      },
+      {
+        "id": 343,
+        "name": "商洛市",
+        "nameEn": "Shangluo"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "name": "四川",
+    "nameEn": "Sichuan Province",
+    "children": [
+      {
+        "id": 277,
+        "name": "成都市",
+        "nameEn": "Chengdu"
+      },
+      {
+        "id": 278,
+        "name": "自贡市",
+        "nameEn": "Zigong"
+      },
+      {
+        "id": 279,
+        "name": "攀枝花市",
+        "nameEn": "Panzhihua City"
+      },
+      {
+        "id": 280,
+        "name": "泸州市",
+        "nameEn": "Luzhou"
+      },
+      {
+        "id": 281,
+        "name": "德阳市",
+        "nameEn": "Deyang City"
+      },
+      {
+        "id": 282,
+        "name": "绵阳市",
+        "nameEn": "Mianyang City"
+      },
+      {
+        "id": 283,
+        "name": "广元市",
+        "nameEn": "Guangyuan"
+      },
+      {
+        "id": 284,
+        "name": "遂宁市",
+        "nameEn": "Suining"
+      },
+      {
+        "id": 285,
+        "name": "内江市",
+        "nameEn": "Neijiang"
+      },
+      {
+        "id": 286,
+        "name": "乐山市",
+        "nameEn": "Leshan"
+      },
+      {
+        "id": 287,
+        "name": "南充市",
+        "nameEn": "Nanchong"
+      },
+      {
+        "id": 288,
+        "name": "眉山市",
+        "nameEn": "Meishan City"
+      },
+      {
+        "id": 289,
+        "name": "宜宾市",
+        "nameEn": "Yibin"
+      },
+      {
+        "id": 290,
+        "name": "广安市",
+        "nameEn": "Guang\u0027an"
+      },
+      {
+        "id": 291,
+        "name": "达州市",
+        "nameEn": "Dazhou"
+      },
+      {
+        "id": 292,
+        "name": "雅安市",
+        "nameEn": "Ya\u0027an"
+      },
+      {
+        "id": 293,
+        "name": "巴中市",
+        "nameEn": "Bazhong"
+      },
+      {
+        "id": 294,
+        "name": "资阳市",
+        "nameEn": "Ziyang"
+      },
+      {
+        "id": 295,
+        "name": "阿坝藏族羌族自治州",
+        "nameEn": "Aba Tibetan and Qiang Autonomous Prefecture"
+      },
+      {
+        "id": 296,
+        "name": "甘孜藏族自治州",
+        "nameEn": "Ganzi Tibetan Autonomous Prefecture"
+      },
+      {
+        "id": 297,
+        "name": "凉山彝族自治州",
+        "nameEn": "Liangshan Yi Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "name": "西藏",
+    "nameEn": "Tibet",
+    "children": [
+      {
+        "id": 326,
+        "name": "拉萨市",
+        "nameEn": "Lhasa"
+      },
+      {
+        "id": 327,
+        "name": "昌都地区",
+        "nameEn": "Qamdo"
+      },
+      {
+        "id": 328,
+        "name": "山南地区",
+        "nameEn": "Shannan"
+      },
+      {
+        "id": 329,
+        "name": "日喀则地区",
+        "nameEn": "Xigaze"
+      },
+      {
+        "id": 330,
+        "name": "那曲地区",
+        "nameEn": "Nagqu"
+      },
+      {
+        "id": 331,
+        "name": "阿里地区",
+        "nameEn": "Ngari"
+      },
+      {
+        "id": 332,
+        "name": "林芝地区",
+        "nameEn": "Nyingchi"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "name": "新疆",
+    "nameEn": "Xinjiang",
+    "children": [
+      {
+        "id": 375,
+        "name": "乌鲁木齐市",
+        "nameEn": "Urumqi"
+      },
+      {
+        "id": 376,
+        "name": "克拉玛依市",
+        "nameEn": "Karamay"
+      },
+      {
+        "id": 377,
+        "name": "吐鲁番地区",
+        "nameEn": "Turpan region"
+      },
+      {
+        "id": 378,
+        "name": "哈密地区",
+        "nameEn": "Hami region"
+      },
+      {
+        "id": 379,
+        "name": "昌吉回族自治州",
+        "nameEn": "Changji Hui Autonomous Prefecture"
+      },
+      {
+        "id": 380,
+        "name": "博尔塔拉蒙古自治州",
+        "nameEn": "Boertala Mongolia Autonomous Region"
+      },
+      {
+        "id": 381,
+        "name": "巴音郭楞蒙古自治州",
+        "nameEn": "Bayinguoleng Mongol Autonomous Prefecture"
+      },
+      {
+        "id": 382,
+        "name": "阿克苏地区",
+        "nameEn": "Aksu Prefecture"
+      },
+      {
+        "id": 383,
+        "name": "克孜勒苏柯尔克孜自治州",
+        "nameEn": "Kirgiz Autonomous Prefecture"
+      },
+      {
+        "id": 384,
+        "name": "喀什地区",
+        "nameEn": "Kashi Prefecture"
+      },
+      {
+        "id": 385,
+        "name": "和田地区",
+        "nameEn": "Hotan"
+      },
+      {
+        "id": 386,
+        "name": "伊犁哈萨克自治州",
+        "nameEn": "Ili Kazak Autonomous Prefecture"
+      },
+      {
+        "id": 387,
+        "name": "塔城地区",
+        "nameEn": "Tacheng"
+      },
+      {
+        "id": 388,
+        "name": "阿勒泰地区",
+        "nameEn": "Altay region"
+      },
+      {
+        "id": 399,
+        "name": "新疆自治区直辖县级行政区划",
+        "nameEn": "Xinjiang Autonomous County District Territory"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "云南",
+    "nameEn": "Yunnan",
+    "children": [
+      {
+        "id": 309,
+        "name": "昆明市",
+        "nameEn": "Kunming"
+      },
+      {
+        "id": 310,
+        "name": "曲靖市",
+        "nameEn": "Qujing"
+      },
+      {
+        "id": 311,
+        "name": "玉溪市",
+        "nameEn": "Yuxi City"
+      },
+      {
+        "id": 312,
+        "name": "保山市",
+        "nameEn": "Baoshan City"
+      },
+      {
+        "id": 313,
+        "name": "昭通市",
+        "nameEn": "Zhaotong City"
+      },
+      {
+        "id": 314,
+        "name": "丽江市",
+        "nameEn": "Lijiang City"
+      },
+      {
+        "id": 315,
+        "name": "普洱市",
+        "nameEn": "Pu\u0027er"
+      },
+      {
+        "id": 316,
+        "name": "临沧市",
+        "nameEn": "Lincang"
+      },
+      {
+        "id": 317,
+        "name": "楚雄彝族自治州",
+        "nameEn": "Chuxiong Yi Autonomous Prefecture"
+      },
+      {
+        "id": 318,
+        "name": "红河哈尼族彝族自治州",
+        "nameEn": "Honghe Hani and Yi Autonomous Prefecture"
+      },
+      {
+        "id": 319,
+        "name": "文山壮族苗族自治州",
+        "nameEn": "Wenshan Zhuang and Miao Autonomous Prefecture"
+      },
+      {
+        "id": 320,
+        "name": "西双版纳傣族自治州",
+        "nameEn": "Xishuangbanna Dai Autonomous Prefecture"
+      },
+      {
+        "id": 321,
+        "name": "大理白族自治州",
+        "nameEn": "Dali Bai Autonomous Prefecture"
+      },
+      {
+        "id": 322,
+        "name": "德宏傣族景颇族自治州",
+        "nameEn": "Dehong Dai-Jingpo Autonomous Prefecture"
+      },
+      {
+        "id": 323,
+        "name": "怒江傈僳族自治州",
+        "nameEn": "Nujiang Lisu Autonomous Prefecture"
+      },
+      {
+        "id": 324,
+        "name": "迪庆藏族自治州",
+        "nameEn": "Diqing Tibetan Autonomous Prefecture"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "浙江",
+    "nameEn": "Zhejiang",
+    "children": [
+      {
+        "id": 95,
+        "name": "杭州市",
+        "nameEn": "Hangzhou"
+      },
+      {
+        "id": 96,
+        "name": "宁波市",
+        "nameEn": "Ningbo"
+      },
+      {
+        "id": 97,
+        "name": "温州市",
+        "nameEn": "Wenzhou"
+      },
+      {
+        "id": 98,
+        "name": "嘉兴市",
+        "nameEn": "Jiaxing"
+      },
+      {
+        "id": 99,
+        "name": "湖州市",
+        "nameEn": "Huzhou City"
+      },
+      {
+        "id": 100,
+        "name": "绍兴市",
+        "nameEn": "Shaoxing"
+      },
+      {
+        "id": 101,
+        "name": "金华市",
+        "nameEn": "Jinhua"
+      },
+      {
+        "id": 102,
+        "name": "衢州市",
+        "nameEn": "Quzhou"
+      },
+      {
+        "id": 103,
+        "name": "舟山市",
+        "nameEn": "Zhoushan"
+      },
+      {
+        "id": 104,
+        "name": "台州市",
+        "nameEn": "Taizhou"
+      },
+      {
+        "id": 105,
+        "name": "丽水市",
+        "nameEn": "Lishui"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "name": "香港",
+    "nameEn": "Hong Kong",
+    "children": []
+  },
+  {
+    "id": 395,
+    "name": "澳门",
+    "nameEn": "Macao",
+    "children": []
+  },
+  {
+    "id": 393,
+    "name": "台湾",
+    "nameEn": "Taiwan",
+    "children": []
+  }
+]

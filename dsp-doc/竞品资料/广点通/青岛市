@@ -1,0 +1,1734 @@
+{
+  "cityName": "青岛市",
+  "businessCenters": [
+    {
+      "name": "市南区",
+      "locations": [
+        {
+          "name": "浮山所",
+          "longitude": 120.39122,
+          "latitude": 36.07382,
+          "radius": "1582"
+        },
+        {
+          "name": "火车站/团岛",
+          "longitude": 120.31334,
+          "latitude": 36.065495,
+          "radius": "1615"
+        },
+        {
+          "name": "香港中路沿线",
+          "longitude": 120.39563,
+          "latitude": 36.06534,
+          "radius": "1897"
+        },
+        {
+          "name": "湛山/太平角",
+          "longitude": 120.36721,
+          "latitude": 36.06552,
+          "radius": "1865"
+        }
+      ]
+    },
+    {
+      "name": "市北区",
+      "locations": [
+        {
+          "name": "海泊桥",
+          "longitude": 120.36084,
+          "latitude": 36.09469,
+          "radius": "1662"
+        },
+        {
+          "name": "小村庄",
+          "longitude": 120.36366,
+          "latitude": 36.10439,
+          "radius": "1933"
+        },
+        {
+          "name": "海琴广场",
+          "longitude": 120.38897,
+          "latitude": 36.14338,
+          "radius": "1252"
+        },
+        {
+          "name": "台东",
+          "longitude": 120.35498,
+          "latitude": 36.083836,
+          "radius": "1582"
+        },
+        {
+          "name": "浮山后",
+          "longitude": 120.42384,
+          "latitude": 36.10832,
+          "radius": "2231"
+        },
+        {
+          "name": "CBD",
+          "longitude": 120.37865,
+          "latitude": 36.08733,
+          "radius": "2334"
+        },
+        {
+          "name": "水清沟",
+          "longitude": 120.37473,
+          "latitude": 36.13634,
+          "radius": "1368"
+        },
+        {
+          "name": "儿童公园/青岛港",
+          "longitude": 120.3304,
+          "latitude": 36.07951,
+          "radius": "1391"
+        }
+      ]
+    },
+    {
+      "name": "黄岛区",
+      "locations": [
+        {
+          "name": "琅琊台路",
+          "longitude": 119.99575,
+          "latitude": 35.8805,
+          "radius": "1753"
+        },
+        {
+          "name": "石油大学",
+          "longitude": 120.175835,
+          "latitude": 35.941563,
+          "radius": "1057"
+        },
+        {
+          "name": "上流汇",
+          "longitude": 120.19651,
+          "latitude": 35.94793,
+          "radius": "642"
+        },
+        {
+          "name": "老黄岛",
+          "longitude": 120.21679,
+          "latitude": 36.03981,
+          "radius": "1053"
+        },
+        {
+          "name": "铁山路",
+          "longitude": 119.98503,
+          "latitude": 35.88115,
+          "radius": "1925"
+        },
+        {
+          "name": "宏程新天地",
+          "longitude": 120.044785,
+          "latitude": 35.884686,
+          "radius": "315"
+        },
+        {
+          "name": "长江路",
+          "longitude": 120.18091,
+          "latitude": 35.95204,
+          "radius": "642"
+        },
+        {
+          "name": "人民路",
+          "longitude": 120.00386,
+          "latitude": 35.87764,
+          "radius": "1272"
+        },
+        {
+          "name": "灵山路",
+          "longitude": 120.01069,
+          "latitude": 35.88068,
+          "radius": "1095"
+        },
+        {
+          "name": "香江路",
+          "longitude": 120.16529,
+          "latitude": 35.97408,
+          "radius": "1079"
+        },
+        {
+          "name": "科技大学",
+          "longitude": 120.12374,
+          "latitude": 36.00311,
+          "radius": "1559"
+        },
+        {
+          "name": "双珠路",
+          "longitude": 120.01682,
+          "latitude": 35.87249,
+          "radius": "1010"
+        },
+        {
+          "name": "濠洼",
+          "longitude": 120.18869,
+          "latitude": 35.96883,
+          "radius": "514"
+        },
+        {
+          "name": "金沙滩风景区",
+          "longitude": 120.24059,
+          "latitude": 35.96323,
+          "radius": "974"
+        },
+        {
+          "name": "保税区",
+          "longitude": 120.178696,
+          "latitude": 35.984486,
+          "radius": "927"
+        },
+        {
+          "name": "家佳源佳世客",
+          "longitude": 120.18907,
+          "latitude": 35.95533,
+          "radius": "515"
+        },
+        {
+          "name": "开发区",
+          "longitude": 120.19066,
+          "latitude": 35.95502,
+          "radius": "1849"
+        },
+        {
+          "name": "丁家河",
+          "longitude": 120.20552,
+          "latitude": 35.95889,
+          "radius": "485"
+        },
+        {
+          "name": "官厅",
+          "longitude": 120.18246,
+          "latitude": 35.96202,
+          "radius": "702"
+        },
+        {
+          "name": "紫金山路",
+          "longitude": 120.18266,
+          "latitude": 35.96276,
+          "radius": "573"
+        },
+        {
+          "name": "马濠公园",
+          "longitude": 120.18694,
+          "latitude": 35.96448,
+          "radius": "526"
+        },
+        {
+          "name": "黄海学院",
+          "longitude": 120.11155,
+          "latitude": 35.922073,
+          "radius": "447"
+        },
+        {
+          "name": "海王路",
+          "longitude": 120.028336,
+          "latitude": 35.866344,
+          "radius": "540"
+        }
+      ]
+    },
+    {
+      "name": "崂山区",
+      "locations": [
+        {
+          "name": "国信体育中心",
+          "longitude": 120.44547,
+          "latitude": 36.103912,
+          "radius": "862"
+        },
+        {
+          "name": "麦岛大学区",
+          "longitude": 120.43009,
+          "latitude": 36.06937,
+          "radius": "1524"
+        },
+        {
+          "name": "大拇指广场",
+          "longitude": 120.447266,
+          "latitude": 36.109936,
+          "radius": "390"
+        },
+        {
+          "name": "丽达购物中心",
+          "longitude": 120.46936,
+          "latitude": 36.10351,
+          "radius": "781"
+        },
+        {
+          "name": "青大东校区",
+          "longitude": 120.47858,
+          "latitude": 36.11628,
+          "radius": "672"
+        },
+        {
+          "name": "极地海洋世界",
+          "longitude": 120.44219,
+          "latitude": 36.068867,
+          "radius": "447"
+        }
+      ]
+    },
+    {
+      "name": "李沧区",
+      "locations": [
+        {
+          "name": "万达广场",
+          "longitude": 120.43421,
+          "latitude": 36.16697,
+          "radius": "700"
+        },
+        {
+          "name": "维客广场",
+          "longitude": 120.42456,
+          "latitude": 36.16022,
+          "radius": "833"
+        },
+        {
+          "name": "九水东路",
+          "longitude": 120.46503,
+          "latitude": 36.17023,
+          "radius": "826"
+        },
+        {
+          "name": "李沧宝龙",
+          "longitude": 120.41838,
+          "latitude": 36.148643,
+          "radius": "1029"
+        },
+        {
+          "name": "沧口",
+          "longitude": 120.3886,
+          "latitude": 36.18389,
+          "radius": "1971"
+        },
+        {
+          "name": "李村公园",
+          "longitude": 120.422295,
+          "latitude": 36.168465,
+          "radius": "972"
+        }
+      ]
+    },
+    {
+      "name": "城阳区",
+      "locations": [
+        {
+          "name": "东方城",
+          "longitude": 120.42786,
+          "latitude": 36.236576,
+          "radius": "126"
+        },
+        {
+          "name": "平阳路",
+          "longitude": 120.382835,
+          "latitude": 36.30054,
+          "radius": "1083"
+        },
+        {
+          "name": "国货",
+          "longitude": 120.38293,
+          "latitude": 36.29978,
+          "radius": "235"
+        },
+        {
+          "name": "琴岛学院",
+          "longitude": 120.50543,
+          "latitude": 36.306725,
+          "radius": "2093"
+        },
+        {
+          "name": "世纪公园",
+          "longitude": 120.39508,
+          "latitude": 36.28624,
+          "radius": "1463"
+        },
+        {
+          "name": "家佳源",
+          "longitude": 120.41499,
+          "latitude": 36.30469,
+          "radius": "251"
+        },
+        {
+          "name": "宝龙城市广场",
+          "longitude": 120.39908,
+          "latitude": 36.29734,
+          "radius": "1146"
+        },
+        {
+          "name": "农业大学/春阳路",
+          "longitude": 120.39643,
+          "latitude": 36.31738,
+          "radius": "1762"
+        },
+        {
+          "name": "正阳路",
+          "longitude": 120.41222,
+          "latitude": 36.305233,
+          "radius": "1270"
+        }
+      ]
+    },
+    {
+      "name": "胶州市",
+      "locations": [
+        {
+          "name": "向阳商街",
+          "longitude": 120.01031,
+          "latitude": 36.29125,
+          "radius": "673"
+        },
+        {
+          "name": "佳乐家胶州店",
+          "longitude": 120.00985,
+          "latitude": 36.26811,
+          "radius": "617"
+        },
+        {
+          "name": "杭州路",
+          "longitude": 120.00119,
+          "latitude": 36.2802,
+          "radius": "1370"
+        },
+        {
+          "name": "新城区",
+          "longitude": 120.03366,
+          "latitude": 36.25941,
+          "radius": "1511"
+        },
+        {
+          "name": "胶州湾财富中心",
+          "longitude": 120.00993,
+          "latitude": 36.28556,
+          "radius": "733"
+        },
+        {
+          "name": "常州路",
+          "longitude": 120.01796,
+          "latitude": 36.27237,
+          "radius": "1641"
+        },
+        {
+          "name": "赵家小庄",
+          "longitude": 119.98268,
+          "latitude": 36.26206,
+          "radius": "1174"
+        },
+        {
+          "name": "韩国城",
+          "longitude": 120.03402,
+          "latitude": 36.28617,
+          "radius": "910"
+        },
+        {
+          "name": "胶州路",
+          "longitude": 120.0231,
+          "latitude": 36.294167,
+          "radius": "2594"
+        }
+      ]
+    },
+    {
+      "name": "即墨市",
+      "locations": [
+        {
+          "name": "即墨宝龙城市广场",
+          "longitude": 120.45729,
+          "latitude": 36.391914,
+          "radius": "360"
+        },
+        {
+          "name": "正发利群",
+          "longitude": 120.45035,
+          "latitude": 36.39904,
+          "radius": "53"
+        },
+        {
+          "name": "新利群商场",
+          "longitude": 120.42625,
+          "latitude": 36.39762,
+          "radius": "1153"
+        }
+      ]
+    },
+    {
+      "name": "平度市",
+      "locations": [
+        {
+          "name": "利群/尚街",
+          "longitude": 119.96585,
+          "latitude": 36.79102,
+          "radius": "517"
+        }
+      ]
+    },
+    {
+      "name": "莱西市",
+      "locations": [
+        {
+          "name": "粮贸",
+          "longitude": 120.52268,
+          "latitude": 36.85997,
+          "radius": "53"
+        },
+        {
+          "name": "南利群",
+          "longitude": 120.52339,
+          "latitude": 36.85517,
+          "radius": "53"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "市南区",
+      "locations": [
+        {
+          "name": "天泰体育场",
+          "longitude": 120.34927,
+          "latitude": 36.06031,
+          "radius": ""
+        },
+        {
+          "name": "青岛邮电博物馆",
+          "longitude": 120.32166,
+          "latitude": 36.06358,
+          "radius": ""
+        },
+        {
+          "name": "老舍故居",
+          "longitude": 120.33204,
+          "latitude": 36.06249,
+          "radius": ""
+        },
+        {
+          "name": "中山路街道社区体育场",
+          "longitude": 120.32437,
+          "latitude": 36.06346,
+          "radius": ""
+        },
+        {
+          "name": "青岛德国监狱旧址博物馆",
+          "longitude": 120.32892,
+          "latitude": 36.06122,
+          "radius": ""
+        },
+        {
+          "name": "栈桥",
+          "longitude": 120.32044,
+          "latitude": 36.05846,
+          "radius": ""
+        },
+        {
+          "name": "银海国际游艇俱乐部",
+          "longitude": 120.42313,
+          "latitude": 36.057804,
+          "radius": ""
+        },
+        {
+          "name": "八大关景区",
+          "longitude": 120.35325,
+          "latitude": 36.051125,
+          "radius": ""
+        },
+        {
+          "name": "太平角",
+          "longitude": 120.36367,
+          "latitude": 36.04269,
+          "radius": ""
+        },
+        {
+          "name": "胶澳总督府旧址",
+          "longitude": 120.32458,
+          "latitude": 36.0646,
+          "radius": ""
+        },
+        {
+          "name": "青岛奥林匹克帆船中心",
+          "longitude": 120.39772,
+          "latitude": 36.058067,
+          "radius": ""
+        },
+        {
+          "name": "华岗故居",
+          "longitude": 120.32901,
+          "latitude": 36.06458,
+          "radius": ""
+        },
+        {
+          "name": "劈柴院",
+          "longitude": 120.31836,
+          "latitude": 36.07131,
+          "radius": ""
+        },
+        {
+          "name": "中国海军博物馆",
+          "longitude": 120.32916,
+          "latitude": 36.05495,
+          "radius": ""
+        },
+        {
+          "name": "圣心修道院旧址",
+          "longitude": 120.32018,
+          "latitude": 36.06841,
+          "radius": ""
+        },
+        {
+          "name": "骆驼祥子博物馆",
+          "longitude": 120.33186,
+          "latitude": 36.06254,
+          "radius": ""
+        },
+        {
+          "name": "天后宫",
+          "longitude": 120.32719,
+          "latitude": 36.06176,
+          "radius": ""
+        },
+        {
+          "name": "海军博物馆",
+          "longitude": 120.32793,
+          "latitude": 36.0545,
+          "radius": ""
+        },
+        {
+          "name": "青岛音乐厅",
+          "longitude": 120.31981,
+          "latitude": 36.06282,
+          "radius": ""
+        },
+        {
+          "name": "沈从文故居",
+          "longitude": 120.34123,
+          "latitude": 36.06436,
+          "radius": ""
+        },
+        {
+          "name": "青岛基督教堂",
+          "longitude": 120.32839,
+          "latitude": 36.06541,
+          "radius": ""
+        },
+        {
+          "name": "青岛市游泳馆",
+          "longitude": 120.32982,
+          "latitude": 36.06247,
+          "radius": ""
+        },
+        {
+          "name": "路德公寓旧址",
+          "longitude": 120.32323,
+          "latitude": 36.06523,
+          "radius": ""
+        },
+        {
+          "name": "英国总领事官邸旧址",
+          "longitude": 120.3598,
+          "latitude": 36.0511,
+          "radius": ""
+        },
+        {
+          "name": "亮亮游泳俱乐部",
+          "longitude": 120.35671,
+          "latitude": 36.05267,
+          "radius": ""
+        },
+        {
+          "name": "洪深故居",
+          "longitude": 120.3411,
+          "latitude": 36.06481,
+          "radius": ""
+        },
+        {
+          "name": "德国领事馆旧址",
+          "longitude": 120.32423,
+          "latitude": 36.06299,
+          "radius": ""
+        },
+        {
+          "name": "萧军萧红舒群故居",
+          "longitude": 120.32904,
+          "latitude": 36.06928,
+          "radius": ""
+        },
+        {
+          "name": "朱树屏故居",
+          "longitude": 120.33252,
+          "latitude": 36.05851,
+          "radius": ""
+        },
+        {
+          "name": "美国领事馆旧址",
+          "longitude": 120.32726,
+          "latitude": 36.06601,
+          "radius": ""
+        },
+        {
+          "name": "花石楼",
+          "longitude": 120.35368,
+          "latitude": 36.05016,
+          "radius": ""
+        },
+        {
+          "name": "梁实秋故居",
+          "longitude": 120.33278,
+          "latitude": 36.06115,
+          "radius": ""
+        },
+        {
+          "name": "刘知侠故居",
+          "longitude": 120.3335,
+          "latitude": 36.05768,
+          "radius": ""
+        },
+        {
+          "name": "水师饭店旧址",
+          "longitude": 120.31966,
+          "latitude": 36.06614,
+          "radius": ""
+        },
+        {
+          "name": "欧式建筑",
+          "longitude": 120.3302,
+          "latitude": 36.06588,
+          "radius": ""
+        },
+        {
+          "name": "张玺故居",
+          "longitude": 120.33009,
+          "latitude": 36.05832,
+          "radius": ""
+        },
+        {
+          "name": "束星北故居",
+          "longitude": 120.33168,
+          "latitude": 36.06081,
+          "radius": ""
+        },
+        {
+          "name": "文化名人故居一条街",
+          "longitude": 120.33673,
+          "latitude": 36.05975,
+          "radius": ""
+        },
+        {
+          "name": "坂井贞一宅第旧址",
+          "longitude": 120.32666,
+          "latitude": 36.06151,
+          "radius": ""
+        },
+        {
+          "name": "海上喷泉",
+          "longitude": 120.3861,
+          "latitude": 36.06065,
+          "radius": ""
+        },
+        {
+          "name": "苏联公民协会旧址",
+          "longitude": 120.34933,
+          "latitude": 36.05457,
+          "radius": ""
+        },
+        {
+          "name": "德国第二海军营部大楼旧址",
+          "longitude": 120.32556,
+          "latitude": 36.06458,
+          "radius": ""
+        },
+        {
+          "name": "元帅楼",
+          "longitude": 120.34808,
+          "latitude": 36.05087,
+          "radius": ""
+        },
+        {
+          "name": "王统照故居",
+          "longitude": 120.32455,
+          "latitude": 36.06692,
+          "radius": ""
+        },
+        {
+          "name": "青岛银行公会旧址",
+          "longitude": 120.31767,
+          "latitude": 36.06719,
+          "radius": ""
+        },
+        {
+          "name": "德国水兵俱乐部旧址",
+          "longitude": 120.31942,
+          "latitude": 36.06609,
+          "radius": ""
+        },
+        {
+          "name": "滨海步行道奥运健身路",
+          "longitude": 120.38753,
+          "latitude": 36.06156,
+          "radius": ""
+        },
+        {
+          "name": "德国神甫旧宅",
+          "longitude": 120.32509,
+          "latitude": 36.06285,
+          "radius": ""
+        },
+        {
+          "name": "丹麦领事馆官邸旧址",
+          "longitude": 120.36695,
+          "latitude": 36.05484,
+          "radius": ""
+        },
+        {
+          "name": "总督府野战医院旧址",
+          "longitude": 120.32832,
+          "latitude": 36.06724,
+          "radius": ""
+        },
+        {
+          "name": "比利时领事馆旧址",
+          "longitude": 120.36092,
+          "latitude": 36.05046,
+          "radius": ""
+        },
+        {
+          "name": "友谊游艇",
+          "longitude": 120.30852,
+          "latitude": 36.05271,
+          "radius": ""
+        },
+        {
+          "name": "青岛湾景观区",
+          "longitude": 120.3079,
+          "latitude": 36.05148,
+          "radius": ""
+        },
+        {
+          "name": "耕馀别墅",
+          "longitude": 120.34899,
+          "latitude": 36.05533,
+          "radius": ""
+        },
+        {
+          "name": "王献唐故居",
+          "longitude": 120.32546,
+          "latitude": 36.06763,
+          "radius": ""
+        },
+        {
+          "name": "浮山湾景区",
+          "longitude": 120.36783,
+          "latitude": 36.05424,
+          "radius": ""
+        },
+        {
+          "name": "童第周故居",
+          "longitude": 120.33168,
+          "latitude": 36.06081,
+          "radius": ""
+        },
+        {
+          "name": "礼和商业大楼旧址",
+          "longitude": 120.31604,
+          "latitude": 36.06273,
+          "radius": ""
+        },
+        {
+          "name": "侯爵饭店旧址",
+          "longitude": 120.32056,
+          "latitude": 36.06369,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "市北区",
+      "locations": [
+        {
+          "name": "青岛啤酒博物馆",
+          "longitude": 120.3468,
+          "latitude": 36.07906,
+          "radius": ""
+        },
+        {
+          "name": "中联运动公园",
+          "longitude": 120.35265,
+          "latitude": 36.07269,
+          "radius": ""
+        },
+        {
+          "name": "青岛市新兴体育馆",
+          "longitude": 120.37743,
+          "latitude": 36.08795,
+          "radius": ""
+        },
+        {
+          "name": "青岛葡萄酒博物馆",
+          "longitude": 120.34783,
+          "latitude": 36.07258,
+          "radius": ""
+        },
+        {
+          "name": "天幕城景区",
+          "longitude": 120.34341,
+          "latitude": 36.08165,
+          "radius": ""
+        },
+        {
+          "name": "精武国术馆(台东分馆)",
+          "longitude": 120.349,
+          "latitude": 36.08941,
+          "radius": ""
+        },
+        {
+          "name": "青岛德国风情街",
+          "longitude": 120.32309,
+          "latitude": 36.08108,
+          "radius": ""
+        },
+        {
+          "name": "海云庵",
+          "longitude": 120.35055,
+          "latitude": 36.11136,
+          "radius": ""
+        },
+        {
+          "name": "登州路体育场",
+          "longitude": 120.34075,
+          "latitude": 36.07893,
+          "radius": ""
+        },
+        {
+          "name": "青岛葡萄酒厂旧址",
+          "longitude": 120.36872,
+          "latitude": 36.12575,
+          "radius": ""
+        },
+        {
+          "name": "圣保罗教堂",
+          "longitude": 120.32845,
+          "latitude": 36.07257,
+          "radius": ""
+        },
+        {
+          "name": "工人体育场",
+          "longitude": 120.32547,
+          "latitude": 36.07451,
+          "radius": ""
+        },
+        {
+          "name": "青岛啤酒街",
+          "longitude": 120.35101,
+          "latitude": 36.08062,
+          "radius": ""
+        },
+        {
+          "name": "青岛市弘诚体育场",
+          "longitude": 120.35679,
+          "latitude": 36.09956,
+          "radius": ""
+        },
+        {
+          "name": "市北特色商贸旅游区",
+          "longitude": 120.35728,
+          "latitude": 36.08166,
+          "radius": ""
+        },
+        {
+          "name": "丹麦领事馆旧址",
+          "longitude": 120.32183,
+          "latitude": 36.0804,
+          "radius": ""
+        },
+        {
+          "name": "青岛市残疾人体育中心",
+          "longitude": 120.40053,
+          "latitude": 36.09541,
+          "radius": ""
+        },
+        {
+          "name": "青岛市四方剧院",
+          "longitude": 120.35824,
+          "latitude": 36.10765,
+          "radius": ""
+        },
+        {
+          "name": "青岛市歌舞演艺剧院",
+          "longitude": 120.34045,
+          "latitude": 36.07162,
+          "radius": ""
+        },
+        {
+          "name": "岩舞者攀岩运动会所",
+          "longitude": 120.41352,
+          "latitude": 36.11963,
+          "radius": ""
+        },
+        {
+          "name": "青岛市第二体育场",
+          "longitude": 120.32911,
+          "latitude": 36.07934,
+          "radius": ""
+        },
+        {
+          "name": "青岛曲艺社相声大会",
+          "longitude": 120.406006,
+          "latitude": 36.09624,
+          "radius": ""
+        },
+        {
+          "name": "青岛京剧院",
+          "longitude": 120.34755,
+          "latitude": 36.0718,
+          "radius": ""
+        },
+        {
+          "name": "青岛体育街",
+          "longitude": 120.36228,
+          "latitude": 36.08516,
+          "radius": ""
+        },
+        {
+          "name": "康佰客运动工厂",
+          "longitude": 120.41147,
+          "latitude": 36.11907,
+          "radius": ""
+        },
+        {
+          "name": "自由人真人CS室内基地(宝利汇时尚广场店)",
+          "longitude": 120.33037,
+          "latitude": 36.08028,
+          "radius": ""
+        },
+        {
+          "name": "日本高等女校旧址",
+          "longitude": 120.33245,
+          "latitude": 36.07891,
+          "radius": ""
+        },
+        {
+          "name": "礼贤书院旧址",
+          "longitude": 120.32627,
+          "latitude": 36.07586,
+          "radius": ""
+        },
+        {
+          "name": "柏林传教会旧址",
+          "longitude": 120.3275,
+          "latitude": 36.07614,
+          "radius": ""
+        },
+        {
+          "name": "日本青岛邮局大和町所旧址",
+          "longitude": 120.32965,
+          "latitude": 36.07962,
+          "radius": ""
+        },
+        {
+          "name": "朝鲜银行青岛支行旧址",
+          "longitude": 120.32075,
+          "latitude": 36.07798,
+          "radius": ""
+        },
+        {
+          "name": "三菱洋行旧址",
+          "longitude": 120.32028,
+          "latitude": 36.07627,
+          "radius": ""
+        },
+        {
+          "name": "胶澳商埠电汽事务所旧址",
+          "longitude": 120.31861,
+          "latitude": 36.07366,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "黄岛区",
+      "locations": [
+        {
+          "name": "胶南体育馆",
+          "longitude": 119.99853,
+          "latitude": 35.870914,
+          "radius": ""
+        },
+        {
+          "name": "金沙滩",
+          "longitude": 120.24575,
+          "latitude": 35.95492,
+          "radius": ""
+        },
+        {
+          "name": "大珠山风景名胜区",
+          "longitude": 120.00543,
+          "latitude": 35.79732,
+          "radius": ""
+        },
+        {
+          "name": "珠海街道办事处老年人门球场",
+          "longitude": 120.00084,
+          "latitude": 35.86253,
+          "radius": ""
+        },
+        {
+          "name": "青岛琅琊台风景名胜区",
+          "longitude": 119.90722,
+          "latitude": 35.65004,
+          "radius": ""
+        },
+        {
+          "name": "灵山岛风景区",
+          "longitude": 120.17057,
+          "latitude": 35.76389,
+          "radius": ""
+        },
+        {
+          "name": "银沙滩景区",
+          "longitude": 120.209,
+          "latitude": 35.92496,
+          "radius": ""
+        },
+        {
+          "name": "胶南博物馆",
+          "longitude": 119.99096,
+          "latitude": 35.8744,
+          "radius": ""
+        },
+        {
+          "name": "九上沟风景区",
+          "longitude": 119.85203,
+          "latitude": 35.9103,
+          "radius": ""
+        },
+        {
+          "name": "徐福东渡启航处",
+          "longitude": 119.90708,
+          "latitude": 35.67364,
+          "radius": ""
+        },
+        {
+          "name": "青岛藏马山国际旅游度假区",
+          "longitude": 119.77663,
+          "latitude": 35.79242,
+          "radius": ""
+        },
+        {
+          "name": "城市阳台景区",
+          "longitude": 120.05315,
+          "latitude": 35.87101,
+          "radius": ""
+        },
+        {
+          "name": "青岛红树林度假世界",
+          "longitude": 120.06346,
+          "latitude": 35.88248,
+          "radius": ""
+        },
+        {
+          "name": "齐长城烽火台",
+          "longitude": 120.17729,
+          "latitude": 35.9936,
+          "radius": ""
+        },
+        {
+          "name": "薛家岛旅游景区",
+          "longitude": 120.2458,
+          "latitude": 35.95983,
+          "radius": ""
+        },
+        {
+          "name": "青岛铁橛山风景区",
+          "longitude": 119.82956,
+          "latitude": 35.89559,
+          "radius": ""
+        },
+        {
+          "name": "博胜苑景区",
+          "longitude": 120.07431,
+          "latitude": 35.94018,
+          "radius": ""
+        },
+        {
+          "name": "瑞源生态园",
+          "longitude": 120.13821,
+          "latitude": 35.95274,
+          "radius": ""
+        },
+        {
+          "name": "竹岔岛",
+          "longitude": 120.3153,
+          "latitude": 35.94327,
+          "radius": ""
+        },
+        {
+          "name": "灵山湾",
+          "longitude": 120.09281,
+          "latitude": 35.87346,
+          "radius": ""
+        },
+        {
+          "name": "樱皇谷景区",
+          "longitude": 119.86165,
+          "latitude": 35.86662,
+          "radius": ""
+        },
+        {
+          "name": "胶南体育场",
+          "longitude": 119.99897,
+          "latitude": 35.87203,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "崂山区",
+      "locations": [
+        {
+          "name": "青岛崂山风景名胜区",
+          "longitude": 120.60168,
+          "latitude": 36.142136,
+          "radius": ""
+        },
+        {
+          "name": "青岛国信体育中心",
+          "longitude": 120.4411,
+          "latitude": 36.10448,
+          "radius": ""
+        },
+        {
+          "name": "北九水风景区",
+          "longitude": 120.603386,
+          "latitude": 36.218575,
+          "radius": ""
+        },
+        {
+          "name": "崂山五中体育场",
+          "longitude": 120.52517,
+          "latitude": 36.15054,
+          "radius": ""
+        },
+        {
+          "name": "仰口游览区",
+          "longitude": 120.66125,
+          "latitude": 36.23485,
+          "radius": ""
+        },
+        {
+          "name": "青岛海昌极地海洋世界",
+          "longitude": 120.44126,
+          "latitude": 36.06903,
+          "radius": ""
+        },
+        {
+          "name": "石老人国家旅游度假区",
+          "longitude": 120.47054,
+          "latitude": 36.092922,
+          "radius": ""
+        },
+        {
+          "name": "青岛市博物馆",
+          "longitude": 120.474,
+          "latitude": 36.10048,
+          "radius": ""
+        },
+        {
+          "name": "青岛钻石博物馆",
+          "longitude": 120.46914,
+          "latitude": 36.097385,
+          "radius": ""
+        },
+        {
+          "name": "华严寺",
+          "longitude": 120.6811,
+          "latitude": 36.2055,
+          "radius": ""
+        },
+        {
+          "name": "华东·百利酒庄",
+          "longitude": 120.52201,
+          "latitude": 36.16526,
+          "radius": ""
+        },
+        {
+          "name": "崂山二龙山风景区",
+          "longitude": 120.64601,
+          "latitude": 36.24802,
+          "radius": ""
+        },
+        {
+          "name": "青岛聚胜体育中心",
+          "longitude": 120.50856,
+          "latitude": 36.17151,
+          "radius": ""
+        },
+        {
+          "name": "崂山太清宫",
+          "longitude": 120.68087,
+          "latitude": 36.13913,
+          "radius": ""
+        },
+        {
+          "name": "崂山太清索道",
+          "longitude": 120.67937,
+          "latitude": 36.14514,
+          "radius": ""
+        },
+        {
+          "name": "石老人直升机场",
+          "longitude": 120.48259,
+          "latitude": 36.10073,
+          "radius": ""
+        },
+        {
+          "name": "大崂樱桃谷",
+          "longitude": 120.56081,
+          "latitude": 36.24243,
+          "radius": ""
+        },
+        {
+          "name": "流清游览区",
+          "longitude": 120.61164,
+          "latitude": 36.12273,
+          "radius": ""
+        },
+        {
+          "name": "康有为墓",
+          "longitude": 120.42556,
+          "latitude": 36.07705,
+          "radius": ""
+        },
+        {
+          "name": "仰口景区",
+          "longitude": 120.6588,
+          "latitude": 36.23015,
+          "radius": ""
+        },
+        {
+          "name": "崂山",
+          "longitude": 120.46998,
+          "latitude": 36.09679,
+          "radius": ""
+        },
+        {
+          "name": "青岛海滨雕塑园",
+          "longitude": 120.45389,
+          "latitude": 36.07859,
+          "radius": ""
+        },
+        {
+          "name": "青岛冰天地",
+          "longitude": 120.51216,
+          "latitude": 36.09629,
+          "radius": ""
+        },
+        {
+          "name": "太和观",
+          "longitude": 120.59994,
+          "latitude": 36.21537,
+          "radius": ""
+        },
+        {
+          "name": "大麦岛",
+          "longitude": 120.42342,
+          "latitude": 36.0659,
+          "radius": ""
+        },
+        {
+          "name": "崂山太清景区",
+          "longitude": 120.4769,
+          "latitude": 36.10048,
+          "radius": ""
+        },
+        {
+          "name": "崂山华楼游览区",
+          "longitude": 120.51388,
+          "latitude": 36.23681,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "李沧区",
+      "locations": [
+        {
+          "name": "世界园艺博览会",
+          "longitude": 120.50626,
+          "latitude": 36.20322,
+          "radius": ""
+        },
+        {
+          "name": "古城顶遗址公园",
+          "longitude": 120.41482,
+          "latitude": 36.21314,
+          "radius": ""
+        },
+        {
+          "name": "沧口区体育场",
+          "longitude": 120.38639,
+          "latitude": 36.1906,
+          "radius": ""
+        },
+        {
+          "name": "青岛虎山体育中心",
+          "longitude": 120.41291,
+          "latitude": 36.17757,
+          "radius": ""
+        },
+        {
+          "name": "明真观",
+          "longitude": 120.39236,
+          "latitude": 36.17269,
+          "radius": ""
+        },
+        {
+          "name": "青岛十梅庵风景区",
+          "longitude": 120.41884,
+          "latitude": 36.20576,
+          "radius": ""
+        },
+        {
+          "name": "李沧剧院",
+          "longitude": 120.38271,
+          "latitude": 36.19216,
+          "radius": ""
+        },
+        {
+          "name": "中联(李沧)运动公园",
+          "longitude": 120.38695,
+          "latitude": 36.19082,
+          "radius": ""
+        },
+        {
+          "name": "竹子庵",
+          "longitude": 120.48025,
+          "latitude": 36.2069,
+          "radius": ""
+        },
+        {
+          "name": "李沧区游泳馆",
+          "longitude": 120.38956,
+          "latitude": 36.17458,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "城阳区",
+      "locations": [
+        {
+          "name": "青岛国际机场",
+          "longitude": 120.386826,
+          "latitude": 36.26605,
+          "radius": ""
+        },
+        {
+          "name": "青岛国际工艺品城",
+          "longitude": 120.42857,
+          "latitude": 36.24619,
+          "radius": ""
+        },
+        {
+          "name": "国学公园",
+          "longitude": 120.44203,
+          "latitude": 36.3055,
+          "radius": ""
+        },
+        {
+          "name": "香溪室外运动中心",
+          "longitude": 120.47905,
+          "latitude": 36.26893,
+          "radius": ""
+        },
+        {
+          "name": "青岛青峰毛公山",
+          "longitude": 120.49536,
+          "latitude": 36.27536,
+          "radius": ""
+        },
+        {
+          "name": "四季春生态旅游景区",
+          "longitude": 120.47297,
+          "latitude": 36.29189,
+          "radius": ""
+        },
+        {
+          "name": "福寿宫",
+          "longitude": 120.4567,
+          "latitude": 36.2445,
+          "radius": ""
+        },
+        {
+          "name": "金钱鼎",
+          "longitude": 120.52446,
+          "latitude": 36.30135,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "胶州市",
+      "locations": [
+        {
+          "name": "胶州市体育中心",
+          "longitude": 120.03353,
+          "latitude": 36.25186,
+          "radius": ""
+        },
+        {
+          "name": "少海风景区",
+          "longitude": 120.08311,
+          "latitude": 36.25029,
+          "radius": ""
+        },
+        {
+          "name": "少海湿地公园",
+          "longitude": 120.08665,
+          "latitude": 36.23115,
+          "radius": ""
+        },
+        {
+          "name": "艾山景区",
+          "longitude": 119.94539,
+          "latitude": 36.12316,
+          "radius": ""
+        },
+        {
+          "name": "胶州体育馆",
+          "longitude": 120.01805,
+          "latitude": 36.29039,
+          "radius": ""
+        },
+        {
+          "name": "胶州体育场",
+          "longitude": 120.01816,
+          "latitude": 36.28933,
+          "radius": ""
+        },
+        {
+          "name": "胶东国际机场",
+          "longitude": 120.070404,
+          "latitude": 36.371967,
+          "radius": ""
+        },
+        {
+          "name": "板桥镇",
+          "longitude": 120.07899,
+          "latitude": 36.25226,
+          "radius": ""
+        },
+        {
+          "name": "幸福源薰衣草旅游花田",
+          "longitude": 119.97089,
+          "latitude": 36.22436,
+          "radius": ""
+        },
+        {
+          "name": "高凤翰故居纪念馆",
+          "longitude": 119.94114,
+          "latitude": 36.27384,
+          "radius": ""
+        },
+        {
+          "name": "建华广告体育馆",
+          "longitude": 120.01965,
+          "latitude": 36.28827,
+          "radius": ""
+        },
+        {
+          "name": "法若真故居旧址",
+          "longitude": 120.01614,
+          "latitude": 36.27967,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "即墨市",
+      "locations": [
+        {
+          "name": "即墨市体育场",
+          "longitude": 120.43925,
+          "latitude": 36.39204,
+          "radius": ""
+        },
+        {
+          "name": "中国港中旅青岛海泉湾度假区",
+          "longitude": 120.69681,
+          "latitude": 36.39871,
+          "radius": ""
+        },
+        {
+          "name": "马山国家级自然保护区",
+          "longitude": 120.38183,
+          "latitude": 36.39797,
+          "radius": ""
+        },
+        {
+          "name": "青岛市蔬菜科技示范园",
+          "longitude": 120.50571,
+          "latitude": 36.37319,
+          "radius": ""
+        },
+        {
+          "name": "龙山风景区",
+          "longitude": 120.53463,
+          "latitude": 36.38084,
+          "radius": ""
+        },
+        {
+          "name": "小龙山",
+          "longitude": 120.392,
+          "latitude": 36.3693,
+          "radius": ""
+        },
+        {
+          "name": "城子遗址",
+          "longitude": 120.38812,
+          "latitude": 36.32802,
+          "radius": ""
+        },
+        {
+          "name": "青岛市农业生态观光园",
+          "longitude": 120.50347,
+          "latitude": 36.36981,
+          "radius": ""
+        },
+        {
+          "name": "鳌山湾森林公园·天柱山",
+          "longitude": 120.62891,
+          "latitude": 36.3706,
+          "radius": ""
+        },
+        {
+          "name": "天井山龙王庙",
+          "longitude": 120.53706,
+          "latitude": 36.38089,
+          "radius": ""
+        },
+        {
+          "name": "即墨鹤山风景区",
+          "longitude": 120.63783,
+          "latitude": 36.33523,
+          "radius": ""
+        },
+        {
+          "name": "即墨下泊马山生态园",
+          "longitude": 120.38886,
+          "latitude": 36.39148,
+          "radius": ""
+        },
+        {
+          "name": "雄崖所故城",
+          "longitude": 120.86902,
+          "latitude": 36.58275,
+          "radius": ""
+        },
+        {
+          "name": "即墨县衙旧址",
+          "longitude": 120.46809,
+          "latitude": 36.38922,
+          "radius": ""
+        },
+        {
+          "name": "温泉",
+          "longitude": 120.62073,
+          "latitude": 36.45408,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "平度市",
+      "locations": [
+        {
+          "name": "青岛茶山风景区",
+          "longitude": 119.97565,
+          "latitude": 36.93563,
+          "radius": ""
+        },
+        {
+          "name": "平度体育馆",
+          "longitude": 119.96831,
+          "latitude": 36.78517,
+          "radius": ""
+        },
+        {
+          "name": "青岛大泽山风景名胜区",
+          "longitude": 120.00777,
+          "latitude": 36.98971,
+          "radius": ""
+        },
+        {
+          "name": "千佛阁",
+          "longitude": 119.96352,
+          "latitude": 36.78436,
+          "radius": ""
+        },
+        {
+          "name": "大泽叠翠",
+          "longitude": 120.02233,
+          "latitude": 36.98901,
+          "radius": ""
+        },
+        {
+          "name": "云山观风景区",
+          "longitude": 120.16942,
+          "latitude": 36.88099,
+          "radius": ""
+        },
+        {
+          "name": "天柱山摩崖石刻",
+          "longitude": 119.94108,
+          "latitude": 36.96258,
+          "radius": ""
+        },
+        {
+          "name": "大泽山索道",
+          "longitude": 120.00777,
+          "latitude": 36.98971,
+          "radius": ""
+        },
+        {
+          "name": "文昌阁",
+          "longitude": 120.15674,
+          "latitude": 36.49365,
+          "radius": ""
+        },
+        {
+          "name": "天池岭",
+          "longitude": 119.95659,
+          "latitude": 36.97686,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "莱西市",
+      "locations": [
+        {
+          "name": "白鹭湖温泉度假区",
+          "longitude": 120.43877,
+          "latitude": 36.86284,
+          "radius": ""
+        },
+        {
+          "name": "莱西市体育中心",
+          "longitude": 120.56591,
+          "latitude": 36.89263,
+          "radius": ""
+        },
+        {
+          "name": "圣水山庄旅游观光园",
+          "longitude": 120.40305,
+          "latitude": 36.9331,
+          "radius": ""
+        },
+        {
+          "name": "西汉墓",
+          "longitude": 120.47973,
+          "latitude": 36.85605,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

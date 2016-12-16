@@ -1,0 +1,1556 @@
+{
+  "name": "移动人群",
+  "nameEn": "Moving crowd",
+  "children": [
+    {
+      "name": "新闻媒体",
+      "nameEn": "News media",
+      "children": [
+        {
+          "name": "军事",
+          "nameEn": "Military",
+          "children": []
+        },
+        {
+          "name": "财经",
+          "nameEn": "Finance and economics",
+          "children": []
+        },
+        {
+          "name": "科技",
+          "nameEn": "Science and Technology",
+          "children": []
+        },
+        {
+          "name": "体育",
+          "nameEn": "Physical education",
+          "children": [
+            {
+              "name": "足球",
+              "nameEn": "足球",
+              "children": []
+            },
+            {
+              "name": "篮球",
+              "nameEn": "篮球",
+              "children": []
+            },
+            {
+              "name": "高尔夫",
+              "nameEn": "高尔夫",
+              "children": []
+            },
+            {
+              "name": "其他体育资讯",
+              "nameEn": "其他体育资讯",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "娱乐",
+          "nameEn": "Entertainment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "个人应用",
+      "nameEn": "Personal Application",
+      "children": [
+        {
+          "name": "系统",
+          "nameEn": "System",
+          "children": [
+            {
+              "name": "浏览器",
+              "nameEn": "Browser",
+              "children": []
+            },
+            {
+              "name": "输入法",
+              "nameEn": "Input Method",
+              "children": []
+            },
+            {
+              "name": "安全优化",
+              "nameEn": "Security optimization",
+              "children": []
+            },
+            {
+              "name": "电量",
+              "nameEn": "Power",
+              "children": []
+            },
+            {
+              "name": "通话通讯",
+              "nameEn": "Call Communications",
+              "children": []
+            },
+            {
+              "name": "网络流量",
+              "nameEn": "Network traffic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "实用工具",
+          "nameEn": "Utilities",
+          "children": [
+            {
+              "name": "截图",
+              "nameEn": "Screenshot",
+              "children": []
+            },
+            {
+              "name": "扫码",
+              "nameEn": "Scan code",
+              "children": []
+            },
+            {
+              "name": "计算器",
+              "nameEn": "Calculator",
+              "children": []
+            },
+            {
+              "name": "照明",
+              "nameEn": "Illumination",
+              "children": []
+            },
+            {
+              "name": "指南针",
+              "nameEn": "Compass",
+              "children": []
+            },
+            {
+              "name": "闹钟提醒",
+              "nameEn": "Alarm reminder",
+              "children": []
+            },
+            {
+              "name": "时钟日历",
+              "nameEn": "Clock Calendar",
+              "children": []
+            },
+            {
+              "name": "文件传输",
+              "nameEn": "File Transfer",
+              "children": []
+            },
+            {
+              "name": "存储备份",
+              "nameEn": "Storage backup",
+              "children": []
+            },
+            {
+              "name": "监控",
+              "nameEn": "Monitor",
+              "children": []
+            },
+            {
+              "name": "号码查询",
+              "nameEn": "Number Search",
+              "children": []
+            },
+            {
+              "name": "镜子",
+              "nameEn": "镜子",
+              "children": []
+            },
+            {
+              "name": "遥控",
+              "nameEn": "遥控",
+              "children": []
+            },
+            {
+              "name": "测量工具",
+              "nameEn": "测量工具",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "手机美化",
+          "nameEn": "Phone beautification",
+          "children": [
+            {
+              "name": "字体",
+              "nameEn": "Fonts",
+              "children": []
+            },
+            {
+              "name": "表情",
+              "nameEn": "Expression",
+              "children": []
+            },
+            {
+              "name": "铃声",
+              "nameEn": "Ring",
+              "children": []
+            },
+            {
+              "name": "锁屏",
+              "nameEn": "Lock screen",
+              "children": []
+            },
+            {
+              "name": "壁纸主题",
+              "nameEn": "Wallpaper Theme",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "图书阅读",
+          "nameEn": "Book Reading",
+          "children": [
+            {
+              "name": "形式",
+              "nameEn": "Form",
+              "children": [
+                {
+                  "name": "阅读器",
+                  "nameEn": "Reader",
+                  "children": []
+                },
+                {
+                  "name": "电子书",
+                  "nameEn": "EBook",
+                  "children": []
+                },
+                {
+                  "name": "有声读物",
+                  "nameEn": "Audiobooks",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "类型",
+              "nameEn": "Type",
+              "children": [
+                {
+                  "name": "小说",
+                  "nameEn": "Fiction",
+                  "children": []
+                },
+                {
+                  "name": "诗词、散文",
+                  "nameEn": "Poetry, prose",
+                  "children": []
+                },
+                {
+                  "name": "报刊杂志",
+                  "nameEn": "Newspapers and magazines",
+                  "children": []
+                },
+                {
+                  "name": "百科文库",
+                  "nameEn": "Wikipedia library",
+                  "children": []
+                },
+                {
+                  "name": "漫画",
+                  "nameEn": "Cartoon",
+                  "children": []
+                },
+                {
+                  "name": "节庆祝福",
+                  "nameEn": "Festive blessing",
+                  "children": []
+                },
+                {
+                  "name": "名言语录",
+                  "nameEn": "名言语录",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "题材",
+              "nameEn": "Theme",
+              "children": [
+                {
+                  "name": "言情",
+                  "nameEn": "Romance",
+                  "children": []
+                },
+                {
+                  "name": "悬疑",
+                  "nameEn": "Mystery",
+                  "children": []
+                },
+                {
+                  "name": "穿越",
+                  "nameEn": "Pass through",
+                  "children": []
+                },
+                {
+                  "name": "武侠",
+                  "nameEn": "Martial Arts",
+                  "children": []
+                },
+                {
+                  "name": "都市",
+                  "nameEn": "City",
+                  "children": []
+                },
+                {
+                  "name": "黑道",
+                  "nameEn": "Underworld",
+                  "children": []
+                },
+                {
+                  "name": "官场",
+                  "nameEn": "Officialdom",
+                  "children": []
+                },
+                {
+                  "name": "仙侠",
+                  "nameEn": "Xian Xia",
+                  "children": []
+                },
+                {
+                  "name": "网游",
+                  "nameEn": "Online",
+                  "children": []
+                },
+                {
+                  "name": "宫廷",
+                  "nameEn": "Palace",
+                  "children": []
+                },
+                {
+                  "name": "历史",
+                  "nameEn": "History",
+                  "children": []
+                },
+                {
+                  "name": "军事",
+                  "nameEn": "Military",
+                  "children": []
+                },
+                {
+                  "name": "玄幻奇幻",
+                  "nameEn": "Fantasy Fantasy",
+                  "children": []
+                },
+                {
+                  "name": "恐怖灵异",
+                  "nameEn": "Supernatural Horror",
+                  "children": []
+                },
+                {
+                  "name": "青春校园",
+                  "nameEn": "Youth Campus",
+                  "children": []
+                },
+                {
+                  "name": "耽美同人",
+                  "nameEn": "Slash colleagues",
+                  "children": []
+                },
+                {
+                  "name": "名家名著",
+                  "nameEn": "Famous classics",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "影音图像",
+          "nameEn": "Video image",
+          "children": [
+            {
+              "name": "视频播放",
+              "nameEn": "Video playback",
+              "children": [
+                {
+                  "name": "影视",
+                  "nameEn": "Television",
+                  "children": []
+                },
+                {
+                  "name": "动漫",
+                  "nameEn": "Animation",
+                  "children": []
+                },
+                {
+                  "name": "综艺",
+                  "nameEn": "Arts",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "电视直播",
+              "nameEn": "Live TV",
+              "children": []
+            },
+            {
+              "name": "视频录制编辑",
+              "nameEn": "Video recording editing",
+              "children": []
+            },
+            {
+              "name": "音乐播放",
+              "nameEn": "Music player",
+              "children": []
+            },
+            {
+              "name": "收音机",
+              "nameEn": "Radio",
+              "children": []
+            },
+            {
+              "name": "手机ktv",
+              "nameEn": "Phone ktv",
+              "children": []
+            },
+            {
+              "name": "音频录制编辑",
+              "nameEn": "Audio Record Edit",
+              "children": []
+            },
+            {
+              "name": "相机相册",
+              "nameEn": "Camera Album",
+              "children": []
+            },
+            {
+              "name": "图像编辑",
+              "nameEn": "Image Editing",
+              "children": []
+            },
+            {
+              "name": "图片",
+              "nameEn": "图片",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "社交",
+          "nameEn": "Social",
+          "children": [
+            {
+              "name": "即时通讯",
+              "nameEn": "Im",
+              "children": []
+            },
+            {
+              "name": "社区博客",
+              "nameEn": "Community blog",
+              "children": []
+            },
+            {
+              "name": "婚恋交友",
+              "nameEn": "Dating",
+              "children": []
+            },
+            {
+              "name": "商务沟通",
+              "nameEn": "Business Communication",
+              "children": []
+            },
+            {
+              "name": "社交技巧",
+              "nameEn": "社交技巧",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "网购",
+          "nameEn": "Online shopping",
+          "children": [
+            {
+              "name": "电商",
+              "nameEn": "Electricity supplier",
+              "children": []
+            },
+            {
+              "name": "团购",
+              "nameEn": "Customers",
+              "children": []
+            },
+            {
+              "name": "导购",
+              "nameEn": "Shopping guide",
+              "children": []
+            },
+            {
+              "name": "比价",
+              "nameEn": "Parity",
+              "children": []
+            },
+            {
+              "name": "返利优惠",
+              "nameEn": "Rebate Offer",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "生活",
+          "nameEn": "Life",
+          "children": [
+            {
+              "name": "天气",
+              "nameEn": "The weather",
+              "children": []
+            },
+            {
+              "name": "美食",
+              "nameEn": "Food",
+              "children": []
+            },
+            {
+              "name": "找房",
+              "nameEn": "Find room",
+              "children": []
+            },
+            {
+              "name": "婚嫁",
+              "nameEn": "Marriage",
+              "children": []
+            },
+            {
+              "name": "快递",
+              "nameEn": "Express delivery",
+              "children": []
+            },
+            {
+              "name": "手工",
+              "nameEn": "Manual",
+              "children": []
+            },
+            {
+              "name": "宠物",
+              "nameEn": "Pet",
+              "children": []
+            },
+            {
+              "name": "花卉园艺",
+              "nameEn": "Flower Gardening",
+              "children": []
+            },
+            {
+              "name": "家居家装",
+              "nameEn": "Home Decoration",
+              "children": []
+            },
+            {
+              "name": "充值缴费",
+              "nameEn": "Recharge payment",
+              "children": []
+            },
+            {
+              "name": "驱蚊",
+              "nameEn": "驱蚊",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "旅游出行",
+          "nameEn": "Tourist travel",
+          "children": [
+            {
+              "name": "公交查询",
+              "nameEn": "Bus inquiry",
+              "children": []
+            },
+            {
+              "name": "地图导航",
+              "nameEn": "Map navigation",
+              "children": []
+            },
+            {
+              "name": "旅行攻略",
+              "nameEn": "Travel Raiders",
+              "children": []
+            },
+            {
+              "name": "出行票务",
+              "nameEn": "Trip Ticket",
+              "children": []
+            },
+            {
+              "name": "景点门票",
+              "nameEn": "Attractions Tickets",
+              "children": []
+            },
+            {
+              "name": "酒店住宿",
+              "nameEn": "Hotel Accommodation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "汽车",
+          "nameEn": "Car",
+          "children": [
+            {
+              "name": "打车",
+              "nameEn": "Taxi",
+              "children": []
+            },
+            {
+              "name": "拼车",
+              "nameEn": "Carpool",
+              "children": []
+            },
+            {
+              "name": "租车",
+              "nameEn": "Car",
+              "children": []
+            },
+            {
+              "name": "代驾",
+              "nameEn": "Chauffeur Drive",
+              "children": []
+            },
+            {
+              "name": "停车",
+              "nameEn": "Parking",
+              "children": []
+            },
+            {
+              "name": "驾校",
+              "nameEn": "Driving",
+              "children": []
+            },
+            {
+              "name": "违章查询",
+              "nameEn": "Illegal query",
+              "children": []
+            },
+            {
+              "name": "汽车用品",
+              "nameEn": "Auto Accessories",
+              "children": []
+            },
+            {
+              "name": "指南大全",
+              "nameEn": "Guide Daquan",
+              "children": []
+            },
+            {
+              "name": "行车小工具",
+              "nameEn": "行车小工具",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "时尚",
+          "nameEn": "Fashion",
+          "children": [
+            {
+              "name": "美容化妆",
+              "nameEn": "Beauty Makeup",
+              "children": []
+            },
+            {
+              "name": "发型设计",
+              "nameEn": "Hair Design",
+              "children": []
+            },
+            {
+              "name": "服饰搭配",
+              "nameEn": "Dress with",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "娱乐消遣",
+          "nameEn": "Entertainment",
+          "children": [
+            {
+              "name": "电影演出",
+              "nameEn": "Film performances",
+              "children": []
+            },
+            {
+              "name": "幽默搞笑",
+              "nameEn": "Humor",
+              "children": []
+            },
+            {
+              "name": "相声、评书",
+              "nameEn": "Comic, storytelling",
+              "children": []
+            },
+            {
+              "name": "脱口秀",
+              "nameEn": "Talk show",
+              "children": []
+            },
+            {
+              "name": "戏曲",
+              "nameEn": "Drama",
+              "children": []
+            },
+            {
+              "name": "非主流",
+              "nameEn": "Non-mainstream",
+              "children": []
+            },
+            {
+              "name": "占卜测试",
+              "nameEn": "Divination test",
+              "children": [
+                {
+                  "name": "占星",
+                  "nameEn": "Astrology",
+                  "children": []
+                },
+                {
+                  "name": "算命",
+                  "nameEn": "Fortune-telling",
+                  "children": []
+                },
+                {
+                  "name": "风水",
+                  "nameEn": "Feng Shui",
+                  "children": []
+                },
+                {
+                  "name": "起名",
+                  "nameEn": "Named",
+                  "children": []
+                },
+                {
+                  "name": "心理测试",
+                  "nameEn": "心理测试",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "整蛊帮手",
+              "nameEn": "整蛊帮手",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "金融理财",
+          "nameEn": "Financial Planning",
+          "children": [
+            {
+              "name": "银行",
+              "nameEn": "Bank",
+              "children": []
+            },
+            {
+              "name": "P2P",
+              "nameEn": "P2P",
+              "children": []
+            },
+            {
+              "name": "股票",
+              "nameEn": "Stock",
+              "children": []
+            },
+            {
+              "name": "基金",
+              "nameEn": "Fund",
+              "children": []
+            },
+            {
+              "name": "期货",
+              "nameEn": "Futures",
+              "children": []
+            },
+            {
+              "name": "外汇",
+              "nameEn": "Exchange",
+              "children": []
+            },
+            {
+              "name": "贵金属",
+              "nameEn": "Precious Metals",
+              "children": []
+            },
+            {
+              "name": "彩票",
+              "nameEn": "Lottery ticket",
+              "children": []
+            },
+            {
+              "name": "网赚",
+              "nameEn": "Wangzhuan",
+              "children": []
+            },
+            {
+              "name": "记账",
+              "nameEn": "Accounting",
+              "children": []
+            },
+            {
+              "name": "余额理财",
+              "nameEn": "Balance Money",
+              "children": []
+            },
+            {
+              "name": "第三方支付",
+              "nameEn": "Third party payment",
+              "children": []
+            },
+            {
+              "name": "金融工具",
+              "nameEn": "金融工具",
+              "children": [
+                {
+                  "name": "贷款计算",
+                  "nameEn": "贷款计算",
+                  "children": []
+                },
+                {
+                  "name": "税务工具",
+                  "nameEn": "税务工具",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "运动健身",
+          "nameEn": "Sports and fitness",
+          "children": [
+            {
+              "name": "睡眠",
+              "nameEn": "Sleeping",
+              "children": []
+            },
+            {
+              "name": "美体塑身",
+              "nameEn": "Body sculpting",
+              "children": []
+            },
+            {
+              "name": "体育运动",
+              "nameEn": "Sports",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "医疗健康",
+          "nameEn": "Healthcare",
+          "children": [
+            {
+              "name": "医药",
+              "nameEn": "Medicine",
+              "children": []
+            },
+            {
+              "name": "女性健康",
+              "nameEn": "Women\u0027s Health",
+              "children": []
+            },
+            {
+              "name": "男性健康",
+              "nameEn": "Men\u0027s Health",
+              "children": []
+            },
+            {
+              "name": "老年健康",
+              "nameEn": "Elderly health",
+              "children": []
+            },
+            {
+              "name": "健康养生",
+              "nameEn": "Health regimen",
+              "children": []
+            },
+            {
+              "name": "心理健康",
+              "nameEn": "Mental Health",
+              "children": []
+            },
+            {
+              "name": "成人两性",
+              "nameEn": "Adult sexes",
+              "children": []
+            },
+            {
+              "name": "医疗器械",
+              "nameEn": "医疗器械",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "儿童亲子",
+          "nameEn": "Parents and",
+          "children": [
+            {
+              "name": "怀孕",
+              "nameEn": "Pregnancy",
+              "children": []
+            },
+            {
+              "name": "育儿",
+              "nameEn": "Parenting",
+              "children": []
+            },
+            {
+              "name": "儿歌故事",
+              "nameEn": "Story songs",
+              "children": []
+            },
+            {
+              "name": "儿童健康",
+              "nameEn": "Children\u0027s Health",
+              "children": []
+            },
+            {
+              "name": "儿童教育",
+              "nameEn": "Children\u0027s Education",
+              "children": []
+            },
+            {
+              "name": "儿童娱乐",
+              "nameEn": "Children\u0027s entertainment",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "学习教育",
+          "nameEn": "Learning Education",
+          "children": [
+            {
+              "name": "考试",
+              "nameEn": "Exam",
+              "children": []
+            },
+            {
+              "name": "出国",
+              "nameEn": "Abroad",
+              "children": []
+            },
+            {
+              "name": "课程",
+              "nameEn": "Curriculum",
+              "children": [
+                {
+                  "name": "初等教育",
+                  "nameEn": "Primary education",
+                  "children": []
+                },
+                {
+                  "name": "中等教育",
+                  "nameEn": "Secondary Education",
+                  "children": []
+                },
+                {
+                  "name": "高等教育",
+                  "nameEn": "Higher Education",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "外语",
+              "nameEn": "Foreign language",
+              "children": [
+                {
+                  "name": "英语",
+                  "nameEn": "English",
+                  "children": []
+                },
+                {
+                  "name": "日语",
+                  "nameEn": "Japanese",
+                  "children": []
+                },
+                {
+                  "name": "韩语",
+                  "nameEn": "Korean",
+                  "children": []
+                },
+                {
+                  "name": "汉语",
+                  "nameEn": "Chinese",
+                  "children": []
+                },
+                {
+                  "name": "法语",
+                  "nameEn": "法语",
+                  "children": []
+                },
+                {
+                  "name": "阿拉伯语",
+                  "nameEn": "阿拉伯语",
+                  "children": []
+                },
+                {
+                  "name": "俄语",
+                  "nameEn": "俄语",
+                  "children": []
+                },
+                {
+                  "name": "西班牙语",
+                  "nameEn": "西班牙语",
+                  "children": []
+                },
+                {
+                  "name": "其它语种",
+                  "nameEn": "Other languages",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "职业教育",
+              "nameEn": "Vocational Education",
+              "children": [
+                {
+                  "name": "法律",
+                  "nameEn": "Law",
+                  "children": []
+                },
+                {
+                  "name": "金融",
+                  "nameEn": "Financial",
+                  "children": []
+                },
+                {
+                  "name": "建筑",
+                  "nameEn": "Building",
+                  "children": []
+                },
+                {
+                  "name": "医药",
+                  "nameEn": "Medicine",
+                  "children": []
+                },
+                {
+                  "name": "管理",
+                  "nameEn": "Management",
+                  "children": []
+                },
+                {
+                  "name": "教育",
+                  "nameEn": "Education",
+                  "children": []
+                },
+                {
+                  "name": "IT",
+                  "nameEn": "IT",
+                  "children": []
+                },
+                {
+                  "name": "设计",
+                  "nameEn": "Design",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "公务员",
+              "nameEn": "公务员",
+              "children": []
+            },
+            {
+              "name": "字典翻译",
+              "nameEn": "Dictionary translation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "职场",
+          "nameEn": "Workplace",
+          "children": [
+            {
+              "name": "时间管理",
+              "nameEn": "Time Management",
+              "children": []
+            },
+            {
+              "name": "求职招聘",
+              "nameEn": "Jobs",
+              "children": []
+            },
+            {
+              "name": "职场礼仪",
+              "nameEn": "Workplace etiquette",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "商务办公",
+          "nameEn": "Business office",
+          "children": [
+            {
+              "name": "邮箱",
+              "nameEn": "Mailbox",
+              "children": []
+            },
+            {
+              "name": "名片",
+              "nameEn": "Business card",
+              "children": []
+            },
+            {
+              "name": "办公软件",
+              "nameEn": "Office Software",
+              "children": []
+            },
+            {
+              "name": "记事日程",
+              "nameEn": "Notepad schedule",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "B2B",
+          "nameEn": "B2B",
+          "children": []
+        },
+        {
+          "name": "IT技术",
+          "nameEn": "IT technology",
+          "children": []
+        },
+        {
+          "name": "分类信息",
+          "nameEn": "Classified Information",
+          "children": []
+        },
+        {
+          "name": "文化艺术",
+          "nameEn": "Culture and Art",
+          "children": [
+            {
+              "name": "音乐",
+              "nameEn": "音乐",
+              "children": []
+            },
+            {
+              "name": "舞蹈",
+              "nameEn": "舞蹈",
+              "children": []
+            },
+            {
+              "name": "美术",
+              "nameEn": "美术",
+              "children": []
+            },
+            {
+              "name": "书法",
+              "nameEn": "书法",
+              "children": []
+            },
+            {
+              "name": "其他",
+              "nameEn": "其他",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "宗教",
+          "nameEn": "Religion",
+          "children": []
+        },
+        {
+          "name": "其他",
+          "nameEn": "Other",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "游戏专区",
+      "nameEn": "Games Zone",
+      "children": [
+        {
+          "name": "角色扮演",
+          "nameEn": "Role play",
+          "children": []
+        },
+        {
+          "name": "卡牌游戏",
+          "nameEn": "Card game",
+          "children": []
+        },
+        {
+          "name": "冒险游戏",
+          "nameEn": "Adventure Games",
+          "children": []
+        },
+        {
+          "name": "动作游戏",
+          "nameEn": "Action Games",
+          "children": [
+            {
+              "name": "格斗游戏",
+              "nameEn": "Fighting Games",
+              "children": []
+            },
+            {
+              "name": "跑酷游戏",
+              "nameEn": "Parkour game",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "射击游戏",
+          "nameEn": "Shooter",
+          "children": [
+            {
+              "name": "游戏方式",
+              "nameEn": "Gameplay",
+              "children": [
+                {
+                  "name": "飞行射击游戏",
+                  "nameEn": "Flight shooting game",
+                  "children": []
+                },
+                {
+                  "name": "枪械射击游戏",
+                  "nameEn": "Firearms Shooter",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "游戏视角",
+              "nameEn": "Game Perspective",
+              "children": [
+                {
+                  "name": "第一人称射击游戏",
+                  "nameEn": "First Person Shooter",
+                  "children": []
+                },
+                {
+                  "name": "第三人称射击游戏",
+                  "nameEn": "Third-person shooter",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "策略游戏",
+          "nameEn": "Strategy Games",
+          "children": [
+            {
+              "name": "塔防游戏",
+              "nameEn": "Tower Defense game",
+              "children": []
+            },
+            {
+              "name": "战略游戏",
+              "nameEn": "Strategy Games",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "体育竞速",
+          "nameEn": "Sports Racing",
+          "children": [
+            {
+              "name": "体育运动",
+              "nameEn": "Sports",
+              "children": [
+                {
+                  "name": "篮球",
+                  "nameEn": "篮球",
+                  "children": []
+                },
+                {
+                  "name": "足球",
+                  "nameEn": "足球",
+                  "children": []
+                },
+                {
+                  "name": "网球",
+                  "nameEn": "网球",
+                  "children": []
+                },
+                {
+                  "name": "保龄球",
+                  "nameEn": "保龄球",
+                  "children": []
+                },
+                {
+                  "name": "台球",
+                  "nameEn": "台球",
+                  "children": []
+                },
+                {
+                  "name": "滑雪滑板",
+                  "nameEn": "滑雪滑板",
+                  "children": []
+                },
+                {
+                  "name": "钓鱼",
+                  "nameEn": "钓鱼",
+                  "children": []
+                },
+                {
+                  "name": "射箭",
+                  "nameEn": "射箭",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "赛车竞速",
+              "nameEn": "Racing",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "模拟游戏",
+          "nameEn": "Simulation games",
+          "children": [
+            {
+              "name": "驾驶游戏",
+              "nameEn": "Driving Games",
+              "children": [
+                {
+                  "name": "第一视角驾驶",
+                  "nameEn": "第一视角驾驶",
+                  "children": []
+                },
+                {
+                  "name": "第三视角驾驶",
+                  "nameEn": "第三视角驾驶",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "经营游戏",
+              "nameEn": "Management game",
+              "children": []
+            },
+            {
+              "name": "恋爱养成",
+              "nameEn": "Love to develop",
+              "children": []
+            },
+            {
+              "name": "过家家游戏",
+              "nameEn": "Every family game",
+              "children": [
+                {
+                  "name": "医生游戏",
+                  "nameEn": "Doctor games",
+                  "children": []
+                },
+                {
+                  "name": "布置游戏",
+                  "nameEn": "Arranged game",
+                  "children": []
+                },
+                {
+                  "name": "装扮游戏",
+                  "nameEn": "Dress Up Game",
+                  "children": []
+                },
+                {
+                  "name": "料理游戏",
+                  "nameEn": "Cooking games",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "模拟动物",
+              "nameEn": "模拟动物",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "棋牌游戏",
+          "nameEn": "Chess game",
+          "children": [
+            {
+              "name": "麻将",
+              "nameEn": "Mahjong",
+              "children": []
+            },
+            {
+              "name": "纸牌游戏",
+              "nameEn": "Card Games",
+              "children": []
+            },
+            {
+              "name": "棋类游戏",
+              "nameEn": "Board Games",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "益智游戏",
+          "nameEn": "Puzzle Games",
+          "children": [
+            {
+              "name": "找茬游戏",
+              "nameEn": "Finding fault games",
+              "children": []
+            },
+            {
+              "name": "数独游戏",
+              "nameEn": "Sudoku",
+              "children": []
+            },
+            {
+              "name": "反应游戏",
+              "nameEn": "Reaction game",
+              "children": []
+            },
+            {
+              "name": "文字解谜",
+              "nameEn": "Word puzzle",
+              "children": []
+            },
+            {
+              "name": "物理游戏",
+              "nameEn": "Physics Games",
+              "children": []
+            },
+            {
+              "name": "消除合成",
+              "nameEn": "Eliminate synthesis",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "音乐舞蹈",
+          "nameEn": "Music and Dance",
+          "children": [
+            {
+              "name": "乐器演奏",
+              "nameEn": "Musical",
+              "children": []
+            },
+            {
+              "name": "音乐节奏",
+              "nameEn": "Music rhythm",
+              "children": []
+            },
+            {
+              "name": "舞蹈游戏",
+              "nameEn": "Dance game",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "赌博游戏",
+          "nameEn": "赌博游戏",
+          "children": []
+        },
+        {
+          "name": "派对游戏",
+          "nameEn": "派对游戏",
+          "children": []
+        },
+        {
+          "name": "游戏风格",
+          "nameEn": "Game style",
+          "children": [
+            {
+              "name": "Q版萌系",
+              "nameEn": "Q version Meng Department",
+              "children": []
+            },
+            {
+              "name": "版权改编类",
+              "nameEn": "Copyright adaptation class",
+              "children": [
+                {
+                  "name": "影视类改编",
+                  "nameEn": "Film and television adaptations",
+                  "children": []
+                },
+                {
+                  "name": "小说类改编",
+                  "nameEn": "Fiction adaptation",
+                  "children": []
+                },
+                {
+                  "name": "漫画类改编",
+                  "nameEn": "Comics adaptation",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "简笔画",
+              "nameEn": "Stick figure",
+              "children": []
+            },
+            {
+              "name": "搞怪",
+              "nameEn": "Funny",
+              "children": []
+            },
+            {
+              "name": "像素",
+              "nameEn": "Pixels",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "游戏工具",
+          "nameEn": "Game Tools",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "用户身份",
+      "nameEn": "User ID",
+      "children": [
+        {
+          "name": "性别",
+          "nameEn": "Sex",
+          "children": [
+            {
+              "name": "女性",
+              "nameEn": "Female",
+              "children": []
+            },
+            {
+              "name": "男性",
+              "nameEn": "Male",
+              "children": []
+            },
+            {
+              "name": "未知",
+              "nameEn": "Unknown",
+              "children": []
+            }
+          ]
+   	    }
+   	  ]
+    }
+  ]
+}

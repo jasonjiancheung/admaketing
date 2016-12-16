@@ -1,0 +1,702 @@
+{
+  "cityName": "安顺市",
+  "businessCenters": [
+    {
+      "name": "西秀区",
+      "locations": [
+        {
+          "name": "东关",
+          "longitude": 105.953255,
+          "latitude": 26.251667,
+          "radius": "232"
+        }
+      ]
+    },
+    {
+      "name": "平坝县",
+      "locations": [
+        {
+          "name": "天龙镇",
+          "longitude": 106.16308,
+          "latitude": 26.35282,
+          "radius": "839"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "西秀区",
+      "locations": [
+        {
+          "name": "安顺黄果树机场",
+          "longitude": 105.87646,
+          "latitude": 26.253996,
+          "radius": ""
+        },
+        {
+          "name": "兴伟古生物化石博物馆",
+          "longitude": 105.89178,
+          "latitude": 26.23057,
+          "radius": ""
+        },
+        {
+          "name": "龙宫风景名胜区",
+          "longitude": 105.88892,
+          "latitude": 26.092907,
+          "radius": ""
+        },
+        {
+          "name": "云峰屯堡景区",
+          "longitude": 106.09772,
+          "latitude": 26.29334,
+          "radius": ""
+        },
+        {
+          "name": "王若飞烈士纪念碑",
+          "longitude": 105.90436,
+          "latitude": 26.25904,
+          "radius": ""
+        },
+        {
+          "name": "西秀山白塔",
+          "longitude": 105.933716,
+          "latitude": 26.241465,
+          "radius": ""
+        },
+        {
+          "name": "安顺市田径场",
+          "longitude": 105.94417,
+          "latitude": 26.24834,
+          "radius": ""
+        },
+        {
+          "name": "多彩万象旅游城",
+          "longitude": 105.87623,
+          "latitude": 26.22303,
+          "radius": ""
+        },
+        {
+          "name": "安顺文庙",
+          "longitude": 105.93527,
+          "latitude": 26.24855,
+          "radius": ""
+        },
+        {
+          "name": "云山屯",
+          "longitude": 106.0872,
+          "latitude": 26.28933,
+          "radius": ""
+        },
+        {
+          "name": "兴伟石博园文化旅游景区",
+          "longitude": 105.89135,
+          "latitude": 26.23328,
+          "radius": ""
+        },
+        {
+          "name": "安顺广播电视塔顶",
+          "longitude": 105.9481,
+          "latitude": 26.25514,
+          "radius": ""
+        },
+        {
+          "name": "凤仪书院",
+          "longitude": 105.93134,
+          "latitude": 26.24391,
+          "radius": ""
+        },
+        {
+          "name": "谷氏旧居",
+          "longitude": 105.93363,
+          "latitude": 26.24944,
+          "radius": ""
+        },
+        {
+          "name": "崇真寺",
+          "longitude": 105.93132,
+          "latitude": 26.24325,
+          "radius": ""
+        },
+        {
+          "name": "贵州屯堡文化博物馆",
+          "longitude": 106.09772,
+          "latitude": 26.29334,
+          "radius": ""
+        },
+        {
+          "name": "云山屯古建筑群景区",
+          "longitude": 106.08886,
+          "latitude": 26.28872,
+          "radius": ""
+        },
+        {
+          "name": "宁谷汉墓群",
+          "longitude": 106.00171,
+          "latitude": 26.21277,
+          "radius": ""
+        },
+        {
+          "name": "苗岭屯堡古镇",
+          "longitude": 106.01397,
+          "latitude": 26.26714,
+          "radius": ""
+        },
+        {
+          "name": "安顺市体育中心",
+          "longitude": 105.89439,
+          "latitude": 26.2152,
+          "radius": ""
+        },
+        {
+          "name": "宁谷古汉邑墓景区",
+          "longitude": 105.99585,
+          "latitude": 26.21091,
+          "radius": ""
+        },
+        {
+          "name": "安顺古城墙",
+          "longitude": 105.94113,
+          "latitude": 26.24449,
+          "radius": ""
+        },
+        {
+          "name": "九龙山森林公园",
+          "longitude": 106.08234,
+          "latitude": 26.16524,
+          "radius": ""
+        },
+        {
+          "name": "天落湾",
+          "longitude": 106.00162,
+          "latitude": 26.21269,
+          "radius": ""
+        },
+        {
+          "name": "千峰山风景名胜区(西秀区轿子山镇财政所西南)",
+          "longitude": 105.93528,
+          "latitude": 26.3282,
+          "radius": ""
+        },
+        {
+          "name": "安顺市博物馆",
+          "longitude": 105.94968,
+          "latitude": 26.24995,
+          "radius": ""
+        },
+        {
+          "name": "宁谷遗址",
+          "longitude": 105.97041,
+          "latitude": 26.20764,
+          "radius": ""
+        },
+        {
+          "name": "安顺白塔",
+          "longitude": 105.93319,
+          "latitude": 26.24055,
+          "radius": ""
+        },
+        {
+          "name": "多彩屯堡剧场",
+          "longitude": 105.87405,
+          "latitude": 26.2233,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "平坝县",
+      "locations": [
+        {
+          "name": "天龙屯堡",
+          "longitude": 106.16235,
+          "latitude": 26.35105,
+          "radius": ""
+        },
+        {
+          "name": "邢江河乡村旅游休闲度假区",
+          "longitude": 106.25571,
+          "latitude": 26.30646,
+          "radius": ""
+        },
+        {
+          "name": "珍珠泉",
+          "longitude": 106.31532,
+          "latitude": 26.43256,
+          "radius": ""
+        },
+        {
+          "name": "飞虎山",
+          "longitude": 106.28356,
+          "latitude": 26.33437,
+          "radius": ""
+        },
+        {
+          "name": "天龙学堂旧址",
+          "longitude": 106.1593,
+          "latitude": 26.34996,
+          "radius": ""
+        },
+        {
+          "name": "沈万三故居",
+          "longitude": 106.16215,
+          "latitude": 26.35068,
+          "radius": ""
+        },
+        {
+          "name": "老鸡场、新堡汉墓",
+          "longitude": 106.31493,
+          "latitude": 26.46533,
+          "radius": ""
+        },
+        {
+          "name": "金家大坪汉墓",
+          "longitude": 106.32715,
+          "latitude": 26.47166,
+          "radius": ""
+        },
+        {
+          "name": "听泉",
+          "longitude": 106.45182,
+          "latitude": 26.35723,
+          "radius": ""
+        },
+        {
+          "name": "夏云黎阳群众体育场",
+          "longitude": 106.31466,
+          "latitude": 26.45423,
+          "radius": ""
+        },
+        {
+          "name": "中华财神万三",
+          "longitude": 106.16208,
+          "latitude": 26.35123,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "普定县",
+      "locations": [
+        {
+          "name": "普定县体育场",
+          "longitude": 105.74016,
+          "latitude": 26.30576,
+          "radius": ""
+        },
+        {
+          "name": "环夜郎湖休闲度假旅游区",
+          "longitude": 105.72892,
+          "latitude": 26.36101,
+          "radius": ""
+        },
+        {
+          "name": "环夜郎湖休闲度假旅游区生态农业旅游观光园",
+          "longitude": 105.74368,
+          "latitude": 26.26556,
+          "radius": ""
+        },
+        {
+          "name": "白岩脚洞遗址",
+          "longitude": 105.6943,
+          "latitude": 26.24904,
+          "radius": ""
+        },
+        {
+          "name": "普定新城体育场",
+          "longitude": 105.74547,
+          "latitude": 26.26123,
+          "radius": ""
+        },
+        {
+          "name": "梭筛风景名胜区",
+          "longitude": 105.75196,
+          "latitude": 26.38624,
+          "radius": ""
+        },
+        {
+          "name": "桂花苑",
+          "longitude": 105.7274,
+          "latitude": 26.28901,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "镇宁布依族苗族自治县",
+      "locations": [
+        {
+          "name": "黄果树天星桥景区",
+          "longitude": 105.67977,
+          "latitude": 25.94788,
+          "radius": ""
+        },
+        {
+          "name": "夜郎洞景区",
+          "longitude": 105.62896,
+          "latitude": 26.088,
+          "radius": ""
+        },
+        {
+          "name": "石头寨",
+          "longitude": 105.67856,
+          "latitude": 26.02525,
+          "radius": ""
+        },
+        {
+          "name": "波胜剧场",
+          "longitude": 105.67424,
+          "latitude": 26.02016,
+          "radius": ""
+        },
+        {
+          "name": "钟鼓楼遗址",
+          "longitude": 105.76473,
+          "latitude": 26.0562,
+          "radius": ""
+        },
+        {
+          "name": "水上石林区",
+          "longitude": 105.67608,
+          "latitude": 25.93791,
+          "radius": ""
+        },
+        {
+          "name": "抗战情缘",
+          "longitude": 105.67096,
+          "latitude": 25.99323,
+          "radius": ""
+        },
+        {
+          "name": "天下奇观",
+          "longitude": 105.68269,
+          "latitude": 25.99647,
+          "radius": ""
+        },
+        {
+          "name": "真经难求",
+          "longitude": 105.67582,
+          "latitude": 25.99443,
+          "radius": ""
+        },
+        {
+          "name": "喀斯特水上森林",
+          "longitude": 105.67643,
+          "latitude": 25.93546,
+          "radius": ""
+        },
+        {
+          "name": "陶怡亭",
+          "longitude": 105.67603,
+          "latitude": 25.93613,
+          "radius": ""
+        },
+        {
+          "name": "石茎榕",
+          "longitude": 105.67519,
+          "latitude": 25.93505,
+          "radius": ""
+        },
+        {
+          "name": "银链坠潭瀑布",
+          "longitude": 105.67592,
+          "latitude": 25.937,
+          "radius": ""
+        },
+        {
+          "name": "养心潭",
+          "longitude": 105.67641,
+          "latitude": 25.93577,
+          "radius": ""
+        },
+        {
+          "name": "连环桥",
+          "longitude": 105.6754,
+          "latitude": 25.93592,
+          "radius": ""
+        },
+        {
+          "name": "镇宁城墙",
+          "longitude": 105.76486,
+          "latitude": 26.05625,
+          "radius": ""
+        },
+        {
+          "name": "双明洞摩崖石刻",
+          "longitude": 105.73106,
+          "latitude": 26.04003,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "关岭布依族苗族自治县",
+      "locations": [
+        {
+          "name": "黄果树风景名胜区",
+          "longitude": 105.66721,
+          "latitude": 25.982124,
+          "radius": ""
+        },
+        {
+          "name": "陡坡塘风景区",
+          "longitude": 105.67261,
+          "latitude": 25.998253,
+          "radius": ""
+        },
+        {
+          "name": "关岭体育馆",
+          "longitude": 105.61938,
+          "latitude": 25.93518,
+          "radius": ""
+        },
+        {
+          "name": "滑石哨景区",
+          "longitude": 105.67003,
+          "latitude": 25.97686,
+          "radius": ""
+        },
+        {
+          "name": "滴水滩瀑布景区",
+          "longitude": 105.61565,
+          "latitude": 25.9763,
+          "radius": ""
+        },
+        {
+          "name": "花江大峡谷",
+          "longitude": 105.614235,
+          "latitude": 25.693012,
+          "radius": ""
+        },
+        {
+          "name": "天星洞风景区",
+          "longitude": 105.67731,
+          "latitude": 25.9463,
+          "radius": ""
+        },
+        {
+          "name": "贵州关岭化石群国家地质公园",
+          "longitude": 105.42855,
+          "latitude": 25.88451,
+          "radius": ""
+        },
+        {
+          "name": "红崖古迹",
+          "longitude": 105.64933,
+          "latitude": 25.94123,
+          "radius": ""
+        },
+        {
+          "name": "关索岭",
+          "longitude": 105.61929,
+          "latitude": 25.93117,
+          "radius": ""
+        },
+        {
+          "name": "一帆风顺",
+          "longitude": 105.67918,
+          "latitude": 25.94653,
+          "radius": ""
+        },
+        {
+          "name": "八仙过海",
+          "longitude": 105.67705,
+          "latitude": 25.94214,
+          "radius": ""
+        },
+        {
+          "name": "冒水潭",
+          "longitude": 105.67665,
+          "latitude": 25.94169,
+          "radius": ""
+        },
+        {
+          "name": "空灵",
+          "longitude": 105.67885,
+          "latitude": 25.9467,
+          "radius": ""
+        },
+        {
+          "name": "数生步",
+          "longitude": 105.67899,
+          "latitude": 25.94718,
+          "radius": ""
+        },
+        {
+          "name": "铁链桥",
+          "longitude": 105.67598,
+          "latitude": 25.94288,
+          "radius": ""
+        },
+        {
+          "name": "牛角井岩壁画",
+          "longitude": 105.70928,
+          "latitude": 25.64274,
+          "radius": ""
+        },
+        {
+          "name": "苗岭梯田",
+          "longitude": 105.67701,
+          "latitude": 25.94212,
+          "radius": ""
+        },
+        {
+          "name": "鸳鸯藤",
+          "longitude": 105.67913,
+          "latitude": 25.9452,
+          "radius": ""
+        },
+        {
+          "name": "侧身岩",
+          "longitude": 105.6791,
+          "latitude": 25.94566,
+          "radius": ""
+        },
+        {
+          "name": "群瀑荟萃",
+          "longitude": 105.67705,
+          "latitude": 25.94214,
+          "radius": ""
+        },
+        {
+          "name": "飞瀑桥",
+          "longitude": 105.67404,
+          "latitude": 25.93603,
+          "radius": ""
+        },
+        {
+          "name": "根艺天成",
+          "longitude": 105.67905,
+          "latitude": 25.9451,
+          "radius": ""
+        },
+        {
+          "name": "美女榕",
+          "longitude": 105.67858,
+          "latitude": 25.94496,
+          "radius": ""
+        },
+        {
+          "name": "爱你一生·古藤桥",
+          "longitude": 105.6745,
+          "latitude": 25.93561,
+          "radius": ""
+        },
+        {
+          "name": "九龙盘壁",
+          "longitude": 105.67874,
+          "latitude": 25.94503,
+          "radius": ""
+        },
+        {
+          "name": "马尾瀑布",
+          "longitude": 105.67916,
+          "latitude": 25.94726,
+          "radius": ""
+        },
+        {
+          "name": "花江铁索桥",
+          "longitude": 105.60271,
+          "latitude": 25.73012,
+          "radius": ""
+        },
+        {
+          "name": "擎天柱",
+          "longitude": 105.67701,
+          "latitude": 25.94212,
+          "radius": ""
+        },
+        {
+          "name": "关脚峡瀑布",
+          "longitude": 105.7111,
+          "latitude": 25.78261,
+          "radius": ""
+        },
+        {
+          "name": "天外来石",
+          "longitude": 105.67948,
+          "latitude": 25.94621,
+          "radius": ""
+        },
+        {
+          "name": "长青峡",
+          "longitude": 105.67985,
+          "latitude": 25.94592,
+          "radius": ""
+        },
+        {
+          "name": "灵龟无梁殿",
+          "longitude": 105.62262,
+          "latitude": 25.82066,
+          "radius": ""
+        },
+        {
+          "name": "秋枫亭",
+          "longitude": 105.67937,
+          "latitude": 25.9452,
+          "radius": ""
+        },
+        {
+          "name": "寻根岩",
+          "longitude": 105.67901,
+          "latitude": 25.94529,
+          "radius": ""
+        },
+        {
+          "name": "托石补天",
+          "longitude": 105.67883,
+          "latitude": 25.94512,
+          "radius": ""
+        },
+        {
+          "name": "木城河",
+          "longitude": 105.67372,
+          "latitude": 25.86887,
+          "radius": ""
+        },
+        {
+          "name": "郎宫",
+          "longitude": 105.66842,
+          "latitude": 25.89689,
+          "radius": ""
+        },
+        {
+          "name": "高老庄-猪八戒背媳妇之处",
+          "longitude": 105.67721,
+          "latitude": 25.94528,
+          "radius": ""
+        },
+        {
+          "name": "星峡飞瀑",
+          "longitude": 105.67406,
+          "latitude": 25.93622,
+          "radius": ""
+        },
+        {
+          "name": "雄狮把关",
+          "longitude": 105.67892,
+          "latitude": 25.94503,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "紫云苗族布依族自治县",
+      "locations": [
+        {
+          "name": "格凸河风景区",
+          "longitude": 106.26338,
+          "latitude": 25.67665,
+          "radius": ""
+        },
+        {
+          "name": "紫云石塔景区",
+          "longitude": 106.08796,
+          "latitude": 25.74442,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

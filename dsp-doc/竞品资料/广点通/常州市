@@ -1,0 +1,1400 @@
+{
+  "cityName": "常州市",
+  "businessCenters": [
+    {
+      "name": "天宁区",
+      "locations": [
+        {
+          "name": "文化宫",
+          "longitude": 119.96357,
+          "latitude": 31.77664,
+          "radius": "460"
+        },
+        {
+          "name": "丽华",
+          "longitude": 119.978165,
+          "latitude": 31.752087,
+          "radius": "2412"
+        },
+        {
+          "name": "延陵西路",
+          "longitude": 119.9576,
+          "latitude": 31.778072,
+          "radius": "705"
+        },
+        {
+          "name": "兰陵",
+          "longitude": 119.9477,
+          "latitude": 31.75775,
+          "radius": "1217"
+        },
+        {
+          "name": "清凉",
+          "longitude": 119.96097,
+          "latitude": 31.757042,
+          "radius": "903"
+        },
+        {
+          "name": "北环路",
+          "longitude": 119.978226,
+          "latitude": 31.790108,
+          "radius": "1007"
+        },
+        {
+          "name": "河苑",
+          "longitude": 120.05274,
+          "latitude": 31.721018,
+          "radius": "757"
+        },
+        {
+          "name": "青龙",
+          "longitude": 120.00707,
+          "latitude": 31.782331,
+          "radius": "3096"
+        },
+        {
+          "name": "延陵东路",
+          "longitude": 119.97733,
+          "latitude": 31.768564,
+          "radius": "389"
+        },
+        {
+          "name": "红梅",
+          "longitude": 119.97961,
+          "latitude": 31.777737,
+          "radius": "1873"
+        }
+      ]
+    },
+    {
+      "name": "钟楼区",
+      "locations": [
+        {
+          "name": "勤业",
+          "longitude": 119.92817,
+          "latitude": 31.786325,
+          "radius": "945"
+        },
+        {
+          "name": "白云",
+          "longitude": 119.909515,
+          "latitude": 31.782154,
+          "radius": "840"
+        },
+        {
+          "name": "西新桥",
+          "longitude": 119.95094,
+          "latitude": 31.794813,
+          "radius": "965"
+        },
+        {
+          "name": "北大街",
+          "longitude": 119.95452,
+          "latitude": 31.782516,
+          "radius": "302"
+        },
+        {
+          "name": "西林",
+          "longitude": 119.88709,
+          "latitude": 31.76734,
+          "radius": "1652"
+        },
+        {
+          "name": "莱蒙都会",
+          "longitude": 119.952705,
+          "latitude": 31.77729,
+          "radius": "417"
+        },
+        {
+          "name": "清潭",
+          "longitude": 119.93218,
+          "latitude": 31.767027,
+          "radius": "1192"
+        }
+      ]
+    },
+    {
+      "name": "戚墅堰区",
+      "locations": [
+        {
+          "name": "剑湖",
+          "longitude": 120.07314,
+          "latitude": 31.723785,
+          "radius": "3624"
+        },
+        {
+          "name": "潞城",
+          "longitude": 120.042786,
+          "latitude": 31.760271,
+          "radius": "741"
+        }
+      ]
+    },
+    {
+      "name": "新北区",
+      "locations": [
+        {
+          "name": "晋陵北路",
+          "longitude": 119.98322,
+          "latitude": 31.821533,
+          "radius": "2222"
+        },
+        {
+          "name": "龙虎塘",
+          "longitude": 119.98618,
+          "latitude": 31.847738,
+          "radius": "841"
+        }
+      ]
+    },
+    {
+      "name": "武进区",
+      "locations": [
+        {
+          "name": "湖塘",
+          "longitude": 119.955765,
+          "latitude": 31.70694,
+          "radius": "6108"
+        },
+        {
+          "name": "大学城",
+          "longitude": 119.94318,
+          "latitude": 31.674755,
+          "radius": "511"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "天宁区",
+      "locations": [
+        {
+          "name": "吕宫府",
+          "longitude": 119.96097,
+          "latitude": 31.77715,
+          "radius": ""
+        },
+        {
+          "name": "文化宫影剧院",
+          "longitude": 119.96412,
+          "latitude": 31.77698,
+          "radius": ""
+        },
+        {
+          "name": "兰陵延陵中路",
+          "longitude": 119.97238,
+          "latitude": 31.77047,
+          "radius": ""
+        },
+        {
+          "name": "盛宣怀故居",
+          "longitude": 119.95542,
+          "latitude": 31.77449,
+          "radius": ""
+        },
+        {
+          "name": "延陵",
+          "longitude": 119.97129,
+          "latitude": 31.77099,
+          "radius": ""
+        },
+        {
+          "name": "中新桥",
+          "longitude": 119.95691,
+          "latitude": 31.77214,
+          "radius": ""
+        },
+        {
+          "name": "前北岸明代楠木厅",
+          "longitude": 119.96018,
+          "latitude": 31.77734,
+          "radius": ""
+        },
+        {
+          "name": "赵翼故居",
+          "longitude": 119.96185,
+          "latitude": 31.7765,
+          "radius": ""
+        },
+        {
+          "name": "栋达文体运动馆",
+          "longitude": 119.97022,
+          "latitude": 31.75986,
+          "radius": ""
+        },
+        {
+          "name": "张太雷故居",
+          "longitude": 119.96186,
+          "latitude": 31.76439,
+          "radius": ""
+        },
+        {
+          "name": "太平兴国石经幢",
+          "longitude": 119.97423,
+          "latitude": 31.76951,
+          "radius": ""
+        },
+        {
+          "name": "唐荆川宅",
+          "longitude": 119.9582,
+          "latitude": 31.77208,
+          "radius": ""
+        },
+        {
+          "name": "黄仲则故居",
+          "longitude": 119.95802,
+          "latitude": 31.77889,
+          "radius": ""
+        },
+        {
+          "name": "九华禅寺",
+          "longitude": 119.97603,
+          "latitude": 31.76796,
+          "radius": ""
+        },
+        {
+          "name": "通吴门",
+          "longitude": 119.97437,
+          "latitude": 31.76938,
+          "radius": ""
+        },
+        {
+          "name": "陈洽墓",
+          "longitude": 119.94578,
+          "latitude": 31.7458,
+          "radius": ""
+        },
+        {
+          "name": "美林游泳馆",
+          "longitude": 119.94605,
+          "latitude": 31.75599,
+          "radius": ""
+        },
+        {
+          "name": "北塘河水利风景区",
+          "longitude": 120.01446,
+          "latitude": 31.80024,
+          "radius": ""
+        },
+        {
+          "name": "四方楼",
+          "longitude": 119.96254,
+          "latitude": 31.77734,
+          "radius": ""
+        },
+        {
+          "name": "吕思勉故居",
+          "longitude": 119.95906,
+          "latitude": 31.78297,
+          "radius": ""
+        },
+        {
+          "name": "常州文庙大成殿",
+          "longitude": 119.96399,
+          "latitude": 31.77777,
+          "radius": ""
+        },
+        {
+          "name": "新坊桥",
+          "longitude": 119.96316,
+          "latitude": 31.77195,
+          "radius": ""
+        },
+        {
+          "name": "大成一厂旧址",
+          "longitude": 119.96101,
+          "latitude": 31.76789,
+          "radius": ""
+        },
+        {
+          "name": "张宅",
+          "longitude": 119.95634,
+          "latitude": 31.772,
+          "radius": ""
+        },
+        {
+          "name": "关河",
+          "longitude": 119.97879,
+          "latitude": 31.76788,
+          "radius": ""
+        },
+        {
+          "name": "新龙运动馆",
+          "longitude": 119.99929,
+          "latitude": 31.77846,
+          "radius": ""
+        },
+        {
+          "name": "东水关",
+          "longitude": 119.97911,
+          "latitude": 31.7682,
+          "radius": ""
+        },
+        {
+          "name": "耦浔轩",
+          "longitude": 119.96385,
+          "latitude": 31.77737,
+          "radius": ""
+        },
+        {
+          "name": "吕景瑞故居",
+          "longitude": 119.96193,
+          "latitude": 31.77266,
+          "radius": ""
+        },
+        {
+          "name": "毗陵",
+          "longitude": 119.97168,
+          "latitude": 31.77079,
+          "radius": ""
+        },
+        {
+          "name": "法雨讲堂",
+          "longitude": 119.97599,
+          "latitude": 31.76804,
+          "radius": ""
+        },
+        {
+          "name": "中国大运河江南运河常州城区段",
+          "longitude": 119.95693,
+          "latitude": 31.77219,
+          "radius": ""
+        },
+        {
+          "name": "顾孝子祠",
+          "longitude": 119.95888,
+          "latitude": 31.77229,
+          "radius": ""
+        },
+        {
+          "name": "龚宅",
+          "longitude": 119.95513,
+          "latitude": 31.77277,
+          "radius": ""
+        },
+        {
+          "name": "关帝庙弄民宅",
+          "longitude": 119.96611,
+          "latitude": 31.77453,
+          "radius": ""
+        },
+        {
+          "name": "龙城象教",
+          "longitude": 119.96898,
+          "latitude": 31.77231,
+          "radius": ""
+        },
+        {
+          "name": "进士坊残件",
+          "longitude": 119.95911,
+          "latitude": 31.7719,
+          "radius": ""
+        },
+        {
+          "name": "古井",
+          "longitude": 119.95474,
+          "latitude": 31.77297,
+          "radius": ""
+        },
+        {
+          "name": "钱庄旧址",
+          "longitude": 119.96182,
+          "latitude": 31.77191,
+          "radius": ""
+        },
+        {
+          "name": "刘仙师庙",
+          "longitude": 119.96222,
+          "latitude": 31.77269,
+          "radius": ""
+        },
+        {
+          "name": "孙慎行孙星衍故居",
+          "longitude": 119.95609,
+          "latitude": 31.77555,
+          "radius": ""
+        },
+        {
+          "name": "海棠居",
+          "longitude": 119.97084,
+          "latitude": 31.77111,
+          "radius": ""
+        },
+        {
+          "name": "何宅",
+          "longitude": 119.9552,
+          "latitude": 31.77273,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "钟楼区",
+      "locations": [
+        {
+          "name": "常州青枫射箭中心",
+          "longitude": 119.90061,
+          "latitude": 31.79299,
+          "radius": ""
+        },
+        {
+          "name": "红星大剧院(延陵店)",
+          "longitude": 119.95631,
+          "latitude": 31.7787,
+          "radius": ""
+        },
+        {
+          "name": "运河五号创意街区",
+          "longitude": 119.93675,
+          "latitude": 31.78836,
+          "radius": ""
+        },
+        {
+          "name": "常州市清潭体育中心",
+          "longitude": 119.94446,
+          "latitude": 31.77018,
+          "radius": ""
+        },
+        {
+          "name": "南大街商贸休闲旅游区",
+          "longitude": 119.95277,
+          "latitude": 31.77707,
+          "radius": ""
+        },
+        {
+          "name": "千果巷",
+          "longitude": 119.95356,
+          "latitude": 31.7743,
+          "radius": ""
+        },
+        {
+          "name": "志王府",
+          "longitude": 119.95101,
+          "latitude": 31.77948,
+          "radius": ""
+        },
+        {
+          "name": "椿桂园",
+          "longitude": 119.95234,
+          "latitude": 31.78955,
+          "radius": ""
+        },
+        {
+          "name": "西瀛门",
+          "longitude": 119.94994,
+          "latitude": 31.7784,
+          "radius": ""
+        },
+        {
+          "name": "瞿秋白故居",
+          "longitude": 119.95176,
+          "latitude": 31.78057,
+          "radius": ""
+        },
+        {
+          "name": "唐荆川先生读书处坊",
+          "longitude": 119.92529,
+          "latitude": 31.76561,
+          "radius": ""
+        },
+        {
+          "name": "近水阁",
+          "longitude": 119.94787,
+          "latitude": 31.7797,
+          "radius": ""
+        },
+        {
+          "name": "天禧桥",
+          "longitude": 119.95236,
+          "latitude": 31.77552,
+          "radius": ""
+        },
+        {
+          "name": "文亨桥",
+          "longitude": 119.94817,
+          "latitude": 31.77959,
+          "radius": ""
+        },
+        {
+          "name": "京杭大运河",
+          "longitude": 119.94824,
+          "latitude": 31.77942,
+          "radius": ""
+        },
+        {
+          "name": "常州梳篦博物馆",
+          "longitude": 119.93745,
+          "latitude": 31.78086,
+          "radius": ""
+        },
+        {
+          "name": "常州市游泳健身中心",
+          "longitude": 119.9544,
+          "latitude": 31.7886,
+          "radius": ""
+        },
+        {
+          "name": "天鹅游泳馆",
+          "longitude": 119.93267,
+          "latitude": 31.76867,
+          "radius": ""
+        },
+        {
+          "name": "西直街518-524号民居",
+          "longitude": 119.94088,
+          "latitude": 31.78814,
+          "radius": ""
+        },
+        {
+          "name": "西蠡古渡",
+          "longitude": 119.93669,
+          "latitude": 31.77961,
+          "radius": ""
+        },
+        {
+          "name": "玉佩弄5号民宅",
+          "longitude": 119.95451,
+          "latitude": 31.78147,
+          "radius": ""
+        },
+        {
+          "name": "夏家大院",
+          "longitude": 119.94508,
+          "latitude": 31.78396,
+          "radius": ""
+        },
+        {
+          "name": "常州酱品厂烟囱",
+          "longitude": 119.93942,
+          "latitude": 31.78659,
+          "radius": ""
+        },
+        {
+          "name": "篦梁灯火",
+          "longitude": 119.94749,
+          "latitude": 31.78013,
+          "radius": ""
+        },
+        {
+          "name": "古城西水关遗址",
+          "longitude": 119.95005,
+          "latitude": 31.778,
+          "radius": ""
+        },
+        {
+          "name": "三堡街81号民居",
+          "longitude": 119.93905,
+          "latitude": 31.78819,
+          "radius": ""
+        },
+        {
+          "name": "宫梳楼",
+          "longitude": 119.94735,
+          "latitude": 31.78047,
+          "radius": ""
+        },
+        {
+          "name": "诗渡亭",
+          "longitude": 119.93674,
+          "latitude": 31.7796,
+          "radius": ""
+        },
+        {
+          "name": "南河沿俞宅",
+          "longitude": 119.93869,
+          "latitude": 31.78057,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "戚墅堰区",
+      "locations": [
+        {
+          "name": "戚机厂体育馆",
+          "longitude": 120.05513,
+          "latitude": 31.72742,
+          "radius": ""
+        },
+        {
+          "name": "圩墩遗址公园",
+          "longitude": 120.0579,
+          "latitude": 31.71753,
+          "radius": ""
+        },
+        {
+          "name": "刘汉坤体育馆",
+          "longitude": 120.04493,
+          "latitude": 31.76766,
+          "radius": ""
+        },
+        {
+          "name": "樟村陆氏宗祠",
+          "longitude": 120.04597,
+          "latitude": 31.74289,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "新北区",
+      "locations": [
+        {
+          "name": "常州奔牛国际机场",
+          "longitude": 119.78717,
+          "latitude": 31.912418,
+          "radius": ""
+        },
+        {
+          "name": "中华恐龙园",
+          "longitude": 120.00072,
+          "latitude": 31.822632,
+          "radius": ""
+        },
+        {
+          "name": "常州奥林匹克体育中心",
+          "longitude": 119.97925,
+          "latitude": 31.80601,
+          "radius": ""
+        },
+        {
+          "name": "常州博物馆",
+          "longitude": 119.97162,
+          "latitude": 31.80888,
+          "radius": ""
+        },
+        {
+          "name": "天悦体育馆",
+          "longitude": 119.95277,
+          "latitude": 31.98702,
+          "radius": ""
+        },
+        {
+          "name": "常州大剧院",
+          "longitude": 119.97571,
+          "latitude": 31.8081,
+          "radius": ""
+        },
+        {
+          "name": "革命烈士纪念碑",
+          "longitude": 119.98548,
+          "latitude": 31.86915,
+          "radius": ""
+        },
+        {
+          "name": "常州市雁荡河水利风景区",
+          "longitude": 119.92094,
+          "latitude": 31.85059,
+          "radius": ""
+        },
+        {
+          "name": "栖凤山国际人文园",
+          "longitude": 119.79498,
+          "latitude": 32.03019,
+          "radius": ""
+        },
+        {
+          "name": "丁甘仁故居",
+          "longitude": 119.80432,
+          "latitude": 32.03289,
+          "radius": ""
+        },
+        {
+          "name": "西夏墅梅村戏楼",
+          "longitude": 119.86571,
+          "latitude": 31.94919,
+          "radius": ""
+        },
+        {
+          "name": "兴隆寺",
+          "longitude": 120.01591,
+          "latitude": 31.92548,
+          "radius": ""
+        },
+        {
+          "name": "鑫瑞鲸皇城阁",
+          "longitude": 119.80513,
+          "latitude": 32.01795,
+          "radius": ""
+        },
+        {
+          "name": "太平桥",
+          "longitude": 119.97325,
+          "latitude": 31.92078,
+          "radius": ""
+        },
+        {
+          "name": "周之祯烈士纪念碑",
+          "longitude": 119.8789,
+          "latitude": 31.87723,
+          "radius": ""
+        },
+        {
+          "name": "万绥东岳庙戏楼",
+          "longitude": 119.80349,
+          "latitude": 32.01004,
+          "radius": ""
+        },
+        {
+          "name": "常州抗战英雄纪念碑",
+          "longitude": 119.97499,
+          "latitude": 31.85522,
+          "radius": ""
+        },
+        {
+          "name": "罗溪镇全民健身中心体育馆",
+          "longitude": 119.82697,
+          "latitude": 31.89725,
+          "radius": ""
+        },
+        {
+          "name": "小河影剧院",
+          "longitude": 119.85906,
+          "latitude": 32.0122,
+          "radius": ""
+        },
+        {
+          "name": "西夏墅影剧院",
+          "longitude": 119.8264,
+          "latitude": 31.9461,
+          "radius": ""
+        },
+        {
+          "name": "百丈楠木厅",
+          "longitude": 119.96417,
+          "latitude": 31.92646,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "武进区",
+      "locations": [
+        {
+          "name": "奔牛体育馆",
+          "longitude": 119.81581,
+          "latitude": 31.85895,
+          "radius": ""
+        },
+        {
+          "name": "淹城春秋乐园",
+          "longitude": 119.93063,
+          "latitude": 31.7043,
+          "radius": ""
+        },
+        {
+          "name": "艺林园",
+          "longitude": 119.80273,
+          "latitude": 31.72641,
+          "radius": ""
+        },
+        {
+          "name": "牟家农业休闲观光园",
+          "longitude": 120.13672,
+          "latitude": 31.83764,
+          "radius": ""
+        },
+        {
+          "name": "常州市三勤农业生态园",
+          "longitude": 119.99503,
+          "latitude": 31.6802,
+          "radius": ""
+        },
+        {
+          "name": "揽月湾",
+          "longitude": 119.84585,
+          "latitude": 31.68543,
+          "radius": ""
+        },
+        {
+          "name": "宋剑湖生态旅游区",
+          "longitude": 120.04153,
+          "latitude": 31.7025,
+          "radius": ""
+        },
+        {
+          "name": "武进体育场",
+          "longitude": 119.96774,
+          "latitude": 31.70115,
+          "radius": ""
+        },
+        {
+          "name": "中华孝道园",
+          "longitude": 120.06932,
+          "latitude": 31.47618,
+          "radius": ""
+        },
+        {
+          "name": "仰淹阙",
+          "longitude": 119.93733,
+          "latitude": 31.70322,
+          "radius": ""
+        },
+        {
+          "name": "阖闾城",
+          "longitude": 120.11876,
+          "latitude": 31.5103,
+          "radius": ""
+        },
+        {
+          "name": "南山寺",
+          "longitude": 120.08409,
+          "latitude": 31.49639,
+          "radius": ""
+        },
+        {
+          "name": "诸氏宗祠",
+          "longitude": 120.13526,
+          "latitude": 31.70318,
+          "radius": ""
+        },
+        {
+          "name": "状元坊",
+          "longitude": 119.79126,
+          "latitude": 31.6835,
+          "radius": ""
+        },
+        {
+          "name": "洪庄砖窑",
+          "longitude": 120.0581,
+          "latitude": 31.69515,
+          "radius": ""
+        },
+        {
+          "name": "城湾山石室土墩墓群",
+          "longitude": 120.07786,
+          "latitude": 31.48769,
+          "radius": ""
+        },
+        {
+          "name": "大家坟遗址",
+          "longitude": 120.14773,
+          "latitude": 31.68262,
+          "radius": ""
+        },
+        {
+          "name": "赵孟坟墓区",
+          "longitude": 120.10938,
+          "latitude": 31.7086,
+          "radius": ""
+        },
+        {
+          "name": "王诤故居",
+          "longitude": 120.05405,
+          "latitude": 31.5848,
+          "radius": ""
+        },
+        {
+          "name": "孙觌墓",
+          "longitude": 120.02034,
+          "latitude": 31.5977,
+          "radius": ""
+        },
+        {
+          "name": "骨成墩",
+          "longitude": 120.08477,
+          "latitude": 31.66438,
+          "radius": ""
+        },
+        {
+          "name": "顺庄戏楼",
+          "longitude": 120.1323,
+          "latitude": 31.69881,
+          "radius": ""
+        },
+        {
+          "name": "横林赵氏宗祠",
+          "longitude": 120.1101,
+          "latitude": 31.7155,
+          "radius": ""
+        },
+        {
+          "name": "启秀门",
+          "longitude": 120.14541,
+          "latitude": 31.68336,
+          "radius": ""
+        },
+        {
+          "name": "卢庄徐氏宗祠",
+          "longitude": 119.98609,
+          "latitude": 31.68395,
+          "radius": ""
+        },
+        {
+          "name": "圣烈村体育馆",
+          "longitude": 120.06575,
+          "latitude": 31.54815,
+          "radius": ""
+        },
+        {
+          "name": "不二法门",
+          "longitude": 119.74404,
+          "latitude": 31.70026,
+          "radius": ""
+        },
+        {
+          "name": "紫薇园",
+          "longitude": 119.7977,
+          "latitude": 31.69745,
+          "radius": ""
+        },
+        {
+          "name": "恽南田墓",
+          "longitude": 119.97852,
+          "latitude": 31.68018,
+          "radius": ""
+        },
+        {
+          "name": "前黄革命烈士纪念碑",
+          "longitude": 119.9668,
+          "latitude": 31.60589,
+          "radius": ""
+        },
+        {
+          "name": "沈氏怀庆坊",
+          "longitude": 120.12387,
+          "latitude": 31.66823,
+          "radius": ""
+        },
+        {
+          "name": "梅里张氏宗祠",
+          "longitude": 120.1178,
+          "latitude": 31.72607,
+          "radius": ""
+        },
+        {
+          "name": "李公仆旧居",
+          "longitude": 119.96031,
+          "latitude": 31.7244,
+          "radius": ""
+        },
+        {
+          "name": "潘家影剧院",
+          "longitude": 120.05083,
+          "latitude": 31.52464,
+          "radius": ""
+        },
+        {
+          "name": "武进博物馆",
+          "longitude": 119.93501,
+          "latitude": 31.7017,
+          "radius": ""
+        },
+        {
+          "name": "常州横山博物馆",
+          "longitude": 120.10747,
+          "latitude": 31.74914,
+          "radius": ""
+        },
+        {
+          "name": "武进体育馆",
+          "longitude": 119.96004,
+          "latitude": 31.68768,
+          "radius": ""
+        },
+        {
+          "name": "寨桥影剧院",
+          "longitude": 119.90106,
+          "latitude": 31.57641,
+          "radius": ""
+        },
+        {
+          "name": "武进游泳馆",
+          "longitude": 119.9433,
+          "latitude": 31.72127,
+          "radius": ""
+        },
+        {
+          "name": "嘉泽影剧院",
+          "longitude": 119.7897,
+          "latitude": 31.68585,
+          "radius": ""
+        },
+        {
+          "name": "郑陆影剧院",
+          "longitude": 120.08119,
+          "latitude": 31.82821,
+          "radius": ""
+        },
+        {
+          "name": "东安影剧院",
+          "longitude": 119.73937,
+          "latitude": 31.58602,
+          "radius": ""
+        },
+        {
+          "name": "洛阳镇全民健身中心",
+          "longitude": 120.08849,
+          "latitude": 31.644,
+          "radius": ""
+        },
+        {
+          "name": "邹区体育场",
+          "longitude": 119.84641,
+          "latitude": 31.78985,
+          "radius": ""
+        },
+        {
+          "name": "焦溪影剧院",
+          "longitude": 120.16284,
+          "latitude": 31.81915,
+          "radius": ""
+        },
+        {
+          "name": "武进电视大学体育场",
+          "longitude": 119.94611,
+          "latitude": 31.74385,
+          "radius": ""
+        },
+        {
+          "name": "邹区革命烈士纪念碑",
+          "longitude": 119.84353,
+          "latitude": 31.76235,
+          "radius": ""
+        },
+        {
+          "name": "南京博物院武进分院",
+          "longitude": 119.93501,
+          "latitude": 31.7017,
+          "radius": ""
+        },
+        {
+          "name": "湟里影剧院",
+          "longitude": 119.71138,
+          "latitude": 31.63579,
+          "radius": ""
+        },
+        {
+          "name": "奔牛丰裕乒乓球馆",
+          "longitude": 119.81771,
+          "latitude": 31.85821,
+          "radius": ""
+        },
+        {
+          "name": "影剧院",
+          "longitude": 119.80981,
+          "latitude": 31.72555,
+          "radius": ""
+        },
+        {
+          "name": "漕桥影剧院",
+          "longitude": 119.98402,
+          "latitude": 31.51504,
+          "radius": ""
+        },
+        {
+          "name": "前黄影剧院",
+          "longitude": 119.96311,
+          "latitude": 31.59449,
+          "radius": ""
+        },
+        {
+          "name": "常州武进区羽毛球馆",
+          "longitude": 119.93904,
+          "latitude": 31.72601,
+          "radius": ""
+        },
+        {
+          "name": "健身休闲广场",
+          "longitude": 120.09299,
+          "latitude": 31.50953,
+          "radius": ""
+        },
+        {
+          "name": "吴海军烈士之墓",
+          "longitude": 119.71805,
+          "latitude": 31.62407,
+          "radius": ""
+        },
+        {
+          "name": "韩氏宗祠",
+          "longitude": 120.08751,
+          "latitude": 31.75931,
+          "radius": ""
+        },
+        {
+          "name": "庙桥革命烈士纪念碑",
+          "longitude": 119.96199,
+          "latitude": 31.65106,
+          "radius": ""
+        },
+        {
+          "name": "胡发坚烈士纪念碑",
+          "longitude": 120.06392,
+          "latitude": 31.66538,
+          "radius": ""
+        },
+        {
+          "name": "随园(花海大道)",
+          "longitude": 119.78151,
+          "latitude": 31.70726,
+          "radius": ""
+        },
+        {
+          "name": "礼河体育场",
+          "longitude": 119.84796,
+          "latitude": 31.74507,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "溧阳市",
+      "locations": [
+        {
+          "name": "天目湖南山竹海景区",
+          "longitude": 119.53325,
+          "latitude": 31.17522,
+          "radius": ""
+        },
+        {
+          "name": "天目湖城市广场体育馆",
+          "longitude": 119.45676,
+          "latitude": 31.41712,
+          "radius": ""
+        },
+        {
+          "name": "天目湖旅游度假区",
+          "longitude": 119.44671,
+          "latitude": 31.31926,
+          "radius": ""
+        },
+        {
+          "name": "高静园",
+          "longitude": 119.49427,
+          "latitude": 31.42624,
+          "radius": ""
+        },
+        {
+          "name": "平桥石坝",
+          "longitude": 119.44689,
+          "latitude": 31.21101,
+          "radius": ""
+        },
+        {
+          "name": "吴楚农耕文化园",
+          "longitude": 119.50334,
+          "latitude": 31.23496,
+          "radius": ""
+        },
+        {
+          "name": "西游乐园·花果山",
+          "longitude": 119.41352,
+          "latitude": 31.29107,
+          "radius": ""
+        },
+        {
+          "name": "神女湖农艺观光园",
+          "longitude": 119.30785,
+          "latitude": 31.63469,
+          "radius": ""
+        },
+        {
+          "name": "汉溧阳壮侯侯史公庙",
+          "longitude": 119.51754,
+          "latitude": 31.49554,
+          "radius": ""
+        },
+        {
+          "name": "文靖园",
+          "longitude": 119.50505,
+          "latitude": 31.46341,
+          "radius": ""
+        },
+        {
+          "name": "南山漂流",
+          "longitude": 119.50658,
+          "latitude": 31.23648,
+          "radius": ""
+        },
+        {
+          "name": "侵华日军暴行戴埠遇难同胞纪念碑",
+          "longitude": 119.50591,
+          "latitude": 31.30754,
+          "radius": ""
+        },
+        {
+          "name": "中华曙猿地质公园",
+          "longitude": 119.56357,
+          "latitude": 31.5345,
+          "radius": ""
+        },
+        {
+          "name": "甘露禅院碑记石刻",
+          "longitude": 119.49546,
+          "latitude": 31.4175,
+          "radius": ""
+        },
+        {
+          "name": "香峰泉",
+          "longitude": 119.50573,
+          "latitude": 31.23449,
+          "radius": ""
+        },
+        {
+          "name": "社渚镇体育馆",
+          "longitude": 119.28774,
+          "latitude": 31.3153,
+          "radius": ""
+        },
+        {
+          "name": "豆腐作坊",
+          "longitude": 119.50579,
+          "latitude": 31.23491,
+          "radius": ""
+        },
+        {
+          "name": "生态林",
+          "longitude": 119.5128,
+          "latitude": 31.19496,
+          "radius": ""
+        },
+        {
+          "name": "丁氏宗祠",
+          "longitude": 119.34162,
+          "latitude": 31.37199,
+          "radius": ""
+        },
+        {
+          "name": "古戏台",
+          "longitude": 119.50593,
+          "latitude": 31.23469,
+          "radius": ""
+        },
+        {
+          "name": "两岸友好石",
+          "longitude": 119.43856,
+          "latitude": 31.31541,
+          "radius": ""
+        },
+        {
+          "name": "枇杷园",
+          "longitude": 119.51419,
+          "latitude": 31.19631,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金坛市",
+      "locations": [
+        {
+          "name": "茅山风景区",
+          "longitude": 119.31625,
+          "latitude": 31.78126,
+          "radius": ""
+        },
+        {
+          "name": "长荡湖水街",
+          "longitude": 119.59766,
+          "latitude": 31.60552,
+          "radius": ""
+        },
+        {
+          "name": "茅山元阳观",
+          "longitude": 119.32333,
+          "latitude": 31.7791,
+          "radius": ""
+        },
+        {
+          "name": "东方盐湖城",
+          "longitude": 119.32367,
+          "latitude": 31.74964,
+          "radius": ""
+        },
+        {
+          "name": "江南孔雀园",
+          "longitude": 119.35402,
+          "latitude": 31.67221,
+          "radius": ""
+        },
+        {
+          "name": "电胜河风光带",
+          "longitude": 119.59689,
+          "latitude": 31.73171,
+          "radius": ""
+        },
+        {
+          "name": "宝盛园旅游度假区",
+          "longitude": 119.3303,
+          "latitude": 31.81048,
+          "radius": ""
+        },
+        {
+          "name": "金牛洞",
+          "longitude": 119.31071,
+          "latitude": 31.772,
+          "radius": ""
+        },
+        {
+          "name": "宝塔禅寺",
+          "longitude": 119.55104,
+          "latitude": 31.73087,
+          "radius": ""
+        },
+        {
+          "name": "茅山索道",
+          "longitude": 119.32003,
+          "latitude": 31.77568,
+          "radius": ""
+        },
+        {
+          "name": "太平天国戴王府旧址",
+          "longitude": 119.57464,
+          "latitude": 31.74452,
+          "radius": ""
+        },
+        {
+          "name": "湖滨抗日中学旧址",
+          "longitude": 119.53687,
+          "latitude": 31.82982,
+          "radius": ""
+        },
+        {
+          "name": "仙姑村庙西土墩墓群",
+          "longitude": 119.34101,
+          "latitude": 31.81321,
+          "radius": ""
+        },
+        {
+          "name": "北渚荡遗址",
+          "longitude": 119.60061,
+          "latitude": 31.76544,
+          "radius": ""
+        },
+        {
+          "name": "金坛慰安所旧址",
+          "longitude": 119.57398,
+          "latitude": 31.74144,
+          "radius": ""
+        },
+        {
+          "name": "诸葛八阵图村落",
+          "longitude": 119.6331,
+          "latitude": 31.57845,
+          "radius": ""
+        },
+        {
+          "name": "华城鸿康游泳馆",
+          "longitude": 119.59312,
+          "latitude": 31.75461,
+          "radius": ""
+        },
+        {
+          "name": "派沃游泳馆",
+          "longitude": 119.58436,
+          "latitude": 31.74997,
+          "radius": ""
+        },
+        {
+          "name": "茅山滑索",
+          "longitude": 119.32896,
+          "latitude": 31.79047,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

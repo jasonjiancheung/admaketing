@@ -1,0 +1,972 @@
+{
+  "cityName": "乌鲁木齐市",
+  "businessCenters": [
+    {
+      "name": "天山区",
+      "locations": [
+        {
+          "name": "胜利路",
+          "longitude": 87.614716,
+          "latitude": 43.77045,
+          "radius": "906"
+        },
+        {
+          "name": "团结路",
+          "longitude": 87.62513,
+          "latitude": 43.773808,
+          "radius": "1187"
+        },
+        {
+          "name": "幸福路",
+          "longitude": 87.63897,
+          "latitude": 43.788048,
+          "radius": "787"
+        },
+        {
+          "name": "新华南路",
+          "longitude": 87.610825,
+          "latitude": 43.77729,
+          "radius": "2013"
+        },
+        {
+          "name": "解放北路",
+          "longitude": 87.620316,
+          "latitude": 43.79608,
+          "radius": "553"
+        },
+        {
+          "name": "新华北路",
+          "longitude": 87.61092,
+          "latitude": 43.798855,
+          "radius": "475"
+        },
+        {
+          "name": "解放南路",
+          "longitude": 87.61876,
+          "latitude": 43.784206,
+          "radius": "777"
+        },
+        {
+          "name": "青年路",
+          "longitude": 87.637886,
+          "latitude": 43.806995,
+          "radius": "515"
+        },
+        {
+          "name": "延安路",
+          "longitude": 87.62875,
+          "latitude": 43.76299,
+          "radius": "669"
+        },
+        {
+          "name": "碱泉",
+          "longitude": 87.6414,
+          "latitude": 43.80317,
+          "radius": "723"
+        }
+      ]
+    },
+    {
+      "name": "沙依巴克区",
+      "locations": [
+        {
+          "name": "友好北路",
+          "longitude": 87.58749,
+          "latitude": 43.82642,
+          "radius": "778"
+        },
+        {
+          "name": "炉院街",
+          "longitude": 87.59351,
+          "latitude": 43.777,
+          "radius": "777"
+        },
+        {
+          "name": "长江路",
+          "longitude": 87.5937,
+          "latitude": 43.78779,
+          "radius": "645"
+        },
+        {
+          "name": "西山",
+          "longitude": 87.55013,
+          "latitude": 43.802727,
+          "radius": "3094"
+        },
+        {
+          "name": "友好南路",
+          "longitude": 87.59625,
+          "latitude": 43.809517,
+          "radius": "631"
+        },
+        {
+          "name": "扬子江路",
+          "longitude": 87.59773,
+          "latitude": 43.799797,
+          "radius": "688"
+        },
+        {
+          "name": "和田街",
+          "longitude": 87.60252,
+          "latitude": 43.78883,
+          "radius": "663"
+        }
+      ]
+    },
+    {
+      "name": "新市区",
+      "locations": [
+        {
+          "name": "安宁渠",
+          "longitude": 87.50353,
+          "latitude": 43.981724,
+          "radius": "226"
+        },
+        {
+          "name": "喀什东路",
+          "longitude": 87.58467,
+          "latitude": 43.90177,
+          "radius": "173"
+        },
+        {
+          "name": "石油新村",
+          "longitude": 87.52268,
+          "latitude": 43.87448,
+          "radius": "434"
+        },
+        {
+          "name": "银川路",
+          "longitude": 87.59157,
+          "latitude": 43.84519,
+          "radius": "749"
+        },
+        {
+          "name": "迎宾路",
+          "longitude": 87.505516,
+          "latitude": 43.892513,
+          "radius": "2428"
+        }
+      ]
+    },
+    {
+      "name": "水磨沟区",
+      "locations": [
+        {
+          "name": "南湖北路",
+          "longitude": 87.60631,
+          "latitude": 43.848957,
+          "radius": "1147"
+        },
+        {
+          "name": "新民路",
+          "longitude": 87.61754,
+          "latitude": 43.810577,
+          "radius": "637"
+        },
+        {
+          "name": "六道湾",
+          "longitude": 87.63527,
+          "latitude": 43.83263,
+          "radius": "580"
+        },
+        {
+          "name": "苇湖梁",
+          "longitude": 87.64784,
+          "latitude": 43.8582,
+          "radius": "575"
+        },
+        {
+          "name": "南湖南路",
+          "longitude": 87.61248,
+          "latitude": 43.821774,
+          "radius": "871"
+        }
+      ]
+    },
+    {
+      "name": "头屯河区",
+      "locations": [
+        {
+          "name": "火车西站",
+          "longitude": 87.42454,
+          "latitude": 43.87181,
+          "radius": "410"
+        }
+      ]
+    },
+    {
+      "name": "米东区",
+      "locations": [
+        {
+          "name": "卡子湾",
+          "longitude": 87.620926,
+          "latitude": 43.921524,
+          "radius": "0"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "天山区",
+      "locations": [
+        {
+          "name": "新疆民街民俗博物馆",
+          "longitude": 87.61747,
+          "latitude": 43.78535,
+          "radius": ""
+        },
+        {
+          "name": "神木园景区",
+          "longitude": 87.58862,
+          "latitude": 43.713264,
+          "radius": ""
+        },
+        {
+          "name": "延安公园",
+          "longitude": 87.62324,
+          "latitude": 43.76994,
+          "radius": ""
+        },
+        {
+          "name": "东山生态园",
+          "longitude": 87.6674,
+          "latitude": 43.82311,
+          "radius": ""
+        },
+        {
+          "name": "二道桥",
+          "longitude": 87.61715,
+          "latitude": 43.78132,
+          "radius": ""
+        },
+        {
+          "name": "新疆人民剧场",
+          "longitude": 87.62155,
+          "latitude": 43.79085,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市燕儿窝风景区",
+          "longitude": 87.58681,
+          "latitude": 43.71554,
+          "radius": ""
+        },
+        {
+          "name": "荣昌乒乓球俱乐部",
+          "longitude": 87.62693,
+          "latitude": 43.8023,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市博物馆",
+          "longitude": 87.62315,
+          "latitude": 43.7924,
+          "radius": ""
+        },
+        {
+          "name": "天山区残联体育馆",
+          "longitude": 87.6474,
+          "latitude": 43.77715,
+          "radius": ""
+        },
+        {
+          "name": "八一剧场",
+          "longitude": 87.62039,
+          "latitude": 43.80151,
+          "radius": ""
+        },
+        {
+          "name": "天山美食大剧院",
+          "longitude": 87.61172,
+          "latitude": 43.78558,
+          "radius": ""
+        },
+        {
+          "name": "猛进剧院",
+          "longitude": 87.62874,
+          "latitude": 43.81053,
+          "radius": ""
+        },
+        {
+          "name": "华瑞体育俱乐部",
+          "longitude": 87.63229,
+          "latitude": 43.80797,
+          "radius": ""
+        },
+        {
+          "name": "小巴扎宴艺大剧院",
+          "longitude": 87.61907,
+          "latitude": 43.7794,
+          "radius": ""
+        },
+        {
+          "name": "神木庄态园",
+          "longitude": 87.5885,
+          "latitude": 43.71328,
+          "radius": ""
+        },
+        {
+          "name": "大银行旧址",
+          "longitude": 87.6209,
+          "latitude": 43.79238,
+          "radius": ""
+        },
+        {
+          "name": "新疆歌剧院",
+          "longitude": 87.63464,
+          "latitude": 43.75959,
+          "radius": ""
+        },
+        {
+          "name": "乌拉古城遗址公园",
+          "longitude": 87.58577,
+          "latitude": 43.63997,
+          "radius": ""
+        },
+        {
+          "name": "新疆骏马拳击俱乐部",
+          "longitude": 87.62134,
+          "latitude": 43.75508,
+          "radius": ""
+        },
+        {
+          "name": "烈士事迹陈列馆",
+          "longitude": 87.59466,
+          "latitude": 43.73474,
+          "radius": ""
+        },
+        {
+          "name": "唐代轮台古城遗址",
+          "longitude": 87.58577,
+          "latitude": 43.63997,
+          "radius": ""
+        },
+        {
+          "name": "乌拉泊古城",
+          "longitude": 87.61579,
+          "latitude": 43.63813,
+          "radius": ""
+        },
+        {
+          "name": "浅水湾生态园",
+          "longitude": 87.60454,
+          "latitude": 43.74554,
+          "radius": ""
+        },
+        {
+          "name": "新艺剧场",
+          "longitude": 87.63331,
+          "latitude": 43.75875,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沙依巴克区",
+      "locations": [
+        {
+          "name": "新疆维吾尔自治区博物馆",
+          "longitude": 87.58399,
+          "latitude": 43.81951,
+          "radius": ""
+        },
+        {
+          "name": "九龙生态园",
+          "longitude": 87.46235,
+          "latitude": 43.76247,
+          "radius": ""
+        },
+        {
+          "name": "九龙运动场",
+          "longitude": 87.46313,
+          "latitude": 43.75731,
+          "radius": ""
+        },
+        {
+          "name": "人民公园",
+          "longitude": 87.60496,
+          "latitude": 43.79801,
+          "radius": ""
+        },
+        {
+          "name": "揽秀园",
+          "longitude": 87.60003,
+          "latitude": 43.80591,
+          "radius": ""
+        },
+        {
+          "name": "雅玛里克山旅游风景区",
+          "longitude": 87.57378,
+          "latitude": 43.7988,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐德才体育俱乐部",
+          "longitude": 87.60171,
+          "latitude": 43.80583,
+          "radius": ""
+        },
+        {
+          "name": "妖魔山",
+          "longitude": 87.55603,
+          "latitude": 43.76988,
+          "radius": ""
+        },
+        {
+          "name": "新疆地质矿产博物馆",
+          "longitude": 87.58799,
+          "latitude": 43.826912,
+          "radius": ""
+        },
+        {
+          "name": "妖魔山(沙依巴克区综合办公楼西北)",
+          "longitude": 87.58564,
+          "latitude": 43.80303,
+          "radius": ""
+        },
+        {
+          "name": "高昌",
+          "longitude": 87.45858,
+          "latitude": 43.75316,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 87.57285,
+          "latitude": 43.79479,
+          "radius": ""
+        },
+        {
+          "name": "龙门",
+          "longitude": 87.46528,
+          "latitude": 43.76143,
+          "radius": ""
+        },
+        {
+          "name": "祥云阁",
+          "longitude": 87.46446,
+          "latitude": 43.76116,
+          "radius": ""
+        },
+        {
+          "name": "心莲心",
+          "longitude": 87.45837,
+          "latitude": 43.75464,
+          "radius": ""
+        },
+        {
+          "name": "望佛台",
+          "longitude": 87.45746,
+          "latitude": 43.7583,
+          "radius": ""
+        },
+        {
+          "name": "仓房沟游园",
+          "longitude": 87.59187,
+          "latitude": 43.76826,
+          "radius": ""
+        },
+        {
+          "name": "玉龙舫",
+          "longitude": 87.45801,
+          "latitude": 43.7562,
+          "radius": ""
+        },
+        {
+          "name": "和田玉博物馆",
+          "longitude": 87.59118,
+          "latitude": 43.79535,
+          "radius": ""
+        },
+        {
+          "name": "桃源阁",
+          "longitude": 87.46446,
+          "latitude": 43.7616,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "新市区",
+      "locations": [
+        {
+          "name": "乌鲁木齐国际机场",
+          "longitude": 87.47915,
+          "latitude": 43.90749,
+          "radius": ""
+        },
+        {
+          "name": "新疆体育中心",
+          "longitude": 87.55861,
+          "latitude": 43.8786,
+          "radius": ""
+        },
+        {
+          "name": "新疆机场集团公司体育活动中心",
+          "longitude": 87.47826,
+          "latitude": 43.89437,
+          "radius": ""
+        },
+        {
+          "name": "火车头体育中心",
+          "longitude": 87.55808,
+          "latitude": 43.87034,
+          "radius": ""
+        },
+        {
+          "name": "天彩旅游景区",
+          "longitude": 87.4324,
+          "latitude": 43.93461,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐喀什路独好游园",
+          "longitude": 87.59573,
+          "latitude": 43.90327,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市植物园",
+          "longitude": 87.55573,
+          "latitude": 43.89027,
+          "radius": ""
+        },
+        {
+          "name": "水色假日生态旅游度假区",
+          "longitude": 87.44013,
+          "latitude": 44.04452,
+          "radius": ""
+        },
+        {
+          "name": "黑山头",
+          "longitude": 87.55491,
+          "latitude": 43.85286,
+          "radius": ""
+        },
+        {
+          "name": "绿昆渡假村",
+          "longitude": 87.53691,
+          "latitude": 43.99956,
+          "radius": ""
+        },
+        {
+          "name": "海洋世界",
+          "longitude": 87.51886,
+          "latitude": 43.88656,
+          "radius": ""
+        },
+        {
+          "name": "新疆历代和阗玉博物馆",
+          "longitude": 87.55275,
+          "latitude": 43.88333,
+          "radius": ""
+        },
+        {
+          "name": "地窝堡铁路文体馆",
+          "longitude": 87.50324,
+          "latitude": 43.89415,
+          "radius": ""
+        },
+        {
+          "name": "乌铁局业余体校航模俱乐部",
+          "longitude": 87.55279,
+          "latitude": 43.86937,
+          "radius": ""
+        },
+        {
+          "name": "方圆撞球俱乐部",
+          "longitude": 87.57624,
+          "latitude": 43.87656,
+          "radius": ""
+        },
+        {
+          "name": "金色港湾嬉水乐园",
+          "longitude": 87.55354,
+          "latitude": 43.88457,
+          "radius": ""
+        },
+        {
+          "name": "新财大阳光体育俱乐部",
+          "longitude": 87.54475,
+          "latitude": 43.88454,
+          "radius": ""
+        },
+        {
+          "name": "徽庄·水乡旅游区",
+          "longitude": 87.44013,
+          "latitude": 44.04452,
+          "radius": ""
+        },
+        {
+          "name": "蜘蛛山(蜘蛛山社区卫生服务站西)",
+          "longitude": 87.55855,
+          "latitude": 43.85099,
+          "radius": ""
+        },
+        {
+          "name": "丽能影像新疆影像博物馆",
+          "longitude": 87.57354,
+          "latitude": 43.85399,
+          "radius": ""
+        },
+        {
+          "name": "清风苑",
+          "longitude": 87.49551,
+          "latitude": 43.89721,
+          "radius": ""
+        },
+        {
+          "name": "新疆生产建设兵团十二师体育馆",
+          "longitude": 87.54441,
+          "latitude": 43.90742,
+          "radius": ""
+        },
+        {
+          "name": "泰安亭",
+          "longitude": 87.49519,
+          "latitude": 43.89723,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市植物园(北园区)",
+          "longitude": 87.53292,
+          "latitude": 43.89712,
+          "radius": ""
+        },
+        {
+          "name": "地窝堡飞机场导航塔",
+          "longitude": 87.5672,
+          "latitude": 43.92596,
+          "radius": ""
+        },
+        {
+          "name": "戈壁春天",
+          "longitude": 87.556,
+          "latitude": 43.91343,
+          "radius": ""
+        },
+        {
+          "name": "雷鸣绿野农业生态旅游休闲庄园",
+          "longitude": 87.51252,
+          "latitude": 44.00165,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "水磨沟区",
+      "locations": [
+        {
+          "name": "红山体育馆",
+          "longitude": 87.60984,
+          "latitude": 43.80954,
+          "radius": ""
+        },
+        {
+          "name": "水磨沟区文化体育中心",
+          "longitude": 87.64234,
+          "latitude": 43.83475,
+          "radius": ""
+        },
+        {
+          "name": "红山公园",
+          "longitude": 87.60485,
+          "latitude": 43.8095,
+          "radius": ""
+        },
+        {
+          "name": "水磨沟公园",
+          "longitude": 87.65522,
+          "latitude": 43.826557,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐博物馆",
+          "longitude": 87.61298,
+          "latitude": 43.82207,
+          "radius": ""
+        },
+        {
+          "name": "南湖绿色广场",
+          "longitude": 87.61748,
+          "latitude": 43.82412,
+          "radius": ""
+        },
+        {
+          "name": "水磨剧场",
+          "longitude": 87.65505,
+          "latitude": 43.83637,
+          "radius": ""
+        },
+        {
+          "name": "澳帮会所",
+          "longitude": 87.62548,
+          "latitude": 43.82999,
+          "radius": ""
+        },
+        {
+          "name": "石人沟蝴蝶谷",
+          "longitude": 87.69755,
+          "latitude": 43.82621,
+          "radius": ""
+        },
+        {
+          "name": "雪莲峰民俗风情园",
+          "longitude": 87.69082,
+          "latitude": 43.86794,
+          "radius": ""
+        },
+        {
+          "name": "龙尚苑搏击俱乐部",
+          "longitude": 87.61066,
+          "latitude": 43.83993,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "头屯河区",
+      "locations": [
+        {
+          "name": "乌西老年体育馆",
+          "longitude": 87.42381,
+          "latitude": 43.87213,
+          "radius": ""
+        },
+        {
+          "name": "乌西体育馆",
+          "longitude": 87.42418,
+          "latitude": 43.87642,
+          "radius": ""
+        },
+        {
+          "name": "职工游泳训练中心",
+          "longitude": 87.2951,
+          "latitude": 43.85581,
+          "radius": ""
+        },
+        {
+          "name": "宝钢集团新疆八一钢铁有限公司体育训练中心",
+          "longitude": 87.28895,
+          "latitude": 43.84454,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "达坂城区",
+      "locations": [
+        {
+          "name": "达坂城古镇",
+          "longitude": 88.33897,
+          "latitude": 43.32706,
+          "radius": ""
+        },
+        {
+          "name": "盐湖城景区",
+          "longitude": 88.14667,
+          "latitude": 43.39466,
+          "radius": ""
+        },
+        {
+          "name": "柴窝堡湖旅游区",
+          "longitude": 87.89342,
+          "latitude": 43.53241,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "米东区",
+      "locations": [
+        {
+          "name": "红光山生态园",
+          "longitude": 87.62429,
+          "latitude": 43.891666,
+          "radius": ""
+        },
+        {
+          "name": "圣丹亚游泳馆",
+          "longitude": 87.6283,
+          "latitude": 43.91851,
+          "radius": ""
+        },
+        {
+          "name": "乌石化体育馆",
+          "longitude": 87.699,
+          "latitude": 43.95809,
+          "radius": ""
+        },
+        {
+          "name": "乌石化游泳馆",
+          "longitude": 87.69446,
+          "latitude": 43.9598,
+          "radius": ""
+        },
+        {
+          "name": "乌石化公司健身广场",
+          "longitude": 87.69352,
+          "latitude": 43.96003,
+          "radius": ""
+        },
+        {
+          "name": "米泉影剧院",
+          "longitude": 87.65906,
+          "latitude": 43.96399,
+          "radius": ""
+        },
+        {
+          "name": "米东区秦剧院",
+          "longitude": 87.67091,
+          "latitude": 43.95954,
+          "radius": ""
+        },
+        {
+          "name": "峡门子",
+          "longitude": 87.90796,
+          "latitude": 43.90759,
+          "radius": ""
+        },
+        {
+          "name": "峡门子旅游区管委会办公室",
+          "longitude": 87.84711,
+          "latitude": 43.91697,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "乌鲁木齐县",
+      "locations": [
+        {
+          "name": "天山大峡谷景区",
+          "longitude": 87.37595,
+          "latitude": 43.43112,
+          "radius": ""
+        },
+        {
+          "name": "南山风景区苜蓿台",
+          "longitude": 87.63505,
+          "latitude": 43.44957,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐天山峡谷",
+          "longitude": 87.38957,
+          "latitude": 43.465,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐板房沟农业科技示范园",
+          "longitude": 87.38358,
+          "latitude": 43.45099,
+          "radius": ""
+        },
+        {
+          "name": "亚洲大陆地理中心",
+          "longitude": 87.33674,
+          "latitude": 43.68531,
+          "radius": ""
+        },
+        {
+          "name": "庙尔沟瀑布风景区",
+          "longitude": 87.4337,
+          "latitude": 43.43194,
+          "radius": ""
+        },
+        {
+          "name": "菊花台",
+          "longitude": 87.19015,
+          "latitude": 43.46958,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市苜蓿台生态公园",
+          "longitude": 87.62856,
+          "latitude": 43.51391,
+          "radius": ""
+        },
+        {
+          "name": "小渠子旅游区",
+          "longitude": 87.12286,
+          "latitude": 43.51582,
+          "radius": ""
+        },
+        {
+          "name": "谢家沟自然风景旅游区",
+          "longitude": 87.00184,
+          "latitude": 43.53032,
+          "radius": ""
+        },
+        {
+          "name": "平西梁子",
+          "longitude": 87.44516,
+          "latitude": 43.45419,
+          "radius": ""
+        },
+        {
+          "name": "西山",
+          "longitude": 87.46663,
+          "latitude": 43.79696,
+          "radius": ""
+        },
+        {
+          "name": "红沙滩风景区",
+          "longitude": 87.37525,
+          "latitude": 43.81048,
+          "radius": ""
+        },
+        {
+          "name": "第十三届全国冬季运动会冰球馆冰壶馆",
+          "longitude": 87.44961,
+          "latitude": 43.49147,
+          "radius": ""
+        },
+        {
+          "name": "第十三届全国冬运会速滑馆",
+          "longitude": 87.45025,
+          "latitude": 43.49206,
+          "radius": ""
+        },
+        {
+          "name": "新疆冰上运动中心",
+          "longitude": 87.45122,
+          "latitude": 43.49113,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐南山风景名胜区",
+          "longitude": 87.2313,
+          "latitude": 43.38992,
+          "radius": ""
+        },
+        {
+          "name": "乌鲁木齐市苜蓿台生态公园",
+          "longitude": 87.63262,
+          "latitude": 43.44357,
+          "radius": ""
+        },
+        {
+          "name": "照壁山",
+          "longitude": 87.39417,
+          "latitude": 43.38529,
+          "radius": ""
+        },
+        {
+          "name": "巴布盖民俗自然村",
+          "longitude": 87.18093,
+          "latitude": 43.27812,
+          "radius": ""
+        },
+        {
+          "name": "西白杨沟自然风景区",
+          "longitude": 87.16825,
+          "latitude": 43.43029,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

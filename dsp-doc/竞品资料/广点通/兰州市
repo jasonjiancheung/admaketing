@@ -1,0 +1,1402 @@
+{
+  "cityName": "兰州市",
+  "businessCenters": [
+    {
+      "name": "城关区",
+      "locations": [
+        {
+          "name": "五泉",
+          "longitude": 103.83009,
+          "latitude": 36.041767,
+          "radius": "768"
+        },
+        {
+          "name": "雁滩",
+          "longitude": 103.87556,
+          "latitude": 36.06269,
+          "radius": "2133"
+        },
+        {
+          "name": "东岗西路",
+          "longitude": 103.85579,
+          "latitude": 36.049877,
+          "radius": "939"
+        },
+        {
+          "name": "段家滩",
+          "longitude": 103.88525,
+          "latitude": 36.04686,
+          "radius": "1191"
+        },
+        {
+          "name": "火车站",
+          "longitude": 103.85368,
+          "latitude": 36.036644,
+          "radius": "776"
+        },
+        {
+          "name": "铁路西村",
+          "longitude": 103.83499,
+          "latitude": 36.03964,
+          "radius": "571"
+        },
+        {
+          "name": "东岗东路",
+          "longitude": 103.900085,
+          "latitude": 36.04066,
+          "radius": "2442"
+        },
+        {
+          "name": "靖远路",
+          "longitude": 103.82725,
+          "latitude": 36.06848,
+          "radius": "522"
+        },
+        {
+          "name": "团结新村",
+          "longitude": 103.86397,
+          "latitude": 36.038696,
+          "radius": "469"
+        },
+        {
+          "name": "白银路",
+          "longitude": 103.820435,
+          "latitude": 36.05018,
+          "radius": "634"
+        },
+        {
+          "name": "张掖路",
+          "longitude": 103.824776,
+          "latitude": 36.059,
+          "radius": "688"
+        },
+        {
+          "name": "广武门",
+          "longitude": 103.83803,
+          "latitude": 36.05828,
+          "radius": "648"
+        },
+        {
+          "name": "皋兰路",
+          "longitude": 103.84083,
+          "latitude": 36.047653,
+          "radius": "500"
+        },
+        {
+          "name": "贡元巷",
+          "longitude": 103.82965,
+          "latitude": 36.05715,
+          "radius": "214"
+        },
+        {
+          "name": "渭源路",
+          "longitude": 103.86373,
+          "latitude": 36.052074,
+          "radius": "391"
+        },
+        {
+          "name": "草场街",
+          "longitude": 103.83401,
+          "latitude": 36.070225,
+          "radius": "294"
+        },
+        {
+          "name": "九州",
+          "longitude": 103.80687,
+          "latitude": 36.09183,
+          "radius": "872"
+        },
+        {
+          "name": "酒泉路",
+          "longitude": 103.82656,
+          "latitude": 36.052635,
+          "radius": "735"
+        },
+        {
+          "name": "拱星墩",
+          "longitude": 103.8908,
+          "latitude": 36.03944,
+          "radius": "765"
+        }
+      ]
+    },
+    {
+      "name": "七里河区",
+      "locations": [
+        {
+          "name": "敦煌路",
+          "longitude": 103.76938,
+          "latitude": 36.073875,
+          "radius": "883"
+        },
+        {
+          "name": "龚家湾",
+          "longitude": 103.746086,
+          "latitude": 36.05062,
+          "radius": "773"
+        },
+        {
+          "name": "晏家坪",
+          "longitude": 103.764244,
+          "latitude": 36.052647,
+          "radius": "694"
+        },
+        {
+          "name": "西园",
+          "longitude": 103.795006,
+          "latitude": 36.05858,
+          "radius": "921"
+        },
+        {
+          "name": "伏龙坪",
+          "longitude": 103.81065,
+          "latitude": 36.0488,
+          "radius": "426"
+        },
+        {
+          "name": "土门墩",
+          "longitude": 103.73432,
+          "latitude": 36.07412,
+          "radius": "800"
+        },
+        {
+          "name": "西站",
+          "longitude": 103.76739,
+          "latitude": 36.06966,
+          "radius": "941"
+        },
+        {
+          "name": "西湖",
+          "longitude": 103.79194,
+          "latitude": 36.064034,
+          "radius": "1173"
+        },
+        {
+          "name": "临夏路",
+          "longitude": 103.81265,
+          "latitude": 36.059383,
+          "radius": "438"
+        },
+        {
+          "name": "建兰路",
+          "longitude": 103.77316,
+          "latitude": 36.071312,
+          "radius": "500"
+        }
+      ]
+    },
+    {
+      "name": "西固区",
+      "locations": [
+        {
+          "name": "福利路",
+          "longitude": 103.626175,
+          "latitude": 36.091434,
+          "radius": "790"
+        },
+        {
+          "name": "西固城",
+          "longitude": 103.62275,
+          "latitude": 36.101864,
+          "radius": "923"
+        },
+        {
+          "name": "临洮街",
+          "longitude": 103.60505,
+          "latitude": 36.10182,
+          "radius": "1034"
+        },
+        {
+          "name": "新城",
+          "longitude": 103.485245,
+          "latitude": 36.167328,
+          "radius": "189"
+        },
+        {
+          "name": "先锋路",
+          "longitude": 103.6377,
+          "latitude": 36.089207,
+          "radius": "630"
+        },
+        {
+          "name": "陈坪",
+          "longitude": 103.656975,
+          "latitude": 36.091038,
+          "radius": "451"
+        }
+      ]
+    },
+    {
+      "name": "安宁区",
+      "locations": [
+        {
+          "name": "十里店",
+          "longitude": 103.75017,
+          "latitude": 36.09572,
+          "radius": "644"
+        },
+        {
+          "name": "费家营",
+          "longitude": 103.71387,
+          "latitude": 36.10394,
+          "radius": "545"
+        },
+        {
+          "name": "黄河市场",
+          "longitude": 103.76245,
+          "latitude": 36.08697,
+          "radius": "189"
+        },
+        {
+          "name": "安宁西路",
+          "longitude": 103.71379,
+          "latitude": 36.105286,
+          "radius": "681"
+        },
+        {
+          "name": "沙井驿",
+          "longitude": 103.62605,
+          "latitude": 36.14847,
+          "radius": "189"
+        },
+        {
+          "name": "刘家堡",
+          "longitude": 103.69595,
+          "latitude": 36.105694,
+          "radius": "694"
+        }
+      ]
+    },
+    {
+      "name": "红古区",
+      "locations": [
+        {
+          "name": "海石湾",
+          "longitude": 102.86428,
+          "latitude": 36.34359,
+          "radius": "1404"
+        }
+      ]
+    },
+    {
+      "name": "永登县",
+      "locations": [
+        {
+          "name": "武胜驿",
+          "longitude": 103.16788,
+          "latitude": 36.885258,
+          "radius": "326"
+        },
+        {
+          "name": "连城",
+          "longitude": 102.84072,
+          "latitude": 36.58952,
+          "radius": "337"
+        },
+        {
+          "name": "红城",
+          "longitude": 103.39436,
+          "latitude": 36.457867,
+          "radius": "316"
+        }
+      ]
+    },
+    {
+      "name": "皋兰县",
+      "locations": [
+        {
+          "name": "石洞",
+          "longitude": 103.948395,
+          "latitude": 36.32682,
+          "radius": "454"
+        }
+      ]
+    },
+    {
+      "name": "榆中县",
+      "locations": [
+        {
+          "name": "高崖",
+          "longitude": 104.281654,
+          "latitude": 35.695175,
+          "radius": "202"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "城关区",
+      "locations": [
+        {
+          "name": "兰州体育馆",
+          "longitude": 103.84034,
+          "latitude": 36.05251,
+          "radius": ""
+        },
+        {
+          "name": "五泉山公园",
+          "longitude": 103.82514,
+          "latitude": 36.034584,
+          "radius": ""
+        },
+        {
+          "name": "水车博览园",
+          "longitude": 103.84415,
+          "latitude": 36.06327,
+          "radius": ""
+        },
+        {
+          "name": "雁滩公园",
+          "longitude": 103.85558,
+          "latitude": 36.0604,
+          "radius": ""
+        },
+        {
+          "name": "火车站体育馆",
+          "longitude": 103.84234,
+          "latitude": 36.04004,
+          "radius": ""
+        },
+        {
+          "name": "兰园体育馆",
+          "longitude": 103.82894,
+          "latitude": 36.05691,
+          "radius": ""
+        },
+        {
+          "name": "兰山森林公园",
+          "longitude": 103.836235,
+          "latitude": 36.03049,
+          "radius": ""
+        },
+        {
+          "name": "五一山省级森林生态旅游区",
+          "longitude": 103.82659,
+          "latitude": 36.08354,
+          "radius": ""
+        },
+        {
+          "name": "徐家山国家森林公园",
+          "longitude": 103.85818,
+          "latitude": 36.08966,
+          "radius": ""
+        },
+        {
+          "name": "白塔山公园",
+          "longitude": 103.8169,
+          "latitude": 36.0682,
+          "radius": ""
+        },
+        {
+          "name": "府城隍庙",
+          "longitude": 103.82262,
+          "latitude": 36.0603,
+          "radius": ""
+        },
+        {
+          "name": "黄河剧院",
+          "longitude": 103.84069,
+          "latitude": 36.0448,
+          "radius": ""
+        },
+        {
+          "name": "甘肃省体育局全民健身综合馆",
+          "longitude": 103.88781,
+          "latitude": 36.03527,
+          "radius": ""
+        },
+        {
+          "name": "甘肃大剧院",
+          "longitude": 103.85264,
+          "latitude": 36.07074,
+          "radius": ""
+        },
+        {
+          "name": "黄河音乐喷泉",
+          "longitude": 103.8315,
+          "latitude": 36.06567,
+          "radius": ""
+        },
+        {
+          "name": "商苑",
+          "longitude": 103.79941,
+          "latitude": 36.08266,
+          "radius": ""
+        },
+        {
+          "name": "东进玉皇庙",
+          "longitude": 103.82949,
+          "latitude": 36.10958,
+          "radius": ""
+        },
+        {
+          "name": "兰海游泳馆",
+          "longitude": 103.84925,
+          "latitude": 36.04755,
+          "radius": ""
+        },
+        {
+          "name": "兰州求古书院",
+          "longitude": 103.8299,
+          "latitude": 36.05727,
+          "radius": ""
+        },
+        {
+          "name": "火车头游泳馆",
+          "longitude": 103.8426,
+          "latitude": 36.04081,
+          "radius": ""
+        },
+        {
+          "name": "清·江西会馆(铁柱宫)旧址",
+          "longitude": 103.82299,
+          "latitude": 36.05588,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城广武门旧址",
+          "longitude": 103.83973,
+          "latitude": 36.05884,
+          "radius": ""
+        },
+        {
+          "name": "明·段续创制祖宗车旧址",
+          "longitude": 103.85185,
+          "latitude": 36.05973,
+          "radius": ""
+        },
+        {
+          "name": "元·关帝庙旧址",
+          "longitude": 103.82221,
+          "latitude": 36.05933,
+          "radius": ""
+        },
+        {
+          "name": "清·甘肃按察使司署旧址",
+          "longitude": 103.82346,
+          "latitude": 36.05715,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城天堑门旧址",
+          "longitude": 103.83181,
+          "latitude": 36.06192,
+          "radius": ""
+        },
+        {
+          "name": "明·凝熙园旧址",
+          "longitude": 103.83033,
+          "latitude": 36.06202,
+          "radius": ""
+        },
+        {
+          "name": "宋·东华观旧址",
+          "longitude": 103.82916,
+          "latitude": 36.05915,
+          "radius": ""
+        },
+        {
+          "name": "清·四川会馆旧址",
+          "longitude": 103.8229,
+          "latitude": 36.06252,
+          "radius": ""
+        },
+        {
+          "name": "清·兰山书院旧址",
+          "longitude": 103.83547,
+          "latitude": 36.05923,
+          "radius": ""
+        },
+        {
+          "name": "清·金花庙旧址",
+          "longitude": 103.82664,
+          "latitude": 36.05293,
+          "radius": ""
+        },
+        {
+          "name": "清·庆祝宫旧址",
+          "longitude": 103.82494,
+          "latitude": 36.06211,
+          "radius": ""
+        },
+        {
+          "name": "祖师殿",
+          "longitude": 103.8748,
+          "latitude": 36.06642,
+          "radius": ""
+        },
+        {
+          "name": "兰州市九州清真寺管理委员会",
+          "longitude": 103.81011,
+          "latitude": 36.09428,
+          "radius": ""
+        },
+        {
+          "name": "唐·普照寺旧址",
+          "longitude": 103.82904,
+          "latitude": 36.05684,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城迎恩门旧址",
+          "longitude": 103.84397,
+          "latitude": 36.05266,
+          "radius": ""
+        },
+        {
+          "name": "中山铁桥",
+          "longitude": 103.81735,
+          "latitude": 36.06343,
+          "radius": ""
+        },
+        {
+          "name": "清·兰州府署旧址",
+          "longitude": 103.82502,
+          "latitude": 36.05711,
+          "radius": ""
+        },
+        {
+          "name": "兰州火车头体育馆",
+          "longitude": 103.84208,
+          "latitude": 36.0401,
+          "radius": ""
+        },
+        {
+          "name": "兰州歌舞剧院",
+          "longitude": 103.82134,
+          "latitude": 36.05854,
+          "radius": ""
+        },
+        {
+          "name": "甘肃陇剧院",
+          "longitude": 103.81935,
+          "latitude": 36.053,
+          "radius": ""
+        },
+        {
+          "name": "金城第一戏楼",
+          "longitude": 103.82035,
+          "latitude": 36.05354,
+          "radius": ""
+        },
+        {
+          "name": "兰热游泳馆",
+          "longitude": 103.8797,
+          "latitude": 36.03317,
+          "radius": ""
+        },
+        {
+          "name": "天庆游泳馆",
+          "longitude": 103.88851,
+          "latitude": 36.0584,
+          "radius": ""
+        },
+        {
+          "name": "电电玩玩",
+          "longitude": 103.82285,
+          "latitude": 36.05214,
+          "radius": ""
+        },
+        {
+          "name": "飞轮海旱冰俱乐部",
+          "longitude": 103.85993,
+          "latitude": 36.06077,
+          "radius": ""
+        },
+        {
+          "name": "77·演艺工厂",
+          "longitude": 103.8823,
+          "latitude": 36.04846,
+          "radius": ""
+        },
+        {
+          "name": "胡耀邦纪念林",
+          "longitude": 103.85733,
+          "latitude": 36.09489,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城广源门旧址",
+          "longitude": 103.82036,
+          "latitude": 36.06325,
+          "radius": ""
+        },
+        {
+          "name": "明·黄谏宅院旧址",
+          "longitude": 103.8269,
+          "latitude": 36.05888,
+          "radius": ""
+        },
+        {
+          "name": "河南豫剧",
+          "longitude": 103.87359,
+          "latitude": 36.04965,
+          "radius": ""
+        },
+        {
+          "name": "明·王保保城旧址",
+          "longitude": 103.82169,
+          "latitude": 36.06676,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城承恩门旧址",
+          "longitude": 103.83056,
+          "latitude": 36.05902,
+          "radius": ""
+        },
+        {
+          "name": "天水路大桥",
+          "longitude": 103.86894,
+          "latitude": 36.07904,
+          "radius": ""
+        },
+        {
+          "name": "唐·嘉福寺旧址",
+          "longitude": 103.81896,
+          "latitude": 36.06325,
+          "radius": ""
+        },
+        {
+          "name": "明·镇远浮桥旧址",
+          "longitude": 103.81762,
+          "latitude": 36.06344,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城拱兰门旧址",
+          "longitude": 103.82635,
+          "latitude": 36.04907,
+          "radius": ""
+        },
+        {
+          "name": "花儿戏剧工作室",
+          "longitude": 103.882,
+          "latitude": 36.04772,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城近远门旧址",
+          "longitude": 103.83159,
+          "latitude": 36.05317,
+          "radius": ""
+        },
+        {
+          "name": "元通大桥",
+          "longitude": 103.82509,
+          "latitude": 36.06345,
+          "radius": ""
+        },
+        {
+          "name": "花儿剧场",
+          "longitude": 103.88301,
+          "latitude": 36.04797,
+          "radius": ""
+        },
+        {
+          "name": "清·刘尔炘宅院旧址",
+          "longitude": 103.82009,
+          "latitude": 36.05746,
+          "radius": ""
+        },
+        {
+          "name": "明·拂云楼旧址",
+          "longitude": 103.82688,
+          "latitude": 36.06288,
+          "radius": ""
+        },
+        {
+          "name": "尼姑寺",
+          "longitude": 103.83423,
+          "latitude": 36.06122,
+          "radius": ""
+        },
+        {
+          "name": "明·鼓楼旧址",
+          "longitude": 103.82289,
+          "latitude": 36.05931,
+          "radius": ""
+        },
+        {
+          "name": "清·甘肃布政使司署旧址",
+          "longitude": 103.8231,
+          "latitude": 36.05931,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "七里河区",
+      "locations": [
+        {
+          "name": "甘肃省博物馆",
+          "longitude": 103.77457,
+          "latitude": 36.06649,
+          "radius": ""
+        },
+        {
+          "name": "七里河体育场",
+          "longitude": 103.77998,
+          "latitude": 36.06921,
+          "radius": ""
+        },
+        {
+          "name": "长征剧院",
+          "longitude": 103.77444,
+          "latitude": 36.07243,
+          "radius": ""
+        },
+        {
+          "name": "兰州石佛沟国家森林公园",
+          "longitude": 103.87753,
+          "latitude": 35.92682,
+          "radius": ""
+        },
+        {
+          "name": "紫云门",
+          "longitude": 103.82541,
+          "latitude": 36.02948,
+          "radius": ""
+        },
+        {
+          "name": "天桥怡园",
+          "longitude": 103.80047,
+          "latitude": 36.03136,
+          "radius": ""
+        },
+        {
+          "name": "三眼井",
+          "longitude": 103.81186,
+          "latitude": 36.05954,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城天水门旧址",
+          "longitude": 103.81656,
+          "latitude": 36.06303,
+          "radius": ""
+        },
+        {
+          "name": "唐·握桥旧址",
+          "longitude": 103.80726,
+          "latitude": 36.06038,
+          "radius": ""
+        },
+        {
+          "name": "登云门",
+          "longitude": 103.82344,
+          "latitude": 36.03114,
+          "radius": ""
+        },
+        {
+          "name": "天龙大剧院",
+          "longitude": 103.80726,
+          "latitude": 36.05884,
+          "radius": ""
+        },
+        {
+          "name": "兰州机车厂健身园",
+          "longitude": 103.76422,
+          "latitude": 36.06196,
+          "radius": ""
+        },
+        {
+          "name": "兰西火车头游泳馆",
+          "longitude": 103.76816,
+          "latitude": 36.06769,
+          "radius": ""
+        },
+        {
+          "name": "乾武门",
+          "longitude": 103.80074,
+          "latitude": 36.04665,
+          "radius": ""
+        },
+        {
+          "name": "武庙",
+          "longitude": 103.72813,
+          "latitude": 36.075867,
+          "radius": ""
+        },
+        {
+          "name": "华夏馆",
+          "longitude": 103.72813,
+          "latitude": 36.075886,
+          "radius": ""
+        },
+        {
+          "name": "金城楼",
+          "longitude": 103.72811,
+          "latitude": 36.075886,
+          "radius": ""
+        },
+        {
+          "name": "道脉真传",
+          "longitude": 103.79214,
+          "latitude": 36.04372,
+          "radius": ""
+        },
+        {
+          "name": "伏羲广场",
+          "longitude": 103.72823,
+          "latitude": 36.075867,
+          "radius": ""
+        },
+        {
+          "name": "兰州府",
+          "longitude": 103.72813,
+          "latitude": 36.07588,
+          "radius": ""
+        },
+        {
+          "name": "明·兰州城袖川门旧址",
+          "longitude": 103.8112,
+          "latitude": 36.05966,
+          "radius": ""
+        },
+        {
+          "name": "兰州理工大学体育训练馆",
+          "longitude": 103.7367,
+          "latitude": 36.06005,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "西固区",
+      "locations": [
+        {
+          "name": "西固体育馆",
+          "longitude": 103.62246,
+          "latitude": 36.08604,
+          "radius": ""
+        },
+        {
+          "name": "兰炼体育场",
+          "longitude": 103.63545,
+          "latitude": 36.08325,
+          "radius": ""
+        },
+        {
+          "name": "关山森林公园",
+          "longitude": 103.62301,
+          "latitude": 35.9998,
+          "radius": ""
+        },
+        {
+          "name": "石头坪森林公园",
+          "longitude": 103.62276,
+          "latitude": 36.08041,
+          "radius": ""
+        },
+        {
+          "name": "元峁山",
+          "longitude": 103.60884,
+          "latitude": 36.08553,
+          "radius": ""
+        },
+        {
+          "name": "郝氏宗祠",
+          "longitude": 103.67736,
+          "latitude": 36.06582,
+          "radius": ""
+        },
+        {
+          "name": "达川剧场",
+          "longitude": 103.35784,
+          "latitude": 36.12824,
+          "radius": ""
+        },
+        {
+          "name": "精武跆拳道馆",
+          "longitude": 103.64075,
+          "latitude": 36.09255,
+          "radius": ""
+        },
+        {
+          "name": "菩提佛塔",
+          "longitude": 103.47592,
+          "latitude": 36.16789,
+          "radius": ""
+        },
+        {
+          "name": "文化剧场",
+          "longitude": 103.63069,
+          "latitude": 36.0761,
+          "radius": ""
+        },
+        {
+          "name": "殿师祖",
+          "longitude": 103.57893,
+          "latitude": 36.09927,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "安宁区",
+      "locations": [
+        {
+          "name": "兰州文庙",
+          "longitude": 103.78353,
+          "latitude": 36.08487,
+          "radius": ""
+        },
+        {
+          "name": "兰州市地震博物馆",
+          "longitude": 103.73006,
+          "latitude": 36.11529,
+          "radius": ""
+        },
+        {
+          "name": "金城关",
+          "longitude": 103.81547,
+          "latitude": 36.06588,
+          "radius": ""
+        },
+        {
+          "name": "朱文公祠",
+          "longitude": 103.68955,
+          "latitude": 36.13092,
+          "radius": ""
+        },
+        {
+          "name": "文溯阁",
+          "longitude": 103.78408,
+          "latitude": 36.08993,
+          "radius": ""
+        },
+        {
+          "name": "隋唐·金城关旧址",
+          "longitude": 103.80944,
+          "latitude": 36.06603,
+          "radius": ""
+        },
+        {
+          "name": "黄河第一楼",
+          "longitude": 103.80931,
+          "latitude": 36.06611,
+          "radius": ""
+        },
+        {
+          "name": "飞流",
+          "longitude": 103.81261,
+          "latitude": 36.06693,
+          "radius": ""
+        },
+        {
+          "name": "王阳明纪念馆",
+          "longitude": 103.72991,
+          "latitude": 36.11692,
+          "radius": ""
+        },
+        {
+          "name": "黄河桥梁博物馆",
+          "longitude": 103.81548,
+          "latitude": 36.06595,
+          "radius": ""
+        },
+        {
+          "name": "秦腔博物馆",
+          "longitude": 103.81556,
+          "latitude": 36.06619,
+          "radius": ""
+        },
+        {
+          "name": "云龙桥",
+          "longitude": 103.81325,
+          "latitude": 36.06666,
+          "radius": ""
+        },
+        {
+          "name": "天斧沙宫",
+          "longitude": 103.69424,
+          "latitude": 36.13744,
+          "radius": ""
+        },
+        {
+          "name": "文渊阁",
+          "longitude": 103.78408,
+          "latitude": 36.08992,
+          "radius": ""
+        },
+        {
+          "name": "Max街舞俱乐部",
+          "longitude": 103.72275,
+          "latitude": 36.10531,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "红古区",
+      "locations": [
+        {
+          "name": "兰州市红古区博物馆",
+          "longitude": 102.86011,
+          "latitude": 36.34453,
+          "radius": ""
+        },
+        {
+          "name": "兰州市红古区体育中心",
+          "longitude": 102.85856,
+          "latitude": 36.34833,
+          "radius": ""
+        },
+        {
+          "name": "兰州市西固区玉皇殿",
+          "longitude": 103.19596,
+          "latitude": 36.18015,
+          "radius": ""
+        },
+        {
+          "name": "乒乓馆",
+          "longitude": 102.86444,
+          "latitude": 36.34048,
+          "radius": ""
+        },
+        {
+          "name": "万世文宗",
+          "longitude": 102.93984,
+          "latitude": 36.29387,
+          "radius": ""
+        },
+        {
+          "name": "鑫海演艺厅",
+          "longitude": 102.8617,
+          "latitude": 36.34239,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "永登县",
+      "locations": [
+        {
+          "name": "兰州中川机场",
+          "longitude": 103.61804,
+          "latitude": 36.507877,
+          "radius": ""
+        },
+        {
+          "name": "吐鲁沟国家森林公园",
+          "longitude": 102.72799,
+          "latitude": 36.683704,
+          "radius": ""
+        },
+        {
+          "name": "鲁土司衙门旧址",
+          "longitude": 102.83826,
+          "latitude": 36.58886,
+          "radius": ""
+        },
+        {
+          "name": "连铝体育馆",
+          "longitude": 102.85946,
+          "latitude": 36.4883,
+          "radius": ""
+        },
+        {
+          "name": "猪驮山风景区",
+          "longitude": 103.41706,
+          "latitude": 36.2465,
+          "radius": ""
+        },
+        {
+          "name": "甘肃中川牡丹园",
+          "longitude": 103.61087,
+          "latitude": 36.45325,
+          "radius": ""
+        },
+        {
+          "name": "大沙沟遗址",
+          "longitude": 103.22826,
+          "latitude": 36.74962,
+          "radius": ""
+        },
+        {
+          "name": "连城国家级自然保护区",
+          "longitude": 102.90854,
+          "latitude": 36.70317,
+          "radius": ""
+        },
+        {
+          "name": "永登影剧院",
+          "longitude": 103.26207,
+          "latitude": 36.73475,
+          "radius": ""
+        },
+        {
+          "name": "永登体育场",
+          "longitude": 103.25551,
+          "latitude": 36.73012,
+          "radius": ""
+        },
+        {
+          "name": "仙客来剧院",
+          "longitude": 102.8045,
+          "latitude": 36.60824,
+          "radius": ""
+        },
+        {
+          "name": "永登游泳馆",
+          "longitude": 103.25634,
+          "latitude": 36.73074,
+          "radius": ""
+        },
+        {
+          "name": "朱雀湖",
+          "longitude": 103.6798,
+          "latitude": 36.4759,
+          "radius": ""
+        },
+        {
+          "name": "将军山墓群",
+          "longitude": 103.22826,
+          "latitude": 36.74962,
+          "radius": ""
+        },
+        {
+          "name": "金盛元生态园",
+          "longitude": 103.34459,
+          "latitude": 36.61916,
+          "radius": ""
+        },
+        {
+          "name": "盘道岭隧洞",
+          "longitude": 103.02572,
+          "latitude": 36.63336,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "皋兰县",
+      "locations": [
+        {
+          "name": "中国第一古梨园",
+          "longitude": 103.99844,
+          "latitude": 36.15601,
+          "radius": ""
+        },
+        {
+          "name": "什川梨园",
+          "longitude": 104.00966,
+          "latitude": 36.14715,
+          "radius": ""
+        },
+        {
+          "name": "世界第一古梨园",
+          "longitude": 103.99359,
+          "latitude": 36.1503,
+          "radius": ""
+        },
+        {
+          "name": "梨花仙子",
+          "longitude": 104.00787,
+          "latitude": 36.14576,
+          "radius": ""
+        },
+        {
+          "name": "皋兰县体育馆",
+          "longitude": 103.95863,
+          "latitude": 36.30747,
+          "radius": ""
+        },
+        {
+          "name": "葡萄园游泳馆",
+          "longitude": 103.90866,
+          "latitude": 36.37542,
+          "radius": ""
+        },
+        {
+          "name": "摩崖石刻",
+          "longitude": 104.0088,
+          "latitude": 36.14519,
+          "radius": ""
+        },
+        {
+          "name": "五百年古槐",
+          "longitude": 104.01117,
+          "latitude": 36.16107,
+          "radius": ""
+        },
+        {
+          "name": "小峡明珠",
+          "longitude": 104.01542,
+          "latitude": 36.14531,
+          "radius": ""
+        },
+        {
+          "name": "五福亭",
+          "longitude": 104.01677,
+          "latitude": 36.15269,
+          "radius": ""
+        },
+        {
+          "name": "黑石文化剧场",
+          "longitude": 103.88556,
+          "latitude": 36.51197,
+          "radius": ""
+        },
+        {
+          "name": "文化体育休闲基地",
+          "longitude": 104.0071,
+          "latitude": 36.14387,
+          "radius": ""
+        },
+        {
+          "name": "西岔剧场",
+          "longitude": 103.76232,
+          "latitude": 36.52542,
+          "radius": ""
+        },
+        {
+          "name": "团庄剧场",
+          "longitude": 103.829,
+          "latitude": 36.43676,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "榆中县",
+      "locations": [
+        {
+          "name": "兴隆山自然保护区",
+          "longitude": 103.98161,
+          "latitude": 35.80935,
+          "radius": ""
+        },
+        {
+          "name": "榆中体育馆",
+          "longitude": 104.12705,
+          "latitude": 35.85409,
+          "radius": ""
+        },
+        {
+          "name": "青城古镇",
+          "longitude": 104.19047,
+          "latitude": 36.33049,
+          "radius": ""
+        },
+        {
+          "name": "官滩沟风景区",
+          "longitude": 103.94899,
+          "latitude": 35.88067,
+          "radius": ""
+        },
+        {
+          "name": "高氏祠堂",
+          "longitude": 104.19342,
+          "latitude": 36.32806,
+          "radius": ""
+        },
+        {
+          "name": "二龙山景区",
+          "longitude": 104.01305,
+          "latitude": 35.86306,
+          "radius": ""
+        },
+        {
+          "name": "李氏祠堂",
+          "longitude": 104.2446,
+          "latitude": 36.34222,
+          "radius": ""
+        },
+        {
+          "name": "闯王墓",
+          "longitude": 104.16914,
+          "latitude": 36.32248,
+          "radius": ""
+        },
+        {
+          "name": "二龙山景区",
+          "longitude": 104.24126,
+          "latitude": 36.34411,
+          "radius": ""
+        },
+        {
+          "name": "罗家大院",
+          "longitude": 104.18911,
+          "latitude": 36.32759,
+          "radius": ""
+        },
+        {
+          "name": "青城书院",
+          "longitude": 104.19223,
+          "latitude": 36.32695,
+          "radius": ""
+        },
+        {
+          "name": "碑林",
+          "longitude": 104.19255,
+          "latitude": 36.32696,
+          "radius": ""
+        },
+        {
+          "name": "狄青广场",
+          "longitude": 104.18935,
+          "latitude": 36.32721,
+          "radius": ""
+        },
+        {
+          "name": "马衔山风景区",
+          "longitude": 103.96407,
+          "latitude": 35.7377,
+          "radius": ""
+        },
+        {
+          "name": "官滩沟西山风景区",
+          "longitude": 103.94562,
+          "latitude": 35.88247,
+          "radius": ""
+        },
+        {
+          "name": "榆中县博物馆",
+          "longitude": 104.11133,
+          "latitude": 35.84224,
+          "radius": ""
+        },
+        {
+          "name": "中国拉面博物馆",
+          "longitude": 104.19146,
+          "latitude": 36.33167,
+          "radius": ""
+        },
+        {
+          "name": "长寿门",
+          "longitude": 104.19807,
+          "latitude": 36.3315,
+          "radius": ""
+        },
+        {
+          "name": "金崖古驿站遗址",
+          "longitude": 104.10038,
+          "latitude": 36.01718,
+          "radius": ""
+        },
+        {
+          "name": "城隍庙",
+          "longitude": 104.18941,
+          "latitude": 36.32682,
+          "radius": ""
+        },
+        {
+          "name": "稠泥河村文化戏曲舞台",
+          "longitude": 104.25811,
+          "latitude": 35.84582,
+          "radius": ""
+        },
+        {
+          "name": "兴隆山握桥",
+          "longitude": 104.06684,
+          "latitude": 35.80023,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

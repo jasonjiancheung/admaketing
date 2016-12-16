@@ -1,0 +1,478 @@
+{
+  "cityName": "廊坊市",
+  "businessCenters": [
+    {
+      "name": "三河市",
+      "locations": [
+        {
+          "name": "燕郊",
+          "longitude": 116.831,
+          "latitude": 39.95838,
+          "radius": "5668"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "安次区",
+      "locations": [
+        {
+          "name": "自然公园",
+          "longitude": 116.65123,
+          "latitude": 39.542313,
+          "radius": ""
+        },
+        {
+          "name": "九天休闲谷",
+          "longitude": 116.66137,
+          "latitude": 39.52473,
+          "radius": ""
+        },
+        {
+          "name": "壹佰剧院",
+          "longitude": 116.67816,
+          "latitude": 39.51308,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "广阳区",
+      "locations": [
+        {
+          "name": "廊坊体育场",
+          "longitude": 116.72698,
+          "latitude": 39.55512,
+          "radius": ""
+        },
+        {
+          "name": "廊坊市体育馆",
+          "longitude": 116.72545,
+          "latitude": 39.55281,
+          "radius": ""
+        },
+        {
+          "name": "廊坊市文化公园",
+          "longitude": 116.720215,
+          "latitude": 39.555077,
+          "radius": ""
+        },
+        {
+          "name": "东方大学城中心体育场",
+          "longitude": 116.74883,
+          "latitude": 39.61111,
+          "radius": ""
+        },
+        {
+          "name": "北京女人街",
+          "longitude": 116.70816,
+          "latitude": 39.53404,
+          "radius": ""
+        },
+        {
+          "name": "河北省摔拳跆训练中心",
+          "longitude": 116.72667,
+          "latitude": 39.55838,
+          "radius": ""
+        },
+        {
+          "name": "中国管道博物馆",
+          "longitude": 116.72719,
+          "latitude": 39.53099,
+          "radius": ""
+        },
+        {
+          "name": "万庄体育馆",
+          "longitude": 116.61929,
+          "latitude": 39.57614,
+          "radius": ""
+        },
+        {
+          "name": "炮哥大舞台",
+          "longitude": 116.7227,
+          "latitude": 39.5254,
+          "radius": ""
+        },
+        {
+          "name": "傻根演艺广场",
+          "longitude": 116.67331,
+          "latitude": 39.58319,
+          "radius": ""
+        },
+        {
+          "name": "烈士陵园",
+          "longitude": 116.70475,
+          "latitude": 39.51594,
+          "radius": ""
+        },
+        {
+          "name": "廊坊天祥文体活动广场",
+          "longitude": 116.74408,
+          "latitude": 39.49511,
+          "radius": ""
+        },
+        {
+          "name": "廊坊大剧院",
+          "longitude": 116.72202,
+          "latitude": 39.56695,
+          "radius": ""
+        },
+        {
+          "name": "水上公园",
+          "longitude": 116.76472,
+          "latitude": 39.58796,
+          "radius": ""
+        },
+        {
+          "name": "新绎",
+          "longitude": 116.77257,
+          "latitude": 39.57954,
+          "radius": ""
+        },
+        {
+          "name": "家mall乐游城",
+          "longitude": 116.71388,
+          "latitude": 39.55056,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "固安县",
+      "locations": [
+        {
+          "name": "固安大剧院",
+          "longitude": 116.29702,
+          "latitude": 39.43792,
+          "radius": ""
+        },
+        {
+          "name": "众达乒乓球俱乐部",
+          "longitude": 116.32418,
+          "latitude": 39.42952,
+          "radius": ""
+        },
+        {
+          "name": "体育馆",
+          "longitude": 116.31125,
+          "latitude": 39.40288,
+          "radius": ""
+        },
+        {
+          "name": "无极跆拳道馆",
+          "longitude": 116.30354,
+          "latitude": 39.43074,
+          "radius": ""
+        },
+        {
+          "name": "游泳馆",
+          "longitude": 116.31158,
+          "latitude": 39.40142,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "永清县",
+      "locations": [
+        {
+          "name": "白塔寺",
+          "longitude": 116.43363,
+          "latitude": 39.32713,
+          "radius": ""
+        },
+        {
+          "name": "澜城影剧院",
+          "longitude": 116.72697,
+          "latitude": 39.19918,
+          "radius": ""
+        },
+        {
+          "name": "极速跆拳道馆",
+          "longitude": 116.49993,
+          "latitude": 39.32379,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "香河县",
+      "locations": [
+        {
+          "name": "天下第一城",
+          "longitude": 116.907196,
+          "latitude": 39.71532,
+          "radius": ""
+        },
+        {
+          "name": "大安宫",
+          "longitude": 116.90213,
+          "latitude": 39.71624,
+          "radius": ""
+        },
+        {
+          "name": "新城广场景区",
+          "longitude": 116.97701,
+          "latitude": 39.764,
+          "radius": ""
+        },
+        {
+          "name": "中信国安足球训练基地",
+          "longitude": 117.08582,
+          "latitude": 39.66868,
+          "radius": ""
+        },
+        {
+          "name": "香河县职工俱乐部",
+          "longitude": 116.9761,
+          "latitude": 39.75249,
+          "radius": ""
+        },
+        {
+          "name": "古银杏树",
+          "longitude": 117.02852,
+          "latitude": 39.66752,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大城县",
+      "locations": [
+        {
+          "name": "大城县体育场",
+          "longitude": 116.64774,
+          "latitude": 38.70226,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "文安县",
+      "locations": [
+        {
+          "name": "森林公园",
+          "longitude": 116.44817,
+          "latitude": 38.87389,
+          "radius": ""
+        },
+        {
+          "name": "新钢影剧院",
+          "longitude": 116.40603,
+          "latitude": 39.02276,
+          "radius": ""
+        },
+        {
+          "name": "游泳馆",
+          "longitude": 116.45977,
+          "latitude": 38.8834,
+          "radius": ""
+        },
+        {
+          "name": "大华剧院",
+          "longitude": 116.45685,
+          "latitude": 38.86864,
+          "radius": ""
+        },
+        {
+          "name": "二人转剧场",
+          "longitude": 116.36698,
+          "latitude": 39.00013,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "霸州市",
+      "locations": [
+        {
+          "name": "益津书院",
+          "longitude": 116.39064,
+          "latitude": 39.13168,
+          "radius": ""
+        },
+        {
+          "name": "华夏民间收藏馆",
+          "longitude": 116.39194,
+          "latitude": 39.12383,
+          "radius": ""
+        },
+        {
+          "name": "文昌阁",
+          "longitude": 116.69534,
+          "latitude": 39.05574,
+          "radius": ""
+        },
+        {
+          "name": "李少春大剧院",
+          "longitude": 116.38854,
+          "latitude": 39.11407,
+          "radius": ""
+        },
+        {
+          "name": "胜芳镇张家大院",
+          "longitude": 116.69467,
+          "latitude": 39.05974,
+          "radius": ""
+        },
+        {
+          "name": "中华戏曲大观园",
+          "longitude": 116.35759,
+          "latitude": 39.14486,
+          "radius": ""
+        },
+        {
+          "name": "霸台",
+          "longitude": 116.40832,
+          "latitude": 39.12036,
+          "radius": ""
+        },
+        {
+          "name": "胜芳镇王家大院",
+          "longitude": 116.695,
+          "latitude": 39.06124,
+          "radius": ""
+        },
+        {
+          "name": "戏楼",
+          "longitude": 116.69469,
+          "latitude": 39.06129,
+          "radius": ""
+        },
+        {
+          "name": "霸州博物馆",
+          "longitude": 116.39194,
+          "latitude": 39.12383,
+          "radius": ""
+        },
+        {
+          "name": "胜芳博物馆",
+          "longitude": 116.69609,
+          "latitude": 39.06072,
+          "radius": ""
+        },
+        {
+          "name": "霸州海润俱乐部",
+          "longitude": 116.34513,
+          "latitude": 39.14766,
+          "radius": ""
+        },
+        {
+          "name": "静雨轩戏楼",
+          "longitude": 116.38961,
+          "latitude": 39.09782,
+          "radius": ""
+        },
+        {
+          "name": "霸州游泳馆",
+          "longitude": 116.34728,
+          "latitude": 39.14962,
+          "radius": ""
+        },
+        {
+          "name": "乒乓球馆",
+          "longitude": 116.38915,
+          "latitude": 39.14209,
+          "radius": ""
+        },
+        {
+          "name": "百年高棠陈列展",
+          "longitude": 116.34574,
+          "latitude": 39.15186,
+          "radius": ""
+        },
+        {
+          "name": "炳森跆拳道馆",
+          "longitude": 116.39643,
+          "latitude": 39.11176,
+          "radius": ""
+        },
+        {
+          "name": "德林堂画坊旧址",
+          "longitude": 116.6952,
+          "latitude": 39.06062,
+          "radius": ""
+        },
+        {
+          "name": "金都演艺厅",
+          "longitude": 116.40226,
+          "latitude": 39.11534,
+          "radius": ""
+        },
+        {
+          "name": "二人转剧场",
+          "longitude": 116.70711,
+          "latitude": 39.06719,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "三河市",
+      "locations": [
+        {
+          "name": "百世獒园",
+          "longitude": 116.79859,
+          "latitude": 39.93154,
+          "radius": ""
+        },
+        {
+          "name": "聚财宝鼎",
+          "longitude": 117.05128,
+          "latitude": 39.9795,
+          "radius": ""
+        },
+        {
+          "name": "三河市鹏达赛鸽中心",
+          "longitude": 116.81253,
+          "latitude": 40.02891,
+          "radius": ""
+        },
+        {
+          "name": "燕郊影剧院",
+          "longitude": 116.81484,
+          "latitude": 39.94909,
+          "radius": ""
+        },
+        {
+          "name": "李青龙(孝道)跆拳道",
+          "longitude": 117.076,
+          "latitude": 39.97993,
+          "radius": ""
+        },
+        {
+          "name": "鸿威跆拳道俱乐部",
+          "longitude": 117.06364,
+          "latitude": 39.97702,
+          "radius": ""
+        },
+        {
+          "name": "顺达大戏楼",
+          "longitude": 117.058,
+          "latitude": 39.97954,
+          "radius": ""
+        },
+        {
+          "name": "燕贺轩大戏楼",
+          "longitude": 116.83974,
+          "latitude": 39.94466,
+          "radius": ""
+        },
+        {
+          "name": "蓝天羽毛球馆",
+          "longitude": 117.06962,
+          "latitude": 40.00377,
+          "radius": ""
+        },
+        {
+          "name": "少林精武馆",
+          "longitude": 117.07358,
+          "latitude": 39.99524,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

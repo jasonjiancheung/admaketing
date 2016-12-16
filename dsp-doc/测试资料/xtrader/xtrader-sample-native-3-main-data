@@ -1,0 +1,117 @@
+{
+    "id": "y053-test-t24-1475201412-0-443",
+    "device": {
+        "ip": "210.73.210.186",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257",
+        "dpidmd5": "1abe5e1a8a08f577bda8209a69cf8265",
+        "make": "Apple",
+        "model": "iPhone6,2",
+        "os": "iOS",
+        "osv": "7.1.2",
+        "language": "zh_CN",
+        "connectiontype": 2,
+        "devicetype": 0,
+        "ext": {
+            "idfa": "E9B295F1-9CEB-49D1-96E1-A84E6972AA2D",
+            "ssid": "xtrader",
+            "w": 320,
+            "h": 568,
+            "ts": 1463995184,
+            "realip": "210.73.210.186",
+            "isipdx": false
+        }
+    },
+    "user": {
+        "id": "",
+        "ext": {
+            "models": []
+        }
+    },
+    "app": {
+        "name": "%E7%81%B5%E9%9B%86%E5%B9%BF%E5%91%8A",
+        "ext": {
+            "sdk": "1.1.0"
+        },
+        "content": {
+            "ext": {
+                "copyright": 0,
+                "quality": 2
+            }
+        },
+        "cat": [],
+        "bundle": "com.xtrader.XTraderMobile"
+    },
+    "imp": [
+        {
+            "id": "70762934e7f049c3893f432d7af6f7d1",
+            "tagid": "660",
+            "bidfloor": 100,
+            "ext": {
+                "showtype": 13,
+                "has_winnotice": 1,
+                "has_clickthrough": 0
+            },
+            "nativead": {
+                "assets": [
+                    {
+                        "id": 1,
+                        "required": true,
+                        "title": {
+                            "len": 25
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "required": true,
+                        "data": {
+                            "type": 2,
+                            "len": 25
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "required": false,
+                        "data": {
+                            "type": 1,
+                            "len": 10
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "required": true,
+                        "img": {
+                            "type": 3,
+                            "img_num": 3,
+                            "w": 150,
+                            "h": 150,
+                            "mimes": [
+                                "jpg",
+                                "png"
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "required": false,
+                        "data": {
+                            "type": 507
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "required": false,
+                        "data": {
+                            "type": 506
+                        }
+                    }
+                ],
+                "ext": {
+                    "type": 0
+                }
+            }
+        }
+    ],
+    "ext": {
+        "media_source": 1
+    }
+}

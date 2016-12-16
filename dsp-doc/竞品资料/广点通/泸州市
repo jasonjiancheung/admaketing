@@ -1,0 +1,593 @@
+{
+  "cityName": "泸州市",
+  "businessCenters": [
+    {
+      "name": "江阳区",
+      "locations": [
+        {
+          "name": "大山坪",
+          "longitude": 105.43985,
+          "latitude": 28.87441,
+          "radius": "1024"
+        },
+        {
+          "name": "南城",
+          "longitude": 105.452065,
+          "latitude": 28.88506,
+          "radius": "656"
+        }
+      ]
+    },
+    {
+      "name": "龙马潭区",
+      "locations": [
+        {
+          "name": "龙马大道",
+          "longitude": 105.437515,
+          "latitude": 28.910408,
+          "radius": "638"
+        },
+        {
+          "name": "小市",
+          "longitude": 105.44312,
+          "latitude": 28.900919,
+          "radius": "777"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "江阳区",
+      "locations": [
+        {
+          "name": "泸州蓝田机场",
+          "longitude": 105.38329,
+          "latitude": 28.842075,
+          "radius": ""
+        },
+        {
+          "name": "况场朱德旧居陈列馆",
+          "longitude": 105.3104,
+          "latitude": 28.85898,
+          "radius": ""
+        },
+        {
+          "name": "钟鼓楼",
+          "longitude": 105.4497,
+          "latitude": 28.89152,
+          "radius": ""
+        },
+        {
+          "name": "泸州老窖旅游区",
+          "longitude": 105.45358,
+          "latitude": 28.8843,
+          "radius": ""
+        },
+        {
+          "name": "泸州桂圆林风景区",
+          "longitude": 105.48369,
+          "latitude": 28.88276,
+          "radius": ""
+        },
+        {
+          "name": "报恩塔",
+          "longitude": 105.45157,
+          "latitude": 28.89101,
+          "radius": ""
+        },
+        {
+          "name": "杨桥湖风景区",
+          "longitude": 105.45826,
+          "latitude": 28.83437,
+          "radius": ""
+        },
+        {
+          "name": "泸州博物馆",
+          "longitude": 105.43224,
+          "latitude": 28.87354,
+          "radius": ""
+        },
+        {
+          "name": "泸州市桂妃园旅游风景区",
+          "longitude": 105.56985,
+          "latitude": 28.89009,
+          "radius": ""
+        },
+        {
+          "name": "熙园",
+          "longitude": 105.44691,
+          "latitude": 28.87165,
+          "radius": ""
+        },
+        {
+          "name": "足球场",
+          "longitude": 105.48329,
+          "latitude": 28.88805,
+          "radius": ""
+        },
+        {
+          "name": "篮球场",
+          "longitude": 105.48416,
+          "latitude": 28.88657,
+          "radius": ""
+        },
+        {
+          "name": "云峰圣水",
+          "longitude": 105.32659,
+          "latitude": 28.81724,
+          "radius": ""
+        },
+        {
+          "name": "丹林镇梨花村景区",
+          "longitude": 105.29381,
+          "latitude": 28.82943,
+          "radius": ""
+        },
+        {
+          "name": "川南海潮湖旅游区",
+          "longitude": 105.32,
+          "latitude": 28.90197,
+          "radius": ""
+        },
+        {
+          "name": "泸州市体育馆",
+          "longitude": 105.44798,
+          "latitude": 28.88642,
+          "radius": ""
+        },
+        {
+          "name": "泸州古航",
+          "longitude": 105.45084,
+          "latitude": 28.89844,
+          "radius": ""
+        },
+        {
+          "name": "滨江文化长廊",
+          "longitude": 105.45488,
+          "latitude": 28.88964,
+          "radius": ""
+        },
+        {
+          "name": "御景湾游泳池",
+          "longitude": 105.42771,
+          "latitude": 28.8571,
+          "radius": ""
+        },
+        {
+          "name": "张坝景区",
+          "longitude": 105.48163,
+          "latitude": 28.89235,
+          "radius": ""
+        },
+        {
+          "name": "泸州市桂妃园旅游风景",
+          "longitude": 105.56807,
+          "latitude": 28.8909,
+          "radius": ""
+        },
+        {
+          "name": "四洞沟丹霞溪谷(国际休闲旅游度假区泸州接待中心)",
+          "longitude": 105.44749,
+          "latitude": 28.89399,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "纳溪区",
+      "locations": [
+        {
+          "name": "凤凰湖风景区",
+          "longitude": 105.313774,
+          "latitude": 28.699856,
+          "radius": ""
+        },
+        {
+          "name": "天仙硐风景区",
+          "longitude": 105.41208,
+          "latitude": 28.71708,
+          "radius": ""
+        },
+        {
+          "name": "纳溪体育馆",
+          "longitude": 105.36653,
+          "latitude": 28.76956,
+          "radius": ""
+        },
+        {
+          "name": "无名烈士纪念碑",
+          "longitude": 105.37558,
+          "latitude": 28.68759,
+          "radius": ""
+        },
+        {
+          "name": "倒流河风景旅游区",
+          "longitude": 105.3752,
+          "latitude": 28.79857,
+          "radius": ""
+        },
+        {
+          "name": "仙乐宫",
+          "longitude": 105.41451,
+          "latitude": 28.70765,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "龙马潭区",
+      "locations": [
+        {
+          "name": "洞窝峡谷风景区",
+          "longitude": 105.53362,
+          "latitude": 28.90326,
+          "radius": ""
+        },
+        {
+          "name": "九狮山风景区",
+          "longitude": 105.43701,
+          "latitude": 28.95765,
+          "radius": ""
+        },
+        {
+          "name": "三国城",
+          "longitude": 105.4285,
+          "latitude": 28.96212,
+          "radius": ""
+        },
+        {
+          "name": "千狮坛",
+          "longitude": 105.43473,
+          "latitude": 28.96657,
+          "radius": ""
+        },
+        {
+          "name": "泸州九狮风景区",
+          "longitude": 105.43682,
+          "latitude": 28.95817,
+          "radius": ""
+        },
+        {
+          "name": "泸州洞窝风景区",
+          "longitude": 105.50075,
+          "latitude": 28.88817,
+          "radius": ""
+        },
+        {
+          "name": "泸州石刻艺术博物馆",
+          "longitude": 105.46943,
+          "latitude": 28.91181,
+          "radius": ""
+        },
+        {
+          "name": "泸州市奥体公园",
+          "longitude": 105.42294,
+          "latitude": 28.90228,
+          "radius": ""
+        },
+        {
+          "name": "泸州老窖花博园",
+          "longitude": 105.47546,
+          "latitude": 28.91665,
+          "radius": ""
+        },
+        {
+          "name": "洞窝风景区",
+          "longitude": 105.52677,
+          "latitude": 28.90392,
+          "radius": ""
+        },
+        {
+          "name": "龙马潭旅游风景区",
+          "longitude": 105.49425,
+          "latitude": 28.92986,
+          "radius": ""
+        },
+        {
+          "name": "协泰祥裕厚祥永生祥作坊",
+          "longitude": 105.45162,
+          "latitude": 28.90572,
+          "radius": ""
+        },
+        {
+          "name": "蒋兆和故居",
+          "longitude": 105.44882,
+          "latitude": 28.90223,
+          "radius": ""
+        },
+        {
+          "name": "洞宾亭风景区",
+          "longitude": 105.46932,
+          "latitude": 28.91191,
+          "radius": ""
+        },
+        {
+          "name": "醇丰远作坊",
+          "longitude": 105.44882,
+          "latitude": 28.9035,
+          "radius": ""
+        },
+        {
+          "name": "纯阳洞",
+          "longitude": 105.45688,
+          "latitude": 28.91051,
+          "radius": ""
+        },
+        {
+          "name": "生发荣作坊",
+          "longitude": 105.45011,
+          "latitude": 28.90498,
+          "radius": ""
+        },
+        {
+          "name": "泸州市江阳区竞翔信鸽俱乐部",
+          "longitude": 105.43727,
+          "latitude": 28.90295,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "泸县",
+      "locations": [
+        {
+          "name": "泸州玉龙湖风景名胜区",
+          "longitude": 105.66775,
+          "latitude": 29.16004,
+          "radius": ""
+        },
+        {
+          "name": "古玉蟾关",
+          "longitude": 105.39307,
+          "latitude": 29.14038,
+          "radius": ""
+        },
+        {
+          "name": "泸县博物馆",
+          "longitude": 105.38,
+          "latitude": 29.15328,
+          "radius": ""
+        },
+        {
+          "name": "龙脑桥影剧院",
+          "longitude": 105.36263,
+          "latitude": 29.20129,
+          "radius": ""
+        },
+        {
+          "name": "地主庄园陈列馆",
+          "longitude": 105.45518,
+          "latitude": 29.272,
+          "radius": ""
+        },
+        {
+          "name": "云顶寨",
+          "longitude": 105.29625,
+          "latitude": 29.22032,
+          "radius": ""
+        },
+        {
+          "name": "文化体育中心",
+          "longitude": 105.33812,
+          "latitude": 29.08103,
+          "radius": ""
+        },
+        {
+          "name": "云锦影剧院",
+          "longitude": 105.64587,
+          "latitude": 29.07722,
+          "radius": ""
+        },
+        {
+          "name": "沁香阁",
+          "longitude": 105.38696,
+          "latitude": 29.13735,
+          "radius": ""
+        },
+        {
+          "name": "玉龙湖风景区",
+          "longitude": 105.66891,
+          "latitude": 29.15821,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "合江县",
+      "locations": [
+        {
+          "name": "尧灞古镇",
+          "longitude": 105.64664,
+          "latitude": 28.73822,
+          "radius": ""
+        },
+        {
+          "name": "笔架山风景区",
+          "longitude": 105.78744,
+          "latitude": 28.80855,
+          "radius": ""
+        },
+        {
+          "name": "天华体育馆",
+          "longitude": 105.92199,
+          "latitude": 28.8648,
+          "radius": ""
+        },
+        {
+          "name": "天堂坝景区",
+          "longitude": 106.22679,
+          "latitude": 28.61924,
+          "radius": ""
+        },
+        {
+          "name": "自怀原始森林风景区",
+          "longitude": 106.25233,
+          "latitude": 28.69935,
+          "radius": ""
+        },
+        {
+          "name": "合江县汉代画像石棺博物馆",
+          "longitude": 105.83807,
+          "latitude": 28.80157,
+          "radius": ""
+        },
+        {
+          "name": "合江县体育场",
+          "longitude": 105.83594,
+          "latitude": 28.80244,
+          "radius": ""
+        },
+        {
+          "name": "合江剧场",
+          "longitude": 105.83843,
+          "latitude": 28.80495,
+          "radius": ""
+        },
+        {
+          "name": "水帘洞",
+          "longitude": 106.12682,
+          "latitude": 28.64838,
+          "radius": ""
+        },
+        {
+          "name": "仙鹅湖景区",
+          "longitude": 105.59799,
+          "latitude": 28.72918,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "叙永县",
+      "locations": [
+        {
+          "name": "春秋祠",
+          "longitude": 105.44072,
+          "latitude": 28.16856,
+          "radius": ""
+        },
+        {
+          "name": "叙永县体育中心",
+          "longitude": 105.43752,
+          "latitude": 28.17422,
+          "radius": ""
+        },
+        {
+          "name": "丹山风景区",
+          "longitude": 105.48998,
+          "latitude": 28.19398,
+          "radius": ""
+        },
+        {
+          "name": "石厢子会议所在地",
+          "longitude": 105.42519,
+          "latitude": 27.78968,
+          "radius": ""
+        },
+        {
+          "name": "穿山洞景区",
+          "longitude": 105.51609,
+          "latitude": 28.09511,
+          "radius": ""
+        },
+        {
+          "name": "羡鱼亭",
+          "longitude": 105.44692,
+          "latitude": 28.16113,
+          "radius": ""
+        },
+        {
+          "name": "天星洞",
+          "longitude": 105.37208,
+          "latitude": 28.06118,
+          "radius": ""
+        },
+        {
+          "name": "天池",
+          "longitude": 105.44382,
+          "latitude": 28.33213,
+          "radius": ""
+        },
+        {
+          "name": "仙人洞",
+          "longitude": 105.50883,
+          "latitude": 28.10304,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "古蔺县",
+      "locations": [
+        {
+          "name": "古蔺县体育中心",
+          "longitude": 105.82031,
+          "latitude": 28.04177,
+          "radius": ""
+        },
+        {
+          "name": "红军长征四渡赤水太平阻击战战场遗址",
+          "longitude": 106.04346,
+          "latitude": 28.13764,
+          "radius": ""
+        },
+        {
+          "name": "黄荆乡八节洞瀑布景区",
+          "longitude": 105.73401,
+          "latitude": 28.26623,
+          "radius": ""
+        },
+        {
+          "name": "黄荆老林",
+          "longitude": 105.73507,
+          "latitude": 28.18489,
+          "radius": ""
+        },
+        {
+          "name": "红军二四渡赤水历史遗址",
+          "longitude": 106.1659,
+          "latitude": 28.15255,
+          "radius": ""
+        },
+        {
+          "name": "四渡赤水太平渡陈列馆",
+          "longitude": 106.04066,
+          "latitude": 28.13583,
+          "radius": ""
+        },
+        {
+          "name": "大黑洞风景区",
+          "longitude": 105.58631,
+          "latitude": 28.05976,
+          "radius": ""
+        },
+        {
+          "name": "黄荆生态风景区",
+          "longitude": 105.76115,
+          "latitude": 28.22677,
+          "radius": ""
+        },
+        {
+          "name": "天宝洞",
+          "longitude": 106.18912,
+          "latitude": 28.13324,
+          "radius": ""
+        },
+        {
+          "name": "太平古镇",
+          "longitude": 106.04145,
+          "latitude": 28.13594,
+          "radius": ""
+        },
+        {
+          "name": "中国工农红军长征毛泽东同志及总司令部旧址",
+          "longitude": 105.75517,
+          "latitude": 27.83322,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3474 @@
+{
+  "cityName": "重庆市",
+  "businessCenters": [
+    {
+      "name": "万州区",
+      "locations": [
+        {
+          "name": "武陵",
+          "longitude": 108.25683,
+          "latitude": 30.503542,
+          "radius": "405"
+        },
+        {
+          "name": "郭村",
+          "longitude": 108.17301,
+          "latitude": 30.56258,
+          "radius": "548"
+        },
+        {
+          "name": "龙沙",
+          "longitude": 108.238556,
+          "latitude": 30.635862,
+          "radius": "604"
+        },
+        {
+          "name": "响水",
+          "longitude": 108.19877,
+          "latitude": 30.653303,
+          "radius": "196"
+        },
+        {
+          "name": "走马",
+          "longitude": 108.44404,
+          "latitude": 30.566687,
+          "radius": "352"
+        },
+        {
+          "name": "龙驹",
+          "longitude": 108.63906,
+          "latitude": 30.607967,
+          "radius": "449"
+        },
+        {
+          "name": "新田",
+          "longitude": 108.4096,
+          "latitude": 30.69813,
+          "radius": "743"
+        },
+        {
+          "name": "高峰",
+          "longitude": 108.345505,
+          "latitude": 30.710226,
+          "radius": "224"
+        },
+        {
+          "name": "双河口",
+          "longitude": 108.37596,
+          "latitude": 30.751059,
+          "radius": "983"
+        },
+        {
+          "name": "龙都",
+          "longitude": 108.41124,
+          "latitude": 30.765388,
+          "radius": "649"
+        },
+        {
+          "name": "长岭",
+          "longitude": 108.49334,
+          "latitude": 30.765858,
+          "radius": "777"
+        },
+        {
+          "name": "长滩",
+          "longitude": 108.60657,
+          "latitude": 30.73641,
+          "radius": "457"
+        },
+        {
+          "name": "白羊",
+          "longitude": 108.61365,
+          "latitude": 30.813938,
+          "radius": "482"
+        },
+        {
+          "name": "五桥",
+          "longitude": 108.44562,
+          "latitude": 30.761875,
+          "radius": "1335"
+        },
+        {
+          "name": "百安坝",
+          "longitude": 108.44423,
+          "latitude": 30.76083,
+          "radius": "786"
+        },
+        {
+          "name": "牌楼",
+          "longitude": 108.392006,
+          "latitude": 30.786991,
+          "radius": "585"
+        },
+        {
+          "name": "李河",
+          "longitude": 108.2668,
+          "latitude": 30.81441,
+          "radius": "327"
+        },
+        {
+          "name": "钟鼓楼",
+          "longitude": 108.397354,
+          "latitude": 30.827663,
+          "radius": "1481"
+        },
+        {
+          "name": "太白",
+          "longitude": 108.37183,
+          "latitude": 30.810202,
+          "radius": "1265"
+        },
+        {
+          "name": "孙家",
+          "longitude": 108.37714,
+          "latitude": 30.815449,
+          "radius": "566"
+        },
+        {
+          "name": "高笋塘",
+          "longitude": 108.37969,
+          "latitude": 30.811127,
+          "radius": "570"
+        },
+        {
+          "name": "沙河",
+          "longitude": 108.35941,
+          "latitude": 30.836294,
+          "radius": "1765"
+        },
+        {
+          "name": "周家坝",
+          "longitude": 108.37063,
+          "latitude": 30.84383,
+          "radius": "770"
+        },
+        {
+          "name": "天城",
+          "longitude": 108.37195,
+          "latitude": 30.871681,
+          "radius": "1270"
+        }
+      ]
+    },
+    {
+      "name": "涪陵区",
+      "locations": [
+        {
+          "name": "中峰",
+          "longitude": 107.542915,
+          "latitude": 29.924814,
+          "radius": "612"
+        },
+        {
+          "name": "增福",
+          "longitude": 106.99011,
+          "latitude": 29.50774,
+          "radius": "280"
+        },
+        {
+          "name": "明家",
+          "longitude": 107.06469,
+          "latitude": 29.500782,
+          "radius": "562"
+        },
+        {
+          "name": "龙潭",
+          "longitude": 107.11018,
+          "latitude": 29.442999,
+          "radius": "572"
+        },
+        {
+          "name": "同乐",
+          "longitude": 107.200195,
+          "latitude": 29.458185,
+          "radius": "249"
+        },
+        {
+          "name": "青羊",
+          "longitude": 107.20846,
+          "latitude": 29.52595,
+          "radius": "377"
+        },
+        {
+          "name": "白涛",
+          "longitude": 107.49039,
+          "latitude": 29.546955,
+          "radius": "1079"
+        },
+        {
+          "name": "马武",
+          "longitude": 107.31975,
+          "latitude": 29.590158,
+          "radius": "754"
+        },
+        {
+          "name": "惠民",
+          "longitude": 107.23968,
+          "latitude": 29.613277,
+          "radius": "442"
+        },
+        {
+          "name": "两汇",
+          "longitude": 107.103195,
+          "latitude": 29.63173,
+          "radius": "434"
+        },
+        {
+          "name": "新妙",
+          "longitude": 107.054726,
+          "latitude": 29.654123,
+          "radius": "427"
+        },
+        {
+          "name": "蔺市",
+          "longitude": 107.19716,
+          "latitude": 29.661427,
+          "radius": "572"
+        },
+        {
+          "name": "义和",
+          "longitude": 107.22323,
+          "latitude": 29.730343,
+          "radius": "426"
+        },
+        {
+          "name": "李渡",
+          "longitude": 107.291466,
+          "latitude": 29.735868,
+          "radius": "1616"
+        },
+        {
+          "name": "百胜",
+          "longitude": 107.398476,
+          "latitude": 29.810925,
+          "radius": "285"
+        },
+        {
+          "name": "珍溪",
+          "longitude": 107.471664,
+          "latitude": 29.899319,
+          "radius": "418"
+        },
+        {
+          "name": "南沱",
+          "longitude": 107.53164,
+          "latitude": 29.852728,
+          "radius": "312"
+        },
+        {
+          "name": "仁义",
+          "longitude": 107.59485,
+          "latitude": 29.88449,
+          "radius": "196"
+        },
+        {
+          "name": "罗云",
+          "longitude": 107.60195,
+          "latitude": 29.776756,
+          "radius": "306"
+        },
+        {
+          "name": "焦石",
+          "longitude": 107.60283,
+          "latitude": 29.714125,
+          "radius": "707"
+        },
+        {
+          "name": "山窝",
+          "longitude": 107.57091,
+          "latitude": 29.608158,
+          "radius": "334"
+        }
+      ]
+    },
+    {
+      "name": "渝中区",
+      "locations": [
+        {
+          "name": "大坪",
+          "longitude": 106.51069,
+          "latitude": 29.538843,
+          "radius": "1927"
+        },
+        {
+          "name": "化龙桥",
+          "longitude": 106.514175,
+          "latitude": 29.552303,
+          "radius": "1391"
+        },
+        {
+          "name": "李子坝",
+          "longitude": 106.53301,
+          "latitude": 29.550768,
+          "radius": "440"
+        },
+        {
+          "name": "两路口",
+          "longitude": 106.54523,
+          "latitude": 29.552664,
+          "radius": "1391"
+        },
+        {
+          "name": "上清寺",
+          "longitude": 106.5461,
+          "latitude": 29.560568,
+          "radius": "842"
+        },
+        {
+          "name": "菜园坝",
+          "longitude": 106.549255,
+          "latitude": 29.547398,
+          "radius": "1313"
+        },
+        {
+          "name": "观音岩",
+          "longitude": 106.56022,
+          "latitude": 29.555132,
+          "radius": "376"
+        },
+        {
+          "name": "七星岗",
+          "longitude": 106.565315,
+          "latitude": 29.55608,
+          "radius": "419"
+        },
+        {
+          "name": "大溪沟",
+          "longitude": 106.55622,
+          "latitude": 29.562363,
+          "radius": "679"
+        },
+        {
+          "name": "一号桥",
+          "longitude": 106.5673,
+          "latitude": 29.560503,
+          "radius": "447"
+        },
+        {
+          "name": "南纪门",
+          "longitude": 106.571785,
+          "latitude": 29.550817,
+          "radius": "881"
+        },
+        {
+          "name": "较场口",
+          "longitude": 106.57267,
+          "latitude": 29.554611,
+          "radius": "567"
+        },
+        {
+          "name": "解放碑",
+          "longitude": 106.57515,
+          "latitude": 29.55829,
+          "radius": "575"
+        },
+        {
+          "name": "朝天门",
+          "longitude": 106.58401,
+          "latitude": 29.562521,
+          "radius": "715"
+        },
+        {
+          "name": "望龙门",
+          "longitude": 106.58343,
+          "latitude": 29.55502,
+          "radius": "582"
+        }
+      ]
+    },
+    {
+      "name": "大渡口区",
+      "locations": [
+        {
+          "name": "茄子溪",
+          "longitude": 106.49492,
+          "latitude": 29.430063,
+          "radius": "903"
+        },
+        {
+          "name": "八桥",
+          "longitude": 106.479675,
+          "latitude": 29.467949,
+          "radius": "1388"
+        },
+        {
+          "name": "九宫庙",
+          "longitude": 106.4849,
+          "latitude": 29.475983,
+          "radius": "637"
+        },
+        {
+          "name": "春晖路",
+          "longitude": 106.47822,
+          "latitude": 29.477089,
+          "radius": "1351"
+        },
+        {
+          "name": "新山村",
+          "longitude": 106.48633,
+          "latitude": 29.483866,
+          "radius": "747"
+        },
+        {
+          "name": "跃进村",
+          "longitude": 106.49329,
+          "latitude": 29.489338,
+          "radius": "1363"
+        }
+      ]
+    },
+    {
+      "name": "江北区",
+      "locations": [
+        {
+          "name": "南桥寺",
+          "longitude": 106.48304,
+          "latitude": 29.585564,
+          "radius": "878"
+        },
+        {
+          "name": "石马河",
+          "longitude": 106.473854,
+          "latitude": 29.583324,
+          "radius": "680"
+        },
+        {
+          "name": "花卉园",
+          "longitude": 106.51461,
+          "latitude": 29.57885,
+          "radius": "773"
+        },
+        {
+          "name": "红旗河沟",
+          "longitude": 106.52669,
+          "latitude": 29.583344,
+          "radius": "681"
+        },
+        {
+          "name": "观音桥",
+          "longitude": 106.53324,
+          "latitude": 29.576857,
+          "radius": "1365"
+        },
+        {
+          "name": "华新街",
+          "longitude": 106.53563,
+          "latitude": 29.564512,
+          "radius": "1426"
+        },
+        {
+          "name": "五里店",
+          "longitude": 106.55661,
+          "latitude": 29.57732,
+          "radius": "1314"
+        },
+        {
+          "name": "大石坝",
+          "longitude": 106.48898,
+          "latitude": 29.565828,
+          "radius": "1518"
+        },
+        {
+          "name": "鱼嘴",
+          "longitude": 106.75545,
+          "latitude": 29.622065,
+          "radius": "1193"
+        },
+        {
+          "name": "复盛",
+          "longitude": 106.79896,
+          "latitude": 29.641205,
+          "radius": "723"
+        },
+        {
+          "name": "五宝",
+          "longitude": 106.85583,
+          "latitude": 29.627642,
+          "radius": "350"
+        }
+      ]
+    },
+    {
+      "name": "沙坪坝区",
+      "locations": [
+        {
+          "name": "磁器口",
+          "longitude": 106.45037,
+          "latitude": 29.580229,
+          "radius": "541"
+        },
+        {
+          "name": "童家桥",
+          "longitude": 106.44586,
+          "latitude": 29.574797,
+          "radius": "634"
+        },
+        {
+          "name": "劳动路",
+          "longitude": 106.458694,
+          "latitude": 29.573563,
+          "radius": "546"
+        },
+        {
+          "name": "杨公桥",
+          "longitude": 106.44717,
+          "latitude": 29.55971,
+          "radius": "1158"
+        },
+        {
+          "name": "渝碚路",
+          "longitude": 106.45544,
+          "latitude": 29.56056,
+          "radius": "772"
+        },
+        {
+          "name": "三峡广场",
+          "longitude": 106.462944,
+          "latitude": 29.557325,
+          "radius": "439"
+        },
+        {
+          "name": "小龙坎",
+          "longitude": 106.46449,
+          "latitude": 29.54941,
+          "radius": "835"
+        },
+        {
+          "name": "沙正街",
+          "longitude": 106.46467,
+          "latitude": 29.567669,
+          "radius": "965"
+        },
+        {
+          "name": "汉渝路",
+          "longitude": 106.47126,
+          "latitude": 29.56096,
+          "radius": "858"
+        },
+        {
+          "name": "工人村",
+          "longitude": 106.46773,
+          "latitude": 29.5565,
+          "radius": "567"
+        },
+        {
+          "name": "土湾",
+          "longitude": 106.47712,
+          "latitude": 29.554865,
+          "radius": "813"
+        },
+        {
+          "name": "天星桥",
+          "longitude": 106.457245,
+          "latitude": 29.545643,
+          "radius": "949"
+        },
+        {
+          "name": "覃家岗",
+          "longitude": 106.45198,
+          "latitude": 29.542156,
+          "radius": "687"
+        },
+        {
+          "name": "凤天路",
+          "longitude": 106.45315,
+          "latitude": 29.533855,
+          "radius": "1134"
+        },
+        {
+          "name": "新桥",
+          "longitude": 106.441956,
+          "latitude": 29.52603,
+          "radius": "1705"
+        },
+        {
+          "name": "山洞",
+          "longitude": 106.42182,
+          "latitude": 29.513247,
+          "radius": "2209"
+        },
+        {
+          "name": "歌乐山",
+          "longitude": 106.42263,
+          "latitude": 29.565445,
+          "radius": "3049"
+        },
+        {
+          "name": "西永",
+          "longitude": 106.382416,
+          "latitude": 29.57052,
+          "radius": "4023"
+        },
+        {
+          "name": "双碑",
+          "longitude": 106.447876,
+          "latitude": 29.60311,
+          "radius": "2318"
+        },
+        {
+          "name": "陈家桥",
+          "longitude": 106.326614,
+          "latitude": 29.618273,
+          "radius": "2286"
+        },
+        {
+          "name": "曾家",
+          "longitude": 106.30281,
+          "latitude": 29.555712,
+          "radius": "841"
+        },
+        {
+          "name": "土主",
+          "longitude": 106.372,
+          "latitude": 29.630974,
+          "radius": "635"
+        },
+        {
+          "name": "中梁",
+          "longitude": 106.4133,
+          "latitude": 29.639662,
+          "radius": "362"
+        },
+        {
+          "name": "井口",
+          "longitude": 106.44774,
+          "latitude": 29.637175,
+          "radius": "615"
+        },
+        {
+          "name": "回龙坝",
+          "longitude": 106.3838,
+          "latitude": 29.706264,
+          "radius": "1213"
+        },
+        {
+          "name": "青木关",
+          "longitude": 106.3044,
+          "latitude": 29.675438,
+          "radius": "865"
+        }
+      ]
+    },
+    {
+      "name": "九龙坡区",
+      "locations": [
+        {
+          "name": "巴福",
+          "longitude": 106.33112,
+          "latitude": 29.4106,
+          "radius": "291"
+        },
+        {
+          "name": "走马",
+          "longitude": 106.29376,
+          "latitude": 29.454844,
+          "radius": "1423"
+        },
+        {
+          "name": "西彭",
+          "longitude": 106.32633,
+          "latitude": 29.296938,
+          "radius": "2102"
+        },
+        {
+          "name": "铜罐驿",
+          "longitude": 106.38475,
+          "latitude": 29.292559,
+          "radius": "546"
+        },
+        {
+          "name": "金凤",
+          "longitude": 106.31352,
+          "latitude": 29.51724,
+          "radius": "438"
+        },
+        {
+          "name": "含谷",
+          "longitude": 106.37299,
+          "latitude": 29.522766,
+          "radius": "1619"
+        },
+        {
+          "name": "白市驿",
+          "longitude": 106.37033,
+          "latitude": 29.490688,
+          "radius": "1029"
+        },
+        {
+          "name": "二郎",
+          "longitude": 106.46226,
+          "latitude": 29.507902,
+          "radius": "1723"
+        },
+        {
+          "name": "华岩",
+          "longitude": 106.443665,
+          "latitude": 29.475985,
+          "radius": "373"
+        },
+        {
+          "name": "中梁山",
+          "longitude": 106.43735,
+          "latitude": 29.466684,
+          "radius": "2231"
+        },
+        {
+          "name": "石桥铺",
+          "longitude": 106.47678,
+          "latitude": 29.530546,
+          "radius": "2360"
+        },
+        {
+          "name": "渝州路",
+          "longitude": 106.49514,
+          "latitude": 29.53395,
+          "radius": "1569"
+        },
+        {
+          "name": "陈家坪",
+          "longitude": 106.4872,
+          "latitude": 29.520004,
+          "radius": "948"
+        },
+        {
+          "name": "石坪桥",
+          "longitude": 106.501,
+          "latitude": 29.515932,
+          "radius": "1023"
+        },
+        {
+          "name": "杨家坪",
+          "longitude": 106.513405,
+          "latitude": 29.504904,
+          "radius": "1685"
+        },
+        {
+          "name": "谢家湾",
+          "longitude": 106.52074,
+          "latitude": 29.521736,
+          "radius": "1654"
+        },
+        {
+          "name": "袁家岗",
+          "longitude": 106.50684,
+          "latitude": 29.526747,
+          "radius": "1174"
+        },
+        {
+          "name": "马王乡",
+          "longitude": 106.48892,
+          "latitude": 29.493893,
+          "radius": "925"
+        },
+        {
+          "name": "黄桷坪",
+          "longitude": 106.53245,
+          "latitude": 29.490156,
+          "radius": "1755"
+        }
+      ]
+    },
+    {
+      "name": "南岸区",
+      "locations": [
+        {
+          "name": "铜元局",
+          "longitude": 106.5466,
+          "latitude": 29.529835,
+          "radius": "1455"
+        },
+        {
+          "name": "花园路",
+          "longitude": 106.55271,
+          "latitude": 29.522627,
+          "radius": "1657"
+        },
+        {
+          "name": "学府大道",
+          "longitude": 106.573395,
+          "latitude": 29.495481,
+          "radius": "1930"
+        },
+        {
+          "name": "回龙湾",
+          "longitude": 106.568756,
+          "latitude": 29.506985,
+          "radius": "767"
+        },
+        {
+          "name": "四公里",
+          "longitude": 106.578125,
+          "latitude": 29.519182,
+          "radius": "1098"
+        },
+        {
+          "name": "南坪",
+          "longitude": 106.56965,
+          "latitude": 29.532974,
+          "radius": "1471"
+        },
+        {
+          "name": "海棠溪",
+          "longitude": 106.58765,
+          "latitude": 29.538465,
+          "radius": "1670"
+        },
+        {
+          "name": "龙门浩",
+          "longitude": 106.59642,
+          "latitude": 29.553864,
+          "radius": "535"
+        },
+        {
+          "name": "涂山",
+          "longitude": 106.604004,
+          "latitude": 29.568169,
+          "radius": "1793"
+        },
+        {
+          "name": "弹子石",
+          "longitude": 106.59536,
+          "latitude": 29.591467,
+          "radius": "2453"
+        },
+        {
+          "name": "鸡冠石",
+          "longitude": 106.620605,
+          "latitude": 29.58697,
+          "radius": "1715"
+        },
+        {
+          "name": "大佛段",
+          "longitude": 106.59157,
+          "latitude": 29.58692,
+          "radius": "546"
+        },
+        {
+          "name": "长生桥",
+          "longitude": 106.66309,
+          "latitude": 29.506863,
+          "radius": "945"
+        },
+        {
+          "name": "经开区",
+          "longitude": 106.55324,
+          "latitude": 29.50831,
+          "radius": "1784"
+        }
+      ]
+    },
+    {
+      "name": "北碚区",
+      "locations": [
+        {
+          "name": "歇马",
+          "longitude": 106.36797,
+          "latitude": 29.7616,
+          "radius": "1770"
+        },
+        {
+          "name": "蔡家岗",
+          "longitude": 106.47942,
+          "latitude": 29.733482,
+          "radius": "905"
+        },
+        {
+          "name": "施家梁",
+          "longitude": 106.4785,
+          "latitude": 29.78516,
+          "radius": "771"
+        },
+        {
+          "name": "水土",
+          "longitude": 106.49966,
+          "latitude": 29.780972,
+          "radius": "828"
+        },
+        {
+          "name": "复兴",
+          "longitude": 106.56086,
+          "latitude": 29.814175,
+          "radius": "390"
+        },
+        {
+          "name": "龙凤桥",
+          "longitude": 106.435555,
+          "latitude": 29.812761,
+          "radius": "751"
+        },
+        {
+          "name": "天生",
+          "longitude": 106.424,
+          "latitude": 29.82181,
+          "radius": "1687"
+        },
+        {
+          "name": "朝阳",
+          "longitude": 106.4443,
+          "latitude": 29.824022,
+          "radius": "1187"
+        },
+        {
+          "name": "东阳",
+          "longitude": 106.44476,
+          "latitude": 29.842585,
+          "radius": "1479"
+        },
+        {
+          "name": "澄江",
+          "longitude": 106.39077,
+          "latitude": 29.868067,
+          "radius": "811"
+        },
+        {
+          "name": "静观",
+          "longitude": 106.56726,
+          "latitude": 29.893734,
+          "radius": "1247"
+        },
+        {
+          "name": "三圣",
+          "longitude": 106.62641,
+          "latitude": 29.891804,
+          "radius": "265"
+        },
+        {
+          "name": "柳荫",
+          "longitude": 106.60374,
+          "latitude": 29.95411,
+          "radius": "637"
+        }
+      ]
+    },
+    {
+      "name": "綦江区",
+      "locations": [
+        {
+          "name": "万东",
+          "longitude": 106.927925,
+          "latitude": 28.956758,
+          "radius": "1186"
+        },
+        {
+          "name": "关坝",
+          "longitude": 106.81533,
+          "latitude": 28.815144,
+          "radius": "472"
+        }
+      ]
+    },
+    {
+      "name": "大足区",
+      "locations": [
+        {
+          "name": "通桥",
+          "longitude": 105.771225,
+          "latitude": 29.518188,
+          "radius": "275"
+        },
+        {
+          "name": "双路",
+          "longitude": 105.7725,
+          "latitude": 29.488058,
+          "radius": "1241"
+        }
+      ]
+    },
+    {
+      "name": "渝北区",
+      "locations": [
+        {
+          "name": "新牌坊",
+          "longitude": 106.51441,
+          "latitude": 29.599012,
+          "radius": "604"
+        },
+        {
+          "name": "冉家坝",
+          "longitude": 106.49661,
+          "latitude": 29.590767,
+          "radius": "1379"
+        },
+        {
+          "name": "龙溪",
+          "longitude": 106.51528,
+          "latitude": 29.592009,
+          "radius": "1406"
+        },
+        {
+          "name": "黄泥磅",
+          "longitude": 106.53972,
+          "latitude": 29.591528,
+          "radius": "1166"
+        },
+        {
+          "name": "大竹林",
+          "longitude": 106.47865,
+          "latitude": 29.627628,
+          "radius": "1415"
+        },
+        {
+          "name": "人和",
+          "longitude": 106.52594,
+          "latitude": 29.61921,
+          "radius": "2135"
+        },
+        {
+          "name": "汽博中心",
+          "longitude": 106.56941,
+          "latitude": 29.642387,
+          "radius": "1014"
+        },
+        {
+          "name": "鸳鸯",
+          "longitude": 106.55563,
+          "latitude": 29.658607,
+          "radius": "1150"
+        },
+        {
+          "name": "古路",
+          "longitude": 106.74401,
+          "latitude": 29.835526,
+          "radius": "797"
+        },
+        {
+          "name": "高嘴",
+          "longitude": 106.79084,
+          "latitude": 29.917303,
+          "radius": "397"
+        },
+        {
+          "name": "茨竹",
+          "longitude": 106.7448,
+          "latitude": 29.985205,
+          "radius": "758"
+        },
+        {
+          "name": "回兴",
+          "longitude": 106.60101,
+          "latitude": 29.672684,
+          "radius": "3842"
+        },
+        {
+          "name": "一碗水",
+          "longitude": 106.61401,
+          "latitude": 29.697958,
+          "radius": "681"
+        },
+        {
+          "name": "华蓥山",
+          "longitude": 106.72173,
+          "latitude": 30.032063,
+          "radius": "233"
+        },
+        {
+          "name": "石坪",
+          "longitude": 106.666725,
+          "latitude": 29.662697,
+          "radius": "241"
+        },
+        {
+          "name": "洛碛",
+          "longitude": 106.92994,
+          "latitude": 29.73251,
+          "radius": "1396"
+        },
+        {
+          "name": "双龙湖",
+          "longitude": 106.62421,
+          "latitude": 29.709938,
+          "radius": "1039"
+        },
+        {
+          "name": "两路",
+          "longitude": 106.62526,
+          "latitude": 29.718155,
+          "radius": "2146"
+        },
+        {
+          "name": "双凤桥",
+          "longitude": 106.63247,
+          "latitude": 29.73397,
+          "radius": "798"
+        },
+        {
+          "name": "石船",
+          "longitude": 106.82675,
+          "latitude": 29.762938,
+          "radius": "267"
+        },
+        {
+          "name": "麻柳沱",
+          "longitude": 106.88497,
+          "latitude": 29.806551,
+          "radius": "241"
+        },
+        {
+          "name": "统景",
+          "longitude": 106.84782,
+          "latitude": 29.851196,
+          "radius": "670"
+        }
+      ]
+    },
+    {
+      "name": "巴南区",
+      "locations": [
+        {
+          "name": "李家沱",
+          "longitude": 106.5351,
+          "latitude": 29.466974,
+          "radius": "2709"
+        },
+        {
+          "name": "花溪",
+          "longitude": 106.535324,
+          "latitude": 29.44272,
+          "radius": "2710"
+        },
+        {
+          "name": "鱼洞",
+          "longitude": 106.52057,
+          "latitude": 29.385487,
+          "radius": "2181"
+        },
+        {
+          "name": "一品",
+          "longitude": 106.56517,
+          "latitude": 29.28379,
+          "radius": "746"
+        },
+        {
+          "name": "安澜",
+          "longitude": 106.58664,
+          "latitude": 29.24827,
+          "radius": "728"
+        },
+        {
+          "name": "惠民",
+          "longitude": 106.708176,
+          "latitude": 29.460257,
+          "radius": "659"
+        },
+        {
+          "name": "跳石",
+          "longitude": 106.6461,
+          "latitude": 29.27511,
+          "radius": "753"
+        },
+        {
+          "name": "天星寺",
+          "longitude": 106.76568,
+          "latitude": 29.348312,
+          "radius": "214"
+        },
+        {
+          "name": "石滩",
+          "longitude": 106.88082,
+          "latitude": 29.183573,
+          "radius": "339"
+        },
+        {
+          "name": "东泉",
+          "longitude": 106.86267,
+          "latitude": 29.45336,
+          "radius": "736"
+        },
+        {
+          "name": "木洞",
+          "longitude": 106.83659,
+          "latitude": 29.573248,
+          "radius": "523"
+        },
+        {
+          "name": "丰盛",
+          "longitude": 106.93352,
+          "latitude": 29.529837,
+          "radius": "188"
+        },
+        {
+          "name": "麻柳嘴",
+          "longitude": 106.94179,
+          "latitude": 29.693893,
+          "radius": "538"
+        }
+      ]
+    },
+    {
+      "name": "黔江区",
+      "locations": [
+        {
+          "name": "黄溪",
+          "longitude": 108.605385,
+          "latitude": 29.76497,
+          "radius": "306"
+        },
+        {
+          "name": "石会",
+          "longitude": 108.6203,
+          "latitude": 29.570705,
+          "radius": "334"
+        },
+        {
+          "name": "中塘",
+          "longitude": 108.829216,
+          "latitude": 29.607355,
+          "radius": "177"
+        },
+        {
+          "name": "联合",
+          "longitude": 108.78561,
+          "latitude": 29.525087,
+          "radius": "281"
+        },
+        {
+          "name": "新华",
+          "longitude": 108.78008,
+          "latitude": 29.529852,
+          "radius": "2076"
+        },
+        {
+          "name": "金溪",
+          "longitude": 108.69261,
+          "latitude": 29.390696,
+          "radius": "219"
+        },
+        {
+          "name": "太极",
+          "longitude": 108.66666,
+          "latitude": 29.326836,
+          "radius": "241"
+        },
+        {
+          "name": "濯水",
+          "longitude": 108.771675,
+          "latitude": 29.299095,
+          "radius": "870"
+        },
+        {
+          "name": "鹅池",
+          "longitude": 108.592926,
+          "latitude": 29.135277,
+          "radius": "286"
+        },
+        {
+          "name": "两河",
+          "longitude": 108.75186,
+          "latitude": 29.155201,
+          "radius": "310"
+        },
+        {
+          "name": "马喇",
+          "longitude": 108.85564,
+          "latitude": 29.279406,
+          "radius": "363"
+        }
+      ]
+    },
+    {
+      "name": "长寿区",
+      "locations": [
+        {
+          "name": "万顺",
+          "longitude": 106.97429,
+          "latitude": 30.035759,
+          "radius": "415"
+        },
+        {
+          "name": "洪湖",
+          "longitude": 106.95741,
+          "latitude": 29.999231,
+          "radius": "621"
+        },
+        {
+          "name": "海棠",
+          "longitude": 107.235664,
+          "latitude": 30.169874,
+          "radius": "574"
+        },
+        {
+          "name": "云台",
+          "longitude": 107.2092,
+          "latitude": 30.138123,
+          "radius": "852"
+        },
+        {
+          "name": "葛兰",
+          "longitude": 107.12161,
+          "latitude": 30.032478,
+          "radius": "762"
+        },
+        {
+          "name": "龙河",
+          "longitude": 107.222565,
+          "latitude": 30.00649,
+          "radius": "328"
+        },
+        {
+          "name": "双龙",
+          "longitude": 107.20872,
+          "latitude": 29.95646,
+          "radius": "450"
+        },
+        {
+          "name": "新市",
+          "longitude": 107.10484,
+          "latitude": 29.951942,
+          "radius": "1554"
+        },
+        {
+          "name": "八颗",
+          "longitude": 107.02868,
+          "latitude": 29.898657,
+          "radius": "352"
+        },
+        {
+          "name": "晏家",
+          "longitude": 106.999756,
+          "latitude": 29.825645,
+          "radius": "1337"
+        },
+        {
+          "name": "江南",
+          "longitude": 107.06855,
+          "latitude": 29.80792,
+          "radius": "485"
+        },
+        {
+          "name": "渡舟",
+          "longitude": 107.08159,
+          "latitude": 29.872086,
+          "radius": "923"
+        },
+        {
+          "name": "邻封",
+          "longitude": 107.21755,
+          "latitude": 29.889866,
+          "radius": "267"
+        }
+      ]
+    }
+  ],
+  "metroLines": [
+    {
+      "name": "轨道交通1号线",
+      "locations": [
+        {
+          "name": "尖顶坡",
+          "longitude": 106.29292,
+          "latitude": 29.607327,
+          "radius": ""
+        },
+        {
+          "name": "大学城",
+          "longitude": 106.30904,
+          "latitude": 29.607428,
+          "radius": ""
+        },
+        {
+          "name": "陈家桥",
+          "longitude": 106.328545,
+          "latitude": 29.607489,
+          "radius": ""
+        },
+        {
+          "name": "微电园",
+          "longitude": 106.36317,
+          "latitude": 29.609785,
+          "radius": ""
+        },
+        {
+          "name": "赖家桥",
+          "longitude": 106.38121,
+          "latitude": 29.610643,
+          "radius": ""
+        },
+        {
+          "name": "双碑",
+          "longitude": 106.44441,
+          "latitude": 29.60564,
+          "radius": ""
+        },
+        {
+          "name": "石井坡",
+          "longitude": 106.44413,
+          "latitude": 29.589132,
+          "radius": ""
+        },
+        {
+          "name": "磁器口",
+          "longitude": 106.44646,
+          "latitude": 29.576794,
+          "radius": ""
+        },
+        {
+          "name": "烈士墓",
+          "longitude": 106.44569,
+          "latitude": 29.567451,
+          "radius": ""
+        },
+        {
+          "name": "杨公桥",
+          "longitude": 106.450455,
+          "latitude": 29.561684,
+          "radius": ""
+        },
+        {
+          "name": "沙坪坝",
+          "longitude": 106.459724,
+          "latitude": 29.557125,
+          "radius": ""
+        },
+        {
+          "name": "小龙坎",
+          "longitude": 106.46823,
+          "latitude": 29.553726,
+          "radius": ""
+        },
+        {
+          "name": "马家岩",
+          "longitude": 106.46318,
+          "latitude": 29.54227,
+          "radius": ""
+        },
+        {
+          "name": "高庙村",
+          "longitude": 106.46927,
+          "latitude": 29.536423,
+          "radius": ""
+        },
+        {
+          "name": "石桥铺",
+          "longitude": 106.4849,
+          "latitude": 29.532764,
+          "radius": ""
+        },
+        {
+          "name": "歇台子",
+          "longitude": 106.4977,
+          "latitude": 29.535423,
+          "radius": ""
+        },
+        {
+          "name": "石油路",
+          "longitude": 106.508125,
+          "latitude": 29.537996,
+          "radius": ""
+        },
+        {
+          "name": "大坪",
+          "longitude": 106.51927,
+          "latitude": 29.540369,
+          "radius": ""
+        },
+        {
+          "name": "鹅岭",
+          "longitude": 106.5339,
+          "latitude": 29.54795,
+          "radius": ""
+        },
+        {
+          "name": "两路口",
+          "longitude": 106.54853,
+          "latitude": 29.552631,
+          "radius": ""
+        },
+        {
+          "name": "七星岗",
+          "longitude": 106.56396,
+          "latitude": 29.554947,
+          "radius": ""
+        },
+        {
+          "name": "较场口",
+          "longitude": 106.57061,
+          "latitude": 29.553478,
+          "radius": ""
+        },
+        {
+          "name": "小什字",
+          "longitude": 106.583595,
+          "latitude": 29.55977,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "轨道交通3号线",
+      "locations": [
+        {
+          "name": "鱼洞",
+          "longitude": 106.506256,
+          "latitude": 29.376007,
+          "radius": ""
+        },
+        {
+          "name": "金竹",
+          "longitude": 106.52393,
+          "latitude": 29.3756,
+          "radius": ""
+        },
+        {
+          "name": "鱼胡路",
+          "longitude": 106.53915,
+          "latitude": 29.377596,
+          "radius": ""
+        },
+        {
+          "name": "学堂湾",
+          "longitude": 106.5431,
+          "latitude": 29.39802,
+          "radius": ""
+        },
+        {
+          "name": "大山村",
+          "longitude": 106.5437,
+          "latitude": 29.412815,
+          "radius": ""
+        },
+        {
+          "name": "花溪",
+          "longitude": 106.55032,
+          "latitude": 29.432215,
+          "radius": ""
+        },
+        {
+          "name": "岔路口",
+          "longitude": 106.5546,
+          "latitude": 29.448582,
+          "radius": ""
+        },
+        {
+          "name": "九公里",
+          "longitude": 106.55905,
+          "latitude": 29.45844,
+          "radius": ""
+        },
+        {
+          "name": "麒龙",
+          "longitude": 106.56264,
+          "latitude": 29.466986,
+          "radius": ""
+        },
+        {
+          "name": "八公里",
+          "longitude": 106.56591,
+          "latitude": 29.478155,
+          "radius": ""
+        },
+        {
+          "name": "二塘",
+          "longitude": 106.57282,
+          "latitude": 29.488781,
+          "radius": ""
+        },
+        {
+          "name": "六公里",
+          "longitude": 106.57332,
+          "latitude": 29.497625,
+          "radius": ""
+        },
+        {
+          "name": "五公里",
+          "longitude": 106.57383,
+          "latitude": 29.507198,
+          "radius": ""
+        },
+        {
+          "name": "四公里",
+          "longitude": 106.576324,
+          "latitude": 29.516535,
+          "radius": ""
+        },
+        {
+          "name": "南坪",
+          "longitude": 106.5699,
+          "latitude": 29.525969,
+          "radius": ""
+        },
+        {
+          "name": "工贸",
+          "longitude": 106.56333,
+          "latitude": 29.531624,
+          "radius": ""
+        },
+        {
+          "name": "铜元局",
+          "longitude": 106.5516,
+          "latitude": 29.536041,
+          "radius": ""
+        },
+        {
+          "name": "两路口",
+          "longitude": 106.54853,
+          "latitude": 29.552631,
+          "radius": ""
+        },
+        {
+          "name": "牛角沱",
+          "longitude": 106.542786,
+          "latitude": 29.558926,
+          "radius": ""
+        },
+        {
+          "name": "华新街",
+          "longitude": 106.53725,
+          "latitude": 29.563898,
+          "radius": ""
+        },
+        {
+          "name": "观音桥",
+          "longitude": 106.53289,
+          "latitude": 29.57335,
+          "radius": ""
+        },
+        {
+          "name": "红旗河沟",
+          "longitude": 106.526276,
+          "latitude": 29.585299,
+          "radius": ""
+        },
+        {
+          "name": "嘉州路",
+          "longitude": 106.522156,
+          "latitude": 29.59549,
+          "radius": ""
+        },
+        {
+          "name": "郑家院子",
+          "longitude": 106.529945,
+          "latitude": 29.599512,
+          "radius": ""
+        },
+        {
+          "name": "唐家院子",
+          "longitude": 106.54046,
+          "latitude": 29.59928,
+          "radius": ""
+        },
+        {
+          "name": "狮子坪",
+          "longitude": 106.549164,
+          "latitude": 29.601423,
+          "radius": ""
+        },
+        {
+          "name": "重庆北站",
+          "longitude": 106.549446,
+          "latitude": 29.606892,
+          "radius": ""
+        },
+        {
+          "name": "龙头寺",
+          "longitude": 106.5495,
+          "latitude": 29.616673,
+          "radius": ""
+        },
+        {
+          "name": "童家院子",
+          "longitude": 106.55526,
+          "latitude": 29.62804,
+          "radius": ""
+        },
+        {
+          "name": "金渝",
+          "longitude": 106.57057,
+          "latitude": 29.63532,
+          "radius": ""
+        },
+        {
+          "name": "金童路",
+          "longitude": 106.56767,
+          "latitude": 29.643446,
+          "radius": ""
+        },
+        {
+          "name": "鸳鸯",
+          "longitude": 106.56036,
+          "latitude": 29.66158,
+          "radius": ""
+        },
+        {
+          "name": "园博园",
+          "longitude": 106.56394,
+          "latitude": 29.674707,
+          "radius": ""
+        },
+        {
+          "name": "翠云",
+          "longitude": 106.57278,
+          "latitude": 29.68588,
+          "radius": ""
+        },
+        {
+          "name": "长福路",
+          "longitude": 106.58852,
+          "latitude": 29.687578,
+          "radius": ""
+        },
+        {
+          "name": "回兴",
+          "longitude": 106.605804,
+          "latitude": 29.69029,
+          "radius": ""
+        },
+        {
+          "name": "双龙",
+          "longitude": 106.61875,
+          "latitude": 29.69791,
+          "radius": ""
+        },
+        {
+          "name": "碧津",
+          "longitude": 106.632866,
+          "latitude": 29.711378,
+          "radius": ""
+        },
+        {
+          "name": "江北机场",
+          "longitude": 106.638176,
+          "latitude": 29.71869,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "轨道交通2号线",
+      "locations": [
+        {
+          "name": "较场口",
+          "longitude": 106.57443,
+          "latitude": 29.552881,
+          "radius": ""
+        },
+        {
+          "name": "临江门",
+          "longitude": 106.57424,
+          "latitude": 29.559046,
+          "radius": ""
+        },
+        {
+          "name": "黄花园",
+          "longitude": 106.56537,
+          "latitude": 29.56324,
+          "radius": ""
+        },
+        {
+          "name": "大溪沟",
+          "longitude": 106.55864,
+          "latitude": 29.566046,
+          "radius": ""
+        },
+        {
+          "name": "曾家岩",
+          "longitude": 106.55,
+          "latitude": 29.56647,
+          "radius": ""
+        },
+        {
+          "name": "牛角沱",
+          "longitude": 106.54254,
+          "latitude": 29.560728,
+          "radius": ""
+        },
+        {
+          "name": "李子坝",
+          "longitude": 106.53763,
+          "latitude": 29.552858,
+          "radius": ""
+        },
+        {
+          "name": "佛图关",
+          "longitude": 106.53264,
+          "latitude": 29.54974,
+          "radius": ""
+        },
+        {
+          "name": "大坪",
+          "longitude": 106.51832,
+          "latitude": 29.540483,
+          "radius": ""
+        },
+        {
+          "name": "袁家岗",
+          "longitude": 106.51369,
+          "latitude": 29.528961,
+          "radius": ""
+        },
+        {
+          "name": "谢家湾",
+          "longitude": 106.5175,
+          "latitude": 29.519072,
+          "radius": ""
+        },
+        {
+          "name": "杨家坪",
+          "longitude": 106.51409,
+          "latitude": 29.50837,
+          "radius": ""
+        },
+        {
+          "name": "动物园",
+          "longitude": 106.50972,
+          "latitude": 29.500256,
+          "radius": ""
+        },
+        {
+          "name": "大堰村",
+          "longitude": 106.49888,
+          "latitude": 29.49972,
+          "radius": ""
+        },
+        {
+          "name": "马王场",
+          "longitude": 106.48861,
+          "latitude": 29.49602,
+          "radius": ""
+        },
+        {
+          "name": "平安",
+          "longitude": 106.48538,
+          "latitude": 29.48888,
+          "radius": ""
+        },
+        {
+          "name": "大渡口",
+          "longitude": 106.47788,
+          "latitude": 29.481195,
+          "radius": ""
+        },
+        {
+          "name": "新山村",
+          "longitude": 106.4764,
+          "latitude": 29.47219,
+          "radius": ""
+        },
+        {
+          "name": "天堂堡",
+          "longitude": 106.47291,
+          "latitude": 29.466602,
+          "radius": ""
+        },
+        {
+          "name": "建桥",
+          "longitude": 106.474754,
+          "latitude": 29.449816,
+          "radius": ""
+        },
+        {
+          "name": "金家湾",
+          "longitude": 106.47545,
+          "latitude": 29.43802,
+          "radius": ""
+        },
+        {
+          "name": "刘家坝",
+          "longitude": 106.48245,
+          "latitude": 29.427872,
+          "radius": ""
+        },
+        {
+          "name": "白居寺",
+          "longitude": 106.491806,
+          "latitude": 29.414816,
+          "radius": ""
+        },
+        {
+          "name": "大江",
+          "longitude": 106.50105,
+          "latitude": 29.384048,
+          "radius": ""
+        },
+        {
+          "name": "鱼洞",
+          "longitude": 106.506256,
+          "latitude": 29.376007,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "轨道交通6号线",
+      "locations": [
+        {
+          "name": "茶园",
+          "longitude": 106.64293,
+          "latitude": 29.487597,
+          "radius": ""
+        },
+        {
+          "name": "邱家湾",
+          "longitude": 106.649506,
+          "latitude": 29.49777,
+          "radius": ""
+        },
+        {
+          "name": "长生桥",
+          "longitude": 106.65806,
+          "latitude": 29.511007,
+          "radius": ""
+        },
+        {
+          "name": "刘家坪",
+          "longitude": 106.655235,
+          "latitude": 29.524408,
+          "radius": ""
+        },
+        {
+          "name": "上新街",
+          "longitude": 106.59735,
+          "latitude": 29.556475,
+          "radius": ""
+        },
+        {
+          "name": "小什字",
+          "longitude": 106.583595,
+          "latitude": 29.55977,
+          "radius": ""
+        },
+        {
+          "name": "大剧院",
+          "longitude": 106.577576,
+          "latitude": 29.569628,
+          "radius": ""
+        },
+        {
+          "name": "五里店",
+          "longitude": 106.56537,
+          "latitude": 29.584942,
+          "radius": ""
+        },
+        {
+          "name": "红土地",
+          "longitude": 106.55093,
+          "latitude": 29.584003,
+          "radius": ""
+        },
+        {
+          "name": "黄泥磅",
+          "longitude": 106.53797,
+          "latitude": 29.588486,
+          "radius": ""
+        },
+        {
+          "name": "红旗河沟",
+          "longitude": 106.526276,
+          "latitude": 29.585299,
+          "radius": ""
+        },
+        {
+          "name": "花卉园",
+          "longitude": 106.51252,
+          "latitude": 29.58322,
+          "radius": ""
+        },
+        {
+          "name": "大龙山",
+          "longitude": 106.498726,
+          "latitude": 29.589506,
+          "radius": ""
+        },
+        {
+          "name": "冉家坝",
+          "longitude": 106.49883,
+          "latitude": 29.598408,
+          "radius": ""
+        },
+        {
+          "name": "光电园",
+          "longitude": 106.499405,
+          "latitude": 29.616056,
+          "radius": ""
+        },
+        {
+          "name": "大竹林",
+          "longitude": 106.478386,
+          "latitude": 29.628202,
+          "radius": ""
+        },
+        {
+          "name": "康庄",
+          "longitude": 106.47877,
+          "latitude": 29.634447,
+          "radius": ""
+        },
+        {
+          "name": "九曲河",
+          "longitude": 106.48294,
+          "latitude": 29.653814,
+          "radius": ""
+        },
+        {
+          "name": "礼嘉",
+          "longitude": 106.48815,
+          "latitude": 29.667028,
+          "radius": ""
+        },
+        {
+          "name": "金山寺",
+          "longitude": 106.49219,
+          "latitude": 29.6795,
+          "radius": ""
+        },
+        {
+          "name": "曹家湾",
+          "longitude": 106.49557,
+          "latitude": 29.720654,
+          "radius": ""
+        },
+        {
+          "name": "蔡家",
+          "longitude": 106.49184,
+          "latitude": 29.736265,
+          "radius": ""
+        },
+        {
+          "name": "向家岗",
+          "longitude": 106.47323,
+          "latitude": 29.73959,
+          "radius": ""
+        },
+        {
+          "name": "龙凤溪",
+          "longitude": 106.40381,
+          "latitude": 29.78941,
+          "radius": ""
+        },
+        {
+          "name": "状元碑",
+          "longitude": 106.398834,
+          "latitude": 29.803255,
+          "radius": ""
+        },
+        {
+          "name": "天生",
+          "longitude": 106.42398,
+          "latitude": 29.81641,
+          "radius": ""
+        },
+        {
+          "name": "北碚",
+          "longitude": 106.43798,
+          "latitude": 29.8257,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "国博线",
+      "locations": [
+        {
+          "name": "悦来",
+          "longitude": 106.547874,
+          "latitude": 29.72571,
+          "radius": ""
+        },
+        {
+          "name": "国博中心",
+          "longitude": 106.545616,
+          "latitude": 29.716671,
+          "radius": ""
+        },
+        {
+          "name": "黄茅坪",
+          "longitude": 106.531494,
+          "latitude": 29.676252,
+          "radius": ""
+        },
+        {
+          "name": "平场",
+          "longitude": 106.50839,
+          "latitude": 29.669336,
+          "radius": ""
+        },
+        {
+          "name": "礼嘉",
+          "longitude": 106.48815,
+          "latitude": 29.667028,
+          "radius": ""
+        }
+      ]
+    }
+  ],
+  "landMarks": [
+    {
+      "name": "万州区",
+      "locations": [
+        {
+          "name": "万州五桥机场",
+          "longitude": 108.432106,
+          "latitude": 30.798399,
+          "radius": ""
+        },
+        {
+          "name": "万州体育场",
+          "longitude": 108.38716,
+          "latitude": 30.80325,
+          "radius": ""
+        },
+        {
+          "name": "万州大瀑布",
+          "longitude": 108.25228,
+          "latitude": 30.65311,
+          "radius": ""
+        },
+        {
+          "name": "三峡之星体育馆",
+          "longitude": 108.38732,
+          "latitude": 30.80331,
+          "radius": ""
+        },
+        {
+          "name": "潭獐峡风景区",
+          "longitude": 108.82305,
+          "latitude": 30.67646,
+          "radius": ""
+        },
+        {
+          "name": "万州盐井龙洞",
+          "longitude": 108.42494,
+          "latitude": 30.60669,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "涪陵区",
+      "locations": [
+        {
+          "name": "涪陵体育馆",
+          "longitude": 107.3933,
+          "latitude": 29.70071,
+          "radius": ""
+        },
+        {
+          "name": "白鹤梁水下博物馆",
+          "longitude": 107.39201,
+          "latitude": 29.71225,
+          "radius": ""
+        },
+        {
+          "name": "武陵山森林公园",
+          "longitude": 107.59849,
+          "latitude": 29.54764,
+          "radius": ""
+        },
+        {
+          "name": "石夹沟景区",
+          "longitude": 107.57726,
+          "latitude": 29.50259,
+          "radius": ""
+        },
+        {
+          "name": "涪陵体育场",
+          "longitude": 107.39234,
+          "latitude": 29.70001,
+          "radius": ""
+        },
+        {
+          "name": "大木花谷景区",
+          "longitude": 107.6734,
+          "latitude": 29.62576,
+          "radius": ""
+        },
+        {
+          "name": "沙溪温泉",
+          "longitude": 107.32664,
+          "latitude": 29.71658,
+          "radius": ""
+        },
+        {
+          "name": "白鹤梁石刻",
+          "longitude": 107.38794,
+          "latitude": 29.70433,
+          "radius": ""
+        },
+        {
+          "name": "雨台山风景区",
+          "longitude": 107.44456,
+          "latitude": 29.72684,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "渝中区",
+      "locations": [
+        {
+          "name": "三峡博物馆",
+          "longitude": 106.55032,
+          "latitude": 29.56203,
+          "radius": ""
+        },
+        {
+          "name": "洪崖洞",
+          "longitude": 106.57792,
+          "latitude": 29.56187,
+          "radius": ""
+        },
+        {
+          "name": "人民解放纪念碑",
+          "longitude": 106.57715,
+          "latitude": 29.5573,
+          "radius": ""
+        },
+        {
+          "name": "重庆体育场",
+          "longitude": 106.54716,
+          "latitude": 29.55504,
+          "radius": ""
+        },
+        {
+          "name": "重庆市渝中区青少年体育俱乐部",
+          "longitude": 106.56653,
+          "latitude": 29.54885,
+          "radius": ""
+        },
+        {
+          "name": "渝中区门球场",
+          "longitude": 106.56912,
+          "latitude": 29.5485,
+          "radius": ""
+        },
+        {
+          "name": "湖广会馆",
+          "longitude": 106.58789,
+          "latitude": 29.558977,
+          "radius": ""
+        },
+        {
+          "name": "八路军重庆办事处旧址",
+          "longitude": 106.57092,
+          "latitude": 29.55769,
+          "radius": ""
+        },
+        {
+          "name": "重庆大韩民国临时政府旧址陈列馆",
+          "longitude": 106.56946,
+          "latitude": 29.55581,
+          "radius": ""
+        },
+        {
+          "name": "魁星楼",
+          "longitude": 106.57354,
+          "latitude": 29.55964,
+          "radius": ""
+        },
+        {
+          "name": "重庆国泰艺术中心",
+          "longitude": 106.57747,
+          "latitude": 29.56042,
+          "radius": ""
+        },
+        {
+          "name": "桂园",
+          "longitude": 106.5471,
+          "latitude": 29.56275,
+          "radius": ""
+        },
+        {
+          "name": "戴笠公馆旧址",
+          "longitude": 106.54937,
+          "latitude": 29.56486,
+          "radius": ""
+        },
+        {
+          "name": "两路口皇冠大扶梯",
+          "longitude": 106.54926,
+          "latitude": 29.5517,
+          "radius": ""
+        },
+        {
+          "name": "重庆体育馆",
+          "longitude": 106.54798,
+          "latitude": 29.55584,
+          "radius": ""
+        },
+        {
+          "name": "东水门",
+          "longitude": 106.58771,
+          "latitude": 29.55882,
+          "radius": ""
+        },
+        {
+          "name": "罗斯福图书馆(旧址)",
+          "longitude": 106.54641,
+          "latitude": 29.55172,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大渡口区",
+      "locations": [
+        {
+          "name": "大渡口体育馆",
+          "longitude": 106.48617,
+          "latitude": 29.483995,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "江北区",
+      "locations": [
+        {
+          "name": "重庆大剧院",
+          "longitude": 106.58123,
+          "latitude": 29.56992,
+          "radius": ""
+        },
+        {
+          "name": "铁山坪森林公园",
+          "longitude": 106.66697,
+          "latitude": 29.6012,
+          "radius": ""
+        },
+        {
+          "name": "观音桥商圈都市旅游区",
+          "longitude": 106.53355,
+          "latitude": 29.57252,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沙坪坝区",
+      "locations": [
+        {
+          "name": "沙坪坝体育馆",
+          "longitude": 106.46705,
+          "latitude": 29.55702,
+          "radius": ""
+        },
+        {
+          "name": "磁器口古镇",
+          "longitude": 106.45167,
+          "latitude": 29.581846,
+          "radius": ""
+        },
+        {
+          "name": "重庆歌乐山烈士陵园",
+          "longitude": 106.44186,
+          "latitude": 29.571533,
+          "radius": ""
+        },
+        {
+          "name": "歌乐山国家森林公园",
+          "longitude": 106.42835,
+          "latitude": 29.56116,
+          "radius": ""
+        },
+        {
+          "name": "重庆郭沫若旧居",
+          "longitude": 106.38467,
+          "latitude": 29.59679,
+          "radius": ""
+        },
+        {
+          "name": "张治中旧居",
+          "longitude": 106.37272,
+          "latitude": 29.6075,
+          "radius": ""
+        },
+        {
+          "name": "重庆奕晖运动中心",
+          "longitude": 106.32591,
+          "latitude": 29.61907,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "九龙坡区",
+      "locations": [
+        {
+          "name": "巴人博物馆",
+          "longitude": 106.47332,
+          "latitude": 29.50007,
+          "radius": ""
+        },
+        {
+          "name": "奥林匹克体育中心(高新店)",
+          "longitude": 106.50597,
+          "latitude": 29.52562,
+          "radius": ""
+        },
+        {
+          "name": "康体公园运动园区",
+          "longitude": 106.5303,
+          "latitude": 29.48963,
+          "radius": ""
+        },
+        {
+          "name": "华岩旅游风景区",
+          "longitude": 106.4445,
+          "latitude": 29.49009,
+          "radius": ""
+        },
+        {
+          "name": "巴国城",
+          "longitude": 106.47363,
+          "latitude": 29.50235,
+          "radius": ""
+        },
+        {
+          "name": "重庆海兰云天温泉度假区",
+          "longitude": 106.28037,
+          "latitude": 29.502834,
+          "radius": ""
+        },
+        {
+          "name": "天醉园",
+          "longitude": 106.33186,
+          "latitude": 29.31443,
+          "radius": ""
+        },
+        {
+          "name": "重庆白市驿森林公园",
+          "longitude": 106.38079,
+          "latitude": 29.46467,
+          "radius": ""
+        },
+        {
+          "name": "贝迪颐园温泉旅游度假区",
+          "longitude": 106.36472,
+          "latitude": 29.44972,
+          "radius": ""
+        },
+        {
+          "name": "恒大雅苑运动中心",
+          "longitude": 106.44406,
+          "latitude": 29.43877,
+          "radius": ""
+        },
+        {
+          "name": "朱毅体育·育龙游泳俱乐部",
+          "longitude": 106.51051,
+          "latitude": 29.50013,
+          "radius": ""
+        },
+        {
+          "name": "三多桥白鹭自然保护区",
+          "longitude": 106.33014,
+          "latitude": 29.505,
+          "radius": ""
+        },
+        {
+          "name": "尖刀山森林公园",
+          "longitude": 106.42155,
+          "latitude": 29.47626,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "南岸区",
+      "locations": [
+        {
+          "name": "重庆江南体育中心",
+          "longitude": 106.58629,
+          "latitude": 29.53943,
+          "radius": ""
+        },
+        {
+          "name": "长江索道(龙门路)",
+          "longitude": 106.59407,
+          "latitude": 29.5525,
+          "radius": ""
+        },
+        {
+          "name": "大法国水师军",
+          "longitude": 106.58435,
+          "latitude": 29.57936,
+          "radius": ""
+        },
+        {
+          "name": "老龙洞景区",
+          "longitude": 106.58638,
+          "latitude": 29.47343,
+          "radius": ""
+        },
+        {
+          "name": "南山一棵树",
+          "longitude": 106.6019,
+          "latitude": 29.54572,
+          "radius": ""
+        },
+        {
+          "name": "岚苑度假村",
+          "longitude": 106.59985,
+          "latitude": 29.53049,
+          "radius": ""
+        },
+        {
+          "name": "觉林寺报恩塔",
+          "longitude": 106.5989,
+          "latitude": 29.56084,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "北碚区",
+      "locations": [
+        {
+          "name": "缙云山国家级自然保护区",
+          "longitude": 106.39706,
+          "latitude": 29.837097,
+          "radius": ""
+        },
+        {
+          "name": "圣天湖",
+          "longitude": 106.66543,
+          "latitude": 30.04271,
+          "radius": ""
+        },
+        {
+          "name": "重庆北泉风景区",
+          "longitude": 106.41693,
+          "latitude": 29.85616,
+          "radius": ""
+        },
+        {
+          "name": "金刀峡自然风景区",
+          "longitude": 106.62816,
+          "latitude": 30.03122,
+          "radius": ""
+        },
+        {
+          "name": "北碚体育场",
+          "longitude": 106.44196,
+          "latitude": 29.82952,
+          "radius": ""
+        },
+        {
+          "name": "缙云山索道(缙云路)",
+          "longitude": 106.39772,
+          "latitude": 29.83692,
+          "radius": ""
+        },
+        {
+          "name": "偏岩古镇",
+          "longitude": 106.65573,
+          "latitude": 30.00196,
+          "radius": ""
+        },
+        {
+          "name": "重庆自然博物馆新馆",
+          "longitude": 106.40758,
+          "latitude": 29.81772,
+          "radius": ""
+        },
+        {
+          "name": "北碚缙云文化体育中心",
+          "longitude": 106.39937,
+          "latitude": 29.79262,
+          "radius": ""
+        },
+        {
+          "name": "缙云山生态旅游观光索道下口",
+          "longitude": 106.41766,
+          "latitude": 29.83378,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "綦江区",
+      "locations": [
+        {
+          "name": "黑山谷",
+          "longitude": 106.97437,
+          "latitude": 28.86646,
+          "radius": ""
+        },
+        {
+          "name": "黑山-石林风景名胜区",
+          "longitude": 106.91608,
+          "latitude": 28.850428,
+          "radius": ""
+        },
+        {
+          "name": "龙鳞石海景区",
+          "longitude": 106.91818,
+          "latitude": 28.84224,
+          "radius": ""
+        },
+        {
+          "name": "梨花山乡村旅游区",
+          "longitude": 106.4991,
+          "latitude": 28.98685,
+          "radius": ""
+        },
+        {
+          "name": "綦江博物馆",
+          "longitude": 106.6533,
+          "latitude": 29.01677,
+          "radius": ""
+        },
+        {
+          "name": "东溪古镇",
+          "longitude": 106.66741,
+          "latitude": 28.759205,
+          "radius": ""
+        },
+        {
+          "name": "万盛体育馆",
+          "longitude": 106.92428,
+          "latitude": 28.95398,
+          "radius": ""
+        },
+        {
+          "name": "綦江体育馆",
+          "longitude": 106.64703,
+          "latitude": 29.04151,
+          "radius": ""
+        },
+        {
+          "name": "松藻煤电体育场",
+          "longitude": 106.67487,
+          "latitude": 28.60421,
+          "radius": ""
+        },
+        {
+          "name": "九锅箐森林公园",
+          "longitude": 106.86858,
+          "latitude": 28.79671,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大足区",
+      "locations": [
+        {
+          "name": "大足县体育馆",
+          "longitude": 105.71321,
+          "latitude": 29.70198,
+          "radius": ""
+        },
+        {
+          "name": "重庆大足石刻艺术博物馆",
+          "longitude": 105.71244,
+          "latitude": 29.70368,
+          "radius": ""
+        },
+        {
+          "name": "北山石刻景区",
+          "longitude": 105.71042,
+          "latitude": 29.71114,
+          "radius": ""
+        },
+        {
+          "name": "花样龙水湖景区",
+          "longitude": 105.80232,
+          "latitude": 29.52673,
+          "radius": ""
+        },
+        {
+          "name": "南山石刻景区",
+          "longitude": 105.7194,
+          "latitude": 29.68394,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "渝北区",
+      "locations": [
+        {
+          "name": "重庆江北国际机场",
+          "longitude": 106.64503,
+          "latitude": 29.71647,
+          "radius": ""
+        },
+        {
+          "name": "统景风景名胜区",
+          "longitude": 106.832306,
+          "latitude": 29.858826,
+          "radius": ""
+        },
+        {
+          "name": "重庆市鳄鱼中心景区",
+          "longitude": 106.59317,
+          "latitude": 29.64453,
+          "radius": ""
+        },
+        {
+          "name": "龙兴古镇",
+          "longitude": 106.79231,
+          "latitude": 29.69463,
+          "radius": ""
+        },
+        {
+          "name": "重庆川剧博物馆",
+          "longitude": 106.52519,
+          "latitude": 29.62472,
+          "radius": ""
+        },
+        {
+          "name": "渝北印盒李花生态旅游区",
+          "longitude": 106.83046,
+          "latitude": 29.90463,
+          "radius": ""
+        },
+        {
+          "name": "两江国际影视城",
+          "longitude": 106.82365,
+          "latitude": 29.68427,
+          "radius": ""
+        },
+        {
+          "name": "高科体育中心",
+          "longitude": 106.51392,
+          "latitude": 29.61619,
+          "radius": ""
+        },
+        {
+          "name": "重庆市鹿山观光农业示范村",
+          "longitude": 106.60223,
+          "latitude": 29.73722,
+          "radius": ""
+        },
+        {
+          "name": "重庆渝北区体育馆",
+          "longitude": 106.60971,
+          "latitude": 29.70398,
+          "radius": ""
+        },
+        {
+          "name": "重庆宝林博物馆",
+          "longitude": 106.56337,
+          "latitude": 29.66536,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "巴南区",
+      "locations": [
+        {
+          "name": "巴南体育中心",
+          "longitude": 106.50581,
+          "latitude": 29.37774,
+          "radius": ""
+        },
+        {
+          "name": "云篆风清",
+          "longitude": 106.48748,
+          "latitude": 29.33572,
+          "radius": ""
+        },
+        {
+          "name": "圣灯山原始森林公园",
+          "longitude": 106.68399,
+          "latitude": 29.21489,
+          "radius": ""
+        },
+        {
+          "name": "恒大城运动中心",
+          "longitude": 106.5526,
+          "latitude": 29.46399,
+          "radius": ""
+        },
+        {
+          "name": "云篆山森林公园",
+          "longitude": 106.48773,
+          "latitude": 29.33745,
+          "radius": ""
+        },
+        {
+          "name": "丰盛古镇",
+          "longitude": 106.93407,
+          "latitude": 29.52916,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "黔江区",
+      "locations": [
+        {
+          "name": "黔江武陵山机场",
+          "longitude": 108.833595,
+          "latitude": 29.514576,
+          "radius": ""
+        },
+        {
+          "name": "黔江体育场",
+          "longitude": 108.7792,
+          "latitude": 29.533674,
+          "radius": ""
+        },
+        {
+          "name": "黔江区体育馆",
+          "longitude": 108.7772,
+          "latitude": 29.53179,
+          "radius": ""
+        },
+        {
+          "name": "黔江国家森林公园",
+          "longitude": 108.5979,
+          "latitude": 29.55722,
+          "radius": ""
+        },
+        {
+          "name": "黔江城市峡谷公园",
+          "longitude": 108.81297,
+          "latitude": 29.51025,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "长寿区",
+      "locations": [
+        {
+          "name": "长寿体育中心",
+          "longitude": 107.08716,
+          "latitude": 29.85067,
+          "radius": ""
+        },
+        {
+          "name": "长寿古镇",
+          "longitude": 107.06756,
+          "latitude": 29.85102,
+          "radius": ""
+        },
+        {
+          "name": "长寿湖风景区",
+          "longitude": 107.2524,
+          "latitude": 29.90983,
+          "radius": ""
+        },
+        {
+          "name": "重庆市楠木院森林公园",
+          "longitude": 107.19373,
+          "latitude": 29.81946,
+          "radius": ""
+        },
+        {
+          "name": "长寿体育馆",
+          "longitude": 107.07116,
+          "latitude": 29.83046,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "江津区",
+      "locations": [
+        {
+          "name": "江津体育馆",
+          "longitude": 106.27644,
+          "latitude": 29.27053,
+          "radius": ""
+        },
+        {
+          "name": "四面山国家级风景名胜区",
+          "longitude": 106.41254,
+          "latitude": 28.647457,
+          "radius": ""
+        },
+        {
+          "name": "中山古镇",
+          "longitude": 106.32947,
+          "latitude": 28.84059,
+          "radius": ""
+        },
+        {
+          "name": "江津区体育场",
+          "longitude": 106.27722,
+          "latitude": 29.27014,
+          "radius": ""
+        },
+        {
+          "name": "骆崃山风景名胜区",
+          "longitude": 106.3779,
+          "latitude": 29.03597,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "合川区",
+      "locations": [
+        {
+          "name": "钓鱼城",
+          "longitude": 106.31427,
+          "latitude": 30.00677,
+          "radius": ""
+        },
+        {
+          "name": "双龙湖",
+          "longitude": 106.42117,
+          "latitude": 30.16239,
+          "radius": ""
+        },
+        {
+          "name": "重庆市荟圆农家森林公园",
+          "longitude": 106.24862,
+          "latitude": 30.0068,
+          "radius": ""
+        },
+        {
+          "name": "合川区体育场",
+          "longitude": 106.26608,
+          "latitude": 29.99645,
+          "radius": ""
+        },
+        {
+          "name": "文峰塔",
+          "longitude": 106.27229,
+          "latitude": 29.98331,
+          "radius": ""
+        },
+        {
+          "name": "合川体育馆",
+          "longitude": 106.27252,
+          "latitude": 29.97635,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "永川区",
+      "locations": [
+        {
+          "name": "永川体育中心",
+          "longitude": 105.93667,
+          "latitude": 29.34261,
+          "radius": ""
+        },
+        {
+          "name": "乐和乐都主题公园度假群",
+          "longitude": 105.90855,
+          "latitude": 29.29072,
+          "radius": ""
+        },
+        {
+          "name": "松溉古镇",
+          "longitude": 105.89467,
+          "latitude": 29.0521,
+          "radius": ""
+        },
+        {
+          "name": "茶山竹海",
+          "longitude": 105.96488,
+          "latitude": 29.44423,
+          "radius": ""
+        },
+        {
+          "name": "永川卫星湖旅游区",
+          "longitude": 105.87747,
+          "latitude": 29.23959,
+          "radius": ""
+        },
+        {
+          "name": "神女湖风景区",
+          "longitude": 105.93173,
+          "latitude": 29.37763,
+          "radius": ""
+        },
+        {
+          "name": "石笋山景区",
+          "longitude": 105.95523,
+          "latitude": 29.15491,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "南川区",
+      "locations": [
+        {
+          "name": "神龙峡景区",
+          "longitude": 107.05899,
+          "latitude": 28.99644,
+          "radius": ""
+        },
+        {
+          "name": "金佛山风景区",
+          "longitude": 107.17624,
+          "latitude": 29.04004,
+          "radius": ""
+        },
+        {
+          "name": "南川体育中心",
+          "longitude": 107.08512,
+          "latitude": 29.15744,
+          "radius": ""
+        },
+        {
+          "name": "老龙洞风景区",
+          "longitude": 107.24003,
+          "latitude": 29.11436,
+          "radius": ""
+        },
+        {
+          "name": "中国生态大观园",
+          "longitude": 106.99621,
+          "latitude": 29.23769,
+          "radius": ""
+        },
+        {
+          "name": "重庆市南川区体育馆",
+          "longitude": 107.0843,
+          "latitude": 29.15941,
+          "radius": ""
+        },
+        {
+          "name": "黎香湖湿地生态园",
+          "longitude": 106.97182,
+          "latitude": 29.3184,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "璧山区",
+      "locations": [
+        {
+          "name": "青龙湖景区",
+          "longitude": 106.16733,
+          "latitude": 29.70972,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "铜梁区",
+      "locations": [
+        {
+          "name": "铜梁博物馆",
+          "longitude": 106.05484,
+          "latitude": 29.83636,
+          "radius": ""
+        },
+        {
+          "name": "金龙体育馆",
+          "longitude": 106.07168,
+          "latitude": 29.83202,
+          "radius": ""
+        },
+        {
+          "name": "淮远古韵",
+          "longitude": 106.06004,
+          "latitude": 29.82201,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "潼南县",
+      "locations": [
+        {
+          "name": "潼南体育馆",
+          "longitude": 105.81154,
+          "latitude": 30.17861,
+          "radius": ""
+        },
+        {
+          "name": "杨尚昆旧居",
+          "longitude": 105.74248,
+          "latitude": 30.21203,
+          "radius": ""
+        },
+        {
+          "name": "世外乐园",
+          "longitude": 105.79463,
+          "latitude": 30.18955,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "荣昌县",
+      "locations": [
+        {
+          "name": "荣昌体育中心",
+          "longitude": 105.60084,
+          "latitude": 29.40811,
+          "radius": ""
+        },
+        {
+          "name": "万灵古镇",
+          "longitude": 105.64865,
+          "latitude": 29.48794,
+          "radius": ""
+        },
+        {
+          "name": "育英搏击俱乐部",
+          "longitude": 105.58954,
+          "latitude": 29.40725,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "梁平县",
+      "locations": [
+        {
+          "name": "梁平体育场",
+          "longitude": 107.79836,
+          "latitude": 30.67682,
+          "radius": ""
+        },
+        {
+          "name": "双桂堂",
+          "longitude": 107.7064,
+          "latitude": 30.60454,
+          "radius": ""
+        },
+        {
+          "name": "东明湖",
+          "longitude": 107.81977,
+          "latitude": 30.67907,
+          "radius": ""
+        },
+        {
+          "name": "梁平百里竹海观音洞景区",
+          "longitude": 107.56728,
+          "latitude": 30.68521,
+          "radius": ""
+        },
+        {
+          "name": "梁平县体育馆",
+          "longitude": 107.80423,
+          "latitude": 30.67304,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "丰都县",
+      "locations": [
+        {
+          "name": "中恒体育场",
+          "longitude": 107.73613,
+          "latitude": 29.86431,
+          "radius": ""
+        },
+        {
+          "name": "丰都雪玉洞景区",
+          "longitude": 107.79653,
+          "latitude": 29.782625,
+          "radius": ""
+        },
+        {
+          "name": "重庆市丰都县博物馆",
+          "longitude": 107.73271,
+          "latitude": 29.86919,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "垫江县",
+      "locations": [
+        {
+          "name": "垫江县体育场",
+          "longitude": 107.34025,
+          "latitude": 30.3329,
+          "radius": ""
+        },
+        {
+          "name": "乐天花谷风景区",
+          "longitude": 107.40266,
+          "latitude": 30.42484,
+          "radius": ""
+        },
+        {
+          "name": "楠竹山景区",
+          "longitude": 107.26379,
+          "latitude": 30.28573,
+          "radius": ""
+        },
+        {
+          "name": "垫江牡丹园",
+          "longitude": 107.29076,
+          "latitude": 30.26511,
+          "radius": ""
+        },
+        {
+          "name": "恺之峰牡丹文化园",
+          "longitude": 107.27127,
+          "latitude": 30.2713,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "武隆县",
+      "locations": [
+        {
+          "name": "武隆体育馆",
+          "longitude": 107.76948,
+          "latitude": 29.32729,
+          "radius": ""
+        },
+        {
+          "name": "仙女山国家森林公园",
+          "longitude": 107.75668,
+          "latitude": 29.508667,
+          "radius": ""
+        },
+        {
+          "name": "武隆天生三桥风景区",
+          "longitude": 107.80462,
+          "latitude": 29.43024,
+          "radius": ""
+        },
+        {
+          "name": "重庆武隆芙蓉洞",
+          "longitude": 107.90893,
+          "latitude": 29.220284,
+          "radius": ""
+        },
+        {
+          "name": "武隆县仙女山国家森林公园管理处",
+          "longitude": 107.74981,
+          "latitude": 29.324743,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "忠县",
+      "locations": [
+        {
+          "name": "石宝寨景区",
+          "longitude": 108.19024,
+          "latitude": 30.420124,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "开县",
+      "locations": [
+        {
+          "name": "开县游泳馆",
+          "longitude": 108.40256,
+          "latitude": 31.17874,
+          "radius": ""
+        },
+        {
+          "name": "刘伯承故居",
+          "longitude": 108.42587,
+          "latitude": 31.07519,
+          "radius": ""
+        },
+        {
+          "name": "大垭口森林山庄",
+          "longitude": 108.34393,
+          "latitude": 30.92524,
+          "radius": ""
+        },
+        {
+          "name": "温泉仙女洞",
+          "longitude": 108.52385,
+          "latitude": 31.36541,
+          "radius": ""
+        },
+        {
+          "name": "铁峰山国家森林公园",
+          "longitude": 108.348,
+          "latitude": 30.92233,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "云阳县",
+      "locations": [
+        {
+          "name": "龙缸国家地质公园",
+          "longitude": 109.00442,
+          "latitude": 30.67153,
+          "radius": ""
+        },
+        {
+          "name": "龙缸景区",
+          "longitude": 109.00483,
+          "latitude": 30.66544,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "奉节县",
+      "locations": [
+        {
+          "name": "诗城博物馆",
+          "longitude": 109.54657,
+          "latitude": 31.04354,
+          "radius": ""
+        },
+        {
+          "name": "奉节白帝城瞿塘峡风景旅游区",
+          "longitude": 109.57628,
+          "latitude": 31.041471,
+          "radius": ""
+        },
+        {
+          "name": "夔州古城",
+          "longitude": 109.54683,
+          "latitude": 31.04303,
+          "radius": ""
+        },
+        {
+          "name": "天鹅湖风景区",
+          "longitude": 109.46184,
+          "latitude": 31.05025,
+          "radius": ""
+        },
+        {
+          "name": "凤凰山梯道",
+          "longitude": 109.46839,
+          "latitude": 31.02809,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "巫山县",
+      "locations": [
+        {
+          "name": "巫山小三峡",
+          "longitude": 109.89562,
+          "latitude": 31.14664,
+          "radius": ""
+        },
+        {
+          "name": "小小三峡",
+          "longitude": 109.88722,
+          "latitude": 31.23677,
+          "radius": ""
+        },
+        {
+          "name": "大昌古镇",
+          "longitude": 109.82631,
+          "latitude": 31.2563,
+          "radius": ""
+        },
+        {
+          "name": "悬棺",
+          "longitude": 109.87736,
+          "latitude": 31.17211,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "巫溪县",
+      "locations": [
+        {
+          "name": "红池坝国家森林公园",
+          "longitude": 109.08353,
+          "latitude": 31.5433,
+          "radius": ""
+        },
+        {
+          "name": "大宁河风景区",
+          "longitude": 109.63673,
+          "latitude": 31.46118,
+          "radius": ""
+        },
+        {
+          "name": "灵巫洞景区",
+          "longitude": 109.64169,
+          "latitude": 31.47494,
+          "radius": ""
+        },
+        {
+          "name": "云中花海",
+          "longitude": 109.0932,
+          "latitude": 31.53472,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "石柱土家族自治县",
+      "locations": [
+        {
+          "name": "千野草场",
+          "longitude": 108.21675,
+          "latitude": 30.26823,
+          "radius": ""
+        },
+        {
+          "name": "万寿古寨",
+          "longitude": 108.16352,
+          "latitude": 30.02321,
+          "radius": ""
+        },
+        {
+          "name": "石柱体育馆",
+          "longitude": 108.1438,
+          "latitude": 29.99876,
+          "radius": ""
+        },
+        {
+          "name": "西沱古镇",
+          "longitude": 108.2219,
+          "latitude": 30.40629,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "秀山土家族苗族自治县",
+      "locations": [
+        {
+          "name": "洪安古镇",
+          "longitude": 109.27215,
+          "latitude": 28.49874,
+          "radius": ""
+        },
+        {
+          "name": "石堤古镇",
+          "longitude": 109.19812,
+          "latitude": 28.75016,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "酉阳土家族苗族自治县",
+      "locations": [
+        {
+          "name": "中国酉阳桃花源风景区",
+          "longitude": 108.76415,
+          "latitude": 28.83411,
+          "radius": ""
+        },
+        {
+          "name": "龙潭古镇景区",
+          "longitude": 108.9674,
+          "latitude": 28.75371,
+          "radius": ""
+        },
+        {
+          "name": "龚滩古镇",
+          "longitude": 108.35172,
+          "latitude": 28.91949,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "彭水苗族土家族自治县",
+      "locations": [
+        {
+          "name": "彭水体育馆",
+          "longitude": 108.15903,
+          "latitude": 29.2865,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "cityName": "东莞市",
+  "businessCenters": [
+    {
+      "name": "市辖区",
+      "locations": [
+        {
+          "name": "南城车站",
+          "longitude": 113.71965,
+          "latitude": 22.98419,
+          "radius": "251"
+        },
+        {
+          "name": "西平",
+          "longitude": 113.75165,
+          "latitude": 22.990517,
+          "radius": "927"
+        },
+        {
+          "name": "鸿福路",
+          "longitude": 113.75014,
+          "latitude": 23.014927,
+          "radius": "1332"
+        },
+        {
+          "name": "百果洞",
+          "longitude": 114.053085,
+          "latitude": 22.907724,
+          "radius": "412"
+        },
+        {
+          "name": "中元街",
+          "longitude": 113.99583,
+          "latitude": 22.971918,
+          "radius": "447"
+        },
+        {
+          "name": "东城中心",
+          "longitude": 113.77736,
+          "latitude": 23.029877,
+          "radius": "524"
+        },
+        {
+          "name": "东泰",
+          "longitude": 113.76226,
+          "latitude": 23.001707,
+          "radius": "1049"
+        },
+        {
+          "name": "南城",
+          "longitude": 114.06832,
+          "latitude": 22.898943,
+          "radius": "866"
+        },
+        {
+          "name": "石美",
+          "longitude": 113.7234,
+          "latitude": 23.056946,
+          "radius": "925"
+        },
+        {
+          "name": "主山",
+          "longitude": 113.78865,
+          "latitude": 23.039633,
+          "radius": "1781"
+        },
+        {
+          "name": "雍华庭",
+          "longitude": 113.76648,
+          "latitude": 23.032833,
+          "radius": "648"
+        },
+        {
+          "name": "常黄路",
+          "longitude": 114.00795,
+          "latitude": 22.945154,
+          "radius": "991"
+        },
+        {
+          "name": "横江厦",
+          "longitude": 114.01968,
+          "latitude": 22.982885,
+          "radius": "686"
+        },
+        {
+          "name": "花园新村",
+          "longitude": 113.7626,
+          "latitude": 23.054428,
+          "radius": "1027"
+        },
+        {
+          "name": "三元里",
+          "longitude": 113.74089,
+          "latitude": 23.00915,
+          "radius": "433"
+        },
+        {
+          "name": "天鹅湖",
+          "longitude": 113.99161,
+          "latitude": 22.981867,
+          "radius": "539"
+        },
+        {
+          "name": "世博广场",
+          "longitude": 113.77763,
+          "latitude": 23.031633,
+          "radius": "352"
+        },
+        {
+          "name": "袁山贝",
+          "longitude": 113.976234,
+          "latitude": 22.95195,
+          "radius": "1119"
+        },
+        {
+          "name": "罗沙",
+          "longitude": 113.76715,
+          "latitude": 23.04114,
+          "radius": "867"
+        },
+        {
+          "name": "八达路",
+          "longitude": 113.75368,
+          "latitude": 23.030987,
+          "radius": "646"
+        },
+        {
+          "name": "宏远",
+          "longitude": 113.731026,
+          "latitude": 23.012365,
+          "radius": "874"
+        },
+        {
+          "name": "火炼树",
+          "longitude": 113.763916,
+          "latitude": 23.005934,
+          "radius": "421"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "市辖区",
+      "locations": [
+        {
+          "name": "大朗体育馆",
+          "longitude": 113.93144,
+          "latitude": 22.93328,
+          "radius": ""
+        },
+        {
+          "name": "东莞玉兰大剧院",
+          "longitude": 113.74773,
+          "latitude": 23.01406,
+          "radius": ""
+        },
+        {
+          "name": "东莞市体育中心",
+          "longitude": 113.75173,
+          "latitude": 23.02402,
+          "radius": ""
+        },
+        {
+          "name": "西南游泳场",
+          "longitude": 113.82214,
+          "latitude": 23.11623,
+          "radius": ""
+        },
+        {
+          "name": "少林崇德武院",
+          "longitude": 113.73229,
+          "latitude": 23.01864,
+          "radius": ""
+        },
+        {
+          "name": "潢涌体育馆",
+          "longitude": 113.73464,
+          "latitude": 23.12433,
+          "radius": ""
+        },
+        {
+          "name": "横沥体育馆",
+          "longitude": 113.95744,
+          "latitude": 23.02573,
+          "radius": ""
+        },
+        {
+          "name": "塘厦体育馆",
+          "longitude": 114.06872,
+          "latitude": 22.80735,
+          "radius": ""
+        },
+        {
+          "name": "济川体育馆",
+          "longitude": 113.68008,
+          "latitude": 23.00164,
+          "radius": ""
+        },
+        {
+          "name": "海战博物馆",
+          "longitude": 113.63142,
+          "latitude": 22.796545,
+          "radius": ""
+        },
+        {
+          "name": "龙眼游泳中心",
+          "longitude": 113.70741,
+          "latitude": 22.83857,
+          "radius": ""
+        },
+        {
+          "name": "石龙体育馆",
+          "longitude": 113.85982,
+          "latitude": 23.10581,
+          "radius": ""
+        },
+        {
+          "name": "东莞凤岗体育馆",
+          "longitude": 114.13635,
+          "latitude": 22.73971,
+          "radius": ""
+        },
+        {
+          "name": "沙角影剧院",
+          "longitude": 113.68011,
+          "latitude": 22.75429,
+          "radius": ""
+        },
+        {
+          "name": "长安体委游泳场",
+          "longitude": 113.79803,
+          "latitude": 22.82012,
+          "radius": ""
+        },
+        {
+          "name": "东莞龙凤山庄影视渡假村",
+          "longitude": 114.19038,
+          "latitude": 22.71365,
+          "radius": ""
+        },
+        {
+          "name": "沙角炮台",
+          "longitude": 113.66548,
+          "latitude": 22.75936,
+          "radius": ""
+        },
+        {
+          "name": "塘厦观光公园",
+          "longitude": 114.09402,
+          "latitude": 22.81189,
+          "radius": ""
+        },
+        {
+          "name": "威远炮台",
+          "longitude": 113.62538,
+          "latitude": 22.79564,
+          "radius": ""
+        },
+        {
+          "name": "观音山国家森林公园",
+          "longitude": 114.09695,
+          "latitude": 22.905369,
+          "radius": ""
+        },
+        {
+          "name": "鸦片战争博物馆",
+          "longitude": 113.660164,
+          "latitude": 22.824776,
+          "radius": ""
+        },
+        {
+          "name": "水濂山森林公园",
+          "longitude": 113.76242,
+          "latitude": 22.92711,
+          "radius": ""
+        },
+        {
+          "name": "路东体育场",
+          "longitude": 113.7097,
+          "latitude": 22.76925,
+          "radius": ""
+        },
+        {
+          "name": "香市影视城",
+          "longitude": 113.85584,
+          "latitude": 22.99288,
+          "radius": ""
+        },
+        {
+          "name": "东莞市科学技术博物馆",
+          "longitude": 113.74656,
+          "latitude": 23.00965,
+          "radius": ""
+        },
+        {
+          "name": "东莞市康泰体育娱乐活动中心",
+          "longitude": 113.70241,
+          "latitude": 22.85021,
+          "radius": ""
+        },
+        {
+          "name": "粤晖园",
+          "longitude": 113.63124,
+          "latitude": 22.974287,
+          "radius": ""
+        },
+        {
+          "name": "东莞博物馆",
+          "longitude": 113.7559,
+          "latitude": 23.04004,
+          "radius": ""
+        },
+        {
+          "name": "人民体育场",
+          "longitude": 113.75974,
+          "latitude": 23.03948,
+          "radius": ""
+        },
+        {
+          "name": "南社明清古村落",
+          "longitude": 113.90219,
+          "latitude": 23.06554,
+          "radius": ""
+        },
+        {
+          "name": "芙蓉寺",
+          "longitude": 114.03293,
+          "latitude": 22.87762,
+          "radius": ""
+        },
+        {
+          "name": "桥头体育中心",
+          "longitude": 114.10196,
+          "latitude": 23.01838,
+          "radius": ""
+        },
+        {
+          "name": "五星虎门休闲运动中心",
+          "longitude": 113.69154,
+          "latitude": 22.82055,
+          "radius": ""
+        },
+        {
+          "name": "东坑体育场",
+          "longitude": 113.94105,
+          "latitude": 22.997786,
+          "radius": ""
+        },
+        {
+          "name": "万江上甲体育公园",
+          "longitude": 113.70097,
+          "latitude": 23.04974,
+          "radius": ""
+        },
+        {
+          "name": "金鳌洲塔",
+          "longitude": 113.73654,
+          "latitude": 23.03855,
+          "radius": ""
+        },
+        {
+          "name": "路东影剧院",
+          "longitude": 113.70539,
+          "latitude": 22.76262,
+          "radius": ""
+        },
+        {
+          "name": "黄牛埔森林公园",
+          "longitude": 113.99837,
+          "latitude": 22.83965,
+          "radius": ""
+        },
+        {
+          "name": "大岭山森林公园长安景区",
+          "longitude": 113.78474,
+          "latitude": 22.83694,
+          "radius": ""
+        },
+        {
+          "name": "艾菲尔巴黎铁塔",
+          "longitude": 113.81058,
+          "latitude": 22.92018,
+          "radius": ""
+        },
+        {
+          "name": "大岭山抗日根据地旧址",
+          "longitude": 113.81242,
+          "latitude": 22.88202,
+          "radius": ""
+        },
+        {
+          "name": "横沥镇体育场",
+          "longitude": 113.95946,
+          "latitude": 23.037,
+          "radius": ""
+        },
+        {
+          "name": "东莞篮球中心",
+          "longitude": 113.8399,
+          "latitude": 22.99529,
+          "radius": ""
+        },
+        {
+          "name": "油甘埔文化体育中心",
+          "longitude": 114.17314,
+          "latitude": 22.72453,
+          "radius": ""
+        },
+        {
+          "name": "蚝岗民俗文物馆",
+          "longitude": 113.7441,
+          "latitude": 23.02843,
+          "radius": ""
+        },
+        {
+          "name": "东莞榕树湾泳健会",
+          "longitude": 113.77847,
+          "latitude": 23.03984,
+          "radius": ""
+        },
+        {
+          "name": "杨屋马鞍山生态公园",
+          "longitude": 113.85639,
+          "latitude": 22.83938,
+          "radius": ""
+        },
+        {
+          "name": "白沙影剧院",
+          "longitude": 113.66713,
+          "latitude": 22.86114,
+          "radius": ""
+        },
+        {
+          "name": "蒋光鼐故居",
+          "longitude": 113.68774,
+          "latitude": 22.78468,
+          "radius": ""
+        },
+        {
+          "name": "中堂篮球馆",
+          "longitude": 113.66205,
+          "latitude": 23.0911,
+          "radius": ""
+        },
+        {
+          "name": "森晖自然博物馆景区",
+          "longitude": 113.74127,
+          "latitude": 23.04134,
+          "radius": ""
+        },
+        {
+          "name": "大宁体育馆",
+          "longitude": 113.72253,
+          "latitude": 22.81529,
+          "radius": ""
+        },
+        {
+          "name": "大朗城市候机楼",
+          "longitude": 113.98952,
+          "latitude": 22.91903,
+          "radius": ""
+        },
+        {
+          "name": "中国建筑陶瓷博物馆",
+          "longitude": 113.75207,
+          "latitude": 23.12191,
+          "radius": ""
+        },
+        {
+          "name": "海月岩",
+          "longitude": 113.64437,
+          "latitude": 22.91645,
+          "radius": ""
+        },
+        {
+          "name": "袁山贝游泳池",
+          "longitude": 113.97418,
+          "latitude": 22.94806,
+          "radius": ""
+        },
+        {
+          "name": "翡翠球馆",
+          "longitude": 113.84736,
+          "latitude": 22.90035,
+          "radius": ""
+        },
+        {
+          "name": "古梅体育馆",
+          "longitude": 113.57497,
+          "latitude": 23.05745,
+          "radius": ""
+        },
+        {
+          "name": "长安影剧院",
+          "longitude": 113.80506,
+          "latitude": 22.80226,
+          "radius": ""
+        },
+        {
+          "name": "迎恩门城楼",
+          "longitude": 113.75051,
+          "latitude": 23.04215,
+          "radius": ""
+        },
+        {
+          "name": "松山湖生态景区",
+          "longitude": 113.86503,
+          "latitude": 22.89315,
+          "radius": ""
+        },
+        {
+          "name": "大岭山森林公园大岭山景区",
+          "longitude": 113.80288,
+          "latitude": 22.86311,
+          "radius": ""
+        },
+        {
+          "name": "圣心庄园",
+          "longitude": 113.91081,
+          "latitude": 23.0483,
+          "radius": ""
+        },
+        {
+          "name": "巡海宫",
+          "longitude": 113.93372,
+          "latitude": 22.95279,
+          "radius": ""
+        },
+        {
+          "name": "长安体育中心",
+          "longitude": 113.80445,
+          "latitude": 22.81099,
+          "radius": ""
+        },
+        {
+          "name": "道滘体育馆",
+          "longitude": 113.66718,
+          "latitude": 22.99871,
+          "radius": ""
+        },
+        {
+          "name": "厚街国际飞碟射击俱乐部",
+          "longitude": 113.62336,
+          "latitude": 22.90915,
+          "radius": ""
+        },
+        {
+          "name": "燕岭摩崖石刻",
+          "longitude": 113.89356,
+          "latitude": 23.09433,
+          "radius": ""
+        },
+        {
+          "name": "马山旅游区",
+          "longitude": 113.80443,
+          "latitude": 22.90952,
+          "radius": ""
+        },
+        {
+          "name": "马山庙",
+          "longitude": 113.78504,
+          "latitude": 22.90144,
+          "radius": ""
+        },
+        {
+          "name": "水濂竟秀",
+          "longitude": 113.77226,
+          "latitude": 22.93203,
+          "radius": ""
+        },
+        {
+          "name": "山顶营旧址",
+          "longitude": 113.62613,
+          "latitude": 22.80167,
+          "radius": ""
+        },
+        {
+          "name": "却金亭碑",
+          "longitude": 113.74958,
+          "latitude": 23.04917,
+          "radius": ""
+        },
+        {
+          "name": "常平大剧院",
+          "longitude": 113.99387,
+          "latitude": 22.96655,
+          "radius": ""
+        },
+        {
+          "name": "脉洲碉楼",
+          "longitude": 113.82754,
+          "latitude": 23.09931,
+          "radius": ""
+        },
+        {
+          "name": "望牛墩影剧院",
+          "longitude": 113.65678,
+          "latitude": 23.05212,
+          "radius": ""
+        },
+        {
+          "name": "东莞市虎门镇体育中心",
+          "longitude": 113.6606,
+          "latitude": 22.81504,
+          "radius": ""
+        },
+        {
+          "name": "中和堂博物馆",
+          "longitude": 113.76187,
+          "latitude": 23.02908,
+          "radius": ""
+        },
+        {
+          "name": "景山休闲公园水上活动中心",
+          "longitude": 114.16134,
+          "latitude": 22.82836,
+          "radius": ""
+        },
+        {
+          "name": "荔枝公园",
+          "longitude": 113.81242,
+          "latitude": 23.09796,
+          "radius": ""
+        },
+        {
+          "name": "王氏大宗祠",
+          "longitude": 113.6927,
+          "latitude": 22.78865,
+          "radius": ""
+        },
+        {
+          "name": "环秀山庄",
+          "longitude": 113.67391,
+          "latitude": 22.95936,
+          "radius": ""
+        },
+        {
+          "name": "永记生态园",
+          "longitude": 113.56931,
+          "latitude": 23.0668,
+          "radius": ""
+        },
+        {
+          "name": "红馆俱乐部",
+          "longitude": 113.67622,
+          "latitude": 23.06814,
+          "radius": ""
+        },
+        {
+          "name": "金沙影剧院",
+          "longitude": 113.7664,
+          "latitude": 22.78018,
+          "radius": ""
+        },
+        {
+          "name": "东莞蚝岗遗址博物馆",
+          "longitude": 113.7393,
+          "latitude": 23.02702,
+          "radius": ""
+        },
+        {
+          "name": "石龙举重博物馆",
+          "longitude": 113.86056,
+          "latitude": 23.10676,
+          "radius": ""
+        },
+        {
+          "name": "常平体育馆",
+          "longitude": 113.99346,
+          "latitude": 22.97374,
+          "radius": ""
+        },
+        {
+          "name": "逸颐艺舍博物馆",
+          "longitude": 113.97087,
+          "latitude": 23.01175,
+          "radius": ""
+        },
+        {
+          "name": "塘厦超越体育",
+          "longitude": 114.07904,
+          "latitude": 22.8022,
+          "radius": ""
+        },
+        {
+          "name": "万江影剧院",
+          "longitude": 113.73859,
+          "latitude": 23.04656,
+          "radius": ""
+        },
+        {
+          "name": "汇诚体育俱乐部",
+          "longitude": 114.08525,
+          "latitude": 23.00695,
+          "radius": ""
+        },
+        {
+          "name": "大宁影剧院",
+          "longitude": 113.72234,
+          "latitude": 22.81418,
+          "radius": ""
+        },
+        {
+          "name": "乌沙影剧院",
+          "longitude": 113.78921,
+          "latitude": 22.79257,
+          "radius": ""
+        },
+        {
+          "name": "宝石影剧院",
+          "longitude": 114.02465,
+          "latitude": 23.07271,
+          "radius": ""
+        },
+        {
+          "name": "桔洲影剧院",
+          "longitude": 113.8029,
+          "latitude": 23.11092,
+          "radius": ""
+        },
+        {
+          "name": "星地五人足球场",
+          "longitude": 113.79397,
+          "latitude": 23.03809,
+          "radius": ""
+        },
+        {
+          "name": "金美影剧院",
+          "longitude": 113.98045,
+          "latitude": 22.96527,
+          "radius": ""
+        },
+        {
+          "name": "沙田游泳中心",
+          "longitude": 113.61295,
+          "latitude": 22.89529,
+          "radius": ""
+        },
+        {
+          "name": "洪梅体育中心",
+          "longitude": 113.61826,
+          "latitude": 22.98708,
+          "radius": ""
+        },
+        {
+          "name": "黄屋游泳场",
+          "longitude": 113.93689,
+          "latitude": 23.00417,
+          "radius": ""
+        },
+        {
+          "name": "文康候机楼",
+          "longitude": 113.81733,
+          "latitude": 22.80325,
+          "radius": ""
+        },
+        {
+          "name": "田心足球场",
+          "longitude": 114.05754,
+          "latitude": 22.78669,
+          "radius": ""
+        },
+        {
+          "name": "乐方城",
+          "longitude": 113.7853,
+          "latitude": 23.04099,
+          "radius": ""
+        },
+        {
+          "name": "晶达员工运动场",
+          "longitude": 114.14254,
+          "latitude": 22.7893,
+          "radius": ""
+        },
+        {
+          "name": "塘厦演艺馆",
+          "longitude": 114.07161,
+          "latitude": 22.80551,
+          "radius": ""
+        },
+        {
+          "name": "四村康乐中心",
+          "longitude": 113.66166,
+          "latitude": 22.85466,
+          "radius": ""
+        },
+        {
+          "name": "水南游泳池",
+          "longitude": 113.83014,
+          "latitude": 23.10169,
+          "radius": ""
+        },
+        {
+          "name": "麻二游泳中心",
+          "longitude": 113.56958,
+          "latitude": 23.0412,
+          "radius": ""
+        },
+        {
+          "name": "东莞市游泳运动管理中心游泳馆",
+          "longitude": 113.76675,
+          "latitude": 22.96605,
+          "radius": ""
+        },
+        {
+          "name": "新健力体育中心",
+          "longitude": 114.15718,
+          "latitude": 22.82546,
+          "radius": ""
+        },
+        {
+          "name": "嘉利游泳池",
+          "longitude": 114.17029,
+          "latitude": 22.69122,
+          "radius": ""
+        },
+        {
+          "name": "高埗新剧院",
+          "longitude": 113.72723,
+          "latitude": 23.08575,
+          "radius": ""
+        },
+        {
+          "name": "南社影剧院",
+          "longitude": 113.90226,
+          "latitude": 23.06575,
+          "radius": ""
+        },
+        {
+          "name": "茶山超朗长运游泳池",
+          "longitude": 113.91945,
+          "latitude": 23.04893,
+          "radius": ""
+        },
+        {
+          "name": "御景湾体育俱乐部",
+          "longitude": 113.79054,
+          "latitude": 23.00367,
+          "radius": ""
+        },
+        {
+          "name": "新健力体育中心",
+          "longitude": 113.76368,
+          "latitude": 22.77173,
+          "radius": ""
+        },
+        {
+          "name": "豪情休闲天地",
+          "longitude": 113.90356,
+          "latitude": 22.98074,
+          "radius": ""
+        },
+        {
+          "name": "骏丰足球场",
+          "longitude": 113.71622,
+          "latitude": 22.99384,
+          "radius": ""
+        },
+        {
+          "name": "飞奥跆拳道",
+          "longitude": 114.14336,
+          "latitude": 22.74702,
+          "radius": ""
+        },
+        {
+          "name": "莲城影剧院",
+          "longitude": 114.10003,
+          "latitude": 23.02001,
+          "radius": ""
+        },
+        {
+          "name": "桥梓游泳场",
+          "longitude": 113.97272,
+          "latitude": 22.97371,
+          "radius": ""
+        },
+        {
+          "name": "丽江游泳馆",
+          "longitude": 113.84209,
+          "latitude": 23.09378,
+          "radius": ""
+        },
+        {
+          "name": "井美游泳馆",
+          "longitude": 113.94352,
+          "latitude": 22.99393,
+          "radius": ""
+        },
+        {
+          "name": "南社游泳场",
+          "longitude": 113.89569,
+          "latitude": 23.064632,
+          "radius": ""
+        },
+        {
+          "name": "潢涌游泳池",
+          "longitude": 113.7392,
+          "latitude": 23.1189,
+          "radius": ""
+        },
+        {
+          "name": "南埔游泳池",
+          "longitude": 114.00009,
+          "latitude": 22.96594,
+          "radius": ""
+        },
+        {
+          "name": "余屋剧院",
+          "longitude": 113.83082,
+          "latitude": 23.07835,
+          "radius": ""
+        },
+        {
+          "name": "粤韵馆",
+          "longitude": 113.67886,
+          "latitude": 23.00514,
+          "radius": ""
+        },
+        {
+          "name": "凤岗影剧院",
+          "longitude": 114.14868,
+          "latitude": 22.74465,
+          "radius": ""
+        },
+        {
+          "name": "温布莱五人足球场",
+          "longitude": 114.00098,
+          "latitude": 22.96708,
+          "radius": ""
+        },
+        {
+          "name": "乐天演艺舞台",
+          "longitude": 113.88731,
+          "latitude": 23.00559,
+          "radius": ""
+        },
+        {
+          "name": "巷头影剧院",
+          "longitude": 113.9311,
+          "latitude": 22.95962,
+          "radius": ""
+        },
+        {
+          "name": "运动场",
+          "longitude": 113.75576,
+          "latitude": 23.04652,
+          "radius": ""
+        },
+        {
+          "name": "景山休闲俱乐部",
+          "longitude": 114.1604,
+          "latitude": 22.8279,
+          "radius": ""
+        },
+        {
+          "name": "向阳村球场",
+          "longitude": 113.65876,
+          "latitude": 22.86819,
+          "radius": ""
+        },
+        {
+          "name": "星晨电动游乐城",
+          "longitude": 114.15283,
+          "latitude": 22.79271,
+          "radius": ""
+        },
+        {
+          "name": "追球者",
+          "longitude": 113.6705,
+          "latitude": 22.94135,
+          "radius": ""
+        },
+        {
+          "name": "阳光健康俱乐部",
+          "longitude": 113.65947,
+          "latitude": 23.05308,
+          "radius": ""
+        },
+        {
+          "name": "米拿游戏城",
+          "longitude": 114.05115,
+          "latitude": 23.00895,
+          "radius": ""
+        },
+        {
+          "name": "东莞香市文化旅游投资管理有限公司",
+          "longitude": 113.8869,
+          "latitude": 22.99217,
+          "radius": ""
+        },
+        {
+          "name": "健康活水世界东城主山店",
+          "longitude": 113.78474,
+          "latitude": 23.04093,
+          "radius": ""
+        },
+        {
+          "name": "中信会·俱乐部东泰会所",
+          "longitude": 113.76156,
+          "latitude": 22.99998,
+          "radius": ""
+        },
+        {
+          "name": "爱体游泳馆",
+          "longitude": 113.84659,
+          "latitude": 23.0906,
+          "radius": ""
+        },
+        {
+          "name": "童心剧场",
+          "longitude": 113.74749,
+          "latitude": 23.00861,
+          "radius": ""
+        },
+        {
+          "name": "潢涌影剧院",
+          "longitude": 113.73686,
+          "latitude": 23.12388,
+          "radius": ""
+        },
+        {
+          "name": "塘尾剧院",
+          "longitude": 113.92701,
+          "latitude": 23.0813,
+          "radius": ""
+        },
+        {
+          "name": "梦城堡卡丁车乐园",
+          "longitude": 114.0905,
+          "latitude": 22.91594,
+          "radius": ""
+        },
+        {
+          "name": "极清跆拳道(石龙分馆)",
+          "longitude": 113.8702,
+          "latitude": 23.11176,
+          "radius": ""
+        },
+        {
+          "name": "台新生活馆",
+          "longitude": 113.68359,
+          "latitude": 22.85668,
+          "radius": ""
+        },
+        {
+          "name": "石井影剧院",
+          "longitude": 113.80018,
+          "latitude": 23.02221,
+          "radius": ""
+        },
+        {
+          "name": "深圳机场南城车站城市候机楼",
+          "longitude": 113.72,
+          "latitude": 22.98382,
+          "radius": ""
+        },
+        {
+          "name": "晚翠公祠",
+          "longitude": 113.90491,
+          "latitude": 23.06642,
+          "radius": ""
+        },
+        {
+          "name": "水濂阁",
+          "longitude": 113.7695,
+          "latitude": 22.92616,
+          "radius": ""
+        },
+        {
+          "name": "祖坟",
+          "longitude": 113.90534,
+          "latitude": 23.06694,
+          "radius": ""
+        },
+        {
+          "name": "武帝庙",
+          "longitude": 113.9038,
+          "latitude": 23.06602,
+          "radius": ""
+        },
+        {
+          "name": "名朗古庙",
+          "longitude": 113.9194,
+          "latitude": 22.91394,
+          "radius": ""
+        },
+        {
+          "name": "东莞市塘厦射箭基地",
+          "longitude": 114.10415,
+          "latitude": 22.76082,
+          "radius": ""
+        },
+        {
+          "name": "凤凰休闲长堤",
+          "longitude": 114.11042,
+          "latitude": 22.77214,
+          "radius": ""
+        },
+        {
+          "name": "务圃叶公祠",
+          "longitude": 113.93812,
+          "latitude": 22.94482,
+          "radius": ""
+        },
+        {
+          "name": "少简公祠",
+          "longitude": 113.90466,
+          "latitude": 23.06636,
+          "radius": ""
+        },
+        {
+          "name": "高埗大桥旧址",
+          "longitude": 113.73098,
+          "latitude": 23.06389,
+          "radius": ""
+        },
+        {
+          "name": "三和田锦鲤",
+          "longitude": 113.97671,
+          "latitude": 22.89988,
+          "radius": ""
+        },
+        {
+          "name": "祠堂塘",
+          "longitude": 113.90445,
+          "latitude": 23.06645,
+          "radius": ""
+        },
+        {
+          "name": "香市古镇",
+          "longitude": 113.89027,
+          "latitude": 22.9955,
+          "radius": ""
+        },
+        {
+          "name": "森雁园",
+          "longitude": 113.96468,
+          "latitude": 22.91691,
+          "radius": ""
+        },
+        {
+          "name": "永年杨式太极养生馆",
+          "longitude": 113.64332,
+          "latitude": 22.91809,
+          "radius": ""
+        },
+        {
+          "name": "大汾古桥(种德桥坊十四巷)",
+          "longitude": 113.68777,
+          "latitude": 23.04143,
+          "radius": ""
+        },
+        {
+          "name": "镇远炮台旧址",
+          "longitude": 113.62192,
+          "latitude": 22.79981,
+          "radius": ""
+        },
+        {
+          "name": "金爵歌剧院",
+          "longitude": 113.9785,
+          "latitude": 22.85983,
+          "radius": ""
+        },
+        {
+          "name": "肚蔗塘",
+          "longitude": 113.90494,
+          "latitude": 23.06673,
+          "radius": ""
+        },
+        {
+          "name": "井美文阁",
+          "longitude": 113.9435,
+          "latitude": 22.995,
+          "radius": ""
+        },
+        {
+          "name": "骏捷篮球馆",
+          "longitude": 113.98839,
+          "latitude": 22.98342,
+          "radius": ""
+        },
+        {
+          "name": "百岁塘",
+          "longitude": 113.9038,
+          "latitude": 23.06623,
+          "radius": ""
+        },
+        {
+          "name": "照南公祠",
+          "longitude": 113.9038,
+          "latitude": 23.06648,
+          "radius": ""
+        },
+        {
+          "name": "北门塘",
+          "longitude": 113.90497,
+          "latitude": 23.06731,
+          "radius": ""
+        },
+        {
+          "name": "孟俦公祠",
+          "longitude": 113.90397,
+          "latitude": 23.06604,
+          "radius": ""
+        },
+        {
+          "name": "长安廉韵园地",
+          "longitude": 113.80726,
+          "latitude": 22.80255,
+          "radius": ""
+        },
+        {
+          "name": "四通桥",
+          "longitude": 113.90413,
+          "latitude": 23.06637,
+          "radius": ""
+        },
+        {
+          "name": "萧氏宗祠",
+          "longitude": 113.99858,
+          "latitude": 22.98185,
+          "radius": ""
+        },
+        {
+          "name": "杰正跆拳道馆(观澜湖店)",
+          "longitude": 114.00836,
+          "latitude": 22.78148,
+          "radius": ""
+        },
+        {
+          "name": "华南欢笑天地宝宝乐园",
+          "longitude": 113.72593,
+          "latitude": 23.03484,
+          "radius": ""
+        },
+        {
+          "name": "倬遐公祠",
+          "longitude": 113.84658,
+          "latitude": 22.98437,
+          "radius": ""
+        },
+        {
+          "name": "水濂小镇奥运村",
+          "longitude": 113.75828,
+          "latitude": 22.9367,
+          "radius": ""
+        },
+        {
+          "name": "芳草地园林",
+          "longitude": 113.86128,
+          "latitude": 22.98312,
+          "radius": ""
+        },
+        {
+          "name": "水添乐游泳馆",
+          "longitude": 113.81458,
+          "latitude": 23.0297,
+          "radius": ""
+        },
+        {
+          "name": "云野公祠",
+          "longitude": 113.9044,
+          "latitude": 23.06667,
+          "radius": ""
+        },
+        {
+          "name": "凯旋门",
+          "longitude": 113.85536,
+          "latitude": 23.11071,
+          "radius": ""
+        },
+        {
+          "name": "雅景园艺石世界",
+          "longitude": 113.69241,
+          "latitude": 22.82815,
+          "radius": ""
+        },
+        {
+          "name": "新桥",
+          "longitude": 113.9047,
+          "latitude": 23.06658,
+          "radius": ""
+        },
+        {
+          "name": "高埗体育场",
+          "longitude": 113.72053,
+          "latitude": 23.08465,
+          "radius": ""
+        },
+        {
+          "name": "森晖博物馆",
+          "longitude": 113.74061,
+          "latitude": 23.04063,
+          "radius": ""
+        },
+        {
+          "name": "莞香非物质文化遗产保护园",
+          "longitude": 113.78541,
+          "latitude": 22.91198,
+          "radius": ""
+        },
+        {
+          "name": "崖山古迹",
+          "longitude": 114.20808,
+          "latitude": 22.9693,
+          "radius": ""
+        },
+        {
+          "name": "伟业缤纷大舞台",
+          "longitude": 113.93383,
+          "latitude": 23.08735,
+          "radius": ""
+        },
+        {
+          "name": "厚街体育馆",
+          "longitude": 113.68425,
+          "latitude": 22.93691,
+          "radius": ""
+        },
+        {
+          "name": "云蟠公祠",
+          "longitude": 113.90358,
+          "latitude": 23.06664,
+          "radius": ""
+        },
+        {
+          "name": "慈麟坊",
+          "longitude": 114.1749,
+          "latitude": 22.67556,
+          "radius": ""
+        },
+        {
+          "name": "任天公祠",
+          "longitude": 113.90298,
+          "latitude": 23.06603,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

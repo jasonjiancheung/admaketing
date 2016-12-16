@@ -1,0 +1,5016 @@
+{
+  "cityName": "上海市",
+  "businessCenters": [
+    {
+      "name": "黄浦区",
+      "locations": [
+        {
+          "name": "南外滩",
+          "longitude": 121.50524,
+          "latitude": 31.21815,
+          "radius": "504"
+        },
+        {
+          "name": "董家渡",
+          "longitude": 121.50293,
+          "latitude": 31.21433,
+          "radius": "461"
+        },
+        {
+          "name": "南京东路",
+          "longitude": 121.48217,
+          "latitude": 31.236666,
+          "radius": "745"
+        },
+        {
+          "name": "新天地",
+          "longitude": 121.47672,
+          "latitude": 31.21983,
+          "radius": "480"
+        },
+        {
+          "name": "鲁班路",
+          "longitude": 121.476875,
+          "latitude": 31.199852,
+          "radius": "835"
+        },
+        {
+          "name": "斜土路",
+          "longitude": 121.47688,
+          "latitude": 31.20346,
+          "radius": "834"
+        },
+        {
+          "name": "老西门",
+          "longitude": 121.48653,
+          "latitude": 31.216543,
+          "radius": "745"
+        },
+        {
+          "name": "中山南一路",
+          "longitude": 121.479996,
+          "latitude": 31.198193,
+          "radius": "817"
+        },
+        {
+          "name": "复兴中路",
+          "longitude": 121.46521,
+          "latitude": 31.21458,
+          "radius": "1028"
+        },
+        {
+          "name": "西藏南路",
+          "longitude": 121.48631,
+          "latitude": 31.212784,
+          "radius": "692"
+        },
+        {
+          "name": "人民广场",
+          "longitude": 121.47268,
+          "latitude": 31.229053,
+          "radius": "606"
+        },
+        {
+          "name": "打浦桥",
+          "longitude": 121.47391,
+          "latitude": 31.205996,
+          "radius": "682"
+        },
+        {
+          "name": "五里桥",
+          "longitude": 121.48245,
+          "latitude": 31.20248,
+          "radius": "684"
+        },
+        {
+          "name": "瑞金二路",
+          "longitude": 121.46586,
+          "latitude": 31.212042,
+          "radius": "806"
+        },
+        {
+          "name": "外滩",
+          "longitude": 121.49061,
+          "latitude": 31.236135,
+          "radius": "539"
+        },
+        {
+          "name": "豫园",
+          "longitude": 121.49182,
+          "latitude": 31.226517,
+          "radius": "175"
+        }
+      ]
+    },
+    {
+      "name": "徐汇区",
+      "locations": [
+        {
+          "name": "长桥",
+          "longitude": 121.438324,
+          "latitude": 31.134089,
+          "radius": "716"
+        },
+        {
+          "name": "枫林路",
+          "longitude": 121.457794,
+          "latitude": 31.192642,
+          "radius": "635"
+        },
+        {
+          "name": "龙华",
+          "longitude": 121.44809,
+          "latitude": 31.17466,
+          "radius": "1888"
+        },
+        {
+          "name": "田林",
+          "longitude": 121.40672,
+          "latitude": 31.168922,
+          "radius": "2035"
+        },
+        {
+          "name": "漕宝路",
+          "longitude": 121.425125,
+          "latitude": 31.167274,
+          "radius": "1029"
+        },
+        {
+          "name": "华泾",
+          "longitude": 121.44735,
+          "latitude": 31.117851,
+          "radius": "1109"
+        },
+        {
+          "name": "上海南站",
+          "longitude": 121.429375,
+          "latitude": 31.153511,
+          "radius": "559"
+        },
+        {
+          "name": "交大",
+          "longitude": 121.43268,
+          "latitude": 31.199142,
+          "radius": "480"
+        },
+        {
+          "name": "华东理工",
+          "longitude": 121.424164,
+          "latitude": 31.143166,
+          "radius": "659"
+        },
+        {
+          "name": "淮海西路",
+          "longitude": 121.42846,
+          "latitude": 31.198982,
+          "radius": "607"
+        },
+        {
+          "name": "上师大",
+          "longitude": 121.41864,
+          "latitude": 31.160604,
+          "radius": "608"
+        },
+        {
+          "name": "徐家汇",
+          "longitude": 121.43863,
+          "latitude": 31.19125,
+          "radius": "1142"
+        },
+        {
+          "name": "衡山路",
+          "longitude": 121.44478,
+          "latitude": 31.20221,
+          "radius": "705"
+        },
+        {
+          "name": "康健",
+          "longitude": 121.42661,
+          "latitude": 31.165579,
+          "radius": "769"
+        },
+        {
+          "name": "虹梅路",
+          "longitude": 121.397064,
+          "latitude": 31.168177,
+          "radius": "300"
+        },
+        {
+          "name": "湖南路",
+          "longitude": 121.43865,
+          "latitude": 31.208122,
+          "radius": "523"
+        },
+        {
+          "name": "淮海中路",
+          "longitude": 121.45817,
+          "latitude": 31.21658,
+          "radius": "714"
+        },
+        {
+          "name": "漕河泾",
+          "longitude": 121.41554,
+          "latitude": 31.169577,
+          "radius": "347"
+        },
+        {
+          "name": "肇嘉浜路",
+          "longitude": 121.45292,
+          "latitude": 31.19887,
+          "radius": "1254"
+        },
+        {
+          "name": "凌云路",
+          "longitude": 121.420074,
+          "latitude": 31.136911,
+          "radius": "0"
+        }
+      ]
+    },
+    {
+      "name": "长宁区",
+      "locations": [
+        {
+          "name": "天山路",
+          "longitude": 121.396,
+          "latitude": 31.21273,
+          "radius": "1466"
+        },
+        {
+          "name": "中山公园",
+          "longitude": 121.41913,
+          "latitude": 31.22131,
+          "radius": "540"
+        },
+        {
+          "name": "动物园",
+          "longitude": 121.36327,
+          "latitude": 31.19233,
+          "radius": "659"
+        },
+        {
+          "name": "新华路",
+          "longitude": 121.42576,
+          "latitude": 31.20329,
+          "radius": "829"
+        },
+        {
+          "name": "北新泾",
+          "longitude": 121.367,
+          "latitude": 31.219114,
+          "radius": "906"
+        },
+        {
+          "name": "仙霞",
+          "longitude": 121.37732,
+          "latitude": 31.20789,
+          "radius": "3181"
+        },
+        {
+          "name": "周家桥",
+          "longitude": 121.4055,
+          "latitude": 31.216652,
+          "radius": "727"
+        }
+      ]
+    },
+    {
+      "name": "静安区",
+      "locations": [
+        {
+          "name": "静安寺",
+          "longitude": 121.444405,
+          "latitude": 31.224165,
+          "radius": "360"
+        },
+        {
+          "name": "曹家渡",
+          "longitude": 121.43428,
+          "latitude": 31.230055,
+          "radius": "721"
+        },
+        {
+          "name": "北京西路",
+          "longitude": 121.45723,
+          "latitude": 31.230717,
+          "radius": "476"
+        },
+        {
+          "name": "西康路",
+          "longitude": 121.4432,
+          "latitude": 31.236288,
+          "radius": "868"
+        },
+        {
+          "name": "南京西路",
+          "longitude": 121.4572,
+          "latitude": 31.227104,
+          "radius": "672"
+        },
+        {
+          "name": "新闸路",
+          "longitude": 121.45597,
+          "latitude": 31.232752,
+          "radius": "789"
+        },
+        {
+          "name": "江宁路",
+          "longitude": 121.44827,
+          "latitude": 31.23831,
+          "radius": "414"
+        },
+        {
+          "name": "镇宁路",
+          "longitude": 121.43707,
+          "latitude": 31.219664,
+          "radius": "644"
+        }
+      ]
+    },
+    {
+      "name": "普陀区",
+      "locations": [
+        {
+          "name": "甘泉路",
+          "longitude": 121.43099,
+          "latitude": 31.262537,
+          "radius": "688"
+        },
+        {
+          "name": "石泉路",
+          "longitude": 121.42269,
+          "latitude": 31.249992,
+          "radius": "574"
+        },
+        {
+          "name": "长寿路",
+          "longitude": 121.43774,
+          "latitude": 31.237661,
+          "radius": "930"
+        },
+        {
+          "name": "武宁路",
+          "longitude": 121.401085,
+          "latitude": 31.245642,
+          "radius": "1288"
+        },
+        {
+          "name": "真光",
+          "longitude": 121.38141,
+          "latitude": 31.246407,
+          "radius": "1262"
+        },
+        {
+          "name": "宜川路",
+          "longitude": 121.43695,
+          "latitude": 31.267021,
+          "radius": "568"
+        },
+        {
+          "name": "金沙江路",
+          "longitude": 121.39443,
+          "latitude": 31.23042,
+          "radius": "2176"
+        },
+        {
+          "name": "万里城",
+          "longitude": 121.405045,
+          "latitude": 31.267582,
+          "radius": "772"
+        },
+        {
+          "name": "中远两湾城",
+          "longitude": 121.44218,
+          "latitude": 31.253714,
+          "radius": "796"
+        },
+        {
+          "name": "长征",
+          "longitude": 121.381004,
+          "latitude": 31.236826,
+          "radius": "1589"
+        },
+        {
+          "name": "真如",
+          "longitude": 121.398796,
+          "latitude": 31.248058,
+          "radius": "919"
+        },
+        {
+          "name": "曹杨新村",
+          "longitude": 121.407265,
+          "latitude": 31.238382,
+          "radius": "919"
+        },
+        {
+          "name": "光新",
+          "longitude": 121.43275,
+          "latitude": 31.253147,
+          "radius": "604"
+        },
+        {
+          "name": "桃浦",
+          "longitude": 121.35679,
+          "latitude": 31.283293,
+          "radius": "1458"
+        },
+        {
+          "name": "曹杨",
+          "longitude": 121.41029,
+          "latitude": 31.246538,
+          "radius": "1709"
+        }
+      ]
+    },
+    {
+      "name": "闸北区",
+      "locations": [
+        {
+          "name": "汶水路",
+          "longitude": 121.433784,
+          "latitude": 31.290812,
+          "radius": "2597"
+        },
+        {
+          "name": "延长路",
+          "longitude": 121.45992,
+          "latitude": 31.273247,
+          "radius": "421"
+        },
+        {
+          "name": "海宁路",
+          "longitude": 121.479256,
+          "latitude": 31.248444,
+          "radius": "1098"
+        },
+        {
+          "name": "广中路",
+          "longitude": 121.460884,
+          "latitude": 31.279749,
+          "radius": "1370"
+        },
+        {
+          "name": "大宁路",
+          "longitude": 121.44774,
+          "latitude": 31.27415,
+          "radius": "853"
+        },
+        {
+          "name": "芷江西路",
+          "longitude": 121.45937,
+          "latitude": 31.257456,
+          "radius": "754"
+        },
+        {
+          "name": "闸北公园",
+          "longitude": 121.459694,
+          "latitude": 31.270586,
+          "radius": "351"
+        },
+        {
+          "name": "场中路",
+          "longitude": 121.449234,
+          "latitude": 31.305058,
+          "radius": "2711"
+        },
+        {
+          "name": "西藏北路",
+          "longitude": 121.46751,
+          "latitude": 31.253958,
+          "radius": "1002"
+        },
+        {
+          "name": "共康",
+          "longitude": 121.43905,
+          "latitude": 31.320736,
+          "radius": "1361"
+        },
+        {
+          "name": "天目西路",
+          "longitude": 121.45634,
+          "latitude": 31.245596,
+          "radius": "607"
+        },
+        {
+          "name": "共和新路",
+          "longitude": 121.45128,
+          "latitude": 31.291348,
+          "radius": "4017"
+        },
+        {
+          "name": "彭浦",
+          "longitude": 121.4368,
+          "latitude": 31.281233,
+          "radius": "1003"
+        },
+        {
+          "name": "和田",
+          "longitude": 121.46457,
+          "latitude": 31.262674,
+          "radius": "912"
+        }
+      ]
+    },
+    {
+      "name": "虹口区",
+      "locations": [
+        {
+          "name": "北外滩",
+          "longitude": 121.50318,
+          "latitude": 31.24981,
+          "radius": "1125"
+        },
+        {
+          "name": "提篮桥",
+          "longitude": 121.50479,
+          "latitude": 31.25539,
+          "radius": "1054"
+        },
+        {
+          "name": "四川北路",
+          "longitude": 121.48328,
+          "latitude": 31.256634,
+          "radius": "1346"
+        },
+        {
+          "name": "曲阳路",
+          "longitude": 121.492325,
+          "latitude": 31.280262,
+          "radius": "1074"
+        },
+        {
+          "name": "江湾",
+          "longitude": 121.47766,
+          "latitude": 31.30124,
+          "radius": "1082"
+        },
+        {
+          "name": "凉城",
+          "longitude": 121.47228,
+          "latitude": 31.293,
+          "radius": "1507"
+        },
+        {
+          "name": "临平路",
+          "longitude": 121.49622,
+          "latitude": 31.261806,
+          "radius": "578"
+        },
+        {
+          "name": "大柏树",
+          "longitude": 121.48767,
+          "latitude": 31.292068,
+          "radius": "641"
+        }
+      ]
+    },
+    {
+      "name": "杨浦区",
+      "locations": [
+        {
+          "name": "控江路",
+          "longitude": 121.52896,
+          "latitude": 31.280512,
+          "radius": "1066"
+        },
+        {
+          "name": "周家嘴路",
+          "longitude": 121.52425,
+          "latitude": 31.269838,
+          "radius": "976"
+        },
+        {
+          "name": "长阳路",
+          "longitude": 121.52833,
+          "latitude": 31.265673,
+          "radius": "931"
+        },
+        {
+          "name": "四平路",
+          "longitude": 121.50199,
+          "latitude": 31.277529,
+          "radius": "1327"
+        },
+        {
+          "name": "平凉路",
+          "longitude": 121.545654,
+          "latitude": 31.269773,
+          "radius": "877"
+        },
+        {
+          "name": "长白新村",
+          "longitude": 121.544075,
+          "latitude": 31.291422,
+          "radius": "748"
+        },
+        {
+          "name": "鞍山",
+          "longitude": 121.51,
+          "latitude": 31.275984,
+          "radius": "777"
+        },
+        {
+          "name": "中原",
+          "longitude": 121.53028,
+          "latitude": 31.31799,
+          "radius": "1597"
+        },
+        {
+          "name": "江浦路",
+          "longitude": 121.5193,
+          "latitude": 31.27329,
+          "radius": "607"
+        },
+        {
+          "name": "新江湾城",
+          "longitude": 121.517944,
+          "latitude": 31.334654,
+          "radius": "1231"
+        },
+        {
+          "name": "黄兴",
+          "longitude": 121.52701,
+          "latitude": 31.295975,
+          "radius": "1316"
+        },
+        {
+          "name": "五角场",
+          "longitude": 121.51987,
+          "latitude": 31.304686,
+          "radius": "1985"
+        }
+      ]
+    },
+    {
+      "name": "闵行区",
+      "locations": [
+        {
+          "name": "程家桥",
+          "longitude": 121.373985,
+          "latitude": 31.187868,
+          "radius": "1181"
+        },
+        {
+          "name": "春申",
+          "longitude": 121.410515,
+          "latitude": 31.106268,
+          "radius": "2672"
+        },
+        {
+          "name": "七莘路",
+          "longitude": 121.3465,
+          "latitude": 31.156292,
+          "radius": "1860"
+        },
+        {
+          "name": "静安新城",
+          "longitude": 121.38091,
+          "latitude": 31.161446,
+          "radius": "673"
+        },
+        {
+          "name": "南方商城",
+          "longitude": 121.40011,
+          "latitude": 31.132671,
+          "radius": "273"
+        },
+        {
+          "name": "莘庄工业区",
+          "longitude": 121.383804,
+          "latitude": 31.079935,
+          "radius": "1746"
+        },
+        {
+          "name": "莘庄",
+          "longitude": 121.37629,
+          "latitude": 31.107578,
+          "radius": "2353"
+        },
+        {
+          "name": "颛桥",
+          "longitude": 121.39818,
+          "latitude": 31.065638,
+          "radius": "1870"
+        },
+        {
+          "name": "金虹桥",
+          "longitude": 121.39436,
+          "latitude": 31.180124,
+          "radius": "688"
+        },
+        {
+          "name": "吴泾",
+          "longitude": 121.46345,
+          "latitude": 31.041407,
+          "radius": "1697"
+        },
+        {
+          "name": "航华",
+          "longitude": 121.35232,
+          "latitude": 31.173313,
+          "radius": "1198"
+        },
+        {
+          "name": "七宝",
+          "longitude": 121.35037,
+          "latitude": 31.155025,
+          "radius": "1717"
+        },
+        {
+          "name": "华漕",
+          "longitude": 121.30685,
+          "latitude": 31.213465,
+          "radius": "3343"
+        },
+        {
+          "name": "马桥",
+          "longitude": 121.37424,
+          "latitude": 31.033436,
+          "radius": "1764"
+        },
+        {
+          "name": "梅陇",
+          "longitude": 121.409,
+          "latitude": 31.128916,
+          "radius": "1906"
+        },
+        {
+          "name": "古北",
+          "longitude": 121.40098,
+          "latitude": 31.190508,
+          "radius": "1332"
+        }
+      ]
+    },
+    {
+      "name": "宝山区",
+      "locations": [
+        {
+          "name": "杨行",
+          "longitude": 121.44038,
+          "latitude": 31.370928,
+          "radius": "1192"
+        },
+        {
+          "name": "庙行",
+          "longitude": 121.43577,
+          "latitude": 31.329206,
+          "radius": "1216"
+        },
+        {
+          "name": "淞南",
+          "longitude": 121.48288,
+          "latitude": 31.33887,
+          "radius": "1555"
+        },
+        {
+          "name": "通河",
+          "longitude": 121.446205,
+          "latitude": 31.33492,
+          "radius": "1170"
+        },
+        {
+          "name": "顾村",
+          "longitude": 121.38126,
+          "latitude": 31.34801,
+          "radius": "3158"
+        },
+        {
+          "name": "月浦",
+          "longitude": 121.41617,
+          "latitude": 31.417341,
+          "radius": "2093"
+        },
+        {
+          "name": "友谊路",
+          "longitude": 121.46035,
+          "latitude": 31.396194,
+          "radius": "1663"
+        },
+        {
+          "name": "上大",
+          "longitude": 121.394394,
+          "latitude": 31.314537,
+          "radius": "1000"
+        },
+        {
+          "name": "水产路",
+          "longitude": 121.469864,
+          "latitude": 31.376303,
+          "radius": "602"
+        },
+        {
+          "name": "淞宝",
+          "longitude": 121.500786,
+          "latitude": 31.383587,
+          "radius": "860"
+        },
+        {
+          "name": "泗塘",
+          "longitude": 121.45745,
+          "latitude": 31.33455,
+          "radius": "889"
+        },
+        {
+          "name": "罗店",
+          "longitude": 121.350266,
+          "latitude": 31.411127,
+          "radius": "1788"
+        },
+        {
+          "name": "共富",
+          "longitude": 121.42822,
+          "latitude": 31.348928,
+          "radius": "860"
+        },
+        {
+          "name": "罗泾",
+          "longitude": 121.33091,
+          "latitude": 31.47667,
+          "radius": "1721"
+        },
+        {
+          "name": "大华",
+          "longitude": 121.41141,
+          "latitude": 31.276718,
+          "radius": "1537"
+        },
+        {
+          "name": "高境",
+          "longitude": 121.48196,
+          "latitude": 31.318235,
+          "radius": "1504"
+        },
+        {
+          "name": "张庙",
+          "longitude": 121.448456,
+          "latitude": 31.335588,
+          "radius": "941"
+        },
+        {
+          "name": "大场",
+          "longitude": 121.41257,
+          "latitude": 31.28223,
+          "radius": "2915"
+        }
+      ]
+    },
+    {
+      "name": "嘉定区",
+      "locations": [
+        {
+          "name": "安亭",
+          "longitude": 121.16409,
+          "latitude": 31.288935,
+          "radius": "3267"
+        },
+        {
+          "name": "江桥",
+          "longitude": 121.332016,
+          "latitude": 31.250946,
+          "radius": "3432"
+        },
+        {
+          "name": "南翔",
+          "longitude": 121.31145,
+          "latitude": 31.290478,
+          "radius": "2374"
+        },
+        {
+          "name": "新城",
+          "longitude": 121.26016,
+          "latitude": 31.39865,
+          "radius": "497"
+        },
+        {
+          "name": "黄渡",
+          "longitude": 121.21306,
+          "latitude": 31.272104,
+          "radius": "1387"
+        },
+        {
+          "name": "丰庄",
+          "longitude": 121.360344,
+          "latitude": 31.24455,
+          "radius": "1240"
+        },
+        {
+          "name": "马陆",
+          "longitude": 121.30004,
+          "latitude": 31.350763,
+          "radius": "4187"
+        },
+        {
+          "name": "嘉定镇",
+          "longitude": 121.251015,
+          "latitude": 31.381304,
+          "radius": "2872"
+        },
+        {
+          "name": "封浜",
+          "longitude": 121.29886,
+          "latitude": 31.264067,
+          "radius": "1367"
+        }
+      ]
+    },
+    {
+      "name": "浦东新区",
+      "locations": [
+        {
+          "name": "陆家嘴",
+          "longitude": 121.510155,
+          "latitude": 31.234375,
+          "radius": "1383"
+        },
+        {
+          "name": "梅园",
+          "longitude": 121.52663,
+          "latitude": 31.236319,
+          "radius": "868"
+        },
+        {
+          "name": "八佰伴",
+          "longitude": 121.518425,
+          "latitude": 31.228783,
+          "radius": "540"
+        },
+        {
+          "name": "潍坊",
+          "longitude": 121.52288,
+          "latitude": 31.22289,
+          "radius": "853"
+        },
+        {
+          "name": "塘桥",
+          "longitude": 121.521805,
+          "latitude": 31.213219,
+          "radius": "824"
+        },
+        {
+          "name": "南码头",
+          "longitude": 121.50923,
+          "latitude": 31.198738,
+          "radius": "715"
+        },
+        {
+          "name": "世纪公园",
+          "longitude": 121.55169,
+          "latitude": 31.216564,
+          "radius": "1052"
+        },
+        {
+          "name": "联洋",
+          "longitude": 121.55748,
+          "latitude": 31.225492,
+          "radius": "852"
+        },
+        {
+          "name": "花木",
+          "longitude": 121.54815,
+          "latitude": 31.207148,
+          "radius": "1578"
+        },
+        {
+          "name": "张江",
+          "longitude": 121.60998,
+          "latitude": 31.205711,
+          "radius": "6640"
+        },
+        {
+          "name": "唐镇",
+          "longitude": 121.65789,
+          "latitude": 31.210379,
+          "radius": "1897"
+        },
+        {
+          "name": "川沙",
+          "longitude": 121.69794,
+          "latitude": 31.190413,
+          "radius": "1024"
+        },
+        {
+          "name": "合庆",
+          "longitude": 121.72752,
+          "latitude": 31.23091,
+          "radius": "1551"
+        },
+        {
+          "name": "曹路",
+          "longitude": 121.67407,
+          "latitude": 31.284914,
+          "radius": "3625"
+        },
+        {
+          "name": "洋泾",
+          "longitude": 121.55168,
+          "latitude": 31.239046,
+          "radius": "1300"
+        },
+        {
+          "name": "金杨新村",
+          "longitude": 121.5784,
+          "latitude": 31.250145,
+          "radius": "1367"
+        },
+        {
+          "name": "金桥",
+          "longitude": 121.601006,
+          "latitude": 31.258041,
+          "radius": "2889"
+        },
+        {
+          "name": "碧云",
+          "longitude": 121.58357,
+          "latitude": 31.23719,
+          "radius": "1268"
+        },
+        {
+          "name": "高行",
+          "longitude": 121.60994,
+          "latitude": 31.29509,
+          "radius": "1066"
+        },
+        {
+          "name": "外高桥",
+          "longitude": 121.60148,
+          "latitude": 31.337748,
+          "radius": "4108"
+        },
+        {
+          "name": "昌里",
+          "longitude": 121.512245,
+          "latitude": 31.178152,
+          "radius": "870"
+        },
+        {
+          "name": "上钢新村",
+          "longitude": 121.48955,
+          "latitude": 31.17411,
+          "radius": "716"
+        },
+        {
+          "name": "周家渡",
+          "longitude": 121.50522,
+          "latitude": 31.180738,
+          "radius": "684"
+        },
+        {
+          "name": "上南",
+          "longitude": 121.50049,
+          "latitude": 31.174067,
+          "radius": "954"
+        },
+        {
+          "name": "北蔡",
+          "longitude": 121.55012,
+          "latitude": 31.181824,
+          "radius": "2982"
+        },
+        {
+          "name": "三林",
+          "longitude": 121.50462,
+          "latitude": 31.15078,
+          "radius": "4390"
+        },
+        {
+          "name": "康桥",
+          "longitude": 121.589775,
+          "latitude": 31.142452,
+          "radius": "4364"
+        },
+        {
+          "name": "周浦",
+          "longitude": 121.583855,
+          "latitude": 31.104315,
+          "radius": "2182"
+        },
+        {
+          "name": "航头",
+          "longitude": 121.59799,
+          "latitude": 31.035221,
+          "radius": "2411"
+        },
+        {
+          "name": "新场",
+          "longitude": 121.646965,
+          "latitude": 31.022076,
+          "radius": "1118"
+        },
+        {
+          "name": "祝桥",
+          "longitude": 121.76361,
+          "latitude": 31.11039,
+          "radius": "1907"
+        },
+        {
+          "name": "泥城",
+          "longitude": 121.82705,
+          "latitude": 30.901745,
+          "radius": "936"
+        },
+        {
+          "name": "芦潮港",
+          "longitude": 121.85215,
+          "latitude": 30.866678,
+          "radius": "1802"
+        },
+        {
+          "name": "惠南",
+          "longitude": 121.76316,
+          "latitude": 31.047834,
+          "radius": "3039"
+        }
+      ]
+    },
+    {
+      "name": "金山区",
+      "locations": [
+        {
+          "name": "亭林",
+          "longitude": 121.31778,
+          "latitude": 30.884714,
+          "radius": "1084"
+        },
+        {
+          "name": "朱泾",
+          "longitude": 121.16646,
+          "latitude": 30.890783,
+          "radius": "1500"
+        },
+        {
+          "name": "漕泾",
+          "longitude": 121.41197,
+          "latitude": 30.796465,
+          "radius": "1708"
+        },
+        {
+          "name": "石化",
+          "longitude": 121.3353,
+          "latitude": 30.712317,
+          "radius": "2007"
+        },
+        {
+          "name": "枫泾",
+          "longitude": 121.02175,
+          "latitude": 30.896763,
+          "radius": "2092"
+        },
+        {
+          "name": "金山卫",
+          "longitude": 121.30967,
+          "latitude": 30.731396,
+          "radius": "1610"
+        }
+      ]
+    },
+    {
+      "name": "松江区",
+      "locations": [
+        {
+          "name": "佘山",
+          "longitude": 121.20152,
+          "latitude": 31.102,
+          "radius": "3113"
+        },
+        {
+          "name": "松江新城",
+          "longitude": 121.21345,
+          "latitude": 31.043362,
+          "radius": "2696"
+        },
+        {
+          "name": "叶榭",
+          "longitude": 121.32321,
+          "latitude": 30.948528,
+          "radius": "1566"
+        },
+        {
+          "name": "车墩",
+          "longitude": 121.314705,
+          "latitude": 31.013685,
+          "radius": "1206"
+        },
+        {
+          "name": "洞泾",
+          "longitude": 121.27095,
+          "latitude": 31.08289,
+          "radius": "1840"
+        },
+        {
+          "name": "新浜",
+          "longitude": 121.07656,
+          "latitude": 30.9344,
+          "radius": "1875"
+        },
+        {
+          "name": "九亭",
+          "longitude": 121.3204,
+          "latitude": 31.126598,
+          "radius": "3909"
+        },
+        {
+          "name": "永丰",
+          "longitude": 121.21365,
+          "latitude": 31.008883,
+          "radius": "923"
+        },
+        {
+          "name": "中山",
+          "longitude": 121.23267,
+          "latitude": 31.007378,
+          "radius": "2238"
+        },
+        {
+          "name": "泗泾",
+          "longitude": 121.263374,
+          "latitude": 31.11636,
+          "radius": "3535"
+        },
+        {
+          "name": "新桥",
+          "longitude": 121.31877,
+          "latitude": 31.06765,
+          "radius": "4519"
+        },
+        {
+          "name": "方松",
+          "longitude": 121.21396,
+          "latitude": 31.03812,
+          "radius": "995"
+        }
+      ]
+    },
+    {
+      "name": "青浦区",
+      "locations": [
+        {
+          "name": "赵巷",
+          "longitude": 121.21348,
+          "latitude": 31.152098,
+          "radius": "2562"
+        },
+        {
+          "name": "朱家角",
+          "longitude": 121.0496,
+          "latitude": 31.11162,
+          "radius": "2251"
+        },
+        {
+          "name": "徐泾",
+          "longitude": 121.28949,
+          "latitude": 31.174885,
+          "radius": "2966"
+        },
+        {
+          "name": "白鹤",
+          "longitude": 121.14104,
+          "latitude": 31.259096,
+          "radius": "1518"
+        },
+        {
+          "name": "重固",
+          "longitude": 121.186935,
+          "latitude": 31.194735,
+          "radius": "1751"
+        }
+      ]
+    },
+    {
+      "name": "奉贤区",
+      "locations": [
+        {
+          "name": "庄行",
+          "longitude": 121.40357,
+          "latitude": 30.901236,
+          "radius": "1521"
+        },
+        {
+          "name": "南桥",
+          "longitude": 121.46619,
+          "latitude": 30.921228,
+          "radius": "3388"
+        },
+        {
+          "name": "西渡",
+          "longitude": 121.44291,
+          "latitude": 30.97644,
+          "radius": "3207"
+        },
+        {
+          "name": "海湾",
+          "longitude": 121.51977,
+          "latitude": 30.823929,
+          "radius": "1632"
+        },
+        {
+          "name": "奉城",
+          "longitude": 121.64218,
+          "latitude": 30.91156,
+          "radius": "2472"
+        }
+      ]
+    },
+    {
+      "name": "崇明县",
+      "locations": [
+        {
+          "name": "堡镇",
+          "longitude": 121.62266,
+          "latitude": 31.542685,
+          "radius": "2533"
+        },
+        {
+          "name": "城桥",
+          "longitude": 121.40056,
+          "latitude": 31.632084,
+          "radius": "2381"
+        }
+      ]
+    }
+  ],
+  "metroLines": [
+    {
+      "name": "地铁13号线",
+      "locations": [
+        {
+          "name": "长寿路",
+          "longitude": 121.438385,
+          "latitude": 31.240824,
+          "radius": ""
+        },
+        {
+          "name": "武宁路",
+          "longitude": 121.43022,
+          "latitude": 31.233988,
+          "radius": ""
+        },
+        {
+          "name": "隆德路",
+          "longitude": 121.42361,
+          "latitude": 31.230566,
+          "radius": ""
+        },
+        {
+          "name": "金沙江路",
+          "longitude": 121.41248,
+          "latitude": 31.231167,
+          "radius": ""
+        },
+        {
+          "name": "大渡河路",
+          "longitude": 121.39448,
+          "latitude": 31.231901,
+          "radius": ""
+        },
+        {
+          "name": "真北路",
+          "longitude": 121.38228,
+          "latitude": 31.23222,
+          "radius": ""
+        },
+        {
+          "name": "祁连山南路",
+          "longitude": 121.36754,
+          "latitude": 31.23752,
+          "radius": ""
+        },
+        {
+          "name": "丰庄",
+          "longitude": 121.355774,
+          "latitude": 31.242725,
+          "radius": ""
+        },
+        {
+          "name": "金沙江西路",
+          "longitude": 121.3352,
+          "latitude": 31.241283,
+          "radius": ""
+        },
+        {
+          "name": "金运路",
+          "longitude": 121.31961,
+          "latitude": 31.241,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁10号线",
+      "locations": [
+        {
+          "name": "新江湾城",
+          "longitude": 121.50657,
+          "latitude": 31.328787,
+          "radius": ""
+        },
+        {
+          "name": "殷高东路",
+          "longitude": 121.50659,
+          "latitude": 31.321795,
+          "radius": ""
+        },
+        {
+          "name": "三门路",
+          "longitude": 121.508,
+          "latitude": 31.31304,
+          "radius": ""
+        },
+        {
+          "name": "江湾体育场",
+          "longitude": 121.51409,
+          "latitude": 31.30304,
+          "radius": ""
+        },
+        {
+          "name": "五角场",
+          "longitude": 121.51462,
+          "latitude": 31.298038,
+          "radius": ""
+        },
+        {
+          "name": "国权路",
+          "longitude": 121.51019,
+          "latitude": 31.28967,
+          "radius": ""
+        },
+        {
+          "name": "同济大学",
+          "longitude": 121.50651,
+          "latitude": 31.2826,
+          "radius": ""
+        },
+        {
+          "name": "四平路",
+          "longitude": 121.50165,
+          "latitude": 31.275116,
+          "radius": ""
+        },
+        {
+          "name": "邮电新村",
+          "longitude": 121.49424,
+          "latitude": 31.268497,
+          "radius": ""
+        },
+        {
+          "name": "海伦路",
+          "longitude": 121.4886,
+          "latitude": 31.25937,
+          "radius": ""
+        },
+        {
+          "name": "四川北路",
+          "longitude": 121.48414,
+          "latitude": 31.251827,
+          "radius": ""
+        },
+        {
+          "name": "天潼路",
+          "longitude": 121.4822,
+          "latitude": 31.244476,
+          "radius": ""
+        },
+        {
+          "name": "南京东路",
+          "longitude": 121.48457,
+          "latitude": 31.23827,
+          "radius": ""
+        },
+        {
+          "name": "豫园",
+          "longitude": 121.48733,
+          "latitude": 31.228275,
+          "radius": ""
+        },
+        {
+          "name": "老西门",
+          "longitude": 121.48292,
+          "latitude": 31.218904,
+          "radius": ""
+        },
+        {
+          "name": "新天地",
+          "longitude": 121.4751,
+          "latitude": 31.216314,
+          "radius": ""
+        },
+        {
+          "name": "陕西南路",
+          "longitude": 121.45812,
+          "latitude": 31.214756,
+          "radius": ""
+        },
+        {
+          "name": "上海图书馆",
+          "longitude": 121.44435,
+          "latitude": 31.208057,
+          "radius": ""
+        },
+        {
+          "name": "交通大学",
+          "longitude": 121.434235,
+          "latitude": 31.201855,
+          "radius": ""
+        },
+        {
+          "name": "虹桥路",
+          "longitude": 121.42221,
+          "latitude": 31.196653,
+          "radius": ""
+        },
+        {
+          "name": "宋园路",
+          "longitude": 121.41198,
+          "latitude": 31.196617,
+          "radius": ""
+        },
+        {
+          "name": "伊犁路",
+          "longitude": 121.4038,
+          "latitude": 31.198893,
+          "radius": ""
+        },
+        {
+          "name": "水城路",
+          "longitude": 121.39213,
+          "latitude": 31.199453,
+          "radius": ""
+        },
+        {
+          "name": "龙溪路",
+          "longitude": 121.379875,
+          "latitude": 31.194283,
+          "radius": ""
+        },
+        {
+          "name": "上海动物园",
+          "longitude": 121.366974,
+          "latitude": 31.190334,
+          "radius": ""
+        },
+        {
+          "name": "虹桥1号航站楼",
+          "longitude": 121.34749,
+          "latitude": 31.191483,
+          "radius": ""
+        },
+        {
+          "name": "虹桥2号航站楼",
+          "longitude": 121.3271,
+          "latitude": 31.194157,
+          "radius": ""
+        },
+        {
+          "name": "虹桥火车站",
+          "longitude": 121.32146,
+          "latitude": 31.19401,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁10号线支线",
+      "locations": [
+        {
+          "name": "航中路",
+          "longitude": 121.354515,
+          "latitude": 31.165628,
+          "radius": ""
+        },
+        {
+          "name": "紫藤路",
+          "longitude": 121.36438,
+          "latitude": 31.1698,
+          "radius": ""
+        },
+        {
+          "name": "龙柏新村",
+          "longitude": 121.37041,
+          "latitude": 31.177227,
+          "radius": ""
+        },
+        {
+          "name": "龙溪路",
+          "longitude": 121.379875,
+          "latitude": 31.194283,
+          "radius": ""
+        },
+        {
+          "name": "水城路",
+          "longitude": 121.39213,
+          "latitude": 31.199453,
+          "radius": ""
+        },
+        {
+          "name": "伊犁路",
+          "longitude": 121.4038,
+          "latitude": 31.198893,
+          "radius": ""
+        },
+        {
+          "name": "宋园路",
+          "longitude": 121.41198,
+          "latitude": 31.196617,
+          "radius": ""
+        },
+        {
+          "name": "虹桥路",
+          "longitude": 121.42221,
+          "latitude": 31.196653,
+          "radius": ""
+        },
+        {
+          "name": "交通大学",
+          "longitude": 121.434235,
+          "latitude": 31.201855,
+          "radius": ""
+        },
+        {
+          "name": "上海图书馆",
+          "longitude": 121.44435,
+          "latitude": 31.208057,
+          "radius": ""
+        },
+        {
+          "name": "陕西南路",
+          "longitude": 121.45812,
+          "latitude": 31.214756,
+          "radius": ""
+        },
+        {
+          "name": "新天地",
+          "longitude": 121.4751,
+          "latitude": 31.216314,
+          "radius": ""
+        },
+        {
+          "name": "老西门",
+          "longitude": 121.48292,
+          "latitude": 31.218904,
+          "radius": ""
+        },
+        {
+          "name": "豫园",
+          "longitude": 121.48733,
+          "latitude": 31.228275,
+          "radius": ""
+        },
+        {
+          "name": "南京东路",
+          "longitude": 121.48457,
+          "latitude": 31.23827,
+          "radius": ""
+        },
+        {
+          "name": "天潼路",
+          "longitude": 121.4822,
+          "latitude": 31.244476,
+          "radius": ""
+        },
+        {
+          "name": "四川北路",
+          "longitude": 121.48414,
+          "latitude": 31.251827,
+          "radius": ""
+        },
+        {
+          "name": "海伦路",
+          "longitude": 121.4886,
+          "latitude": 31.25937,
+          "radius": ""
+        },
+        {
+          "name": "邮电新村",
+          "longitude": 121.49424,
+          "latitude": 31.268497,
+          "radius": ""
+        },
+        {
+          "name": "四平路",
+          "longitude": 121.50165,
+          "latitude": 31.275116,
+          "radius": ""
+        },
+        {
+          "name": "同济大学",
+          "longitude": 121.50651,
+          "latitude": 31.2826,
+          "radius": ""
+        },
+        {
+          "name": "国权路",
+          "longitude": 121.51019,
+          "latitude": 31.28967,
+          "radius": ""
+        },
+        {
+          "name": "五角场",
+          "longitude": 121.51462,
+          "latitude": 31.298038,
+          "radius": ""
+        },
+        {
+          "name": "江湾体育场",
+          "longitude": 121.51409,
+          "latitude": 31.30304,
+          "radius": ""
+        },
+        {
+          "name": "三门路",
+          "longitude": 121.508,
+          "latitude": 31.31304,
+          "radius": ""
+        },
+        {
+          "name": "殷高东路",
+          "longitude": 121.50659,
+          "latitude": 31.321795,
+          "radius": ""
+        },
+        {
+          "name": "新江湾城",
+          "longitude": 121.50657,
+          "latitude": 31.328787,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁11号线",
+      "locations": [
+        {
+          "name": "嘉定北",
+          "longitude": 121.23728,
+          "latitude": 31.39163,
+          "radius": ""
+        },
+        {
+          "name": "嘉定西",
+          "longitude": 121.22789,
+          "latitude": 31.376997,
+          "radius": ""
+        },
+        {
+          "name": "白银路",
+          "longitude": 121.2452,
+          "latitude": 31.345667,
+          "radius": ""
+        },
+        {
+          "name": "嘉定新城",
+          "longitude": 121.254295,
+          "latitude": 31.330154,
+          "radius": ""
+        },
+        {
+          "name": "马陆",
+          "longitude": 121.276886,
+          "latitude": 31.319613,
+          "radius": ""
+        },
+        {
+          "name": "南翔",
+          "longitude": 121.32351,
+          "latitude": 31.296995,
+          "radius": ""
+        },
+        {
+          "name": "桃浦新村",
+          "longitude": 121.349434,
+          "latitude": 31.28164,
+          "radius": ""
+        },
+        {
+          "name": "武威路",
+          "longitude": 121.3648,
+          "latitude": 31.27704,
+          "radius": ""
+        },
+        {
+          "name": "祁连山路",
+          "longitude": 121.376,
+          "latitude": 31.271563,
+          "radius": ""
+        },
+        {
+          "name": "李子园",
+          "longitude": 121.38987,
+          "latitude": 31.268953,
+          "radius": ""
+        },
+        {
+          "name": "上海西站",
+          "longitude": 121.40146,
+          "latitude": 31.262747,
+          "radius": ""
+        },
+        {
+          "name": "真如",
+          "longitude": 121.40728,
+          "latitude": 31.25068,
+          "radius": ""
+        },
+        {
+          "name": "枫桥路",
+          "longitude": 121.41104,
+          "latitude": 31.242035,
+          "radius": ""
+        },
+        {
+          "name": "曹杨路",
+          "longitude": 121.41758,
+          "latitude": 31.238012,
+          "radius": ""
+        },
+        {
+          "name": "隆德路",
+          "longitude": 121.423706,
+          "latitude": 31.230457,
+          "radius": ""
+        },
+        {
+          "name": "江苏路",
+          "longitude": 121.43069,
+          "latitude": 31.220352,
+          "radius": ""
+        },
+        {
+          "name": "交通大学",
+          "longitude": 121.434944,
+          "latitude": 31.202593,
+          "radius": ""
+        },
+        {
+          "name": "徐家汇",
+          "longitude": 121.43595,
+          "latitude": 31.194786,
+          "radius": ""
+        },
+        {
+          "name": "上海游泳馆",
+          "longitude": 121.44155,
+          "latitude": 31.178968,
+          "radius": ""
+        },
+        {
+          "name": "龙华",
+          "longitude": 121.45284,
+          "latitude": 31.17297,
+          "radius": ""
+        },
+        {
+          "name": "云锦路",
+          "longitude": 121.45861,
+          "latitude": 31.166569,
+          "radius": ""
+        },
+        {
+          "name": "龙耀路",
+          "longitude": 121.45941,
+          "latitude": 31.159866,
+          "radius": ""
+        },
+        {
+          "name": "东方体育中心",
+          "longitude": 121.48042,
+          "latitude": 31.153446,
+          "radius": ""
+        },
+        {
+          "name": "三林",
+          "longitude": 121.51096,
+          "latitude": 31.142984,
+          "radius": ""
+        },
+        {
+          "name": "三林东",
+          "longitude": 121.52317,
+          "latitude": 31.146517,
+          "radius": ""
+        },
+        {
+          "name": "浦三路",
+          "longitude": 121.53911,
+          "latitude": 31.150986,
+          "radius": ""
+        },
+        {
+          "name": "御桥",
+          "longitude": 121.570885,
+          "latitude": 31.158297,
+          "radius": ""
+        },
+        {
+          "name": "罗山路",
+          "longitude": 121.59318,
+          "latitude": 31.153303,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁11号线支线",
+      "locations": [
+        {
+          "name": "三林",
+          "longitude": 121.51096,
+          "latitude": 31.142984,
+          "radius": ""
+        },
+        {
+          "name": "东方体育中心",
+          "longitude": 121.48042,
+          "latitude": 31.153446,
+          "radius": ""
+        },
+        {
+          "name": "龙耀路",
+          "longitude": 121.45941,
+          "latitude": 31.159866,
+          "radius": ""
+        },
+        {
+          "name": "云锦路",
+          "longitude": 121.45861,
+          "latitude": 31.166569,
+          "radius": ""
+        },
+        {
+          "name": "龙华",
+          "longitude": 121.45284,
+          "latitude": 31.17297,
+          "radius": ""
+        },
+        {
+          "name": "上海游泳馆",
+          "longitude": 121.44155,
+          "latitude": 31.178968,
+          "radius": ""
+        },
+        {
+          "name": "徐家汇",
+          "longitude": 121.43595,
+          "latitude": 31.194786,
+          "radius": ""
+        },
+        {
+          "name": "交通大学",
+          "longitude": 121.434944,
+          "latitude": 31.202593,
+          "radius": ""
+        },
+        {
+          "name": "江苏路",
+          "longitude": 121.43069,
+          "latitude": 31.220352,
+          "radius": ""
+        },
+        {
+          "name": "隆德路",
+          "longitude": 121.423706,
+          "latitude": 31.230457,
+          "radius": ""
+        },
+        {
+          "name": "曹杨路",
+          "longitude": 121.41758,
+          "latitude": 31.238012,
+          "radius": ""
+        },
+        {
+          "name": "枫桥路",
+          "longitude": 121.41104,
+          "latitude": 31.242035,
+          "radius": ""
+        },
+        {
+          "name": "真如",
+          "longitude": 121.40728,
+          "latitude": 31.25068,
+          "radius": ""
+        },
+        {
+          "name": "上海西站",
+          "longitude": 121.40146,
+          "latitude": 31.262747,
+          "radius": ""
+        },
+        {
+          "name": "李子园",
+          "longitude": 121.38987,
+          "latitude": 31.268953,
+          "radius": ""
+        },
+        {
+          "name": "祁连山路",
+          "longitude": 121.376,
+          "latitude": 31.271563,
+          "radius": ""
+        },
+        {
+          "name": "武威路",
+          "longitude": 121.3648,
+          "latitude": 31.27704,
+          "radius": ""
+        },
+        {
+          "name": "桃浦新村",
+          "longitude": 121.349434,
+          "latitude": 31.28164,
+          "radius": ""
+        },
+        {
+          "name": "南翔",
+          "longitude": 121.32351,
+          "latitude": 31.296995,
+          "radius": ""
+        },
+        {
+          "name": "马陆",
+          "longitude": 121.276886,
+          "latitude": 31.319613,
+          "radius": ""
+        },
+        {
+          "name": "嘉定新城",
+          "longitude": 121.254295,
+          "latitude": 31.330154,
+          "radius": ""
+        },
+        {
+          "name": "上海赛车场",
+          "longitude": 121.22608,
+          "latitude": 31.331846,
+          "radius": ""
+        },
+        {
+          "name": "昌吉东路",
+          "longitude": 121.20038,
+          "latitude": 31.293736,
+          "radius": ""
+        },
+        {
+          "name": "上海汽车城",
+          "longitude": 121.18074,
+          "latitude": 31.285402,
+          "radius": ""
+        },
+        {
+          "name": "安亭",
+          "longitude": 121.16219,
+          "latitude": 31.28848,
+          "radius": ""
+        },
+        {
+          "name": "兆丰路",
+          "longitude": 121.15035,
+          "latitude": 31.288973,
+          "radius": ""
+        },
+        {
+          "name": "光明路",
+          "longitude": 121.11757,
+          "latitude": 31.296305,
+          "radius": ""
+        },
+        {
+          "name": "花桥",
+          "longitude": 121.104225,
+          "latitude": 31.298706,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁1号线",
+      "locations": [
+        {
+          "name": "富锦路",
+          "longitude": 121.42472,
+          "latitude": 31.392403,
+          "radius": ""
+        },
+        {
+          "name": "友谊西路",
+          "longitude": 121.42788,
+          "latitude": 31.381353,
+          "radius": ""
+        },
+        {
+          "name": "宝安公路",
+          "longitude": 121.43087,
+          "latitude": 31.369946,
+          "radius": ""
+        },
+        {
+          "name": "共富新村",
+          "longitude": 121.43409,
+          "latitude": 31.355413,
+          "radius": ""
+        },
+        {
+          "name": "呼兰路",
+          "longitude": 121.43771,
+          "latitude": 31.339611,
+          "radius": ""
+        },
+        {
+          "name": "通河新村",
+          "longitude": 121.44133,
+          "latitude": 31.331476,
+          "radius": ""
+        },
+        {
+          "name": "共康路",
+          "longitude": 121.44703,
+          "latitude": 31.319004,
+          "radius": ""
+        },
+        {
+          "name": "彭浦新村",
+          "longitude": 121.44864,
+          "latitude": 31.306751,
+          "radius": ""
+        },
+        {
+          "name": "汶水路",
+          "longitude": 121.45022,
+          "latitude": 31.29251,
+          "radius": ""
+        },
+        {
+          "name": "上海马戏城",
+          "longitude": 121.45204,
+          "latitude": 31.27956,
+          "radius": ""
+        },
+        {
+          "name": "延长路",
+          "longitude": 121.45541,
+          "latitude": 31.27184,
+          "radius": ""
+        },
+        {
+          "name": "中山北路",
+          "longitude": 121.459145,
+          "latitude": 31.259089,
+          "radius": ""
+        },
+        {
+          "name": "上海火车站",
+          "longitude": 121.45591,
+          "latitude": 31.24735,
+          "radius": ""
+        },
+        {
+          "name": "汉中路",
+          "longitude": 121.45853,
+          "latitude": 31.241589,
+          "radius": ""
+        },
+        {
+          "name": "新闸路",
+          "longitude": 121.46808,
+          "latitude": 31.238722,
+          "radius": ""
+        },
+        {
+          "name": "人民广场",
+          "longitude": 121.475136,
+          "latitude": 31.232998,
+          "radius": ""
+        },
+        {
+          "name": "黄陂南路",
+          "longitude": 121.473274,
+          "latitude": 31.22279,
+          "radius": ""
+        },
+        {
+          "name": "陕西南路",
+          "longitude": 121.46025,
+          "latitude": 31.217321,
+          "radius": ""
+        },
+        {
+          "name": "常熟路",
+          "longitude": 121.45131,
+          "latitude": 31.213587,
+          "radius": ""
+        },
+        {
+          "name": "衡山路",
+          "longitude": 121.446724,
+          "latitude": 31.204983,
+          "radius": ""
+        },
+        {
+          "name": "徐家汇",
+          "longitude": 121.43839,
+          "latitude": 31.192797,
+          "radius": ""
+        },
+        {
+          "name": "上海体育馆",
+          "longitude": 121.43641,
+          "latitude": 31.181932,
+          "radius": ""
+        },
+        {
+          "name": "漕宝路",
+          "longitude": 121.434975,
+          "latitude": 31.168238,
+          "radius": ""
+        },
+        {
+          "name": "上海南站",
+          "longitude": 121.4299,
+          "latitude": 31.154919,
+          "radius": ""
+        },
+        {
+          "name": "锦江乐园",
+          "longitude": 121.41405,
+          "latitude": 31.142263,
+          "radius": ""
+        },
+        {
+          "name": "莲花路",
+          "longitude": 121.40293,
+          "latitude": 31.130875,
+          "radius": ""
+        },
+        {
+          "name": "外环路",
+          "longitude": 121.39331,
+          "latitude": 31.121332,
+          "radius": ""
+        },
+        {
+          "name": "莘庄",
+          "longitude": 121.38512,
+          "latitude": 31.110973,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁2号线东延伸段",
+      "locations": [
+        {
+          "name": "广兰路",
+          "longitude": 121.62054,
+          "latitude": 31.211037,
+          "radius": ""
+        },
+        {
+          "name": "唐镇",
+          "longitude": 121.656265,
+          "latitude": 31.213762,
+          "radius": ""
+        },
+        {
+          "name": "创新中路",
+          "longitude": 121.67398,
+          "latitude": 31.213367,
+          "radius": ""
+        },
+        {
+          "name": "华夏东路",
+          "longitude": 121.68087,
+          "latitude": 31.196815,
+          "radius": ""
+        },
+        {
+          "name": "川沙",
+          "longitude": 121.698074,
+          "latitude": 31.186695,
+          "radius": ""
+        },
+        {
+          "name": "凌空路",
+          "longitude": 121.72371,
+          "latitude": 31.192804,
+          "radius": ""
+        },
+        {
+          "name": "远东大道",
+          "longitude": 121.75538,
+          "latitude": 31.199383,
+          "radius": ""
+        },
+        {
+          "name": "海天三路",
+          "longitude": 121.79669,
+          "latitude": 31.16862,
+          "radius": ""
+        },
+        {
+          "name": "浦东国际机场",
+          "longitude": 121.80698,
+          "latitude": 31.1487,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁2号线",
+      "locations": [
+        {
+          "name": "徐泾东",
+          "longitude": 121.300804,
+          "latitude": 31.18906,
+          "radius": ""
+        },
+        {
+          "name": "虹桥火车站",
+          "longitude": 121.32146,
+          "latitude": 31.19401,
+          "radius": ""
+        },
+        {
+          "name": "虹桥2号航站楼",
+          "longitude": 121.32691,
+          "latitude": 31.194134,
+          "radius": ""
+        },
+        {
+          "name": "淞虹路",
+          "longitude": 121.359276,
+          "latitude": 31.218254,
+          "radius": ""
+        },
+        {
+          "name": "北新泾",
+          "longitude": 121.37405,
+          "latitude": 31.216478,
+          "radius": ""
+        },
+        {
+          "name": "威宁路",
+          "longitude": 121.38694,
+          "latitude": 31.21486,
+          "radius": ""
+        },
+        {
+          "name": "娄山关路",
+          "longitude": 121.40432,
+          "latitude": 31.211033,
+          "radius": ""
+        },
+        {
+          "name": "中山公园",
+          "longitude": 121.41797,
+          "latitude": 31.218433,
+          "radius": ""
+        },
+        {
+          "name": "江苏路",
+          "longitude": 121.43249,
+          "latitude": 31.219797,
+          "radius": ""
+        },
+        {
+          "name": "静安寺",
+          "longitude": 121.446304,
+          "latitude": 31.223217,
+          "radius": ""
+        },
+        {
+          "name": "南京西路",
+          "longitude": 121.46025,
+          "latitude": 31.229939,
+          "radius": ""
+        },
+        {
+          "name": "人民广场",
+          "longitude": 121.472786,
+          "latitude": 31.23283,
+          "radius": ""
+        },
+        {
+          "name": "南京东路",
+          "longitude": 121.48388,
+          "latitude": 31.237167,
+          "radius": ""
+        },
+        {
+          "name": "陆家嘴",
+          "longitude": 121.50212,
+          "latitude": 31.237837,
+          "radius": ""
+        },
+        {
+          "name": "东昌路",
+          "longitude": 121.51512,
+          "latitude": 31.233253,
+          "radius": ""
+        },
+        {
+          "name": "世纪大道",
+          "longitude": 121.52682,
+          "latitude": 31.228998,
+          "radius": ""
+        },
+        {
+          "name": "上海科技馆",
+          "longitude": 121.54412,
+          "latitude": 31.219294,
+          "radius": ""
+        },
+        {
+          "name": "世纪公园",
+          "longitude": 121.55079,
+          "latitude": 31.209606,
+          "radius": ""
+        },
+        {
+          "name": "龙阳路",
+          "longitude": 121.55735,
+          "latitude": 31.203053,
+          "radius": ""
+        },
+        {
+          "name": "张江高科",
+          "longitude": 121.58761,
+          "latitude": 31.201826,
+          "radius": ""
+        },
+        {
+          "name": "金科路",
+          "longitude": 121.60206,
+          "latitude": 31.204224,
+          "radius": ""
+        },
+        {
+          "name": "广兰路",
+          "longitude": 121.62054,
+          "latitude": 31.211037,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁6号线",
+      "locations": [
+        {
+          "name": "东方体育中心",
+          "longitude": 121.48042,
+          "latitude": 31.153446,
+          "radius": ""
+        },
+        {
+          "name": "灵岩南路",
+          "longitude": 121.495,
+          "latitude": 31.148935,
+          "radius": ""
+        },
+        {
+          "name": "上南路",
+          "longitude": 121.50653,
+          "latitude": 31.14906,
+          "radius": ""
+        },
+        {
+          "name": "华夏西路",
+          "longitude": 121.51431,
+          "latitude": 31.149769,
+          "radius": ""
+        },
+        {
+          "name": "高青路",
+          "longitude": 121.51575,
+          "latitude": 31.159555,
+          "radius": ""
+        },
+        {
+          "name": "东明路",
+          "longitude": 121.51084,
+          "latitude": 31.17266,
+          "radius": ""
+        },
+        {
+          "name": "高科西路",
+          "longitude": 121.509796,
+          "latitude": 31.185625,
+          "radius": ""
+        },
+        {
+          "name": "临沂新村",
+          "longitude": 121.516914,
+          "latitude": 31.193333,
+          "radius": ""
+        },
+        {
+          "name": "上海儿童医学中心",
+          "longitude": 121.523285,
+          "latitude": 31.20357,
+          "radius": ""
+        },
+        {
+          "name": "蓝村路",
+          "longitude": 121.5279,
+          "latitude": 31.211756,
+          "radius": ""
+        },
+        {
+          "name": "浦电路(6号线)",
+          "longitude": 121.52889,
+          "latitude": 31.220222,
+          "radius": ""
+        },
+        {
+          "name": "世纪大道",
+          "longitude": 121.52682,
+          "latitude": 31.228998,
+          "radius": ""
+        },
+        {
+          "name": "源深体育中心",
+          "longitude": 121.53439,
+          "latitude": 31.232924,
+          "radius": ""
+        },
+        {
+          "name": "民生路",
+          "longitude": 121.54337,
+          "latitude": 31.235794,
+          "radius": ""
+        },
+        {
+          "name": "北洋泾路",
+          "longitude": 121.55277,
+          "latitude": 31.239344,
+          "radius": ""
+        },
+        {
+          "name": "德平路",
+          "longitude": 121.56416,
+          "latitude": 31.245354,
+          "radius": ""
+        },
+        {
+          "name": "云山路",
+          "longitude": 121.57304,
+          "latitude": 31.25056,
+          "radius": ""
+        },
+        {
+          "name": "金桥路",
+          "longitude": 121.58192,
+          "latitude": 31.257133,
+          "radius": ""
+        },
+        {
+          "name": "博兴路",
+          "longitude": 121.58693,
+          "latitude": 31.264145,
+          "radius": ""
+        },
+        {
+          "name": "五莲路",
+          "longitude": 121.58799,
+          "latitude": 31.271915,
+          "radius": ""
+        },
+        {
+          "name": "巨峰路",
+          "longitude": 121.58852,
+          "latitude": 31.2807,
+          "radius": ""
+        },
+        {
+          "name": "东靖路",
+          "longitude": 121.58884,
+          "latitude": 31.290344,
+          "radius": ""
+        },
+        {
+          "name": "五洲大道",
+          "longitude": 121.58935,
+          "latitude": 31.302586,
+          "radius": ""
+        },
+        {
+          "name": "洲海路",
+          "longitude": 121.58933,
+          "latitude": 31.312176,
+          "radius": ""
+        },
+        {
+          "name": "外高桥保税区南",
+          "longitude": 121.60207,
+          "latitude": 31.32146,
+          "radius": ""
+        },
+        {
+          "name": "航津路",
+          "longitude": 121.594086,
+          "latitude": 31.335268,
+          "radius": ""
+        },
+        {
+          "name": "外高桥保税区北",
+          "longitude": 121.58697,
+          "latitude": 31.34781,
+          "radius": ""
+        },
+        {
+          "name": "港城路",
+          "longitude": 121.57474,
+          "latitude": 31.35334,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁8号线",
+      "locations": [
+        {
+          "name": "沈杜公路",
+          "longitude": 121.51225,
+          "latitude": 31.061523,
+          "radius": ""
+        },
+        {
+          "name": "联航路",
+          "longitude": 121.51039,
+          "latitude": 31.074095,
+          "radius": ""
+        },
+        {
+          "name": "江月路",
+          "longitude": 121.508514,
+          "latitude": 31.084349,
+          "radius": ""
+        },
+        {
+          "name": "浦江镇",
+          "longitude": 121.50624,
+          "latitude": 31.09656,
+          "radius": ""
+        },
+        {
+          "name": "芦恒路",
+          "longitude": 121.49778,
+          "latitude": 31.119307,
+          "radius": ""
+        },
+        {
+          "name": "凌兆新村",
+          "longitude": 121.489746,
+          "latitude": 31.141062,
+          "radius": ""
+        },
+        {
+          "name": "东方体育中心",
+          "longitude": 121.48042,
+          "latitude": 31.153446,
+          "radius": ""
+        },
+        {
+          "name": "杨思",
+          "longitude": 121.493385,
+          "latitude": 31.161196,
+          "radius": ""
+        },
+        {
+          "name": "成山路",
+          "longitude": 121.49605,
+          "latitude": 31.171179,
+          "radius": ""
+        },
+        {
+          "name": "耀华路",
+          "longitude": 121.494545,
+          "latitude": 31.178455,
+          "radius": ""
+        },
+        {
+          "name": "中华艺术宫",
+          "longitude": 121.49432,
+          "latitude": 31.18582,
+          "radius": ""
+        },
+        {
+          "name": "西藏南路",
+          "longitude": 121.48952,
+          "latitude": 31.202003,
+          "radius": ""
+        },
+        {
+          "name": "陆家浜路",
+          "longitude": 121.48609,
+          "latitude": 31.211744,
+          "radius": ""
+        },
+        {
+          "name": "老西门",
+          "longitude": 121.48292,
+          "latitude": 31.218904,
+          "radius": ""
+        },
+        {
+          "name": "大世界",
+          "longitude": 121.47927,
+          "latitude": 31.227219,
+          "radius": ""
+        },
+        {
+          "name": "人民广场",
+          "longitude": 121.475464,
+          "latitude": 31.232943,
+          "radius": ""
+        },
+        {
+          "name": "曲阜路",
+          "longitude": 121.47147,
+          "latitude": 31.242329,
+          "radius": ""
+        },
+        {
+          "name": "中兴路",
+          "longitude": 121.468895,
+          "latitude": 31.253172,
+          "radius": ""
+        },
+        {
+          "name": "西藏北路",
+          "longitude": 121.46869,
+          "latitude": 31.263502,
+          "radius": ""
+        },
+        {
+          "name": "虹口足球场",
+          "longitude": 121.479385,
+          "latitude": 31.269848,
+          "radius": ""
+        },
+        {
+          "name": "曲阳路",
+          "longitude": 121.49051,
+          "latitude": 31.276512,
+          "radius": ""
+        },
+        {
+          "name": "四平路",
+          "longitude": 121.50155,
+          "latitude": 31.274912,
+          "radius": ""
+        },
+        {
+          "name": "鞍山新村",
+          "longitude": 121.50947,
+          "latitude": 31.273098,
+          "radius": ""
+        },
+        {
+          "name": "江浦路",
+          "longitude": 121.518,
+          "latitude": 31.274887,
+          "radius": ""
+        },
+        {
+          "name": "黄兴路",
+          "longitude": 121.52803,
+          "latitude": 31.27866,
+          "radius": ""
+        },
+        {
+          "name": "延吉中路",
+          "longitude": 121.53494,
+          "latitude": 31.288294,
+          "radius": ""
+        },
+        {
+          "name": "黄兴公园",
+          "longitude": 121.5331,
+          "latitude": 31.295935,
+          "radius": ""
+        },
+        {
+          "name": "翔殷路",
+          "longitude": 121.531975,
+          "latitude": 31.30513,
+          "radius": ""
+        },
+        {
+          "name": "嫩江路",
+          "longitude": 121.53204,
+          "latitude": 31.314875,
+          "radius": ""
+        },
+        {
+          "name": "市光路",
+          "longitude": 121.53202,
+          "latitude": 31.322462,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁9号线",
+      "locations": [
+        {
+          "name": "松江南站",
+          "longitude": 121.23114,
+          "latitude": 30.98504,
+          "radius": ""
+        },
+        {
+          "name": "醉白池",
+          "longitude": 121.229546,
+          "latitude": 31.000954,
+          "radius": ""
+        },
+        {
+          "name": "松江体育中心",
+          "longitude": 121.23062,
+          "latitude": 31.016083,
+          "radius": ""
+        },
+        {
+          "name": "松江新城",
+          "longitude": 121.23078,
+          "latitude": 31.030243,
+          "radius": ""
+        },
+        {
+          "name": "松江大学城",
+          "longitude": 121.2326,
+          "latitude": 31.054136,
+          "radius": ""
+        },
+        {
+          "name": "洞泾",
+          "longitude": 121.23053,
+          "latitude": 31.08444,
+          "radius": ""
+        },
+        {
+          "name": "佘山",
+          "longitude": 121.229774,
+          "latitude": 31.104523,
+          "radius": ""
+        },
+        {
+          "name": "泗泾",
+          "longitude": 121.26063,
+          "latitude": 31.118364,
+          "radius": ""
+        },
+        {
+          "name": "九亭",
+          "longitude": 121.31948,
+          "latitude": 31.13767,
+          "radius": ""
+        },
+        {
+          "name": "中春路",
+          "longitude": 121.33809,
+          "latitude": 31.14965,
+          "radius": ""
+        },
+        {
+          "name": "七宝",
+          "longitude": 121.34932,
+          "latitude": 31.15533,
+          "radius": ""
+        },
+        {
+          "name": "星中路",
+          "longitude": 121.36909,
+          "latitude": 31.158104,
+          "radius": ""
+        },
+        {
+          "name": "合川路",
+          "longitude": 121.38465,
+          "latitude": 31.166527,
+          "radius": ""
+        },
+        {
+          "name": "漕河泾开发区",
+          "longitude": 121.39757,
+          "latitude": 31.170614,
+          "radius": ""
+        },
+        {
+          "name": "桂林路",
+          "longitude": 121.41839,
+          "latitude": 31.174791,
+          "radius": ""
+        },
+        {
+          "name": "宜山路",
+          "longitude": 121.42768,
+          "latitude": 31.18486,
+          "radius": ""
+        },
+        {
+          "name": "徐家汇",
+          "longitude": 121.43686,
+          "latitude": 31.195562,
+          "radius": ""
+        },
+        {
+          "name": "肇嘉浜路",
+          "longitude": 121.45033,
+          "latitude": 31.19951,
+          "radius": ""
+        },
+        {
+          "name": "嘉善路",
+          "longitude": 121.46072,
+          "latitude": 31.202808,
+          "radius": ""
+        },
+        {
+          "name": "打浦桥",
+          "longitude": 121.46877,
+          "latitude": 31.206116,
+          "radius": ""
+        },
+        {
+          "name": "马当路",
+          "longitude": 121.47702,
+          "latitude": 31.209272,
+          "radius": ""
+        },
+        {
+          "name": "陆家浜路",
+          "longitude": 121.48609,
+          "latitude": 31.211744,
+          "radius": ""
+        },
+        {
+          "name": "小南门",
+          "longitude": 121.49837,
+          "latitude": 31.21683,
+          "radius": ""
+        },
+        {
+          "name": "商城路",
+          "longitude": 121.515755,
+          "latitude": 31.23024,
+          "radius": ""
+        },
+        {
+          "name": "世纪大道",
+          "longitude": 121.52682,
+          "latitude": 31.228998,
+          "radius": ""
+        },
+        {
+          "name": "杨高中路",
+          "longitude": 121.548485,
+          "latitude": 31.227697,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁7号线",
+      "locations": [
+        {
+          "name": "美兰湖",
+          "longitude": 121.34995,
+          "latitude": 31.401861,
+          "radius": ""
+        },
+        {
+          "name": "罗南新村",
+          "longitude": 121.35763,
+          "latitude": 31.3886,
+          "radius": ""
+        },
+        {
+          "name": "潘广路",
+          "longitude": 121.3557,
+          "latitude": 31.364323,
+          "radius": ""
+        },
+        {
+          "name": "刘行",
+          "longitude": 121.36233,
+          "latitude": 31.35762,
+          "radius": ""
+        },
+        {
+          "name": "顾村公园",
+          "longitude": 121.37267,
+          "latitude": 31.34493,
+          "radius": ""
+        },
+        {
+          "name": "祁华路",
+          "longitude": 121.37344,
+          "latitude": 31.322596,
+          "radius": ""
+        },
+        {
+          "name": "上海大学",
+          "longitude": 121.38899,
+          "latitude": 31.320614,
+          "radius": ""
+        },
+        {
+          "name": "南陈路",
+          "longitude": 121.39834,
+          "latitude": 31.321417,
+          "radius": ""
+        },
+        {
+          "name": "上大路",
+          "longitude": 121.40829,
+          "latitude": 31.31551,
+          "radius": ""
+        },
+        {
+          "name": "场中路",
+          "longitude": 121.41375,
+          "latitude": 31.30397,
+          "radius": ""
+        },
+        {
+          "name": "大场镇",
+          "longitude": 121.416534,
+          "latitude": 31.293571,
+          "radius": ""
+        },
+        {
+          "name": "行知路",
+          "longitude": 121.42168,
+          "latitude": 31.28497,
+          "radius": ""
+        },
+        {
+          "name": "大华三路",
+          "longitude": 121.42309,
+          "latitude": 31.27366,
+          "radius": ""
+        },
+        {
+          "name": "新村路",
+          "longitude": 121.4227,
+          "latitude": 31.264114,
+          "radius": ""
+        },
+        {
+          "name": "岚皋路",
+          "longitude": 121.42193,
+          "latitude": 31.256327,
+          "radius": ""
+        },
+        {
+          "name": "镇坪路",
+          "longitude": 121.4315,
+          "latitude": 31.247164,
+          "radius": ""
+        },
+        {
+          "name": "长寿路",
+          "longitude": 121.43822,
+          "latitude": 31.240004,
+          "radius": ""
+        },
+        {
+          "name": "昌平路",
+          "longitude": 121.442314,
+          "latitude": 31.234095,
+          "radius": ""
+        },
+        {
+          "name": "静安寺",
+          "longitude": 121.44862,
+          "latitude": 31.223042,
+          "radius": ""
+        },
+        {
+          "name": "常熟路",
+          "longitude": 121.44909,
+          "latitude": 31.213661,
+          "radius": ""
+        },
+        {
+          "name": "肇嘉浜路",
+          "longitude": 121.450264,
+          "latitude": 31.198711,
+          "radius": ""
+        },
+        {
+          "name": "东安路",
+          "longitude": 121.4546,
+          "latitude": 31.191322,
+          "radius": ""
+        },
+        {
+          "name": "龙华中路",
+          "longitude": 121.45707,
+          "latitude": 31.18506,
+          "radius": ""
+        },
+        {
+          "name": "后滩",
+          "longitude": 121.47338,
+          "latitude": 31.17189,
+          "radius": ""
+        },
+        {
+          "name": "长清路",
+          "longitude": 121.48648,
+          "latitude": 31.174847,
+          "radius": ""
+        },
+        {
+          "name": "耀华路",
+          "longitude": 121.494545,
+          "latitude": 31.178455,
+          "radius": ""
+        },
+        {
+          "name": "云台路",
+          "longitude": 121.500656,
+          "latitude": 31.18216,
+          "radius": ""
+        },
+        {
+          "name": "高科西路",
+          "longitude": 121.509796,
+          "latitude": 31.185625,
+          "radius": ""
+        },
+        {
+          "name": "杨高南路",
+          "longitude": 121.52511,
+          "latitude": 31.187572,
+          "radius": ""
+        },
+        {
+          "name": "锦绣路",
+          "longitude": 121.540184,
+          "latitude": 31.187593,
+          "radius": ""
+        },
+        {
+          "name": "芳华路",
+          "longitude": 121.55003,
+          "latitude": 31.193052,
+          "radius": ""
+        },
+        {
+          "name": "龙阳路",
+          "longitude": 121.557755,
+          "latitude": 31.203573,
+          "radius": ""
+        },
+        {
+          "name": "花木路",
+          "longitude": 121.5628,
+          "latitude": 31.211435,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁3号线",
+      "locations": [
+        {
+          "name": "江杨北路",
+          "longitude": 121.439514,
+          "latitude": 31.407818,
+          "radius": ""
+        },
+        {
+          "name": "铁力路",
+          "longitude": 121.46148,
+          "latitude": 31.408104,
+          "radius": ""
+        },
+        {
+          "name": "友谊路",
+          "longitude": 121.476074,
+          "latitude": 31.404001,
+          "radius": ""
+        },
+        {
+          "name": "宝杨路",
+          "longitude": 121.47942,
+          "latitude": 31.3954,
+          "radius": ""
+        },
+        {
+          "name": "水产路",
+          "longitude": 121.48814,
+          "latitude": 31.38139,
+          "radius": ""
+        },
+        {
+          "name": "淞滨路",
+          "longitude": 121.49277,
+          "latitude": 31.370918,
+          "radius": ""
+        },
+        {
+          "name": "张华浜",
+          "longitude": 121.49855,
+          "latitude": 31.358248,
+          "radius": ""
+        },
+        {
+          "name": "淞发路",
+          "longitude": 121.500465,
+          "latitude": 31.345127,
+          "radius": ""
+        },
+        {
+          "name": "长江南路",
+          "longitude": 121.491425,
+          "latitude": 31.331793,
+          "radius": ""
+        },
+        {
+          "name": "殷高西路",
+          "longitude": 121.484856,
+          "latitude": 31.319899,
+          "radius": ""
+        },
+        {
+          "name": "江湾镇",
+          "longitude": 121.48508,
+          "latitude": 31.305395,
+          "radius": ""
+        },
+        {
+          "name": "大柏树",
+          "longitude": 121.483086,
+          "latitude": 31.289265,
+          "radius": ""
+        },
+        {
+          "name": "赤峰路",
+          "longitude": 121.48246,
+          "latitude": 31.281235,
+          "radius": ""
+        },
+        {
+          "name": "虹口足球场",
+          "longitude": 121.47913,
+          "latitude": 31.27159,
+          "radius": ""
+        },
+        {
+          "name": "东宝兴路",
+          "longitude": 121.480064,
+          "latitude": 31.259966,
+          "radius": ""
+        },
+        {
+          "name": "宝山路",
+          "longitude": 121.47653,
+          "latitude": 31.251493,
+          "radius": ""
+        },
+        {
+          "name": "上海火车站",
+          "longitude": 121.45824,
+          "latitude": 31.249584,
+          "radius": ""
+        },
+        {
+          "name": "中潭路",
+          "longitude": 121.441055,
+          "latitude": 31.254625,
+          "radius": ""
+        },
+        {
+          "name": "镇坪路",
+          "longitude": 121.429756,
+          "latitude": 31.246502,
+          "radius": ""
+        },
+        {
+          "name": "曹杨路",
+          "longitude": 121.41783,
+          "latitude": 31.239391,
+          "radius": ""
+        },
+        {
+          "name": "金沙江路",
+          "longitude": 121.413315,
+          "latitude": 31.232244,
+          "radius": ""
+        },
+        {
+          "name": "中山公园",
+          "longitude": 121.415695,
+          "latitude": 31.217834,
+          "radius": ""
+        },
+        {
+          "name": "延安西路",
+          "longitude": 121.417114,
+          "latitude": 31.209726,
+          "radius": ""
+        },
+        {
+          "name": "虹桥路",
+          "longitude": 121.42084,
+          "latitude": 31.197224,
+          "radius": ""
+        },
+        {
+          "name": "宜山路",
+          "longitude": 121.42699,
+          "latitude": 31.186796,
+          "radius": ""
+        },
+        {
+          "name": "漕溪路",
+          "longitude": 121.43836,
+          "latitude": 31.176632,
+          "radius": ""
+        },
+        {
+          "name": "龙漕路",
+          "longitude": 121.444435,
+          "latitude": 31.169434,
+          "radius": ""
+        },
+        {
+          "name": "石龙路",
+          "longitude": 121.44326,
+          "latitude": 31.157946,
+          "radius": ""
+        },
+        {
+          "name": "上海南站",
+          "longitude": 121.43071,
+          "latitude": 31.153393,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁4号线",
+      "locations": [
+        {
+          "name": "宜山路",
+          "longitude": 121.427414,
+          "latitude": 31.186792,
+          "radius": ""
+        },
+        {
+          "name": "虹桥路",
+          "longitude": 121.42084,
+          "latitude": 31.197224,
+          "radius": ""
+        },
+        {
+          "name": "延安西路",
+          "longitude": 121.417114,
+          "latitude": 31.209726,
+          "radius": ""
+        },
+        {
+          "name": "中山公园",
+          "longitude": 121.415695,
+          "latitude": 31.217834,
+          "radius": ""
+        },
+        {
+          "name": "金沙江路",
+          "longitude": 121.413315,
+          "latitude": 31.232244,
+          "radius": ""
+        },
+        {
+          "name": "曹杨路",
+          "longitude": 121.41783,
+          "latitude": 31.239391,
+          "radius": ""
+        },
+        {
+          "name": "镇坪路",
+          "longitude": 121.429756,
+          "latitude": 31.246502,
+          "radius": ""
+        },
+        {
+          "name": "中潭路",
+          "longitude": 121.441055,
+          "latitude": 31.254625,
+          "radius": ""
+        },
+        {
+          "name": "上海火车站",
+          "longitude": 121.45824,
+          "latitude": 31.249584,
+          "radius": ""
+        },
+        {
+          "name": "宝山路",
+          "longitude": 121.47653,
+          "latitude": 31.251493,
+          "radius": ""
+        },
+        {
+          "name": "海伦路",
+          "longitude": 121.48958,
+          "latitude": 31.258595,
+          "radius": ""
+        },
+        {
+          "name": "临平路",
+          "longitude": 121.50094,
+          "latitude": 31.260923,
+          "radius": ""
+        },
+        {
+          "name": "大连路",
+          "longitude": 121.51304,
+          "latitude": 31.257957,
+          "radius": ""
+        },
+        {
+          "name": "杨树浦路",
+          "longitude": 121.517365,
+          "latitude": 31.251904,
+          "radius": ""
+        },
+        {
+          "name": "浦东大道",
+          "longitude": 121.51944,
+          "latitude": 31.240026,
+          "radius": ""
+        },
+        {
+          "name": "世纪大道",
+          "longitude": 121.52682,
+          "latitude": 31.228998,
+          "radius": ""
+        },
+        {
+          "name": "浦电路(4号线)",
+          "longitude": 121.531975,
+          "latitude": 31.222973,
+          "radius": ""
+        },
+        {
+          "name": "蓝村路",
+          "longitude": 121.528046,
+          "latitude": 31.211672,
+          "radius": ""
+        },
+        {
+          "name": "塘桥",
+          "longitude": 121.5188,
+          "latitude": 31.20958,
+          "radius": ""
+        },
+        {
+          "name": "南浦大桥",
+          "longitude": 121.49983,
+          "latitude": 31.208729,
+          "radius": ""
+        },
+        {
+          "name": "西藏南路",
+          "longitude": 121.48952,
+          "latitude": 31.202003,
+          "radius": ""
+        },
+        {
+          "name": "鲁班路",
+          "longitude": 121.47442,
+          "latitude": 31.199018,
+          "radius": ""
+        },
+        {
+          "name": "大木桥路",
+          "longitude": 121.46368,
+          "latitude": 31.194223,
+          "radius": ""
+        },
+        {
+          "name": "东安路",
+          "longitude": 121.45494,
+          "latitude": 31.1908,
+          "radius": ""
+        },
+        {
+          "name": "上海体育场",
+          "longitude": 121.44381,
+          "latitude": 31.185785,
+          "radius": ""
+        },
+        {
+          "name": "上海体育馆",
+          "longitude": 121.43747,
+          "latitude": 31.182886,
+          "radius": ""
+        },
+        {
+          "name": "宜山路",
+          "longitude": 121.427414,
+          "latitude": 31.186792,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁5号线",
+      "locations": [
+        {
+          "name": "莘庄",
+          "longitude": 121.38512,
+          "latitude": 31.110973,
+          "radius": ""
+        },
+        {
+          "name": "春申路",
+          "longitude": 121.385574,
+          "latitude": 31.098331,
+          "radius": ""
+        },
+        {
+          "name": "银都路",
+          "longitude": 121.390274,
+          "latitude": 31.089424,
+          "radius": ""
+        },
+        {
+          "name": "颛桥",
+          "longitude": 121.40187,
+          "latitude": 31.066978,
+          "radius": ""
+        },
+        {
+          "name": "北桥",
+          "longitude": 121.40998,
+          "latitude": 31.045164,
+          "radius": ""
+        },
+        {
+          "name": "剑川路",
+          "longitude": 121.41651,
+          "latitude": 31.026226,
+          "radius": ""
+        },
+        {
+          "name": "东川路",
+          "longitude": 121.4199,
+          "latitude": 31.018307,
+          "radius": ""
+        },
+        {
+          "name": "金平路",
+          "longitude": 121.41006,
+          "latitude": 31.01115,
+          "radius": ""
+        },
+        {
+          "name": "华宁路",
+          "longitude": 121.3951,
+          "latitude": 31.007322,
+          "radius": ""
+        },
+        {
+          "name": "文井路",
+          "longitude": 121.38067,
+          "latitude": 31.003536,
+          "radius": ""
+        },
+        {
+          "name": "闵行开发区",
+          "longitude": 121.36981,
+          "latitude": 31.000605,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁16号线",
+      "locations": [
+        {
+          "name": "龙阳路",
+          "longitude": 121.55776,
+          "latitude": 31.201996,
+          "radius": ""
+        },
+        {
+          "name": "华夏中路",
+          "longitude": 121.58339,
+          "latitude": 31.173069,
+          "radius": ""
+        },
+        {
+          "name": "罗山路",
+          "longitude": 121.59322,
+          "latitude": 31.152994,
+          "radius": ""
+        },
+        {
+          "name": "周浦东",
+          "longitude": 121.60705,
+          "latitude": 31.1101,
+          "radius": ""
+        },
+        {
+          "name": "鹤沙航城",
+          "longitude": 121.61149,
+          "latitude": 31.077717,
+          "radius": ""
+        },
+        {
+          "name": "航头东",
+          "longitude": 121.617615,
+          "latitude": 31.054941,
+          "radius": ""
+        },
+        {
+          "name": "新场",
+          "longitude": 121.64901,
+          "latitude": 31.04565,
+          "radius": ""
+        },
+        {
+          "name": "野生动物园",
+          "longitude": 121.69937,
+          "latitude": 31.05016,
+          "radius": ""
+        },
+        {
+          "name": "惠南",
+          "longitude": 121.761894,
+          "latitude": 31.053883,
+          "radius": ""
+        },
+        {
+          "name": "惠南东",
+          "longitude": 121.793884,
+          "latitude": 31.026426,
+          "radius": ""
+        },
+        {
+          "name": "书院",
+          "longitude": 121.850685,
+          "latitude": 30.959278,
+          "radius": ""
+        },
+        {
+          "name": "临港大道",
+          "longitude": 121.91099,
+          "latitude": 30.92354,
+          "radius": ""
+        },
+        {
+          "name": "滴水湖",
+          "longitude": 121.9303,
+          "latitude": 30.906666,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "地铁12号线",
+      "locations": [
+        {
+          "name": "曲阜路",
+          "longitude": 121.47147,
+          "latitude": 31.242329,
+          "radius": ""
+        },
+        {
+          "name": "天潼路",
+          "longitude": 121.4823,
+          "latitude": 31.243877,
+          "radius": ""
+        },
+        {
+          "name": "国际客运中心",
+          "longitude": 121.49824,
+          "latitude": 31.2503,
+          "radius": ""
+        },
+        {
+          "name": "提篮桥",
+          "longitude": 121.50647,
+          "latitude": 31.253563,
+          "radius": ""
+        },
+        {
+          "name": "大连路",
+          "longitude": 121.51304,
+          "latitude": 31.257957,
+          "radius": ""
+        },
+        {
+          "name": "江浦公园",
+          "longitude": 121.52376,
+          "latitude": 31.264626,
+          "radius": ""
+        },
+        {
+          "name": "宁国路",
+          "longitude": 121.53255,
+          "latitude": 31.268738,
+          "radius": ""
+        },
+        {
+          "name": "隆昌路",
+          "longitude": 121.54429,
+          "latitude": 31.275303,
+          "radius": ""
+        },
+        {
+          "name": "爱国路",
+          "longitude": 121.55313,
+          "latitude": 31.28006,
+          "radius": ""
+        },
+        {
+          "name": "复兴岛",
+          "longitude": 121.56131,
+          "latitude": 31.28099,
+          "radius": ""
+        },
+        {
+          "name": "东陆路",
+          "longitude": 121.57877,
+          "latitude": 31.28251,
+          "radius": ""
+        },
+        {
+          "name": "巨峰路",
+          "longitude": 121.58935,
+          "latitude": 31.280157,
+          "radius": ""
+        },
+        {
+          "name": "杨高北路",
+          "longitude": 121.602844,
+          "latitude": 31.280073,
+          "radius": ""
+        },
+        {
+          "name": "金京路",
+          "longitude": 121.61567,
+          "latitude": 31.279894,
+          "radius": ""
+        },
+        {
+          "name": "申江路",
+          "longitude": 121.62658,
+          "latitude": 31.280098,
+          "radius": ""
+        },
+        {
+          "name": "金海路",
+          "longitude": 121.63857,
+          "latitude": 31.263302,
+          "radius": ""
+        }
+      ]
+    }
+  ],
+  "landMarks": [
+    {
+      "name": "黄浦区",
+      "locations": [
+        {
+          "name": "上海大剧院",
+          "longitude": 121.47203,
+          "latitude": 31.22928,
+          "radius": ""
+        },
+        {
+          "name": "上海音乐厅",
+          "longitude": 121.47787,
+          "latitude": 31.22698,
+          "radius": ""
+        },
+        {
+          "name": "上海当代艺术博物馆",
+          "longitude": 121.49832,
+          "latitude": 31.20098,
+          "radius": ""
+        },
+        {
+          "name": "上海城隍庙",
+          "longitude": 121.49258,
+          "latitude": 31.225481,
+          "radius": ""
+        },
+        {
+          "name": "外滩",
+          "longitude": 121.49053,
+          "latitude": 31.2392,
+          "radius": ""
+        },
+        {
+          "name": "田子坊",
+          "longitude": 121.4688,
+          "latitude": 31.20867,
+          "radius": ""
+        },
+        {
+          "name": "兰心大戏院",
+          "longitude": 121.46048,
+          "latitude": 31.22101,
+          "radius": ""
+        },
+        {
+          "name": "上海老街",
+          "longitude": 121.49698,
+          "latitude": 31.22527,
+          "radius": ""
+        },
+        {
+          "name": "老码头",
+          "longitude": 121.50564,
+          "latitude": 31.21969,
+          "radius": ""
+        },
+        {
+          "name": "豫园",
+          "longitude": 121.4923,
+          "latitude": 31.2268,
+          "radius": ""
+        },
+        {
+          "name": "上海电信博物馆",
+          "longitude": 121.49081,
+          "latitude": 31.23322,
+          "radius": ""
+        },
+        {
+          "name": "上海城市规划展示馆",
+          "longitude": 121.47534,
+          "latitude": 31.231304,
+          "radius": ""
+        },
+        {
+          "name": "中共一大会址",
+          "longitude": 121.47523,
+          "latitude": 31.22014,
+          "radius": ""
+        },
+        {
+          "name": "大境阁",
+          "longitude": 121.48333,
+          "latitude": 31.22464,
+          "radius": ""
+        },
+        {
+          "name": "上海沪南体育活动中心",
+          "longitude": 121.48317,
+          "latitude": 31.21315,
+          "radius": ""
+        },
+        {
+          "name": "董家渡天主堂",
+          "longitude": 121.50439,
+          "latitude": 31.21433,
+          "radius": ""
+        },
+        {
+          "name": "法租界会审公廨旧址",
+          "longitude": 121.46936,
+          "latitude": 31.20981,
+          "radius": ""
+        },
+        {
+          "name": "上海世博会纪念展",
+          "longitude": 121.48343,
+          "latitude": 31.19443,
+          "radius": ""
+        },
+        {
+          "name": "也是园",
+          "longitude": 121.49219,
+          "latitude": 31.21731,
+          "radius": ""
+        },
+        {
+          "name": "药王庙遗址",
+          "longitude": 121.496,
+          "latitude": 31.21847,
+          "radius": ""
+        },
+        {
+          "name": "上海市卢湾体育中心",
+          "longitude": 121.46469,
+          "latitude": 31.20394,
+          "radius": ""
+        },
+        {
+          "name": "罗斯福公馆",
+          "longitude": 121.48997,
+          "latitude": 31.24039,
+          "radius": ""
+        },
+        {
+          "name": "四牌楼",
+          "longitude": 121.4954,
+          "latitude": 31.22527,
+          "radius": ""
+        },
+        {
+          "name": "格致体育活动中心",
+          "longitude": 121.47997,
+          "latitude": 31.23102,
+          "radius": ""
+        },
+        {
+          "name": "上海儿童艺术剧场",
+          "longitude": 121.49501,
+          "latitude": 31.19672,
+          "radius": ""
+        },
+        {
+          "name": "上海琉璃艺术博物馆",
+          "longitude": 121.47024,
+          "latitude": 31.20784,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "徐汇区",
+      "locations": [
+        {
+          "name": "上海体育馆",
+          "longitude": 121.43841,
+          "latitude": 31.1815,
+          "radius": ""
+        },
+        {
+          "name": "上海市田林体育俱乐部",
+          "longitude": 121.42873,
+          "latitude": 31.1749,
+          "radius": ""
+        },
+        {
+          "name": "东亚体育文化中心",
+          "longitude": 121.44043,
+          "latitude": 31.18162,
+          "radius": ""
+        },
+        {
+          "name": "电影华苑",
+          "longitude": 121.4402,
+          "latitude": 31.18417,
+          "radius": ""
+        },
+        {
+          "name": "上海市徐汇体育馆",
+          "longitude": 121.44307,
+          "latitude": 31.11921,
+          "radius": ""
+        },
+        {
+          "name": "上海体育场",
+          "longitude": 121.44216,
+          "latitude": 31.18034,
+          "radius": ""
+        },
+        {
+          "name": "东安公园",
+          "longitude": 121.45427,
+          "latitude": 31.18505,
+          "radius": ""
+        },
+        {
+          "name": "林巧稚旧居",
+          "longitude": 121.44973,
+          "latitude": 31.20749,
+          "radius": ""
+        },
+        {
+          "name": "唐蕴玉旧居",
+          "longitude": 121.44948,
+          "latitude": 31.20514,
+          "radius": ""
+        },
+        {
+          "name": "徐家汇圣母院旧址",
+          "longitude": 121.43859,
+          "latitude": 31.19137,
+          "radius": ""
+        },
+        {
+          "name": "体育馆",
+          "longitude": 121.42016,
+          "latitude": 31.16878,
+          "radius": ""
+        },
+        {
+          "name": "上海工艺美术博物馆",
+          "longitude": 121.45405,
+          "latitude": 31.21037,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "长宁区",
+      "locations": [
+        {
+          "name": "上海国际体操中心",
+          "longitude": 121.41357,
+          "latitude": 31.21354,
+          "radius": ""
+        },
+        {
+          "name": "上海儿童博物馆",
+          "longitude": 121.41293,
+          "latitude": 31.19376,
+          "radius": ""
+        },
+        {
+          "name": "海格园",
+          "longitude": 121.43712,
+          "latitude": 31.21155,
+          "radius": ""
+        },
+        {
+          "name": "宋庆龄陵园",
+          "longitude": 121.41203,
+          "latitude": 31.1953,
+          "radius": ""
+        },
+        {
+          "name": "上海建青青少年体育俱乐部",
+          "longitude": 121.40055,
+          "latitude": 31.19254,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "静安区",
+      "locations": [
+        {
+          "name": "静安体育中心",
+          "longitude": 121.45316,
+          "latitude": 31.23541,
+          "radius": ""
+        },
+        {
+          "name": "静安体育馆",
+          "longitude": 121.45164,
+          "latitude": 31.22782,
+          "radius": ""
+        },
+        {
+          "name": "上海自然博物馆",
+          "longitude": 121.46265,
+          "latitude": 31.23519,
+          "radius": ""
+        },
+        {
+          "name": "静安区工人体育场",
+          "longitude": 121.4391,
+          "latitude": 31.2341,
+          "radius": ""
+        },
+        {
+          "name": "沈坚强游泳俱乐部(武宁南路店)",
+          "longitude": 121.43752,
+          "latitude": 31.22649,
+          "radius": ""
+        },
+        {
+          "name": "同乐坊",
+          "longitude": 121.44402,
+          "latitude": 31.23648,
+          "radius": ""
+        },
+        {
+          "name": "荣康里",
+          "longitude": 121.45967,
+          "latitude": 31.22759,
+          "radius": ""
+        },
+        {
+          "name": "马勒住宅",
+          "longitude": 121.45667,
+          "latitude": 31.22303,
+          "radius": ""
+        },
+        {
+          "name": "上海蔡元培故居",
+          "longitude": 121.44766,
+          "latitude": 31.21895,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "普陀区",
+      "locations": [
+        {
+          "name": "上海市体育宫",
+          "longitude": 121.39736,
+          "latitude": 31.25288,
+          "radius": ""
+        },
+        {
+          "name": "普陀体育中心",
+          "longitude": 121.42814,
+          "latitude": 31.26881,
+          "radius": ""
+        },
+        {
+          "name": "长风公园",
+          "longitude": 121.40091,
+          "latitude": 31.22516,
+          "radius": ""
+        },
+        {
+          "name": "普陀区真如体育场",
+          "longitude": 121.39926,
+          "latitude": 31.24783,
+          "radius": ""
+        },
+        {
+          "name": "祥和之光",
+          "longitude": 121.37816,
+          "latitude": 31.24515,
+          "radius": ""
+        },
+        {
+          "name": "真如公园",
+          "longitude": 121.39913,
+          "latitude": 31.25371,
+          "radius": ""
+        },
+        {
+          "name": "晋元体育中心",
+          "longitude": 121.39697,
+          "latitude": 31.26977,
+          "radius": ""
+        },
+        {
+          "name": "真如古镇",
+          "longitude": 121.40231,
+          "latitude": 31.24557,
+          "radius": ""
+        },
+        {
+          "name": "沪西工人文化宫体育中心",
+          "longitude": 121.4298,
+          "latitude": 31.25733,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "闸北区",
+      "locations": [
+        {
+          "name": "上海马戏城",
+          "longitude": 121.45154,
+          "latitude": 31.27812,
+          "radius": ""
+        },
+        {
+          "name": "三泉家园",
+          "longitude": 121.43868,
+          "latitude": 31.31957,
+          "radius": ""
+        },
+        {
+          "name": "闸北公园",
+          "longitude": 121.46064,
+          "latitude": 31.2708,
+          "radius": ""
+        },
+        {
+          "name": "中国乳业博物馆",
+          "longitude": 121.42201,
+          "latitude": 31.29493,
+          "radius": ""
+        },
+        {
+          "name": "99广中绿地",
+          "longitude": 121.45386,
+          "latitude": 31.27892,
+          "radius": ""
+        },
+        {
+          "name": "上海铁路局火车头体育场",
+          "longitude": 121.46365,
+          "latitude": 31.25974,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "虹口区",
+      "locations": [
+        {
+          "name": "虹口体育场",
+          "longitude": 121.48073,
+          "latitude": 31.27181,
+          "radius": ""
+        },
+        {
+          "name": "多伦路文化名人街",
+          "longitude": 121.4818,
+          "latitude": 31.2623,
+          "radius": ""
+        },
+        {
+          "name": "虹口足球场",
+          "longitude": 121.481026,
+          "latitude": 31.27139,
+          "radius": ""
+        },
+        {
+          "name": "江湾源",
+          "longitude": 121.48135,
+          "latitude": 31.30123,
+          "radius": ""
+        },
+        {
+          "name": "虹口体育馆",
+          "longitude": 121.48904,
+          "latitude": 31.2847,
+          "radius": ""
+        },
+        {
+          "name": "上海犹太难民纪念馆",
+          "longitude": 121.50913,
+          "latitude": 31.25431,
+          "radius": ""
+        },
+        {
+          "name": "李白烈士故居",
+          "longitude": 121.48155,
+          "latitude": 31.26797,
+          "radius": ""
+        },
+        {
+          "name": "青少年体育俱乐部",
+          "longitude": 121.47852,
+          "latitude": 31.28227,
+          "radius": ""
+        },
+        {
+          "name": "外白渡桥",
+          "longitude": 121.49023,
+          "latitude": 31.24342,
+          "radius": ""
+        },
+        {
+          "name": "文华别墅",
+          "longitude": 121.48474,
+          "latitude": 31.2672,
+          "radius": ""
+        },
+        {
+          "name": "鲁迅故居",
+          "longitude": 121.4843,
+          "latitude": 31.26614,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "杨浦区",
+      "locations": [
+        {
+          "name": "江湾体育中心",
+          "longitude": 121.51662,
+          "latitude": 31.30638,
+          "radius": ""
+        },
+        {
+          "name": "上海市江湾体育场",
+          "longitude": 121.51461,
+          "latitude": 31.30603,
+          "radius": ""
+        },
+        {
+          "name": "共青森林公园",
+          "longitude": 121.55112,
+          "latitude": 31.319921,
+          "radius": ""
+        },
+        {
+          "name": "中国烟草博物馆",
+          "longitude": 121.51832,
+          "latitude": 31.26165,
+          "radius": ""
+        },
+        {
+          "name": "新江湾城SMP滑板公园",
+          "longitude": 121.512245,
+          "latitude": 31.335646,
+          "radius": ""
+        },
+        {
+          "name": "上海市中原体育场",
+          "longitude": 121.53912,
+          "latitude": 31.31645,
+          "radius": ""
+        },
+        {
+          "name": "黄兴全民体育公园",
+          "longitude": 121.52688,
+          "latitude": 31.29659,
+          "radius": ""
+        },
+        {
+          "name": "上海市杨浦体育场",
+          "longitude": 121.54053,
+          "latitude": 31.27994,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "闵行区",
+      "locations": [
+        {
+          "name": "闵行体育馆",
+          "longitude": 121.37005,
+          "latitude": 31.14178,
+          "radius": ""
+        },
+        {
+          "name": "金汇足球场",
+          "longitude": 121.37481,
+          "latitude": 31.17905,
+          "radius": ""
+        },
+        {
+          "name": "七宝老街",
+          "longitude": 121.35361,
+          "latitude": 31.15413,
+          "radius": ""
+        },
+        {
+          "name": "好爱广场",
+          "longitude": 121.39891,
+          "latitude": 31.08535,
+          "radius": ""
+        },
+        {
+          "name": "上海翰林匾额博物馆",
+          "longitude": 121.38846,
+          "latitude": 31.19117,
+          "radius": ""
+        },
+        {
+          "name": "闵行区体育场",
+          "longitude": 121.37337,
+          "latitude": 31.11553,
+          "radius": ""
+        },
+        {
+          "name": "召稼楼景区",
+          "longitude": 121.54917,
+          "latitude": 31.07463,
+          "radius": ""
+        },
+        {
+          "name": "上海老外街景区",
+          "longitude": 121.38746,
+          "latitude": 31.19142,
+          "radius": ""
+        },
+        {
+          "name": "坤儒体育综合馆",
+          "longitude": 121.41381,
+          "latitude": 31.1233,
+          "radius": ""
+        },
+        {
+          "name": "吴泾体育场",
+          "longitude": 121.46542,
+          "latitude": 31.04848,
+          "radius": ""
+        },
+        {
+          "name": "七宝天主堂",
+          "longitude": 121.3554,
+          "latitude": 31.15036,
+          "radius": ""
+        },
+        {
+          "name": "上海市射击射箭运动中心",
+          "longitude": 121.39673,
+          "latitude": 31.08359,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "宝山区",
+      "locations": [
+        {
+          "name": "宝山体育馆",
+          "longitude": 121.49107,
+          "latitude": 31.39428,
+          "radius": ""
+        },
+        {
+          "name": "上海玻璃博物馆",
+          "longitude": 121.4726,
+          "latitude": 31.34453,
+          "radius": ""
+        },
+        {
+          "name": "大场体育中心",
+          "longitude": 121.41281,
+          "latitude": 31.29901,
+          "radius": ""
+        },
+        {
+          "name": "洛克公园(宝山店)",
+          "longitude": 121.50048,
+          "latitude": 31.38044,
+          "radius": ""
+        },
+        {
+          "name": "东方假日田园",
+          "longitude": 121.32923,
+          "latitude": 31.39456,
+          "radius": ""
+        },
+        {
+          "name": "潘多体育馆",
+          "longitude": 121.46209,
+          "latitude": 31.32273,
+          "radius": ""
+        },
+        {
+          "name": "闻道园",
+          "longitude": 121.354,
+          "latitude": 31.43743,
+          "radius": ""
+        },
+        {
+          "name": "宝钢体育中心",
+          "longitude": 121.47491,
+          "latitude": 31.40856,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "嘉定区",
+      "locations": [
+        {
+          "name": "嘉定体育中心",
+          "longitude": 121.27216,
+          "latitude": 31.37748,
+          "radius": ""
+        },
+        {
+          "name": "古猗园",
+          "longitude": 121.317024,
+          "latitude": 31.292137,
+          "radius": ""
+        },
+        {
+          "name": "安亭老街",
+          "longitude": 121.15257,
+          "latitude": 31.29846,
+          "radius": ""
+        },
+        {
+          "name": "南翔老街",
+          "longitude": 121.30828,
+          "latitude": 31.29073,
+          "radius": ""
+        },
+        {
+          "name": "上海马陆葡萄艺术村",
+          "longitude": 121.30951,
+          "latitude": 31.38658,
+          "radius": ""
+        },
+        {
+          "name": "菩提禅寺",
+          "longitude": 121.15109,
+          "latitude": 31.29855,
+          "radius": ""
+        },
+        {
+          "name": "上海奥迪国际赛车场机场",
+          "longitude": 121.22289,
+          "latitude": 31.3308,
+          "radius": ""
+        },
+        {
+          "name": "百佛园",
+          "longitude": 121.35675,
+          "latitude": 31.25606,
+          "radius": ""
+        },
+        {
+          "name": "州桥老街",
+          "longitude": 121.24958,
+          "latitude": 31.38399,
+          "radius": ""
+        },
+        {
+          "name": "上海奥迪国际赛车场",
+          "longitude": 121.22525,
+          "latitude": 31.33691,
+          "radius": ""
+        },
+        {
+          "name": "新材料博物馆",
+          "longitude": 121.30463,
+          "latitude": 31.29463,
+          "radius": ""
+        },
+        {
+          "name": "华亭人家",
+          "longitude": 121.29111,
+          "latitude": 31.48271,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "浦东新区",
+      "locations": [
+        {
+          "name": "上海浦东国际机场",
+          "longitude": 121.802185,
+          "latitude": 31.146217,
+          "radius": ""
+        },
+        {
+          "name": "东方明珠广播电视塔",
+          "longitude": 121.49968,
+          "latitude": 31.239777,
+          "radius": ""
+        },
+        {
+          "name": "名人苑",
+          "longitude": 121.56777,
+          "latitude": 31.24602,
+          "radius": ""
+        },
+        {
+          "name": "上海东方体育中心",
+          "longitude": 121.47704,
+          "latitude": 31.15606,
+          "radius": ""
+        },
+        {
+          "name": "中华艺术宫",
+          "longitude": 121.49415,
+          "latitude": 31.184261,
+          "radius": ""
+        },
+        {
+          "name": "澜星青少年体育俱乐部",
+          "longitude": 121.70603,
+          "latitude": 31.19487,
+          "radius": ""
+        },
+        {
+          "name": "三林体育中心",
+          "longitude": 121.50701,
+          "latitude": 31.18035,
+          "radius": ""
+        },
+        {
+          "name": "滴水湖",
+          "longitude": 121.93989,
+          "latitude": 30.89822,
+          "radius": ""
+        },
+        {
+          "name": "世纪大道",
+          "longitude": 121.5229,
+          "latitude": 31.23063,
+          "radius": ""
+        },
+        {
+          "name": "博大汽车公园",
+          "longitude": 121.47299,
+          "latitude": 31.17828,
+          "radius": ""
+        },
+        {
+          "name": "小上海旅游文化城",
+          "longitude": 121.57674,
+          "latitude": 31.11645,
+          "radius": ""
+        },
+        {
+          "name": "浦东射击俱乐部",
+          "longitude": 121.89325,
+          "latitude": 31.00845,
+          "radius": ""
+        },
+        {
+          "name": "滨江森林公园",
+          "longitude": 121.52748,
+          "latitude": 31.38354,
+          "radius": ""
+        },
+        {
+          "name": "高桥公园",
+          "longitude": 121.57275,
+          "latitude": 31.34576,
+          "radius": ""
+        },
+        {
+          "name": "金桥公园",
+          "longitude": 121.59321,
+          "latitude": 31.25777,
+          "radius": ""
+        },
+        {
+          "name": "上海东方地质博物馆",
+          "longitude": 121.78137,
+          "latitude": 31.17667,
+          "radius": ""
+        },
+        {
+          "name": "上海东方地质科普馆",
+          "longitude": 121.78361,
+          "latitude": 31.17722,
+          "radius": ""
+        },
+        {
+          "name": "上海鲜花港",
+          "longitude": 121.90158,
+          "latitude": 30.94651,
+          "radius": ""
+        },
+        {
+          "name": "南汇体育中心",
+          "longitude": 121.78373,
+          "latitude": 31.05459,
+          "radius": ""
+        },
+        {
+          "name": "泥城革命史迹馆",
+          "longitude": 121.83489,
+          "latitude": 30.89527,
+          "radius": ""
+        },
+        {
+          "name": "南汇博物馆",
+          "longitude": 121.76748,
+          "latitude": 31.05486,
+          "radius": ""
+        },
+        {
+          "name": "桃花村",
+          "longitude": 121.75535,
+          "latitude": 31.05915,
+          "radius": ""
+        },
+        {
+          "name": "上海滨海森林公园",
+          "longitude": 121.91149,
+          "latitude": 30.96314,
+          "radius": ""
+        },
+        {
+          "name": "滨江大道",
+          "longitude": 121.49992,
+          "latitude": 31.24197,
+          "radius": ""
+        },
+        {
+          "name": "大团桃园",
+          "longitude": 121.74071,
+          "latitude": 30.98596,
+          "radius": ""
+        },
+        {
+          "name": "源深体育中心",
+          "longitude": 121.536835,
+          "latitude": 31.231688,
+          "radius": ""
+        },
+        {
+          "name": "新场古镇洪桥景区",
+          "longitude": 121.64645,
+          "latitude": 31.02472,
+          "radius": ""
+        },
+        {
+          "name": "滨海旅游度假区",
+          "longitude": 121.86784,
+          "latitude": 31.00656,
+          "radius": ""
+        },
+        {
+          "name": "浦东新区川沙体育场",
+          "longitude": 121.70286,
+          "latitude": 31.20152,
+          "radius": ""
+        },
+        {
+          "name": "中国航海博物馆",
+          "longitude": 121.92029,
+          "latitude": 30.89608,
+          "radius": ""
+        },
+        {
+          "name": "川沙广场",
+          "longitude": 121.69703,
+          "latitude": 31.19387,
+          "radius": ""
+        },
+        {
+          "name": "赵行公园",
+          "longitude": 121.66418,
+          "latitude": 31.14142,
+          "radius": ""
+        },
+        {
+          "name": "东海影视乐园",
+          "longitude": 121.90742,
+          "latitude": 30.95148,
+          "radius": ""
+        },
+        {
+          "name": "金家生态园",
+          "longitude": 121.67856,
+          "latitude": 31.15025,
+          "radius": ""
+        },
+        {
+          "name": "3D魔幻趣味馆",
+          "longitude": 121.49695,
+          "latitude": 31.23885,
+          "radius": ""
+        },
+        {
+          "name": "上海浦东游泳馆",
+          "longitude": 121.50492,
+          "latitude": 31.18875,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金山区",
+      "locations": [
+        {
+          "name": "山阳体育中心",
+          "longitude": 121.37123,
+          "latitude": 30.76437,
+          "radius": ""
+        },
+        {
+          "name": "金山城市沙滩景区",
+          "longitude": 121.34888,
+          "latitude": 30.707651,
+          "radius": ""
+        },
+        {
+          "name": "枫泾古镇景区",
+          "longitude": 121.01391,
+          "latitude": 30.88442,
+          "radius": ""
+        },
+        {
+          "name": "中国农民画村",
+          "longitude": 121.01711,
+          "latitude": 30.92246,
+          "radius": ""
+        },
+        {
+          "name": "上海市金山区海滨体育场",
+          "longitude": 121.34323,
+          "latitude": 30.70644,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "松江区",
+      "locations": [
+        {
+          "name": "上海大学生体育中心",
+          "longitude": 121.212,
+          "latitude": 31.04542,
+          "radius": ""
+        },
+        {
+          "name": "上海天马赛车场",
+          "longitude": 121.1196,
+          "latitude": 31.07777,
+          "radius": ""
+        },
+        {
+          "name": "佘山国家森林公园东佘山园",
+          "longitude": 121.20161,
+          "latitude": 31.093098,
+          "radius": ""
+        },
+        {
+          "name": "上海影视乐园",
+          "longitude": 121.31172,
+          "latitude": 31.010447,
+          "radius": ""
+        },
+        {
+          "name": "方塔园",
+          "longitude": 121.24672,
+          "latitude": 31.004797,
+          "radius": ""
+        },
+        {
+          "name": "佘山国家旅游度假区",
+          "longitude": 121.2038,
+          "latitude": 31.08654,
+          "radius": ""
+        },
+        {
+          "name": "松江体育场",
+          "longitude": 121.23174,
+          "latitude": 31.01526,
+          "radius": ""
+        },
+        {
+          "name": "马相伯故居",
+          "longitude": 121.2762,
+          "latitude": 31.11155,
+          "radius": ""
+        },
+        {
+          "name": "古镇泗泾",
+          "longitude": 121.27483,
+          "latitude": 31.111132,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "青浦区",
+      "locations": [
+        {
+          "name": "青浦区体育中心",
+          "longitude": 121.11911,
+          "latitude": 31.15237,
+          "radius": ""
+        },
+        {
+          "name": "青浦博物馆",
+          "longitude": 121.13489,
+          "latitude": 31.15199,
+          "radius": ""
+        },
+        {
+          "name": "上海大观园",
+          "longitude": 120.909966,
+          "latitude": 31.073017,
+          "radius": ""
+        },
+        {
+          "name": "朱家角古镇旅游区",
+          "longitude": 121.05511,
+          "latitude": 31.11083,
+          "radius": ""
+        },
+        {
+          "name": "东方绿舟",
+          "longitude": 121.00931,
+          "latitude": 31.102007,
+          "radius": ""
+        },
+        {
+          "name": "太阳岛旅游度假区",
+          "longitude": 121.0753,
+          "latitude": 31.03515,
+          "radius": ""
+        },
+        {
+          "name": "福泉山遗址",
+          "longitude": 121.17726,
+          "latitude": 31.20028,
+          "radius": ""
+        },
+        {
+          "name": "青浦区徐泾镇公共运动场",
+          "longitude": 121.27933,
+          "latitude": 31.16831,
+          "radius": ""
+        },
+        {
+          "name": "人然合一现代农业生态园",
+          "longitude": 121.21676,
+          "latitude": 31.1527,
+          "radius": ""
+        },
+        {
+          "name": "陈独秀纪念像",
+          "longitude": 121.13137,
+          "latitude": 31.1122,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "奉贤区",
+      "locations": [
+        {
+          "name": "奉贤体育中心",
+          "longitude": 121.4683,
+          "latitude": 30.90331,
+          "radius": ""
+        },
+        {
+          "name": "碧海金沙",
+          "longitude": 121.55777,
+          "latitude": 30.817972,
+          "radius": ""
+        },
+        {
+          "name": "奉贤体育馆",
+          "longitude": 121.49496,
+          "latitude": 30.92097,
+          "radius": ""
+        },
+        {
+          "name": "申隆生态园",
+          "longitude": 121.57532,
+          "latitude": 30.89317,
+          "radius": ""
+        },
+        {
+          "name": "中国菇菌博物馆",
+          "longitude": 121.48082,
+          "latitude": 30.97429,
+          "radius": ""
+        },
+        {
+          "name": "上海农垦博物馆",
+          "longitude": 121.73267,
+          "latitude": 30.86648,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "崇明县",
+      "locations": [
+        {
+          "name": "崇明县博物馆",
+          "longitude": 121.40162,
+          "latitude": 31.61863,
+          "radius": ""
+        },
+        {
+          "name": "东湖游览区",
+          "longitude": 121.84635,
+          "latitude": 31.46312,
+          "radius": ""
+        },
+        {
+          "name": "东平国家森林公园",
+          "longitude": 121.4807,
+          "latitude": 31.68389,
+          "radius": ""
+        },
+        {
+          "name": "东滩鸟类国家级自然保护区",
+          "longitude": 121.9604,
+          "latitude": 31.51037,
+          "radius": ""
+        },
+        {
+          "name": "崇明体育馆",
+          "longitude": 121.40041,
+          "latitude": 31.62685,
+          "radius": ""
+        },
+        {
+          "name": "西沙国家湿地公园",
+          "longitude": 121.23265,
+          "latitude": 31.72509,
+          "radius": ""
+        },
+        {
+          "name": "江南三民文化村景区",
+          "longitude": 121.498726,
+          "latitude": 31.718243,
+          "radius": ""
+        },
+        {
+          "name": "崇明县人民体育场",
+          "longitude": 121.39967,
+          "latitude": 31.62648,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "cityName": "珠海市",
+  "businessCenters": [
+    {
+      "name": "香洲区",
+      "locations": [
+        {
+          "name": "凤凰北",
+          "longitude": 113.572914,
+          "latitude": 22.285295,
+          "radius": "773"
+        },
+        {
+          "name": "兰埔",
+          "longitude": 113.53906,
+          "latitude": 22.23827,
+          "radius": "1076"
+        },
+        {
+          "name": "夏湾",
+          "longitude": 113.540276,
+          "latitude": 22.221102,
+          "radius": "728"
+        },
+        {
+          "name": "南屏",
+          "longitude": 113.4896,
+          "latitude": 22.21684,
+          "radius": "3489"
+        },
+        {
+          "name": "金鼎",
+          "longitude": 113.54636,
+          "latitude": 22.37451,
+          "radius": "2014"
+        },
+        {
+          "name": "上冲",
+          "longitude": 113.5147,
+          "latitude": 22.271997,
+          "radius": "1068"
+        },
+        {
+          "name": "梅华",
+          "longitude": 113.543205,
+          "latitude": 22.281143,
+          "radius": "5043"
+        },
+        {
+          "name": "吉大",
+          "longitude": 113.57825,
+          "latitude": 22.246572,
+          "radius": "2650"
+        },
+        {
+          "name": "柠溪",
+          "longitude": 113.555534,
+          "latitude": 22.263151,
+          "radius": "925"
+        },
+        {
+          "name": "新香洲",
+          "longitude": 113.5347,
+          "latitude": 22.271498,
+          "radius": "2225"
+        },
+        {
+          "name": "翠微",
+          "longitude": 113.521614,
+          "latitude": 22.256746,
+          "radius": "771"
+        },
+        {
+          "name": "前山",
+          "longitude": 113.52602,
+          "latitude": 22.24759,
+          "radius": "2350"
+        },
+        {
+          "name": "北岭",
+          "longitude": 113.55289,
+          "latitude": 22.234144,
+          "radius": "873"
+        },
+        {
+          "name": "拱北",
+          "longitude": 113.54805,
+          "latitude": 22.227797,
+          "radius": "1890"
+        }
+      ]
+    },
+    {
+      "name": "斗门区",
+      "locations": [
+        {
+          "name": "井岸",
+          "longitude": 113.29512,
+          "latitude": 22.20836,
+          "radius": "2587"
+        },
+        {
+          "name": "乾务",
+          "longitude": 113.23005,
+          "latitude": 22.156399,
+          "radius": "1064"
+        }
+      ]
+    },
+    {
+      "name": "金湾区",
+      "locations": [
+        {
+          "name": "三灶",
+          "longitude": 113.36992,
+          "latitude": 22.060684,
+          "radius": "3767"
+        },
+        {
+          "name": "南水",
+          "longitude": 113.23604,
+          "latitude": 22.026934,
+          "radius": "552"
+        },
+        {
+          "name": "红旗",
+          "longitude": 113.34625,
+          "latitude": 22.136236,
+          "radius": "798"
+        },
+        {
+          "name": "平沙",
+          "longitude": 113.18975,
+          "latitude": 22.102755,
+          "radius": "1123"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "香洲区",
+      "locations": [
+        {
+          "name": "珠海市体育中心",
+          "longitude": 113.53644,
+          "latitude": 22.27329,
+          "radius": ""
+        },
+        {
+          "name": "圆明新园",
+          "longitude": 113.53803,
+          "latitude": 22.240103,
+          "radius": ""
+        },
+        {
+          "name": "澳门环岛游横琴岛游",
+          "longitude": 113.53368,
+          "latitude": 22.19057,
+          "radius": ""
+        },
+        {
+          "name": "野狸岛",
+          "longitude": 113.58675,
+          "latitude": 22.27594,
+          "radius": ""
+        },
+        {
+          "name": "圣荣博物馆",
+          "longitude": 113.57146,
+          "latitude": 22.24118,
+          "radius": ""
+        },
+        {
+          "name": "珠海国际赛车场",
+          "longitude": 113.56094,
+          "latitude": 22.366283,
+          "radius": ""
+        },
+        {
+          "name": "农科奇观",
+          "longitude": 113.5187,
+          "latitude": 22.290234,
+          "radius": ""
+        },
+        {
+          "name": "梅溪牌坊旅游区",
+          "longitude": 113.51645,
+          "latitude": 22.285158,
+          "radius": ""
+        },
+        {
+          "name": "海之恋",
+          "longitude": 113.59481,
+          "latitude": 22.33807,
+          "radius": ""
+        },
+        {
+          "name": "石博园",
+          "longitude": 113.51337,
+          "latitude": 22.14872,
+          "radius": ""
+        },
+        {
+          "name": "九洲城",
+          "longitude": 113.57959,
+          "latitude": 22.25718,
+          "radius": ""
+        },
+        {
+          "name": "九华圣境",
+          "longitude": 113.52644,
+          "latitude": 22.311516,
+          "radius": ""
+        },
+        {
+          "name": "珠海渔女",
+          "longitude": 113.58838,
+          "latitude": 22.26148,
+          "radius": ""
+        },
+        {
+          "name": "石溪风景区",
+          "longitude": 113.55394,
+          "latitude": 22.28469,
+          "radius": ""
+        },
+        {
+          "name": "唐家共乐园",
+          "longitude": 113.58885,
+          "latitude": 22.36147,
+          "radius": ""
+        },
+        {
+          "name": "沥溪村苏曼殊故居",
+          "longitude": 113.49751,
+          "latitude": 22.28875,
+          "radius": ""
+        },
+        {
+          "name": "珠海淇澳-担杆岛省级自然保护区",
+          "longitude": 113.63486,
+          "latitude": 22.42241,
+          "radius": ""
+        },
+        {
+          "name": "大镜山游泳场",
+          "longitude": 113.55758,
+          "latitude": 22.2873,
+          "radius": ""
+        },
+        {
+          "name": "横琴蚝生态园",
+          "longitude": 113.55287,
+          "latitude": 22.083906,
+          "radius": ""
+        },
+        {
+          "name": "珠海淇澳红树林湿地生态园",
+          "longitude": 113.63401,
+          "latitude": 22.42294,
+          "radius": ""
+        },
+        {
+          "name": "叠石",
+          "longitude": 113.6016,
+          "latitude": 22.32716,
+          "radius": ""
+        },
+        {
+          "name": "唐绍仪故居",
+          "longitude": 113.59126,
+          "latitude": 22.35895,
+          "radius": ""
+        },
+        {
+          "name": "奥莱坞国际影视文化城",
+          "longitude": 113.64711,
+          "latitude": 22.41652,
+          "radius": ""
+        },
+        {
+          "name": "望海亭",
+          "longitude": 113.58107,
+          "latitude": 22.26752,
+          "radius": ""
+        },
+        {
+          "name": "安踏·力健篮球广场",
+          "longitude": 113.53414,
+          "latitude": 22.27182,
+          "radius": ""
+        },
+        {
+          "name": "东澳古庙",
+          "longitude": 113.64868,
+          "latitude": 22.40622,
+          "radius": ""
+        },
+        {
+          "name": "白石街",
+          "longitude": 113.64427,
+          "latitude": 22.41082,
+          "radius": ""
+        },
+        {
+          "name": "前山游泳场(前山逸仙路店)",
+          "longitude": 113.53039,
+          "latitude": 22.24415,
+          "radius": ""
+        },
+        {
+          "name": "淇澳岛抗英遗址",
+          "longitude": 113.64404,
+          "latitude": 22.41084,
+          "radius": ""
+        },
+        {
+          "name": "苏兆征故居",
+          "longitude": 113.64666,
+          "latitude": 22.41244,
+          "radius": ""
+        },
+        {
+          "name": "唐国安故居",
+          "longitude": 113.58542,
+          "latitude": 22.33958,
+          "radius": ""
+        },
+        {
+          "name": "苏兆征塑像",
+          "longitude": 113.58052,
+          "latitude": 22.26969,
+          "radius": ""
+        },
+        {
+          "name": "珠海机场城市候机厅",
+          "longitude": 113.51469,
+          "latitude": 22.26865,
+          "radius": ""
+        },
+        {
+          "name": "北山戏院",
+          "longitude": 113.51507,
+          "latitude": 22.22136,
+          "radius": ""
+        },
+        {
+          "name": "南山体育会",
+          "longitude": 113.52451,
+          "latitude": 22.20472,
+          "radius": ""
+        },
+        {
+          "name": "珠海歌剧院",
+          "longitude": 113.58918,
+          "latitude": 22.28311,
+          "radius": ""
+        },
+        {
+          "name": "五洲游泳馆",
+          "longitude": 113.55378,
+          "latitude": 22.27702,
+          "radius": ""
+        },
+        {
+          "name": "珠海国际赛车场(下栅居委会卫生服务站下村分站西)",
+          "longitude": 113.55857,
+          "latitude": 22.37177,
+          "radius": ""
+        },
+        {
+          "name": "北山艺术中心",
+          "longitude": 113.51372,
+          "latitude": 22.22187,
+          "radius": ""
+        },
+        {
+          "name": "鸿武拳馆",
+          "longitude": 113.53466,
+          "latitude": 22.22794,
+          "radius": ""
+        },
+        {
+          "name": "俊德跆拳道馆",
+          "longitude": 113.5744,
+          "latitude": 22.27936,
+          "radius": ""
+        },
+        {
+          "name": "金怡游泳池",
+          "longitude": 113.59203,
+          "latitude": 22.24898,
+          "radius": ""
+        },
+        {
+          "name": "翠微影剧院",
+          "longitude": 113.52225,
+          "latitude": 22.25714,
+          "radius": ""
+        },
+        {
+          "name": "壮志体艺馆",
+          "longitude": 113.50723,
+          "latitude": 22.23641,
+          "radius": ""
+        },
+        {
+          "name": "南安亭",
+          "longitude": 113.5148,
+          "latitude": 22.21898,
+          "radius": ""
+        },
+        {
+          "name": "鹰隼石",
+          "longitude": 114.04307,
+          "latitude": 22.10065,
+          "radius": ""
+        },
+        {
+          "name": "皮影戏馆",
+          "longitude": 113.54352,
+          "latitude": 22.35119,
+          "radius": ""
+        },
+        {
+          "name": "巨鲸石",
+          "longitude": 114.04253,
+          "latitude": 22.10052,
+          "radius": ""
+        },
+        {
+          "name": "荔枝洲",
+          "longitude": 113.53734,
+          "latitude": 22.36601,
+          "radius": ""
+        },
+        {
+          "name": "钓鱼台",
+          "longitude": 114.02769,
+          "latitude": 22.10328,
+          "radius": ""
+        },
+        {
+          "name": "怀亲园",
+          "longitude": 113.50678,
+          "latitude": 22.29772,
+          "radius": ""
+        },
+        {
+          "name": "文天祥雕像",
+          "longitude": 114.02961,
+          "latitude": 22.10097,
+          "radius": ""
+        },
+        {
+          "name": "中国南方电网珠海供电局体育活动中心",
+          "longitude": 113.56259,
+          "latitude": 22.27488,
+          "radius": ""
+        },
+        {
+          "name": "玉我唐公祠",
+          "longitude": 113.59095,
+          "latitude": 22.35947,
+          "radius": ""
+        },
+        {
+          "name": "玉带环腰",
+          "longitude": 114.02886,
+          "latitude": 22.10165,
+          "radius": ""
+        },
+        {
+          "name": "冲浪池",
+          "longitude": 113.54917,
+          "latitude": 22.09922,
+          "radius": ""
+        },
+        {
+          "name": "外伶仃岛-养殖示范区",
+          "longitude": 114.03354,
+          "latitude": 22.1039,
+          "radius": ""
+        },
+        {
+          "name": "北山太极会馆",
+          "longitude": 113.51336,
+          "latitude": 22.22207,
+          "radius": ""
+        },
+        {
+          "name": "海豹石",
+          "longitude": 114.04295,
+          "latitude": 22.10047,
+          "radius": ""
+        },
+        {
+          "name": "望君崖",
+          "longitude": 113.5417,
+          "latitude": 22.24451,
+          "radius": ""
+        },
+        {
+          "name": "双子亭",
+          "longitude": 114.03156,
+          "latitude": 22.10345,
+          "radius": ""
+        },
+        {
+          "name": "景阳门",
+          "longitude": 113.57228,
+          "latitude": 22.36669,
+          "radius": ""
+        },
+        {
+          "name": "瑞芝祠",
+          "longitude": 113.59502,
+          "latitude": 22.35774,
+          "radius": ""
+        },
+        {
+          "name": "担杆岛自然保护区",
+          "longitude": 113.63031,
+          "latitude": 22.42533,
+          "radius": ""
+        },
+        {
+          "name": "远大美域驿站",
+          "longitude": 113.57998,
+          "latitude": 22.25332,
+          "radius": ""
+        },
+        {
+          "name": "月亮湾沙滩",
+          "longitude": 113.61676,
+          "latitude": 22.23913,
+          "radius": ""
+        },
+        {
+          "name": "苏兆征同志",
+          "longitude": 113.5805,
+          "latitude": 22.26967,
+          "radius": ""
+        },
+        {
+          "name": "北帝晨钟",
+          "longitude": 114.03428,
+          "latitude": 22.09887,
+          "radius": ""
+        },
+        {
+          "name": "九州岛沙滩",
+          "longitude": 113.61787,
+          "latitude": 22.24152,
+          "radius": ""
+        },
+        {
+          "name": "翠屏山",
+          "longitude": 113.54037,
+          "latitude": 22.24247,
+          "radius": ""
+        },
+        {
+          "name": "珠海市革命史料陈列馆",
+          "longitude": 113.57802,
+          "latitude": 22.27636,
+          "radius": ""
+        },
+        {
+          "name": "沙滩排球",
+          "longitude": 113.5491,
+          "latitude": 22.10016,
+          "radius": ""
+        },
+        {
+          "name": "杨匏安铜像",
+          "longitude": 113.58168,
+          "latitude": 22.26534,
+          "radius": ""
+        },
+        {
+          "name": "荣国团纪念像",
+          "longitude": 113.53519,
+          "latitude": 22.27483,
+          "radius": ""
+        },
+        {
+          "name": "观海亭",
+          "longitude": 114.03252,
+          "latitude": 22.09852,
+          "radius": ""
+        },
+        {
+          "name": "摩崖石刻",
+          "longitude": 114.02921,
+          "latitude": 22.10112,
+          "radius": ""
+        },
+        {
+          "name": "将军石",
+          "longitude": 113.72172,
+          "latitude": 22.02687,
+          "radius": ""
+        },
+        {
+          "name": "外伶仃岛度假胜地",
+          "longitude": 114.02869,
+          "latitude": 22.10269,
+          "radius": ""
+        },
+        {
+          "name": "自在佛",
+          "longitude": 113.71994,
+          "latitude": 22.02412,
+          "radius": ""
+        },
+        {
+          "name": "太空人",
+          "longitude": 113.71756,
+          "latitude": 22.02203,
+          "radius": ""
+        },
+        {
+          "name": "海堤长廊",
+          "longitude": 113.54925,
+          "latitude": 22.10012,
+          "radius": ""
+        },
+        {
+          "name": "珠海·鸿英搏击俱乐部",
+          "longitude": 113.57162,
+          "latitude": 22.24135,
+          "radius": ""
+        },
+        {
+          "name": "东澳岛铳城",
+          "longitude": 113.72105,
+          "latitude": 22.02494,
+          "radius": ""
+        },
+        {
+          "name": "拱桥渡水",
+          "longitude": 114.03002,
+          "latitude": 22.0996,
+          "radius": ""
+        },
+        {
+          "name": "阴元石",
+          "longitude": 114.04332,
+          "latitude": 22.10059,
+          "radius": ""
+        },
+        {
+          "name": "四大佛山",
+          "longitude": 113.52653,
+          "latitude": 22.31096,
+          "radius": ""
+        },
+        {
+          "name": "竹苑社区公园",
+          "longitude": 113.55213,
+          "latitude": 22.23976,
+          "radius": ""
+        },
+        {
+          "name": "蝶舞瑰香园",
+          "longitude": 113.56356,
+          "latitude": 22.24528,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "斗门区",
+      "locations": [
+        {
+          "name": "人民运动场",
+          "longitude": 113.29561,
+          "latitude": 22.20656,
+          "radius": ""
+        },
+        {
+          "name": "斗门体育馆",
+          "longitude": 113.30723,
+          "latitude": 22.19725,
+          "radius": ""
+        },
+        {
+          "name": "兆珍博物馆",
+          "longitude": 113.30334,
+          "latitude": 22.20459,
+          "radius": ""
+        },
+        {
+          "name": "新青科技工业园文化体育中心",
+          "longitude": 113.28017,
+          "latitude": 22.17065,
+          "radius": ""
+        },
+        {
+          "name": "金台寺",
+          "longitude": 113.22665,
+          "latitude": 22.22438,
+          "radius": ""
+        },
+        {
+          "name": "十里莲江",
+          "longitude": 113.23736,
+          "latitude": 22.35288,
+          "radius": ""
+        },
+        {
+          "name": "竹洲水乡",
+          "longitude": 113.29915,
+          "latitude": 22.34827,
+          "radius": ""
+        },
+        {
+          "name": "珠海市斗门区博物馆",
+          "longitude": 113.30334,
+          "latitude": 22.20459,
+          "radius": ""
+        },
+        {
+          "name": "伟创力足球场",
+          "longitude": 113.27853,
+          "latitude": 22.17141,
+          "radius": ""
+        },
+        {
+          "name": "尖峰泳场",
+          "longitude": 113.30981,
+          "latitude": 22.19164,
+          "radius": ""
+        },
+        {
+          "name": "龙翔乒乓球室",
+          "longitude": 113.29897,
+          "latitude": 22.20788,
+          "radius": ""
+        },
+        {
+          "name": "乾务游泳池",
+          "longitude": 113.22625,
+          "latitude": 22.18048,
+          "radius": ""
+        },
+        {
+          "name": "月坑老区纪念亭",
+          "longitude": 113.28437,
+          "latitude": 22.30589,
+          "radius": ""
+        },
+        {
+          "name": "耕管水乡花海(油菜花)",
+          "longitude": 113.20631,
+          "latitude": 22.37127,
+          "radius": ""
+        },
+        {
+          "name": "珠海市斗门区戏曲演艺厅",
+          "longitude": 113.30808,
+          "latitude": 22.19682,
+          "radius": ""
+        },
+        {
+          "name": "家逰站",
+          "longitude": 113.19501,
+          "latitude": 22.24788,
+          "radius": ""
+        },
+        {
+          "name": "斗门县府旧址",
+          "longitude": 113.19332,
+          "latitude": 22.23774,
+          "radius": ""
+        },
+        {
+          "name": "宁海景观园",
+          "longitude": 113.29806,
+          "latitude": 22.2217,
+          "radius": ""
+        },
+        {
+          "name": "菉猗堂",
+          "longitude": 113.18979,
+          "latitude": 22.23572,
+          "radius": ""
+        },
+        {
+          "name": "斗门金碧泳池",
+          "longitude": 113.19564,
+          "latitude": 22.22724,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金湾区",
+      "locations": [
+        {
+          "name": "珠海金湾机场",
+          "longitude": 113.37724,
+          "latitude": 22.009008,
+          "radius": ""
+        },
+        {
+          "name": "飞沙滩",
+          "longitude": 113.28128,
+          "latitude": 21.91855,
+          "radius": ""
+        },
+        {
+          "name": "金海滩",
+          "longitude": 113.39064,
+          "latitude": 22.00551,
+          "radius": ""
+        },
+        {
+          "name": "珠海亚马逊原始生态园",
+          "longitude": 113.23856,
+          "latitude": 22.05541,
+          "radius": ""
+        },
+        {
+          "name": "银沙滩",
+          "longitude": 113.34735,
+          "latitude": 22.00465,
+          "radius": ""
+        },
+        {
+          "name": "珠海航空城",
+          "longitude": 113.35952,
+          "latitude": 21.99968,
+          "radius": ""
+        },
+        {
+          "name": "珠海市金湾区冠越游泳场",
+          "longitude": 113.34948,
+          "latitude": 22.05452,
+          "radius": ""
+        },
+        {
+          "name": "香松园",
+          "longitude": 113.15476,
+          "latitude": 21.85691,
+          "radius": ""
+        },
+        {
+          "name": "蝴蝶谷",
+          "longitude": 113.155,
+          "latitude": 21.85243,
+          "radius": ""
+        },
+        {
+          "name": "南海第一泉",
+          "longitude": 113.13922,
+          "latitude": 22.05793,
+          "radius": ""
+        },
+        {
+          "name": "灵龟石",
+          "longitude": 113.16863,
+          "latitude": 21.85735,
+          "radius": ""
+        },
+        {
+          "name": "亚马逊拓展训练营",
+          "longitude": 113.23793,
+          "latitude": 22.05649,
+          "radius": ""
+        },
+        {
+          "name": "文昌亭",
+          "longitude": 113.3467,
+          "latitude": 22.05044,
+          "radius": ""
+        },
+        {
+          "name": "荷包岛-观景台",
+          "longitude": 113.17165,
+          "latitude": 21.85632,
+          "radius": ""
+        },
+        {
+          "name": "武林源",
+          "longitude": 113.2379,
+          "latitude": 22.05664,
+          "radius": ""
+        },
+        {
+          "name": "灵岩洞",
+          "longitude": 113.38339,
+          "latitude": 22.04611,
+          "radius": ""
+        },
+        {
+          "name": "钨矿遗址",
+          "longitude": 113.15316,
+          "latitude": 21.84903,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

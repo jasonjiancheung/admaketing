@@ -1,0 +1,559 @@
+{
+  "cityName": "海口市",
+  "businessCenters": [
+    {
+      "name": "龙华区",
+      "locations": [
+        {
+          "name": "海秀",
+          "longitude": 110.30149,
+          "latitude": 20.014559,
+          "radius": "2836"
+        },
+        {
+          "name": "海垦",
+          "longitude": 110.30683,
+          "latitude": 20.008013,
+          "radius": "1098"
+        },
+        {
+          "name": "金宇",
+          "longitude": 110.33035,
+          "latitude": 20.0084,
+          "radius": "1417"
+        },
+        {
+          "name": "大同",
+          "longitude": 110.33805,
+          "latitude": 20.031876,
+          "radius": "778"
+        },
+        {
+          "name": "滨海",
+          "longitude": 110.32891,
+          "latitude": 20.04125,
+          "radius": "2261"
+        },
+        {
+          "name": "金贸",
+          "longitude": 110.31261,
+          "latitude": 20.024557,
+          "radius": "1746"
+        }
+      ]
+    },
+    {
+      "name": "琼山区",
+      "locations": [
+        {
+          "name": "三门坡",
+          "longitude": 110.565475,
+          "latitude": 19.71567,
+          "radius": "458"
+        },
+        {
+          "name": "龙塘",
+          "longitude": 110.41741,
+          "latitude": 19.88211,
+          "radius": "709"
+        },
+        {
+          "name": "府城",
+          "longitude": 110.35695,
+          "latitude": 19.995834,
+          "radius": "1809"
+        },
+        {
+          "name": "甲子",
+          "longitude": 110.49775,
+          "latitude": 19.606602,
+          "radius": "346"
+        },
+        {
+          "name": "红旗",
+          "longitude": 110.513756,
+          "latitude": 19.817799,
+          "radius": "437"
+        },
+        {
+          "name": "云龙",
+          "longitude": 110.47236,
+          "latitude": 19.873123,
+          "radius": "591"
+        },
+        {
+          "name": "国兴",
+          "longitude": 110.37028,
+          "latitude": 20.01497,
+          "radius": "1190"
+        }
+      ]
+    },
+    {
+      "name": "美兰区",
+      "locations": [
+        {
+          "name": "蓝天",
+          "longitude": 110.34823,
+          "latitude": 20.021063,
+          "radius": "1178"
+        },
+        {
+          "name": "博爱",
+          "longitude": 110.34775,
+          "latitude": 20.039928,
+          "radius": "881"
+        },
+        {
+          "name": "和平南",
+          "longitude": 110.353516,
+          "latitude": 20.036028,
+          "radius": "442"
+        },
+        {
+          "name": "海府",
+          "longitude": 110.36126,
+          "latitude": 20.02848,
+          "radius": "2458"
+        },
+        {
+          "name": "人民路",
+          "longitude": 110.340996,
+          "latitude": 20.0537,
+          "radius": "509"
+        },
+        {
+          "name": "白龙",
+          "longitude": 110.36201,
+          "latitude": 20.033827,
+          "radius": "1660"
+        },
+        {
+          "name": "海甸",
+          "longitude": 110.3455,
+          "latitude": 20.054686,
+          "radius": "763"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "秀英区",
+      "locations": [
+        {
+          "name": "假日海滩旅游区",
+          "longitude": 110.23772,
+          "latitude": 20.03665,
+          "radius": ""
+        },
+        {
+          "name": "中国雷琼世界地质公园海口园区",
+          "longitude": 110.22123,
+          "latitude": 19.9297,
+          "radius": ""
+        },
+        {
+          "name": "海南热带野生动植物园",
+          "longitude": 110.24669,
+          "latitude": 19.769037,
+          "radius": ""
+        },
+        {
+          "name": "南港海钓景区",
+          "longitude": 110.15644,
+          "latitude": 20.04286,
+          "radius": ""
+        },
+        {
+          "name": "魁星观光园",
+          "longitude": 110.24001,
+          "latitude": 19.9346,
+          "radius": ""
+        },
+        {
+          "name": "水分子·海口一中游泳馆",
+          "longitude": 110.28679,
+          "latitude": 19.98222,
+          "radius": ""
+        },
+        {
+          "name": "海口西海岸国际轮滑赛场",
+          "longitude": 110.24174,
+          "latitude": 20.03356,
+          "radius": ""
+        },
+        {
+          "name": "高邦足球训练基地",
+          "longitude": 110.29498,
+          "latitude": 19.9933,
+          "radius": ""
+        },
+        {
+          "name": "粤海铁路职工体育场",
+          "longitude": 110.16232,
+          "latitude": 20.02571,
+          "radius": ""
+        },
+        {
+          "name": "乐动阳光跆拳道",
+          "longitude": 110.2825,
+          "latitude": 20.01396,
+          "radius": ""
+        },
+        {
+          "name": "羊山美孝火山文化旅游区",
+          "longitude": 110.28433,
+          "latitude": 19.89431,
+          "radius": ""
+        },
+        {
+          "name": "西秀晚霞",
+          "longitude": 110.26125,
+          "latitude": 20.02508,
+          "radius": ""
+        },
+        {
+          "name": "东方伊甸园",
+          "longitude": 110.24362,
+          "latitude": 19.7864,
+          "radius": ""
+        },
+        {
+          "name": "海南港航职工运动场",
+          "longitude": 110.29144,
+          "latitude": 20.02646,
+          "radius": ""
+        },
+        {
+          "name": "海口市永庄水库",
+          "longitude": 110.2586,
+          "latitude": 19.97541,
+          "radius": ""
+        },
+        {
+          "name": "海南华侨中学体育场",
+          "longitude": 110.25281,
+          "latitude": 20.01887,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "龙华区",
+      "locations": [
+        {
+          "name": "海口体育馆",
+          "longitude": 110.31851,
+          "latitude": 20.03407,
+          "radius": ""
+        },
+        {
+          "name": "万绿园",
+          "longitude": 110.31593,
+          "latitude": 20.03373,
+          "radius": ""
+        },
+        {
+          "name": "海口观澜湖旅游度假区",
+          "longitude": 110.31698,
+          "latitude": 19.89784,
+          "radius": ""
+        },
+        {
+          "name": "崖州古城",
+          "longitude": 110.31309,
+          "latitude": 20.018476,
+          "radius": ""
+        },
+        {
+          "name": "海瑞墓",
+          "longitude": 110.29559,
+          "latitude": 20.00577,
+          "radius": ""
+        },
+        {
+          "name": "秀英炮台",
+          "longitude": 110.3068,
+          "latitude": 20.02108,
+          "radius": ""
+        },
+        {
+          "name": "明星影剧院",
+          "longitude": 110.3326,
+          "latitude": 20.03723,
+          "radius": ""
+        },
+        {
+          "name": "琼崖第一次代表大会旧址",
+          "longitude": 110.33925,
+          "latitude": 20.04018,
+          "radius": ""
+        },
+        {
+          "name": "邱宅",
+          "longitude": 110.34339,
+          "latitude": 20.04334,
+          "radius": ""
+        },
+        {
+          "name": "阳光村驿站",
+          "longitude": 110.33277,
+          "latitude": 19.9207,
+          "radius": ""
+        },
+        {
+          "name": "邱氏老宅",
+          "longitude": 110.34343,
+          "latitude": 20.04322,
+          "radius": ""
+        },
+        {
+          "name": "泰迪熊博物馆",
+          "longitude": 110.333984,
+          "latitude": 19.916925,
+          "radius": ""
+        },
+        {
+          "name": "地下火龙洞",
+          "longitude": 110.33803,
+          "latitude": 19.86365,
+          "radius": ""
+        },
+        {
+          "name": "景观塔",
+          "longitude": 110.32972,
+          "latitude": 19.95247,
+          "radius": ""
+        },
+        {
+          "name": "海口龙华海岛珍宝工艺品馆",
+          "longitude": 110.3449,
+          "latitude": 20.04357,
+          "radius": ""
+        },
+        {
+          "name": "巴厘岛艺术馆",
+          "longitude": 110.34439,
+          "latitude": 19.97189,
+          "radius": ""
+        },
+        {
+          "name": "龙昆上戏场",
+          "longitude": 110.33493,
+          "latitude": 20.02937,
+          "radius": ""
+        },
+        {
+          "name": "麦广栽公祠",
+          "longitude": 110.32925,
+          "latitude": 20.00232,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "琼山区",
+      "locations": [
+        {
+          "name": "李硕勋烈士纪念亭",
+          "longitude": 110.3541,
+          "latitude": 20.01313,
+          "radius": ""
+        },
+        {
+          "name": "海口市博物馆",
+          "longitude": 110.36093,
+          "latitude": 20.00763,
+          "radius": ""
+        },
+        {
+          "name": "海南省博物馆",
+          "longitude": 110.37908,
+          "latitude": 20.01586,
+          "radius": ""
+        },
+        {
+          "name": "琼台福地",
+          "longitude": 110.3567,
+          "latitude": 20.00045,
+          "radius": ""
+        },
+        {
+          "name": "冯白驹故居",
+          "longitude": 110.47869,
+          "latitude": 19.83201,
+          "radius": ""
+        },
+        {
+          "name": "府城鼓楼",
+          "longitude": 110.35838,
+          "latitude": 20.00051,
+          "radius": ""
+        },
+        {
+          "name": "海南省歌舞剧院",
+          "longitude": 110.37522,
+          "latitude": 20.01543,
+          "radius": ""
+        },
+        {
+          "name": "琼崖红军云龙改编旧址",
+          "longitude": 110.47451,
+          "latitude": 19.87468,
+          "radius": ""
+        },
+        {
+          "name": "琼洲文化风情街",
+          "longitude": 110.40804,
+          "latitude": 19.97628,
+          "radius": ""
+        },
+        {
+          "name": "海瑞故居",
+          "longitude": 110.3493,
+          "latitude": 20.00377,
+          "radius": ""
+        },
+        {
+          "name": "清正园",
+          "longitude": 110.34931,
+          "latitude": 20.00377,
+          "radius": ""
+        },
+        {
+          "name": "国兴足球场",
+          "longitude": 110.34516,
+          "latitude": 20.01536,
+          "radius": ""
+        },
+        {
+          "name": "琼山·九龙戏水生态文化休闲区",
+          "longitude": 110.54594,
+          "latitude": 19.76222,
+          "radius": ""
+        },
+        {
+          "name": "飓风足球场",
+          "longitude": 110.37348,
+          "latitude": 19.98813,
+          "radius": ""
+        },
+        {
+          "name": "海口搏击训练中心高级会员俱乐部",
+          "longitude": 110.37327,
+          "latitude": 20.014,
+          "radius": ""
+        },
+        {
+          "name": "唐震唐舟唐胄故里",
+          "longitude": 110.37059,
+          "latitude": 20.00755,
+          "radius": ""
+        },
+        {
+          "name": "吴氏民居",
+          "longitude": 110.34836,
+          "latitude": 19.99963,
+          "radius": ""
+        },
+        {
+          "name": "排球场",
+          "longitude": 110.42694,
+          "latitude": 19.71223,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "美兰区",
+      "locations": [
+        {
+          "name": "海口美兰国际机场",
+          "longitude": 110.46343,
+          "latitude": 19.936934,
+          "radius": ""
+        },
+        {
+          "name": "钟楼",
+          "longitude": 110.34171,
+          "latitude": 20.04447,
+          "radius": ""
+        },
+        {
+          "name": "红树林旅游区",
+          "longitude": 110.58252,
+          "latitude": 19.95046,
+          "radius": ""
+        },
+        {
+          "name": "8号休闲馆",
+          "longitude": 110.47385,
+          "latitude": 19.98336,
+          "radius": ""
+        },
+        {
+          "name": "海南嘉得足球训练基地",
+          "longitude": 110.49891,
+          "latitude": 20.01615,
+          "radius": ""
+        },
+        {
+          "name": "嗨海南国际旅游岛数字博物馆",
+          "longitude": 110.34918,
+          "latitude": 20.05466,
+          "radius": ""
+        },
+        {
+          "name": "三江湾旅游风景区",
+          "longitude": 110.61766,
+          "latitude": 19.89321,
+          "radius": ""
+        },
+        {
+          "name": "仲恺农民协会旧址",
+          "longitude": 110.41728,
+          "latitude": 20.04256,
+          "radius": ""
+        },
+        {
+          "name": "苏民剧场",
+          "longitude": 110.52539,
+          "latitude": 19.90424,
+          "radius": ""
+        },
+        {
+          "name": "林宜华故居实践教育基地",
+          "longitude": 110.40817,
+          "latitude": 20.04138,
+          "radius": ""
+        },
+        {
+          "name": "成人剧场",
+          "longitude": 110.37268,
+          "latitude": 20.02274,
+          "radius": ""
+        },
+        {
+          "name": "桂林洋旅游区",
+          "longitude": 110.49377,
+          "latitude": 20.02159,
+          "radius": ""
+        },
+        {
+          "name": "毓秀坊",
+          "longitude": 110.36448,
+          "latitude": 20.03997,
+          "radius": ""
+        },
+        {
+          "name": "浩气长存",
+          "longitude": 110.36784,
+          "latitude": 20.03127,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

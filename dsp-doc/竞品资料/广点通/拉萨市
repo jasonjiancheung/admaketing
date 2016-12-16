@@ -1,0 +1,760 @@
+{
+  "cityName": "拉萨市",
+  "businessCenters": [
+    {
+      "name": "城关区",
+      "locations": [
+        {
+          "name": "八廓",
+          "longitude": 91.133255,
+          "latitude": 29.649292,
+          "radius": "450"
+        },
+        {
+          "name": "扎基",
+          "longitude": 91.13265,
+          "latitude": 29.67405,
+          "radius": "1075"
+        },
+        {
+          "name": "吉崩岗",
+          "longitude": 91.13445,
+          "latitude": 29.65325,
+          "radius": "197"
+        }
+      ]
+    },
+    {
+      "name": "堆龙德庆县",
+      "locations": [
+        {
+          "name": "乃琼",
+          "longitude": 90.98793,
+          "latitude": 29.629553,
+          "radius": "252"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "城关区",
+      "locations": [
+        {
+          "name": "文成公主实景剧场",
+          "longitude": 91.14523,
+          "latitude": 29.62543,
+          "radius": ""
+        },
+        {
+          "name": "西藏博物馆",
+          "longitude": 91.09848,
+          "latitude": 29.64874,
+          "radius": ""
+        },
+        {
+          "name": "布达拉宫",
+          "longitude": 91.118965,
+          "latitude": 29.654207,
+          "radius": ""
+        },
+        {
+          "name": "西藏体育馆",
+          "longitude": 91.12379,
+          "latitude": 29.67827,
+          "radius": ""
+        },
+        {
+          "name": "人民体育场",
+          "longitude": 91.13682,
+          "latitude": 29.64572,
+          "radius": ""
+        },
+        {
+          "name": "地矿博物馆",
+          "longitude": 91.07152,
+          "latitude": 29.65262,
+          "radius": ""
+        },
+        {
+          "name": "大昭寺",
+          "longitude": 91.13345,
+          "latitude": 29.650312,
+          "radius": ""
+        },
+        {
+          "name": "罗布林卡风景区",
+          "longitude": 91.092636,
+          "latitude": 29.65165,
+          "radius": ""
+        },
+        {
+          "name": "扎基寺",
+          "longitude": 91.14218,
+          "latitude": 29.67366,
+          "radius": ""
+        },
+        {
+          "name": "青川藏公路纪念碑",
+          "longitude": 91.09727,
+          "latitude": 29.64566,
+          "radius": ""
+        },
+        {
+          "name": "娘热民俗风情园",
+          "longitude": 91.10744,
+          "latitude": 29.70848,
+          "radius": ""
+        },
+        {
+          "name": "药王山",
+          "longitude": 91.1144,
+          "latitude": 29.65181,
+          "radius": ""
+        },
+        {
+          "name": "冲赛康",
+          "longitude": 91.13461,
+          "latitude": 29.65111,
+          "radius": ""
+        },
+        {
+          "name": "拉鲁湿地国家级自然保护区",
+          "longitude": 91.10207,
+          "latitude": 29.66476,
+          "radius": ""
+        },
+        {
+          "name": "1650拉萨箭达岗",
+          "longitude": 91.09088,
+          "latitude": 29.65939,
+          "radius": ""
+        },
+        {
+          "name": "朗孜夏大院",
+          "longitude": 91.1341,
+          "latitude": 29.65087,
+          "radius": ""
+        },
+        {
+          "name": "拉萨关帝拉康",
+          "longitude": 91.10857,
+          "latitude": 29.65363,
+          "radius": ""
+        },
+        {
+          "name": "贡桑孜",
+          "longitude": 91.13444,
+          "latitude": 29.64782,
+          "radius": ""
+        },
+        {
+          "name": "巴嘎噶林",
+          "longitude": 91.11433,
+          "latitude": 29.65138,
+          "radius": ""
+        },
+        {
+          "name": "岭苍",
+          "longitude": 91.13144,
+          "latitude": 29.64913,
+          "radius": ""
+        },
+        {
+          "name": "江苏东路纪念碑",
+          "longitude": 91.1406,
+          "latitude": 29.65738,
+          "radius": ""
+        },
+        {
+          "name": "尧西平康古建大院",
+          "longitude": 91.1329,
+          "latitude": 29.66141,
+          "radius": ""
+        },
+        {
+          "name": "雪林多吉颇章",
+          "longitude": 91.11293,
+          "latitude": 29.6461,
+          "radius": ""
+        },
+        {
+          "name": "清政府驻藏大臣衙门旧址",
+          "longitude": 91.13461,
+          "latitude": 29.65111,
+          "radius": ""
+        },
+        {
+          "name": "曲尺岗",
+          "longitude": 91.13328,
+          "latitude": 29.65089,
+          "radius": ""
+        },
+        {
+          "name": "策门林寺",
+          "longitude": 91.13147,
+          "latitude": 29.65377,
+          "radius": ""
+        },
+        {
+          "name": "琉璃桥",
+          "longitude": 91.12784,
+          "latitude": 29.64999,
+          "radius": ""
+        },
+        {
+          "name": "热振骑热",
+          "longitude": 91.13096,
+          "latitude": 29.65444,
+          "radius": ""
+        },
+        {
+          "name": "鲁崩夏",
+          "longitude": 91.13472,
+          "latitude": 29.65064,
+          "radius": ""
+        },
+        {
+          "name": "思泽",
+          "longitude": 91.13579,
+          "latitude": 29.64875,
+          "radius": ""
+        },
+        {
+          "name": "努玛",
+          "longitude": 91.13473,
+          "latitude": 29.65037,
+          "radius": ""
+        },
+        {
+          "name": "天乐宫民族风景",
+          "longitude": 91.15593,
+          "latitude": 29.65729,
+          "radius": ""
+        },
+        {
+          "name": "城关区娘热民间藏戏团",
+          "longitude": 91.11551,
+          "latitude": 29.70029,
+          "radius": ""
+        },
+        {
+          "name": "福海游泳馆",
+          "longitude": 91.13454,
+          "latitude": 29.66634,
+          "radius": ""
+        },
+        {
+          "name": "尼威民族歌剧院",
+          "longitude": 91.13053,
+          "latitude": 29.65832,
+          "radius": ""
+        },
+        {
+          "name": "西藏自治区游泳馆",
+          "longitude": 91.13249,
+          "latitude": 29.67512,
+          "radius": ""
+        },
+        {
+          "name": "藏戏艺术中心",
+          "longitude": 91.08584,
+          "latitude": 29.65892,
+          "radius": ""
+        },
+        {
+          "name": "容扎",
+          "longitude": 91.13455,
+          "latitude": 29.64971,
+          "radius": ""
+        },
+        {
+          "name": "拉鲁颇章",
+          "longitude": 91.1117,
+          "latitude": 29.66453,
+          "radius": ""
+        },
+        {
+          "name": "吉日卓康",
+          "longitude": 91.13677,
+          "latitude": 29.65107,
+          "radius": ""
+        },
+        {
+          "name": "布旦康萨",
+          "longitude": 91.1326,
+          "latitude": 29.64802,
+          "radius": ""
+        },
+        {
+          "name": "普章萨巴",
+          "longitude": 91.13205,
+          "latitude": 29.64943,
+          "radius": ""
+        },
+        {
+          "name": "泽当康萨",
+          "longitude": 91.13482,
+          "latitude": 29.65053,
+          "radius": ""
+        },
+        {
+          "name": "东孜苏康色",
+          "longitude": 91.13516,
+          "latitude": 29.64894,
+          "radius": ""
+        },
+        {
+          "name": "果瓦康赞",
+          "longitude": 91.13398,
+          "latitude": 29.64986,
+          "radius": ""
+        },
+        {
+          "name": "拉萨驼峰越野俱乐部",
+          "longitude": 91.1375,
+          "latitude": 29.6527,
+          "radius": ""
+        },
+        {
+          "name": "南方三怙主殿",
+          "longitude": 91.1335,
+          "latitude": 29.64744,
+          "radius": ""
+        },
+        {
+          "name": "盆雪",
+          "longitude": 91.13552,
+          "latitude": 29.65528,
+          "radius": ""
+        },
+        {
+          "name": "娘容夏",
+          "longitude": 91.13538,
+          "latitude": 29.64891,
+          "radius": ""
+        },
+        {
+          "name": "玛朗巴",
+          "longitude": 91.13565,
+          "latitude": 29.65141,
+          "radius": ""
+        },
+        {
+          "name": "曲苏",
+          "longitude": 91.13452,
+          "latitude": 29.65023,
+          "radius": ""
+        },
+        {
+          "name": "青年林卡",
+          "longitude": 91.12918,
+          "latitude": 29.69206,
+          "radius": ""
+        },
+        {
+          "name": "千年古树",
+          "longitude": 91.13422,
+          "latitude": 29.64929,
+          "radius": ""
+        },
+        {
+          "name": "吉麦",
+          "longitude": 91.13675,
+          "latitude": 29.64803,
+          "radius": ""
+        },
+        {
+          "name": "玖日",
+          "longitude": 91.13384,
+          "latitude": 29.64935,
+          "radius": ""
+        },
+        {
+          "name": "聪康萨巴",
+          "longitude": 91.13622,
+          "latitude": 29.65026,
+          "radius": ""
+        },
+        {
+          "name": "岗嘎夏",
+          "longitude": 91.13474,
+          "latitude": 29.65035,
+          "radius": ""
+        },
+        {
+          "name": "尧西达孜",
+          "longitude": 91.12463,
+          "latitude": 29.65322,
+          "radius": ""
+        },
+        {
+          "name": "群巴",
+          "longitude": 91.13444,
+          "latitude": 29.64972,
+          "radius": ""
+        },
+        {
+          "name": "拉让宁巴",
+          "longitude": 91.13412,
+          "latitude": 29.6493,
+          "radius": ""
+        },
+        {
+          "name": "朗奴",
+          "longitude": 91.13642,
+          "latitude": 29.65021,
+          "radius": ""
+        },
+        {
+          "name": "桑东",
+          "longitude": 91.13337,
+          "latitude": 29.65419,
+          "radius": ""
+        },
+        {
+          "name": "达东夏",
+          "longitude": 91.13464,
+          "latitude": 29.64982,
+          "radius": ""
+        },
+        {
+          "name": "喜德拉让",
+          "longitude": 91.13081,
+          "latitude": 29.65394,
+          "radius": ""
+        },
+        {
+          "name": "白觉林",
+          "longitude": 91.13488,
+          "latitude": 29.64881,
+          "radius": ""
+        },
+        {
+          "name": "朗仓强",
+          "longitude": 91.13472,
+          "latitude": 29.64971,
+          "radius": ""
+        },
+        {
+          "name": "娘热乡仁钦蔡村达杰林卡",
+          "longitude": 91.12018,
+          "latitude": 29.69839,
+          "radius": ""
+        },
+        {
+          "name": "纳容霞",
+          "longitude": 91.1354,
+          "latitude": 29.64887,
+          "radius": ""
+        },
+        {
+          "name": "鲁固果瓦康色",
+          "longitude": 91.13161,
+          "latitude": 29.64855,
+          "radius": ""
+        },
+        {
+          "name": "让巴大院",
+          "longitude": 91.13313,
+          "latitude": 29.64736,
+          "radius": ""
+        },
+        {
+          "name": "丹康夏",
+          "longitude": 91.13391,
+          "latitude": 29.64945,
+          "radius": ""
+        },
+        {
+          "name": "中共八廊古城管理委员会工作委员会",
+          "longitude": 91.1326,
+          "latitude": 29.64934,
+          "radius": ""
+        },
+        {
+          "name": "朗馍馍",
+          "longitude": 91.13478,
+          "latitude": 29.64982,
+          "radius": ""
+        },
+        {
+          "name": "西藏军区军史馆",
+          "longitude": 91.12882,
+          "latitude": 29.64669,
+          "radius": ""
+        },
+        {
+          "name": "觉那仓",
+          "longitude": 91.13944,
+          "latitude": 29.6514,
+          "radius": ""
+        },
+        {
+          "name": "夏木嘎布",
+          "longitude": 91.13397,
+          "latitude": 29.6509,
+          "radius": ""
+        },
+        {
+          "name": "嘎结夏",
+          "longitude": 91.13464,
+          "latitude": 29.65038,
+          "radius": ""
+        },
+        {
+          "name": "独康强",
+          "longitude": 91.13477,
+          "latitude": 29.65057,
+          "radius": ""
+        },
+        {
+          "name": "根布夏",
+          "longitude": 91.13426,
+          "latitude": 29.65027,
+          "radius": ""
+        },
+        {
+          "name": "噶丹康萨",
+          "longitude": 91.13194,
+          "latitude": 29.65523,
+          "radius": ""
+        },
+        {
+          "name": "加央吉",
+          "longitude": 91.13213,
+          "latitude": 29.65097,
+          "radius": ""
+        },
+        {
+          "name": "藏音弦子故乡演艺会所",
+          "longitude": 91.13451,
+          "latitude": 29.66596,
+          "radius": ""
+        },
+        {
+          "name": "曲赤康大院",
+          "longitude": 91.13328,
+          "latitude": 29.65087,
+          "radius": ""
+        },
+        {
+          "name": "城关区泥塑博物馆",
+          "longitude": 91.16235,
+          "latitude": 29.709015,
+          "radius": ""
+        },
+        {
+          "name": "热堆康赞",
+          "longitude": 91.13411,
+          "latitude": 29.65002,
+          "radius": ""
+        },
+        {
+          "name": "查齐夏",
+          "longitude": 91.13312,
+          "latitude": 29.65089,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "林周县",
+      "locations": [
+        {
+          "name": "拉萨市林周县杰堆寺管理委员会",
+          "longitude": 91.02232,
+          "latitude": 29.9341,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "当雄县",
+      "locations": [
+        {
+          "name": "念青唐古拉山",
+          "longitude": 90.67872,
+          "latitude": 30.2644,
+          "radius": ""
+        },
+        {
+          "name": "羊八井地热温泉",
+          "longitude": 90.48485,
+          "latitude": 30.07804,
+          "radius": ""
+        },
+        {
+          "name": "纳木措景区管理委员会",
+          "longitude": 90.87436,
+          "latitude": 30.77399,
+          "radius": ""
+        },
+        {
+          "name": "青藏公路建成通车五十周年纪念碑",
+          "longitude": 90.67923,
+          "latitude": 30.26351,
+          "radius": ""
+        },
+        {
+          "name": "念青唐古拉温泉",
+          "longitude": 90.95237,
+          "latitude": 30.405277,
+          "radius": ""
+        },
+        {
+          "name": "青藏公路整治改建纪念碑",
+          "longitude": 90.54603,
+          "latitude": 30.12581,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "尼木县",
+      "locations": [
+        {
+          "name": "尼木吞巴景区",
+          "longitude": 90.28572,
+          "latitude": 29.32976,
+          "radius": ""
+        },
+        {
+          "name": "吞米桑布扎故居",
+          "longitude": 90.29791,
+          "latitude": 29.34366,
+          "radius": ""
+        },
+        {
+          "name": "乳巴湖",
+          "longitude": 90.17553,
+          "latitude": 29.46863,
+          "radius": ""
+        },
+        {
+          "name": "普松木雕工艺乡",
+          "longitude": 90.15345,
+          "latitude": 29.49534,
+          "radius": ""
+        },
+        {
+          "name": "藏纸原产地雪拉村",
+          "longitude": 90.14817,
+          "latitude": 29.44881,
+          "radius": ""
+        },
+        {
+          "name": "比如上下寺",
+          "longitude": 90.17729,
+          "latitude": 29.42544,
+          "radius": ""
+        },
+        {
+          "name": "卓娃曲登",
+          "longitude": 90.16309,
+          "latitude": 29.41016,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "曲水县",
+      "locations": [
+        {
+          "name": "拉木错候鸟观景台",
+          "longitude": 90.93133,
+          "latitude": 29.46495,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "堆龙德庆县",
+      "locations": [
+        {
+          "name": "聂当大佛",
+          "longitude": 90.99491,
+          "latitude": 29.56101,
+          "radius": ""
+        },
+        {
+          "name": "大佛民俗风情园",
+          "longitude": 90.99501,
+          "latitude": 29.56424,
+          "radius": ""
+        },
+        {
+          "name": "雪域贡嘎林卡",
+          "longitude": 90.97657,
+          "latitude": 29.66203,
+          "radius": ""
+        },
+        {
+          "name": "桑木自然民俗村",
+          "longitude": 90.98184,
+          "latitude": 29.65234,
+          "radius": ""
+        },
+        {
+          "name": "拉萨开发区体育馆",
+          "longitude": 91.02135,
+          "latitude": 29.63914,
+          "radius": ""
+        },
+        {
+          "name": "拉萨市群众文化体育中心",
+          "longitude": 91.09058,
+          "latitude": 29.61957,
+          "radius": ""
+        },
+        {
+          "name": "堆龙旭日牧区生态民俗园",
+          "longitude": 90.99482,
+          "latitude": 29.5911,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "达孜县",
+      "locations": [
+        {
+          "name": "藏艺文博园",
+          "longitude": 91.31874,
+          "latitude": 29.66402,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "墨竹工卡县",
+      "locations": [
+        {
+          "name": "墨竹米拉山服务中心",
+          "longitude": 92.34437,
+          "latitude": 29.82522,
+          "radius": ""
+        },
+        {
+          "name": "松赞干布出生地",
+          "longitude": 91.65731,
+          "latitude": 29.80296,
+          "radius": ""
+        },
+        {
+          "name": "斯布沟野生动物保护区",
+          "longitude": 91.78825,
+          "latitude": 29.66067,
+          "radius": ""
+        },
+        {
+          "name": "松赞干布故里甲玛景区",
+          "longitude": 91.65815,
+          "latitude": 29.8016,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

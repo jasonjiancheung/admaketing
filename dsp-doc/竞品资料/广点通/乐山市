@@ -1,0 +1,928 @@
+{
+  "cityName": "乐山市",
+  "businessCenters": [
+    {
+      "name": "市中区",
+      "locations": [
+        {
+          "name": "春华路",
+          "longitude": 103.75534,
+          "latitude": 29.588943,
+          "radius": "442"
+        },
+        {
+          "name": "张公桥",
+          "longitude": 103.767746,
+          "latitude": 29.570738,
+          "radius": "291"
+        },
+        {
+          "name": "竹公溪",
+          "longitude": 103.75744,
+          "latitude": 29.577597,
+          "radius": "624"
+        },
+        {
+          "name": "通江",
+          "longitude": 103.74527,
+          "latitude": 29.60741,
+          "radius": "1144"
+        },
+        {
+          "name": "王浩儿",
+          "longitude": 103.7694,
+          "latitude": 29.583126,
+          "radius": "449"
+        },
+        {
+          "name": "肖坝",
+          "longitude": 103.73094,
+          "latitude": 29.556007,
+          "radius": "1371"
+        },
+        {
+          "name": "海棠路",
+          "longitude": 103.75393,
+          "latitude": 29.559834,
+          "radius": "877"
+        },
+        {
+          "name": "青果山",
+          "longitude": 103.761986,
+          "latitude": 29.571682,
+          "radius": "492"
+        },
+        {
+          "name": "岷河",
+          "longitude": 103.75047,
+          "latitude": 29.60774,
+          "radius": "469"
+        }
+      ]
+    },
+    {
+      "name": "五通桥区",
+      "locations": [
+        {
+          "name": "竹根",
+          "longitude": 103.814125,
+          "latitude": 29.404701,
+          "radius": "791"
+        }
+      ]
+    },
+    {
+      "name": "犍为县",
+      "locations": [
+        {
+          "name": "西街",
+          "longitude": 103.94767,
+          "latitude": 29.207735,
+          "radius": "376"
+        },
+        {
+          "name": "玉津",
+          "longitude": 103.94659,
+          "latitude": 29.20681,
+          "radius": "857"
+        }
+      ]
+    },
+    {
+      "name": "井研县",
+      "locations": [
+        {
+          "name": "研城",
+          "longitude": 104.06935,
+          "latitude": 29.648521,
+          "radius": "946"
+        }
+      ]
+    },
+    {
+      "name": "峨眉山市",
+      "locations": [
+        {
+          "name": "绥山",
+          "longitude": 103.48747,
+          "latitude": 29.59959,
+          "radius": "828"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "市中区",
+      "locations": [
+        {
+          "name": "乐山大佛风景区",
+          "longitude": 103.772316,
+          "latitude": 29.544144,
+          "radius": ""
+        },
+        {
+          "name": "乌木珍品文化博物苑",
+          "longitude": 103.65577,
+          "latitude": 29.58607,
+          "radius": ""
+        },
+        {
+          "name": "嘉定坊",
+          "longitude": 103.7737,
+          "latitude": 29.56128,
+          "radius": ""
+        },
+        {
+          "name": "乐山大佛博物馆",
+          "longitude": 103.77572,
+          "latitude": 29.56318,
+          "radius": ""
+        },
+        {
+          "name": "乐山市体育中心",
+          "longitude": 103.75549,
+          "latitude": 29.58325,
+          "radius": ""
+        },
+        {
+          "name": "佛光湖",
+          "longitude": 103.78937,
+          "latitude": 29.60786,
+          "radius": ""
+        },
+        {
+          "name": "望月堂",
+          "longitude": 103.77386,
+          "latitude": 29.55875,
+          "radius": ""
+        },
+        {
+          "name": "清香湖休闲长廊",
+          "longitude": 103.71312,
+          "latitude": 29.57476,
+          "radius": ""
+        },
+        {
+          "name": "嘉庆关",
+          "longitude": 103.77383,
+          "latitude": 29.55624,
+          "radius": ""
+        },
+        {
+          "name": "八·一九空袭死难同胞纪念碑",
+          "longitude": 103.76756,
+          "latitude": 29.55848,
+          "radius": ""
+        },
+        {
+          "name": "观佛楼",
+          "longitude": 103.76914,
+          "latitude": 29.55186,
+          "radius": ""
+        },
+        {
+          "name": "战时故宫博物馆",
+          "longitude": 103.66755,
+          "latitude": 29.5071,
+          "radius": ""
+        },
+        {
+          "name": "天工开物",
+          "longitude": 103.70393,
+          "latitude": 29.61643,
+          "radius": ""
+        },
+        {
+          "name": "乐山大佛剧院",
+          "longitude": 103.77697,
+          "latitude": 29.56299,
+          "radius": ""
+        },
+        {
+          "name": "望江茶楼多美好音乐厅",
+          "longitude": 103.66851,
+          "latitude": 29.58738,
+          "radius": ""
+        },
+        {
+          "name": "歌凤台",
+          "longitude": 103.7741,
+          "latitude": 29.55979,
+          "radius": ""
+        },
+        {
+          "name": "动能俱乐部",
+          "longitude": 103.76376,
+          "latitude": 29.60832,
+          "radius": ""
+        },
+        {
+          "name": "新又新大戏院",
+          "longitude": 103.76668,
+          "latitude": 29.55382,
+          "radius": ""
+        },
+        {
+          "name": "乐山大佛风景名胜区管理委员会工程质量监督站",
+          "longitude": 103.77427,
+          "latitude": 29.5642,
+          "radius": ""
+        },
+        {
+          "name": "众鑫游戏厅",
+          "longitude": 103.69351,
+          "latitude": 29.51479,
+          "radius": ""
+        },
+        {
+          "name": "平羌小三峡",
+          "longitude": 103.75461,
+          "latitude": 29.69215,
+          "radius": ""
+        },
+        {
+          "name": "叮咚井",
+          "longitude": 103.76273,
+          "latitude": 29.55809,
+          "radius": ""
+        },
+        {
+          "name": "乐山华夏蜜蜂博物馆",
+          "longitude": 103.7178,
+          "latitude": 29.54588,
+          "radius": ""
+        },
+        {
+          "name": "九百洞山水乐园",
+          "longitude": 103.71794,
+          "latitude": 29.62301,
+          "radius": ""
+        },
+        {
+          "name": "乐山大佛牌坊",
+          "longitude": 103.77476,
+          "latitude": 29.56177,
+          "radius": ""
+        },
+        {
+          "name": "乐山大佛风景名胜区管理委员会规划建设监察大队",
+          "longitude": 103.77427,
+          "latitude": 29.5642,
+          "radius": ""
+        },
+        {
+          "name": "涵春门",
+          "longitude": 103.76933,
+          "latitude": 29.55175,
+          "radius": ""
+        },
+        {
+          "name": "安谷游泳池",
+          "longitude": 103.667,
+          "latitude": 29.50748,
+          "radius": ""
+        },
+        {
+          "name": "育贤门",
+          "longitude": 103.76246,
+          "latitude": 29.55366,
+          "radius": ""
+        },
+        {
+          "name": "肖坝崖墓",
+          "longitude": 103.71938,
+          "latitude": 29.5618,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沙湾区",
+      "locations": [
+        {
+          "name": "乐山郭沫若故居",
+          "longitude": 103.54738,
+          "latitude": 29.4118,
+          "radius": ""
+        },
+        {
+          "name": "沫水女神",
+          "longitude": 103.54812,
+          "latitude": 29.41376,
+          "radius": ""
+        },
+        {
+          "name": "银河茶庄",
+          "longitude": 103.55216,
+          "latitude": 29.42697,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "五通桥区",
+      "locations": [
+        {
+          "name": "四望关",
+          "longitude": 103.82115,
+          "latitude": 29.40224,
+          "radius": ""
+        },
+        {
+          "name": "五通桥区文体中心",
+          "longitude": 103.81394,
+          "latitude": 29.41392,
+          "radius": ""
+        },
+        {
+          "name": "大戏台",
+          "longitude": 103.81306,
+          "latitude": 29.41992,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金口河区",
+      "locations": [
+        {
+          "name": "铁道兵博物馆",
+          "longitude": 103.02453,
+          "latitude": 29.28638,
+          "radius": ""
+        },
+        {
+          "name": "星宝·雅尊",
+          "longitude": 103.07947,
+          "latitude": 29.24742,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "犍为县",
+      "locations": [
+        {
+          "name": "罗城古镇",
+          "longitude": 104.03275,
+          "latitude": 29.38327,
+          "radius": ""
+        },
+        {
+          "name": "中国茉莉花博物馆",
+          "longitude": 103.91325,
+          "latitude": 29.15608,
+          "radius": ""
+        },
+        {
+          "name": "国家(四川)犍为县业余体校青少年俱乐部",
+          "longitude": 103.96023,
+          "latitude": 29.19768,
+          "radius": ""
+        },
+        {
+          "name": "犍为县业余体校国家青少年体育俱乐部",
+          "longitude": 103.94488,
+          "latitude": 29.20609,
+          "radius": ""
+        },
+        {
+          "name": "清溪渔唱",
+          "longitude": 103.91568,
+          "latitude": 29.1418,
+          "radius": ""
+        },
+        {
+          "name": "嘉阳·桫椤湖旅游区",
+          "longitude": 103.80575,
+          "latitude": 29.19226,
+          "radius": ""
+        },
+        {
+          "name": "东汉崖墓",
+          "longitude": 103.9937,
+          "latitude": 29.13839,
+          "radius": ""
+        },
+        {
+          "name": "佛灵胜境",
+          "longitude": 103.93776,
+          "latitude": 29.22691,
+          "radius": ""
+        },
+        {
+          "name": "石刻造像",
+          "longitude": 103.9305,
+          "latitude": 29.23597,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "井研县",
+      "locations": [
+        {
+          "name": "三江白塔",
+          "longitude": 104.04279,
+          "latitude": 29.53578,
+          "radius": ""
+        },
+        {
+          "name": "雷畅故居",
+          "longitude": 104.06176,
+          "latitude": 29.655983,
+          "radius": ""
+        },
+        {
+          "name": "大佛湖",
+          "longitude": 104.03104,
+          "latitude": 29.74248,
+          "radius": ""
+        },
+        {
+          "name": "井研县文体中心",
+          "longitude": 104.06726,
+          "latitude": 29.64623,
+          "radius": ""
+        },
+        {
+          "name": "新华俱乐部",
+          "longitude": 104.07041,
+          "latitude": 29.65118,
+          "radius": ""
+        },
+        {
+          "name": "熊克武故居",
+          "longitude": 104.1531,
+          "latitude": 29.68786,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "夹江县",
+      "locations": [
+        {
+          "name": "乐山夹江千佛岩",
+          "longitude": 103.54614,
+          "latitude": 29.74894,
+          "radius": ""
+        },
+        {
+          "name": "夹江县文化长廊",
+          "longitude": 103.57435,
+          "latitude": 29.73961,
+          "radius": ""
+        },
+        {
+          "name": "蜀丞相诸葛亮点将台",
+          "longitude": 103.53812,
+          "latitude": 29.75706,
+          "radius": ""
+        },
+        {
+          "name": "夹江体育馆",
+          "longitude": 103.57825,
+          "latitude": 29.73195,
+          "radius": ""
+        },
+        {
+          "name": "四川夹江手工造纸博物馆",
+          "longitude": 103.54001,
+          "latitude": 29.75366,
+          "radius": ""
+        },
+        {
+          "name": "旺购欢乐岛儿童乐园",
+          "longitude": 103.56656,
+          "latitude": 29.7338,
+          "radius": ""
+        },
+        {
+          "name": "水魔方动漫会所",
+          "longitude": 103.58132,
+          "latitude": 29.73534,
+          "radius": ""
+        },
+        {
+          "name": "蓝海洋动漫会所",
+          "longitude": 103.58203,
+          "latitude": 29.73465,
+          "radius": ""
+        },
+        {
+          "name": "双杨府君阙",
+          "longitude": 103.62912,
+          "latitude": 29.69882,
+          "radius": ""
+        },
+        {
+          "name": "深海传奇动漫会所",
+          "longitude": 103.58004,
+          "latitude": 29.72968,
+          "radius": ""
+        },
+        {
+          "name": "天生桥",
+          "longitude": 103.54034,
+          "latitude": 29.75296,
+          "radius": ""
+        },
+        {
+          "name": "鱼乐无限电动城",
+          "longitude": 103.58807,
+          "latitude": 29.74237,
+          "radius": ""
+        },
+        {
+          "name": "夹江县体育中心",
+          "longitude": 103.58443,
+          "latitude": 29.71989,
+          "radius": ""
+        },
+        {
+          "name": "金像寺摩崖造像",
+          "longitude": 103.52056,
+          "latitude": 29.77176,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沐川县",
+      "locations": [
+        {
+          "name": "沐川竹海",
+          "longitude": 103.9395,
+          "latitude": 28.86477,
+          "radius": ""
+        },
+        {
+          "name": "沐川县体育中心",
+          "longitude": 103.89356,
+          "latitude": 28.96105,
+          "radius": ""
+        },
+        {
+          "name": "沐川斯洛克体娱中心",
+          "longitude": 103.9022,
+          "latitude": 28.95204,
+          "radius": ""
+        },
+        {
+          "name": "沐川县(国家级)青少年体育俱乐部",
+          "longitude": 103.89486,
+          "latitude": 28.96073,
+          "radius": ""
+        },
+        {
+          "name": "沐川县(国家级)青少年俱乐部跆拳道馆",
+          "longitude": 103.89486,
+          "latitude": 28.96102,
+          "radius": ""
+        },
+        {
+          "name": "老天碉",
+          "longitude": 103.70762,
+          "latitude": 28.94263,
+          "radius": ""
+        },
+        {
+          "name": "烈士墓",
+          "longitude": 103.71027,
+          "latitude": 28.96071,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "峨边彝族自治县",
+      "locations": [
+        {
+          "name": "黑竹沟风景名胜区",
+          "longitude": 103.00806,
+          "latitude": 29.04038,
+          "radius": ""
+        },
+        {
+          "name": "峨边彝族自治县体育馆",
+          "longitude": 103.26155,
+          "latitude": 29.23387,
+          "radius": ""
+        },
+        {
+          "name": "马里冷觉景点",
+          "longitude": 103.02311,
+          "latitude": 29.02972,
+          "radius": ""
+        },
+        {
+          "name": "四川大电职工之家",
+          "longitude": 103.25895,
+          "latitude": 29.2226,
+          "radius": ""
+        },
+        {
+          "name": "峨边彝族自治县烈士墓",
+          "longitude": 103.27504,
+          "latitude": 29.246,
+          "radius": ""
+        },
+        {
+          "name": "依乌湖",
+          "longitude": 103.06262,
+          "latitude": 29.01691,
+          "radius": ""
+        },
+        {
+          "name": "杜鹃池",
+          "longitude": 103.07218,
+          "latitude": 28.96858,
+          "radius": ""
+        },
+        {
+          "name": "黑竹沟温泉",
+          "longitude": 103.15585,
+          "latitude": 29.0482,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "马边彝族自治县",
+      "locations": [
+        {
+          "name": "石丈空摩崖题刻",
+          "longitude": 103.71927,
+          "latitude": 28.80128,
+          "radius": ""
+        },
+        {
+          "name": "马边彝族自治县县委老干部局门球场",
+          "longitude": 103.53631,
+          "latitude": 28.82591,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "峨眉山市",
+      "locations": [
+        {
+          "name": "峨眉山旅游风景区",
+          "longitude": 103.34008,
+          "latitude": 29.565836,
+          "radius": ""
+        },
+        {
+          "name": "大佛禅院佛教文化旅游区",
+          "longitude": 103.4916,
+          "latitude": 29.58998,
+          "radius": ""
+        },
+        {
+          "name": "峨眉山风景区旅游散客服务中心",
+          "longitude": 103.45048,
+          "latitude": 29.56674,
+          "radius": ""
+        },
+        {
+          "name": "峨秀湖国际度假区",
+          "longitude": 103.46686,
+          "latitude": 29.57388,
+          "radius": ""
+        },
+        {
+          "name": "仙芝竹尖生态园旅游景区",
+          "longitude": 103.53938,
+          "latitude": 29.59728,
+          "radius": ""
+        },
+        {
+          "name": "象城大剧院",
+          "longitude": 103.49803,
+          "latitude": 29.5894,
+          "radius": ""
+        },
+        {
+          "name": "易镇",
+          "longitude": 103.49833,
+          "latitude": 29.59059,
+          "radius": ""
+        },
+        {
+          "name": "峨眉山中药博物馆",
+          "longitude": 103.49854,
+          "latitude": 29.59011,
+          "radius": ""
+        },
+        {
+          "name": "灵秀剧场",
+          "longitude": 103.44899,
+          "latitude": 29.56365,
+          "radius": ""
+        },
+        {
+          "name": "峨眉大剧院",
+          "longitude": 103.48355,
+          "latitude": 29.60076,
+          "radius": ""
+        },
+        {
+          "name": "鑫龙跆拳道馆",
+          "longitude": 103.48736,
+          "latitude": 29.60015,
+          "radius": ""
+        },
+        {
+          "name": "九老神仙水",
+          "longitude": 103.36023,
+          "latitude": 29.54427,
+          "radius": ""
+        },
+        {
+          "name": "山水如画",
+          "longitude": 103.40705,
+          "latitude": 29.57569,
+          "radius": ""
+        },
+        {
+          "name": "财神洞",
+          "longitude": 103.3602,
+          "latitude": 29.54449,
+          "radius": ""
+        },
+        {
+          "name": "古碑林",
+          "longitude": 103.44406,
+          "latitude": 29.56826,
+          "radius": ""
+        },
+        {
+          "name": "弥勒宝殿",
+          "longitude": 103.38467,
+          "latitude": 29.57855,
+          "radius": ""
+        },
+        {
+          "name": "虎溪听泉",
+          "longitude": 103.43705,
+          "latitude": 29.56268,
+          "radius": ""
+        },
+        {
+          "name": "弥陀宝殿",
+          "longitude": 103.33527,
+          "latitude": 29.53157,
+          "radius": ""
+        },
+        {
+          "name": "照冥钟楼",
+          "longitude": 103.38478,
+          "latitude": 29.57858,
+          "radius": ""
+        },
+        {
+          "name": "九老穴观光地",
+          "longitude": 103.40769,
+          "latitude": 29.56977,
+          "radius": ""
+        },
+        {
+          "name": "神水阁",
+          "longitude": 103.4438,
+          "latitude": 29.57005,
+          "radius": ""
+        },
+        {
+          "name": "古德林",
+          "longitude": 103.39331,
+          "latitude": 29.57492,
+          "radius": ""
+        },
+        {
+          "name": "中峰古刹",
+          "longitude": 103.40536,
+          "latitude": 29.56782,
+          "radius": ""
+        },
+        {
+          "name": "心愿坊",
+          "longitude": 103.3848,
+          "latitude": 29.57942,
+          "radius": ""
+        },
+        {
+          "name": "圣水阁",
+          "longitude": 103.41,
+          "latitude": 29.5641,
+          "radius": ""
+        },
+        {
+          "name": "西埧窑博物馆",
+          "longitude": 103.47096,
+          "latitude": 29.57631,
+          "radius": ""
+        },
+        {
+          "name": "娥眉山风景区",
+          "longitude": 103.44145,
+          "latitude": 29.57822,
+          "radius": ""
+        },
+        {
+          "name": "峨眉山功夫馆",
+          "longitude": 103.48045,
+          "latitude": 29.61911,
+          "radius": ""
+        },
+        {
+          "name": "慈圣庵",
+          "longitude": 103.38608,
+          "latitude": 29.57952,
+          "radius": ""
+        },
+        {
+          "name": "四川国际旅游博览交易中心",
+          "longitude": 103.52015,
+          "latitude": 29.5948,
+          "radius": ""
+        },
+        {
+          "name": "缘绮亭",
+          "longitude": 103.3848,
+          "latitude": 29.5785,
+          "radius": ""
+        },
+        {
+          "name": "神水通楚",
+          "longitude": 103.41043,
+          "latitude": 29.56418,
+          "radius": ""
+        },
+        {
+          "name": "桫椤坪",
+          "longitude": 103.33205,
+          "latitude": 29.52628,
+          "radius": ""
+        },
+        {
+          "name": "野渡舟横",
+          "longitude": 103.60344,
+          "latitude": 29.59063,
+          "radius": ""
+        },
+        {
+          "name": "天净河清",
+          "longitude": 103.59199,
+          "latitude": 29.59613,
+          "radius": ""
+        },
+        {
+          "name": "峨眉山博物馆",
+          "longitude": 103.44392,
+          "latitude": 29.56818,
+          "radius": ""
+        },
+        {
+          "name": "峨眉山世纪龙武术文化村",
+          "longitude": 103.50618,
+          "latitude": 29.59489,
+          "radius": ""
+        },
+        {
+          "name": "西坝窑博物馆",
+          "longitude": 103.47104,
+          "latitude": 29.57632,
+          "radius": ""
+        },
+        {
+          "name": "齐天大圣游戏室",
+          "longitude": 103.51868,
+          "latitude": 29.59104,
+          "radius": ""
+        },
+        {
+          "name": "儒释道",
+          "longitude": 103.44474,
+          "latitude": 29.56588,
+          "radius": ""
+        },
+        {
+          "name": "一线天",
+          "longitude": 103.37196,
+          "latitude": 29.5855,
+          "radius": ""
+        },
+        {
+          "name": "药王洞",
+          "longitude": 103.39382,
+          "latitude": 29.56859,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

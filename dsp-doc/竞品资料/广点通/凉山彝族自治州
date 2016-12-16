@@ -1,0 +1,713 @@
+{
+  "cityName": "凉山彝族自治州",
+  "businessCenters": [
+    {
+      "name": "西昌市",
+      "locations": [
+        {
+          "name": "龙眼井",
+          "longitude": 102.25862,
+          "latitude": 27.884195,
+          "radius": "508"
+        },
+        {
+          "name": "马水河",
+          "longitude": 102.260864,
+          "latitude": 27.892395,
+          "radius": "283"
+        },
+        {
+          "name": "三岔口",
+          "longitude": 102.267296,
+          "latitude": 27.88206,
+          "radius": "1085"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "西昌市",
+      "locations": [
+        {
+          "name": "西昌青山机场",
+          "longitude": 102.19101,
+          "latitude": 27.976475,
+          "radius": ""
+        },
+        {
+          "name": "凉山彝族奴隶社会博物馆",
+          "longitude": 102.27013,
+          "latitude": 27.8343,
+          "radius": ""
+        },
+        {
+          "name": "老海亭",
+          "longitude": 102.2624,
+          "latitude": 27.86108,
+          "radius": ""
+        },
+        {
+          "name": "青龙寺邛海泸山景区",
+          "longitude": 102.3459,
+          "latitude": 27.80293,
+          "radius": ""
+        },
+        {
+          "name": "凉山民族风情园",
+          "longitude": 102.25275,
+          "latitude": 27.87006,
+          "radius": ""
+        },
+        {
+          "name": "观海湾",
+          "longitude": 102.29542,
+          "latitude": 27.80318,
+          "radius": ""
+        },
+        {
+          "name": "月色风情小镇",
+          "longitude": 102.2726,
+          "latitude": 27.83701,
+          "radius": ""
+        },
+        {
+          "name": "邛海泸山风景区",
+          "longitude": 102.27152,
+          "latitude": 27.836393,
+          "radius": ""
+        },
+        {
+          "name": "螺髻山仙人洞",
+          "longitude": 102.30729,
+          "latitude": 27.71049,
+          "radius": ""
+        },
+        {
+          "name": "凉山民族体育场",
+          "longitude": 102.2548,
+          "latitude": 27.87489,
+          "radius": ""
+        },
+        {
+          "name": "海河天街",
+          "longitude": 102.25601,
+          "latitude": 27.86668,
+          "radius": ""
+        },
+        {
+          "name": "小渔村",
+          "longitude": 102.2913,
+          "latitude": 27.83979,
+          "radius": ""
+        },
+        {
+          "name": "邛海湿地",
+          "longitude": 102.29078,
+          "latitude": 27.84107,
+          "radius": ""
+        },
+        {
+          "name": "月亮湾",
+          "longitude": 102.32064,
+          "latitude": 27.86165,
+          "radius": ""
+        },
+        {
+          "name": "西昌古城",
+          "longitude": 102.27177,
+          "latitude": 27.89149,
+          "radius": ""
+        },
+        {
+          "name": "月亮湾景区",
+          "longitude": 102.34267,
+          "latitude": 27.83457,
+          "radius": ""
+        },
+        {
+          "name": "西波鹤影湿地",
+          "longitude": 102.28526,
+          "latitude": 27.81815,
+          "radius": ""
+        },
+        {
+          "name": "大通门",
+          "longitude": 102.27116,
+          "latitude": 27.89145,
+          "radius": ""
+        },
+        {
+          "name": "建平门",
+          "longitude": 102.27295,
+          "latitude": 27.89913,
+          "radius": ""
+        },
+        {
+          "name": "安定门",
+          "longitude": 102.27593,
+          "latitude": 27.89404,
+          "radius": ""
+        },
+        {
+          "name": "彝汉结盟纪念碑",
+          "longitude": 102.26301,
+          "latitude": 27.88813,
+          "radius": ""
+        },
+        {
+          "name": "映月潭",
+          "longitude": 102.27011,
+          "latitude": 27.84218,
+          "radius": ""
+        },
+        {
+          "name": "土林景区",
+          "longitude": 102.20282,
+          "latitude": 27.67664,
+          "radius": ""
+        },
+        {
+          "name": "西昌旅游景区",
+          "longitude": 102.34368,
+          "latitude": 27.83362,
+          "radius": ""
+        },
+        {
+          "name": "西昌上山下乡知识青年博物馆",
+          "longitude": 102.19292,
+          "latitude": 28.15649,
+          "radius": ""
+        },
+        {
+          "name": "铁路体育馆",
+          "longitude": 102.21609,
+          "latitude": 27.84069,
+          "radius": ""
+        },
+        {
+          "name": "凉山民族体育馆",
+          "longitude": 102.27171,
+          "latitude": 27.88403,
+          "radius": ""
+        },
+        {
+          "name": "美美·会俱乐部",
+          "longitude": 102.2241,
+          "latitude": 27.89542,
+          "radius": ""
+        },
+        {
+          "name": "体育活动中心",
+          "longitude": 102.22151,
+          "latitude": 27.90446,
+          "radius": ""
+        },
+        {
+          "name": "梦工厂Club五人制足球场",
+          "longitude": 102.24769,
+          "latitude": 27.87952,
+          "radius": ""
+        },
+        {
+          "name": "抗日阵亡将士纪念碑",
+          "longitude": 102.27134,
+          "latitude": 27.8335,
+          "radius": ""
+        },
+        {
+          "name": "攀西地质博物馆",
+          "longitude": 102.26787,
+          "latitude": 27.88313,
+          "radius": ""
+        },
+        {
+          "name": "大通苑",
+          "longitude": 102.27083,
+          "latitude": 27.89135,
+          "radius": ""
+        },
+        {
+          "name": "海河坊",
+          "longitude": 102.25191,
+          "latitude": 27.86869,
+          "radius": ""
+        },
+        {
+          "name": "卧云避暑山庄",
+          "longitude": 102.26891,
+          "latitude": 27.81663,
+          "radius": ""
+        },
+        {
+          "name": "游船码头",
+          "longitude": 102.27584,
+          "latitude": 27.83605,
+          "radius": ""
+        },
+        {
+          "name": "卧云山",
+          "longitude": 102.26845,
+          "latitude": 27.81653,
+          "radius": ""
+        },
+        {
+          "name": "嶲砚博物馆",
+          "longitude": 102.30787,
+          "latitude": 27.78423,
+          "radius": ""
+        },
+        {
+          "name": "药师寺遗址",
+          "longitude": 102.31164,
+          "latitude": 27.79762,
+          "radius": ""
+        },
+        {
+          "name": "西街87号宅",
+          "longitude": 102.1762,
+          "latitude": 28.0504,
+          "radius": ""
+        },
+        {
+          "name": "安哈民族野趣自驾游营地",
+          "longitude": 102.30953,
+          "latitude": 27.69937,
+          "radius": ""
+        },
+        {
+          "name": "礼州城新运门",
+          "longitude": 102.17782,
+          "latitude": 28.05051,
+          "radius": ""
+        },
+        {
+          "name": "古岸踏歌",
+          "longitude": 102.3118,
+          "latitude": 27.79752,
+          "radius": ""
+        },
+        {
+          "name": "托梦剧场",
+          "longitude": 102.23842,
+          "latitude": 27.89045,
+          "radius": ""
+        },
+        {
+          "name": "益民南街1号宅",
+          "longitude": 102.17621,
+          "latitude": 28.05023,
+          "radius": ""
+        },
+        {
+          "name": "临海掬月台",
+          "longitude": 102.27515,
+          "latitude": 27.83746,
+          "radius": ""
+        },
+        {
+          "name": "彝海结盟塑像",
+          "longitude": 102.25429,
+          "latitude": 27.88882,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "木里藏族自治县",
+      "locations": [
+        {
+          "name": "木里藏族自治县人民体育场",
+          "longitude": 101.2807,
+          "latitude": 27.9285,
+          "radius": ""
+        },
+        {
+          "name": "影剧院",
+          "longitude": 101.28113,
+          "latitude": 27.92529,
+          "radius": ""
+        },
+        {
+          "name": "巴顶拉姆女神洞",
+          "longitude": 100.74927,
+          "latitude": 27.96167,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "盐源县",
+      "locations": [
+        {
+          "name": "走婚桥",
+          "longitude": 100.87302,
+          "latitude": 27.71588,
+          "radius": ""
+        },
+        {
+          "name": "泸沽湖风景名胜区",
+          "longitude": 100.89966,
+          "latitude": 27.7127,
+          "radius": ""
+        },
+        {
+          "name": "五支落",
+          "longitude": 100.8444,
+          "latitude": 27.70279,
+          "radius": ""
+        },
+        {
+          "name": "女神湾",
+          "longitude": 100.80683,
+          "latitude": 27.70113,
+          "radius": ""
+        },
+        {
+          "name": "母支",
+          "longitude": 100.89138,
+          "latitude": 27.71649,
+          "radius": ""
+        },
+        {
+          "name": "泸源涯",
+          "longitude": 100.78535,
+          "latitude": 27.74087,
+          "radius": ""
+        },
+        {
+          "name": "情人滩",
+          "longitude": 100.81465,
+          "latitude": 27.74325,
+          "radius": ""
+        },
+        {
+          "name": "格萨摩梭古村落",
+          "longitude": 100.8272,
+          "latitude": 27.73489,
+          "radius": ""
+        },
+        {
+          "name": "阿陆",
+          "longitude": 100.86966,
+          "latitude": 27.72236,
+          "radius": ""
+        },
+        {
+          "name": "摩梭土司府",
+          "longitude": 100.85767,
+          "latitude": 27.70804,
+          "radius": ""
+        },
+        {
+          "name": "凹夸景点",
+          "longitude": 100.8084,
+          "latitude": 27.70742,
+          "radius": ""
+        },
+        {
+          "name": "草海",
+          "longitude": 100.86079,
+          "latitude": 27.7089,
+          "radius": ""
+        },
+        {
+          "name": "出水洞",
+          "longitude": 100.78252,
+          "latitude": 27.74138,
+          "radius": ""
+        },
+        {
+          "name": "蓝天湖民俗园",
+          "longitude": 100.85469,
+          "latitude": 27.72651,
+          "radius": ""
+        },
+        {
+          "name": "草海景区",
+          "longitude": 100.83056,
+          "latitude": 27.69765,
+          "radius": ""
+        },
+        {
+          "name": "青年林",
+          "longitude": 100.81844,
+          "latitude": 27.73654,
+          "radius": ""
+        },
+        {
+          "name": "砬她平安塔",
+          "longitude": 100.85134,
+          "latitude": 27.72798,
+          "radius": ""
+        },
+        {
+          "name": "直玛次尔亭",
+          "longitude": 100.83621,
+          "latitude": 27.69977,
+          "radius": ""
+        },
+        {
+          "name": "泸沽湖滇川友谊桥",
+          "longitude": 100.84855,
+          "latitude": 27.67129,
+          "radius": ""
+        },
+        {
+          "name": "跑包",
+          "longitude": 100.85127,
+          "latitude": 27.72802,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "德昌县",
+      "locations": [
+        {
+          "name": "傈僳水寨",
+          "longitude": 102.32192,
+          "latitude": 27.32338,
+          "radius": ""
+        },
+        {
+          "name": "德昌体育馆",
+          "longitude": 102.17557,
+          "latitude": 27.40009,
+          "radius": ""
+        },
+        {
+          "name": "魁星阁",
+          "longitude": 102.18161,
+          "latitude": 27.40646,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "会理县",
+      "locations": [
+        {
+          "name": "会理古城",
+          "longitude": 102.24429,
+          "latitude": 26.65907,
+          "radius": ""
+        },
+        {
+          "name": "钟鼓楼",
+          "longitude": 102.24546,
+          "latitude": 26.65668,
+          "radius": ""
+        },
+        {
+          "name": "红军长征会理会议遗址",
+          "longitude": 102.28419,
+          "latitude": 26.69883,
+          "radius": ""
+        },
+        {
+          "name": "会理体育中心",
+          "longitude": 102.24115,
+          "latitude": 26.65882,
+          "radius": ""
+        },
+        {
+          "name": "宏武体育运动俱乐部",
+          "longitude": 102.25292,
+          "latitude": 26.66417,
+          "radius": ""
+        },
+        {
+          "name": "明代北城门(拱极楼)",
+          "longitude": 102.24477,
+          "latitude": 26.66116,
+          "radius": ""
+        },
+        {
+          "name": "梦幻国度演艺花场",
+          "longitude": 102.25248,
+          "latitude": 26.65929,
+          "radius": ""
+        },
+        {
+          "name": "仙人湖省级风景名胜区",
+          "longitude": 102.28671,
+          "latitude": 26.70449,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "会东县",
+      "locations": [
+        {
+          "name": "会东体育场",
+          "longitude": 102.58026,
+          "latitude": 26.63368,
+          "radius": ""
+        },
+        {
+          "name": "会东县体育运动中心",
+          "longitude": 102.58022,
+          "latitude": 26.63406,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "普格县",
+      "locations": [
+        {
+          "name": "螺髻山旅游风景区",
+          "longitude": 102.42847,
+          "latitude": 27.576443,
+          "radius": ""
+        },
+        {
+          "name": "螺髻山温泉瀑布",
+          "longitude": 102.4609,
+          "latitude": 27.48723,
+          "radius": ""
+        },
+        {
+          "name": "螺髻山彝族火把场",
+          "longitude": 102.4358,
+          "latitude": 27.56855,
+          "radius": ""
+        },
+        {
+          "name": "普格县体育中心",
+          "longitude": 102.54203,
+          "latitude": 27.37632,
+          "radius": ""
+        },
+        {
+          "name": "螺髻九十九里",
+          "longitude": 102.46299,
+          "latitude": 27.4874,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "布拖县",
+      "locations": [
+        {
+          "name": "布拖县体育运动中心",
+          "longitude": 102.80761,
+          "latitude": 27.70613,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金阳县",
+      "locations": [
+        {
+          "name": "十万亩索玛花波洛景区",
+          "longitude": 103.18706,
+          "latitude": 27.80228,
+          "radius": ""
+        },
+        {
+          "name": "春阳泉风景区",
+          "longitude": 103.25806,
+          "latitude": 27.7147,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "喜德县",
+      "locations": [
+        {
+          "name": "喜德古遗址",
+          "longitude": 102.34917,
+          "latitude": 28.36728,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "冕宁县",
+      "locations": [
+        {
+          "name": "灵山风景区",
+          "longitude": 102.264435,
+          "latitude": 28.557808,
+          "radius": ""
+        },
+        {
+          "name": "彝海",
+          "longitude": 102.23588,
+          "latitude": 28.7323,
+          "radius": ""
+        },
+        {
+          "name": "老观音殿",
+          "longitude": 102.22196,
+          "latitude": 28.29173,
+          "radius": ""
+        },
+        {
+          "name": "玉佛观音",
+          "longitude": 102.22197,
+          "latitude": 28.29212,
+          "radius": ""
+        },
+        {
+          "name": "孙水关遗址",
+          "longitude": 102.22478,
+          "latitude": 28.29335,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "越西县",
+      "locations": [
+        {
+          "name": "耿府",
+          "longitude": 102.51816,
+          "latitude": 28.65659,
+          "radius": ""
+        },
+        {
+          "name": "龙山古刹",
+          "longitude": 102.53788,
+          "latitude": 28.66835,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "美姑县",
+      "locations": [
+        {
+          "name": "中国美姑彝族文化博物馆",
+          "longitude": 103.13283,
+          "latitude": 28.32821,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "雷波县",
+      "locations": [
+        {
+          "name": "马湖风景名胜区",
+          "longitude": 103.78485,
+          "latitude": 28.43142,
+          "radius": ""
+        },
+        {
+          "name": "雷波县民族体育馆",
+          "longitude": 103.57789,
+          "latitude": 28.26616,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

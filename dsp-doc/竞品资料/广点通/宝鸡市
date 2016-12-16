@@ -1,0 +1,1019 @@
+{
+  "cityName": "宝鸡市",
+  "businessCenters": [
+    {
+      "name": "渭滨区",
+      "locations": [
+        {
+          "name": "姜谭",
+          "longitude": 107.10796,
+          "latitude": 34.35976,
+          "radius": "1600"
+        },
+        {
+          "name": "清姜",
+          "longitude": 107.130226,
+          "latitude": 34.3509,
+          "radius": "958"
+        },
+        {
+          "name": "桥南",
+          "longitude": 107.13781,
+          "latitude": 34.359325,
+          "radius": "624"
+        }
+      ]
+    },
+    {
+      "name": "金台区",
+      "locations": [
+        {
+          "name": "陈仓园",
+          "longitude": 107.1745,
+          "latitude": 34.35729,
+          "radius": "603"
+        },
+        {
+          "name": "上马营",
+          "longitude": 107.17537,
+          "latitude": 34.36576,
+          "radius": "469"
+        }
+      ]
+    },
+    {
+      "name": "陈仓区",
+      "locations": [
+        {
+          "name": "虢镇",
+          "longitude": 107.382454,
+          "latitude": 34.353573,
+          "radius": "1181"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "渭滨区",
+      "locations": [
+        {
+          "name": "宝鸡体育馆",
+          "longitude": 107.15341,
+          "latitude": 34.35126,
+          "radius": ""
+        },
+        {
+          "name": "嘉陵江源头景区",
+          "longitude": 106.94025,
+          "latitude": 34.24592,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡体育场",
+          "longitude": 107.15305,
+          "latitude": 34.35135,
+          "radius": ""
+        },
+        {
+          "name": "炎帝陵",
+          "longitude": 107.1135,
+          "latitude": 34.32557,
+          "radius": ""
+        },
+        {
+          "name": "天台山",
+          "longitude": 107.19334,
+          "latitude": 34.28819,
+          "radius": ""
+        },
+        {
+          "name": "中严山",
+          "longitude": 107.13972,
+          "latitude": 34.29392,
+          "radius": ""
+        },
+        {
+          "name": "银洞峡",
+          "longitude": 107.03187,
+          "latitude": 34.26863,
+          "radius": ""
+        },
+        {
+          "name": "古大散关",
+          "longitude": 107.01453,
+          "latitude": 34.27023,
+          "radius": ""
+        },
+        {
+          "name": "烽火体育馆",
+          "longitude": 107.12582,
+          "latitude": 34.34602,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡民俗博物馆",
+          "longitude": 107.14832,
+          "latitude": 34.35343,
+          "radius": ""
+        },
+        {
+          "name": "宝成体育馆",
+          "longitude": 107.12669,
+          "latitude": 34.35089,
+          "radius": ""
+        },
+        {
+          "name": "天台山风景名胜区管理委员会",
+          "longitude": 107.13142,
+          "latitude": 34.36892,
+          "radius": ""
+        },
+        {
+          "name": "宝成游泳馆",
+          "longitude": 107.12576,
+          "latitude": 34.3475,
+          "radius": ""
+        },
+        {
+          "name": "开心谷",
+          "longitude": 107.22712,
+          "latitude": 34.34693,
+          "radius": ""
+        },
+        {
+          "name": "乐府",
+          "longitude": 107.15273,
+          "latitude": 34.35386,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市艺术剧院",
+          "longitude": 107.13294,
+          "latitude": 34.37387,
+          "radius": ""
+        },
+        {
+          "name": "金陵飞渡",
+          "longitude": 107.16119,
+          "latitude": 34.38264,
+          "radius": ""
+        },
+        {
+          "name": "西凤酒剧院",
+          "longitude": 107.14309,
+          "latitude": 34.37668,
+          "radius": ""
+        },
+        {
+          "name": "百姓大舞台",
+          "longitude": 107.15018,
+          "latitude": 34.37559,
+          "radius": ""
+        },
+        {
+          "name": "神沙河自然风景区",
+          "longitude": 106.98323,
+          "latitude": 34.26206,
+          "radius": ""
+        },
+        {
+          "name": "永兴社曲艺剧场",
+          "longitude": 107.19612,
+          "latitude": 34.35036,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市戏曲剧院",
+          "longitude": 107.14684,
+          "latitude": 34.37692,
+          "radius": ""
+        },
+        {
+          "name": "永清剧场",
+          "longitude": 107.25346,
+          "latitude": 34.33468,
+          "radius": ""
+        },
+        {
+          "name": "炎帝影视基地",
+          "longitude": 107.19227,
+          "latitude": 34.31712,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡武健搏击俱乐部",
+          "longitude": 107.16365,
+          "latitude": 34.34724,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金台区",
+      "locations": [
+        {
+          "name": "北首岭遗址陈列馆",
+          "longitude": 107.15894,
+          "latitude": 34.38424,
+          "radius": ""
+        },
+        {
+          "name": "大唐秦王陵",
+          "longitude": 107.12931,
+          "latitude": 34.39434,
+          "radius": ""
+        },
+        {
+          "name": "金台观",
+          "longitude": 107.15206,
+          "latitude": 34.37818,
+          "radius": ""
+        },
+        {
+          "name": "六川河生态旅游风景区",
+          "longitude": 107.05249,
+          "latitude": 34.39043,
+          "radius": ""
+        },
+        {
+          "name": "斗鸡影剧院",
+          "longitude": 107.20176,
+          "latitude": 34.36798,
+          "radius": ""
+        },
+        {
+          "name": "锦涵跆拳道",
+          "longitude": 107.11398,
+          "latitude": 34.37324,
+          "radius": ""
+        },
+        {
+          "name": "宝铁体育场",
+          "longitude": 107.1768,
+          "latitude": 34.36556,
+          "radius": ""
+        },
+        {
+          "name": "金台区体育场",
+          "longitude": 107.20645,
+          "latitude": 34.36543,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市卧龙寺院管理委员会",
+          "longitude": 107.26374,
+          "latitude": 34.36437,
+          "radius": ""
+        },
+        {
+          "name": "福临堡遗址",
+          "longitude": 107.09274,
+          "latitude": 34.38,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市福安园管理处",
+          "longitude": 107.13594,
+          "latitude": 34.39432,
+          "radius": ""
+        },
+        {
+          "name": "戴家湾遗址",
+          "longitude": 107.2272,
+          "latitude": 34.36938,
+          "radius": ""
+        },
+        {
+          "name": "金台羽乒馆",
+          "longitude": 107.20645,
+          "latitude": 34.36519,
+          "radius": ""
+        },
+        {
+          "name": "青年广场",
+          "longitude": 107.13877,
+          "latitude": 34.37999,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "陈仓区",
+      "locations": [
+        {
+          "name": "钓鱼台风景名胜区",
+          "longitude": 107.43371,
+          "latitude": 34.2763,
+          "radius": ""
+        },
+        {
+          "name": "吴山风景区",
+          "longitude": 106.91009,
+          "latitude": 34.66369,
+          "radius": ""
+        },
+        {
+          "name": "云台山",
+          "longitude": 107.3191,
+          "latitude": 34.24933,
+          "radius": ""
+        },
+        {
+          "name": "安平沟森林公园",
+          "longitude": 106.86362,
+          "latitude": 34.37356,
+          "radius": ""
+        },
+        {
+          "name": "雪山洞",
+          "longitude": 107.31401,
+          "latitude": 34.23446,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市陈仓区博物馆",
+          "longitude": 107.37842,
+          "latitude": 34.35368,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡市陈仓区剧院",
+          "longitude": 107.39128,
+          "latitude": 34.35263,
+          "radius": ""
+        },
+        {
+          "name": "詹歌乒乓球馆",
+          "longitude": 107.38553,
+          "latitude": 34.35364,
+          "radius": ""
+        },
+        {
+          "name": "陈仓区射击馆",
+          "longitude": 107.40458,
+          "latitude": 34.36409,
+          "radius": ""
+        },
+        {
+          "name": "灵宝峡旅游区",
+          "longitude": 106.76607,
+          "latitude": 34.45445,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "凤翔县",
+      "locations": [
+        {
+          "name": "灵山风景区",
+          "longitude": 107.24601,
+          "latitude": 34.5404,
+          "radius": ""
+        },
+        {
+          "name": "千湖风景区",
+          "longitude": 107.18886,
+          "latitude": 34.52744,
+          "radius": ""
+        },
+        {
+          "name": "凤翔县博物馆",
+          "longitude": 107.40372,
+          "latitude": 34.51595,
+          "radius": ""
+        },
+        {
+          "name": "宝鸡先秦陵园博物馆",
+          "longitude": 107.36411,
+          "latitude": 34.4654,
+          "radius": ""
+        },
+        {
+          "name": "雍州大剧院",
+          "longitude": 107.40376,
+          "latitude": 34.52037,
+          "radius": ""
+        },
+        {
+          "name": "千湖风景区",
+          "longitude": 107.22634,
+          "latitude": 34.57772,
+          "radius": ""
+        },
+        {
+          "name": "秦雍城遗址",
+          "longitude": 107.40421,
+          "latitude": 34.50612,
+          "radius": ""
+        },
+        {
+          "name": "秦公一号大墓",
+          "longitude": 107.36296,
+          "latitude": 34.46491,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "岐山县",
+      "locations": [
+        {
+          "name": "周公庙风景名胜区",
+          "longitude": 107.60351,
+          "latitude": 34.49265,
+          "radius": ""
+        },
+        {
+          "name": "五丈原诸葛亮庙",
+          "longitude": 107.62744,
+          "latitude": 34.26249,
+          "radius": ""
+        },
+        {
+          "name": "岐山县周原博物馆",
+          "longitude": 107.84839,
+          "latitude": 34.48169,
+          "radius": ""
+        },
+        {
+          "name": "岐山博物馆",
+          "longitude": 107.62649,
+          "latitude": 34.44494,
+          "radius": ""
+        },
+        {
+          "name": "岐山体育中心",
+          "longitude": 107.62249,
+          "latitude": 34.4478,
+          "radius": ""
+        },
+        {
+          "name": "温泉游泳馆",
+          "longitude": 107.61581,
+          "latitude": 34.29297,
+          "radius": ""
+        },
+        {
+          "name": "凤翔县聚贤寺",
+          "longitude": 107.57184,
+          "latitude": 34.48671,
+          "radius": ""
+        },
+        {
+          "name": "武侯行辕景区",
+          "longitude": 107.62419,
+          "latitude": 34.2649,
+          "radius": ""
+        },
+        {
+          "name": "新时代游乐广场",
+          "longitude": 107.59901,
+          "latitude": 34.32155,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "扶风县",
+      "locations": [
+        {
+          "name": "关中风情园",
+          "longitude": 107.90658,
+          "latitude": 34.37821,
+          "radius": ""
+        },
+        {
+          "name": "西部兰花生态园",
+          "longitude": 107.92552,
+          "latitude": 34.22682,
+          "radius": ""
+        },
+        {
+          "name": "西府古镇",
+          "longitude": 107.90359,
+          "latitude": 34.37942,
+          "radius": ""
+        },
+        {
+          "name": "野河山景区",
+          "longitude": 107.89972,
+          "latitude": 34.52511,
+          "radius": ""
+        },
+        {
+          "name": "马援墓",
+          "longitude": 107.82191,
+          "latitude": 34.34709,
+          "radius": ""
+        },
+        {
+          "name": "贵妃梁景区",
+          "longitude": 107.93325,
+          "latitude": 34.54976,
+          "radius": ""
+        },
+        {
+          "name": "扶风县博物馆",
+          "longitude": 107.88074,
+          "latitude": 34.35834,
+          "radius": ""
+        },
+        {
+          "name": "温玉珊宅院",
+          "longitude": 107.87469,
+          "latitude": 34.36181,
+          "radius": ""
+        },
+        {
+          "name": "野河人民公社革命委员会旧址",
+          "longitude": 107.9339,
+          "latitude": 34.55035,
+          "radius": ""
+        },
+        {
+          "name": "班固府",
+          "longitude": 107.90752,
+          "latitude": 34.37832,
+          "radius": ""
+        },
+        {
+          "name": "节水科技博览园",
+          "longitude": 108.05478,
+          "latitude": 34.2349,
+          "radius": ""
+        },
+        {
+          "name": "火石山风景区",
+          "longitude": 107.93458,
+          "latitude": 34.55057,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "眉县",
+      "locations": [
+        {
+          "name": "太白山",
+          "longitude": 107.89637,
+          "latitude": 34.12151,
+          "radius": ""
+        },
+        {
+          "name": "张载祠",
+          "longitude": 107.96312,
+          "latitude": 34.19563,
+          "radius": ""
+        },
+        {
+          "name": "红河谷森林公园",
+          "longitude": 107.75629,
+          "latitude": 34.08624,
+          "radius": ""
+        },
+        {
+          "name": "扶眉战役烈士陵园",
+          "longitude": 107.8369,
+          "latitude": 34.27429,
+          "radius": ""
+        },
+        {
+          "name": "蒿坪古道风景区",
+          "longitude": 107.71015,
+          "latitude": 34.08731,
+          "radius": ""
+        },
+        {
+          "name": "眉县体育场",
+          "longitude": 107.74752,
+          "latitude": 34.27747,
+          "radius": ""
+        },
+        {
+          "name": "太白山自然保护区",
+          "longitude": 107.78778,
+          "latitude": 33.99959,
+          "radius": ""
+        },
+        {
+          "name": "霸渭文化生态区",
+          "longitude": 107.81404,
+          "latitude": 34.237,
+          "radius": ""
+        },
+        {
+          "name": "七女峰",
+          "longitude": 107.83188,
+          "latitude": 34.01212,
+          "radius": ""
+        },
+        {
+          "name": "哮天犬",
+          "longitude": 107.81051,
+          "latitude": 33.9954,
+          "radius": ""
+        },
+        {
+          "name": "红桦坪",
+          "longitude": 107.83271,
+          "latitude": 34.00979,
+          "radius": ""
+        },
+        {
+          "name": "铜墙铁壁",
+          "longitude": 107.89294,
+          "latitude": 34.05174,
+          "radius": ""
+        },
+        {
+          "name": "拜仙台",
+          "longitude": 107.81217,
+          "latitude": 33.99849,
+          "radius": ""
+        },
+        {
+          "name": "钟吕坪景区",
+          "longitude": 107.86307,
+          "latitude": 34.13148,
+          "radius": ""
+        },
+        {
+          "name": "板寺云海",
+          "longitude": 107.81592,
+          "latitude": 34.01028,
+          "radius": ""
+        },
+        {
+          "name": "世外桃源",
+          "longitude": 107.87413,
+          "latitude": 34.03213,
+          "radius": ""
+        },
+        {
+          "name": "睡佛寺",
+          "longitude": 107.87745,
+          "latitude": 34.03398,
+          "radius": ""
+        },
+        {
+          "name": "碓窝坪",
+          "longitude": 107.87363,
+          "latitude": 34.02826,
+          "radius": ""
+        },
+        {
+          "name": "上板寺",
+          "longitude": 107.81126,
+          "latitude": 33.99689,
+          "radius": ""
+        },
+        {
+          "name": "斜峪湖景区",
+          "longitude": 107.66072,
+          "latitude": 34.16401,
+          "radius": ""
+        },
+        {
+          "name": "古葫芦谷遗址",
+          "longitude": 107.6995,
+          "latitude": 34.28963,
+          "radius": ""
+        },
+        {
+          "name": "天都门",
+          "longitude": 107.81367,
+          "latitude": 34.01227,
+          "radius": ""
+        },
+        {
+          "name": "水月观音",
+          "longitude": 107.89472,
+          "latitude": 34.04576,
+          "radius": ""
+        },
+        {
+          "name": "开天关",
+          "longitude": 107.86307,
+          "latitude": 34.00842,
+          "radius": ""
+        },
+        {
+          "name": "药王栈道",
+          "longitude": 107.87915,
+          "latitude": 34.03572,
+          "radius": ""
+        },
+        {
+          "name": "杜鹃花海",
+          "longitude": 107.81772,
+          "latitude": 34.0117,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "陇县",
+      "locations": [
+        {
+          "name": "龙门洞森林公园",
+          "longitude": 106.66995,
+          "latitude": 35.04725,
+          "radius": ""
+        },
+        {
+          "name": "关山森林公园",
+          "longitude": 106.67725,
+          "latitude": 34.71511,
+          "radius": ""
+        },
+        {
+          "name": "关山草原景区",
+          "longitude": 106.61644,
+          "latitude": 34.70102,
+          "radius": ""
+        },
+        {
+          "name": "秋菊山庄",
+          "longitude": 106.69552,
+          "latitude": 34.74012,
+          "radius": ""
+        },
+        {
+          "name": "龙门山",
+          "longitude": 106.67399,
+          "latitude": 35.04118,
+          "radius": ""
+        },
+        {
+          "name": "陇县博物馆",
+          "longitude": 106.85886,
+          "latitude": 34.89313,
+          "radius": ""
+        },
+        {
+          "name": "陕西省陇县少年儿童训练场",
+          "longitude": 106.85797,
+          "latitude": 34.89594,
+          "radius": ""
+        },
+        {
+          "name": "佛爷崖石窟",
+          "longitude": 106.63502,
+          "latitude": 34.96323,
+          "radius": ""
+        },
+        {
+          "name": "陀罗尼经幢",
+          "longitude": 106.8306,
+          "latitude": 34.85469,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "千阳县",
+      "locations": [
+        {
+          "name": "千湖国家湿地公园",
+          "longitude": 107.13134,
+          "latitude": 34.63302,
+          "radius": ""
+        },
+        {
+          "name": "燕伋望鲁台",
+          "longitude": 107.12115,
+          "latitude": 34.64755,
+          "radius": ""
+        },
+        {
+          "name": "千阳影剧院",
+          "longitude": 107.13062,
+          "latitude": 34.64259,
+          "radius": ""
+        },
+        {
+          "name": "千阳体育馆",
+          "longitude": 107.11985,
+          "latitude": 34.64367,
+          "radius": ""
+        },
+        {
+          "name": "黑8俱乐部",
+          "longitude": 107.12929,
+          "latitude": 34.64114,
+          "radius": ""
+        },
+        {
+          "name": "刘国璋烈士墓",
+          "longitude": 107.11284,
+          "latitude": 34.6189,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "麟游县",
+      "locations": [
+        {
+          "name": "慈善寺石窟",
+          "longitude": 107.83955,
+          "latitude": 34.67681,
+          "radius": ""
+        },
+        {
+          "name": "唐井遗址",
+          "longitude": 107.7965,
+          "latitude": 34.67802,
+          "radius": ""
+        },
+        {
+          "name": "玉女潭风景区",
+          "longitude": 107.68312,
+          "latitude": 34.59951,
+          "radius": ""
+        },
+        {
+          "name": "麟游县博物馆",
+          "longitude": 107.79796,
+          "latitude": 34.67741,
+          "radius": ""
+        },
+        {
+          "name": "麟游影剧院",
+          "longitude": 107.797,
+          "latitude": 34.67804,
+          "radius": ""
+        },
+        {
+          "name": "慈善寺石窘",
+          "longitude": 107.83955,
+          "latitude": 34.67681,
+          "radius": ""
+        },
+        {
+          "name": "千佛院摩崖造像",
+          "longitude": 107.7204,
+          "latitude": 34.623,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "凤县",
+      "locations": [
+        {
+          "name": "灵官峡",
+          "longitude": 106.46908,
+          "latitude": 33.89234,
+          "radius": ""
+        },
+        {
+          "name": "消灾寺",
+          "longitude": 106.62344,
+          "latitude": 33.95156,
+          "radius": ""
+        },
+        {
+          "name": "凤凰湖游乐中心",
+          "longitude": 106.52637,
+          "latitude": 33.91131,
+          "radius": ""
+        },
+        {
+          "name": "紫柏山景区",
+          "longitude": 106.77812,
+          "latitude": 33.7168,
+          "radius": ""
+        },
+        {
+          "name": "通天河国家森林公园",
+          "longitude": 106.60618,
+          "latitude": 34.17299,
+          "radius": ""
+        },
+        {
+          "name": "润基秦岭七彩云顶主题公园",
+          "longitude": 106.92522,
+          "latitude": 34.24001,
+          "radius": ""
+        },
+        {
+          "name": "紫柏山自然风景区",
+          "longitude": 106.71609,
+          "latitude": 33.7032,
+          "radius": ""
+        },
+        {
+          "name": "凤县体育中心",
+          "longitude": 106.52197,
+          "latitude": 33.90942,
+          "radius": ""
+        },
+        {
+          "name": "凤县屋梁山省级自然保护区管理处",
+          "longitude": 106.65302,
+          "latitude": 33.97199,
+          "radius": ""
+        },
+        {
+          "name": "古栈道遗址",
+          "longitude": 106.65916,
+          "latitude": 33.82951,
+          "radius": ""
+        },
+        {
+          "name": "陈仓古道遗址",
+          "longitude": 106.68672,
+          "latitude": 33.74468,
+          "radius": ""
+        },
+        {
+          "name": "凤凰湖景区",
+          "longitude": 106.52639,
+          "latitude": 33.91132,
+          "radius": ""
+        },
+        {
+          "name": "连云栈道",
+          "longitude": 106.61519,
+          "latitude": 33.94224,
+          "radius": ""
+        },
+        {
+          "name": "凤县古羌文化旅游产业示范园",
+          "longitude": 106.47967,
+          "latitude": 33.90261,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "太白县",
+      "locations": [
+        {
+          "name": "青峰峡国家森林公园",
+          "longitude": 107.44177,
+          "latitude": 34.03641,
+          "radius": ""
+        },
+        {
+          "name": "太白体育馆",
+          "longitude": 107.32069,
+          "latitude": 34.05498,
+          "radius": ""
+        },
+        {
+          "name": "大箭沟景区",
+          "longitude": 107.50594,
+          "latitude": 33.77702,
+          "radius": ""
+        },
+        {
+          "name": "卫岭",
+          "longitude": 107.43011,
+          "latitude": 34.05818,
+          "radius": ""
+        },
+        {
+          "name": "大岭云海",
+          "longitude": 107.4151,
+          "latitude": 33.87775,
+          "radius": ""
+        },
+        {
+          "name": "黄柏原生态风景区",
+          "longitude": 107.34898,
+          "latitude": 33.9083,
+          "radius": ""
+        },
+        {
+          "name": "石头河国家湿地公园",
+          "longitude": 107.64968,
+          "latitude": 34.14799,
+          "radius": ""
+        },
+        {
+          "name": "黄柏塬景区",
+          "longitude": 107.52,
+          "latitude": 33.80944,
+          "radius": ""
+        },
+        {
+          "name": "黄柏塬原生态风景区",
+          "longitude": 107.52232,
+          "latitude": 33.80691,
+          "radius": ""
+        },
+        {
+          "name": "陕西太白牛尾河自然保护区管理处",
+          "longitude": 107.31641,
+          "latitude": 34.06664,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

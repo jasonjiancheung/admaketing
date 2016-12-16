@@ -1,0 +1,2451 @@
+{
+  "cityName": "香港",
+  "businessCenters": [
+    {
+      "name": "中西区",
+      "locations": [
+        {
+          "name": "中环",
+          "longitude": 114.15945,
+          "latitude": 22.281546,
+          "radius": "701"
+        },
+        {
+          "name": "上环",
+          "longitude": 114.153725,
+          "latitude": 22.284037,
+          "radius": "632"
+        },
+        {
+          "name": "山顶",
+          "longitude": 114.15689,
+          "latitude": 22.266615,
+          "radius": "1298"
+        },
+        {
+          "name": "金钟",
+          "longitude": 114.16901,
+          "latitude": 22.27578,
+          "radius": "384"
+        },
+        {
+          "name": "西环",
+          "longitude": 114.13909,
+          "latitude": 22.28271,
+          "radius": "1051"
+        }
+      ]
+    },
+    {
+      "name": "东区",
+      "locations": [
+        {
+          "name": "铜锣湾",
+          "longitude": 114.19193,
+          "latitude": 22.281689,
+          "radius": "780"
+        },
+        {
+          "name": "北角",
+          "longitude": 114.20581,
+          "latitude": 22.288347,
+          "radius": "972"
+        },
+        {
+          "name": "天后",
+          "longitude": 114.19642,
+          "latitude": 22.2831,
+          "radius": "368"
+        },
+        {
+          "name": "太古",
+          "longitude": 114.220604,
+          "latitude": 22.284496,
+          "radius": "683"
+        },
+        {
+          "name": "鲗鱼涌",
+          "longitude": 114.220604,
+          "latitude": 22.284496,
+          "radius": "748"
+        },
+        {
+          "name": "柴湾",
+          "longitude": 114.24744,
+          "latitude": 22.265709,
+          "radius": "968"
+        },
+        {
+          "name": "筲箕湾",
+          "longitude": 114.230705,
+          "latitude": 22.276476,
+          "radius": "666"
+        }
+      ]
+    },
+    {
+      "name": "九龙城区",
+      "locations": [
+        {
+          "name": "红磡",
+          "longitude": 114.190605,
+          "latitude": 22.30311,
+          "radius": "779"
+        },
+        {
+          "name": "土瓜湾",
+          "longitude": 114.196,
+          "latitude": 22.316736,
+          "radius": "588"
+        },
+        {
+          "name": "九龙塘",
+          "longitude": 114.183525,
+          "latitude": 22.329313,
+          "radius": "1057"
+        }
+      ]
+    },
+    {
+      "name": "观塘区",
+      "locations": [
+        {
+          "name": "九龙湾",
+          "longitude": 114.21451,
+          "latitude": 22.322483,
+          "radius": "932"
+        },
+        {
+          "name": "观塘",
+          "longitude": 114.21451,
+          "latitude": 22.322483,
+          "radius": "2144"
+        }
+      ]
+    },
+    {
+      "name": "南区",
+      "locations": [
+        {
+          "name": "赤柱",
+          "longitude": 114.21593,
+          "latitude": 22.217695,
+          "radius": "506"
+        },
+        {
+          "name": "香港仔",
+          "longitude": 114.16059,
+          "latitude": 22.246866,
+          "radius": "464"
+        }
+      ]
+    },
+    {
+      "name": "深水埗区",
+      "locations": [
+        {
+          "name": "深水埗",
+          "longitude": 114.15426,
+          "latitude": 22.331238,
+          "radius": "1634"
+        },
+        {
+          "name": "长沙湾",
+          "longitude": 114.163635,
+          "latitude": 22.330784,
+          "radius": "324"
+        }
+      ]
+    },
+    {
+      "name": "湾仔区",
+      "locations": [
+        {
+          "name": "湾仔",
+          "longitude": 114.17953,
+          "latitude": 22.277111,
+          "radius": "768"
+        },
+        {
+          "name": "跑马地",
+          "longitude": 114.19052,
+          "latitude": 22.266653,
+          "radius": "926"
+        }
+      ]
+    },
+    {
+      "name": "黄大仙区",
+      "locations": [
+        {
+          "name": "新蒲岗",
+          "longitude": 114.20424,
+          "latitude": 22.33306,
+          "radius": "541"
+        }
+      ]
+    },
+    {
+      "name": "油尖旺区",
+      "locations": [
+        {
+          "name": "尖沙咀",
+          "longitude": 114.178894,
+          "latitude": 22.296556,
+          "radius": "956"
+        },
+        {
+          "name": "旺角",
+          "longitude": 114.17461,
+          "latitude": 22.31572,
+          "radius": "712"
+        },
+        {
+          "name": "佐敦",
+          "longitude": 114.17633,
+          "latitude": 22.303398,
+          "radius": "723"
+        },
+        {
+          "name": "油麻地",
+          "longitude": 114.17563,
+          "latitude": 22.308012,
+          "radius": "602"
+        },
+        {
+          "name": "太子",
+          "longitude": 114.172905,
+          "latitude": 22.323053,
+          "radius": "662"
+        },
+        {
+          "name": "九龙站",
+          "longitude": 114.166466,
+          "latitude": 22.302074,
+          "radius": "389"
+        },
+        {
+          "name": "大角咀",
+          "longitude": 114.16753,
+          "latitude": 22.319136,
+          "radius": "526"
+        },
+        {
+          "name": "红磡站",
+          "longitude": 114.186935,
+          "latitude": 22.300287,
+          "radius": "411"
+        }
+      ]
+    },
+    {
+      "name": "离岛区",
+      "locations": [
+        {
+          "name": "赤鱲角",
+          "longitude": 113.9287,
+          "latitude": 22.299189,
+          "radius": "249"
+        },
+        {
+          "name": "香港国际机场",
+          "longitude": 113.9287,
+          "latitude": 22.299189,
+          "radius": "3495"
+        },
+        {
+          "name": "东涌",
+          "longitude": 113.94789,
+          "latitude": 22.284117,
+          "radius": "1220"
+        },
+        {
+          "name": "长洲",
+          "longitude": 114.03446,
+          "latitude": 22.206532,
+          "radius": "1827"
+        }
+      ]
+    },
+    {
+      "name": "葵青区",
+      "locations": [
+        {
+          "name": "青衣",
+          "longitude": 114.11036,
+          "latitude": 22.348186,
+          "radius": "1489"
+        },
+        {
+          "name": "葵涌",
+          "longitude": 114.13714,
+          "latitude": 22.358082,
+          "radius": "2423"
+        }
+      ]
+    },
+    {
+      "name": "北区",
+      "locations": [
+        {
+          "name": "粉岭",
+          "longitude": 114.14472,
+          "latitude": 22.492958,
+          "radius": "989"
+        },
+        {
+          "name": "上水",
+          "longitude": 114.133286,
+          "latitude": 22.500511,
+          "radius": "1906"
+        }
+      ]
+    },
+    {
+      "name": "西贡区",
+      "locations": [
+        {
+          "name": "西贡",
+          "longitude": 114.27552,
+          "latitude": 22.380074,
+          "radius": "1065"
+        },
+        {
+          "name": "将军澳",
+          "longitude": 114.26494,
+          "latitude": 22.312468,
+          "radius": "1338"
+        }
+      ]
+    },
+    {
+      "name": "沙田区",
+      "locations": [
+        {
+          "name": "沙田",
+          "longitude": 114.21032,
+          "latitude": 22.393072,
+          "radius": "3281"
+        }
+      ]
+    },
+    {
+      "name": "屯门区",
+      "locations": [
+        {
+          "name": "屯门",
+          "longitude": 113.97936,
+          "latitude": 22.394567,
+          "radius": "3527"
+        }
+      ]
+    },
+    {
+      "name": "大埔区",
+      "locations": [
+        {
+          "name": "大埔",
+          "longitude": 114.17061,
+          "latitude": 22.448122,
+          "radius": "3335"
+        }
+      ]
+    },
+    {
+      "name": "荃湾区",
+      "locations": [
+        {
+          "name": "荃湾",
+          "longitude": 114.11479,
+          "latitude": 22.36888,
+          "radius": "2186"
+        }
+      ]
+    },
+    {
+      "name": "元朗区",
+      "locations": [
+        {
+          "name": "天水围",
+          "longitude": 114.00624,
+          "latitude": 22.456448,
+          "radius": "1452"
+        },
+        {
+          "name": "元朗",
+          "longitude": 114.03223,
+          "latitude": 22.440361,
+          "radius": "1356"
+        }
+      ]
+    }
+  ],
+  "metroLines": [
+    {
+      "name": "將軍澳綫",
+      "locations": [
+        {
+          "name": "寶琳",
+          "longitude": 114.26257,
+          "latitude": 22.320013,
+          "radius": ""
+        },
+        {
+          "name": "坑口",
+          "longitude": 114.269165,
+          "latitude": 22.312897,
+          "radius": ""
+        },
+        {
+          "name": "將軍澳",
+          "longitude": 114.26466,
+          "latitude": 22.3046,
+          "radius": ""
+        },
+        {
+          "name": "調景嶺",
+          "longitude": 114.25701,
+          "latitude": 22.301191,
+          "radius": ""
+        },
+        {
+          "name": "油塘",
+          "longitude": 114.241936,
+          "latitude": 22.295067,
+          "radius": ""
+        },
+        {
+          "name": "鰂魚涌",
+          "longitude": 114.21358,
+          "latitude": 22.286144,
+          "radius": ""
+        },
+        {
+          "name": "北角",
+          "longitude": 114.20547,
+          "latitude": 22.28827,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "將軍澳支綫",
+      "locations": [
+        {
+          "name": "北角",
+          "longitude": 114.20547,
+          "latitude": 22.28827,
+          "radius": ""
+        },
+        {
+          "name": "鰂魚涌",
+          "longitude": 114.21358,
+          "latitude": 22.286144,
+          "radius": ""
+        },
+        {
+          "name": "油塘",
+          "longitude": 114.241936,
+          "latitude": 22.295067,
+          "radius": ""
+        },
+        {
+          "name": "調景嶺",
+          "longitude": 114.25701,
+          "latitude": 22.301191,
+          "radius": ""
+        },
+        {
+          "name": "將軍澳",
+          "longitude": 114.26466,
+          "latitude": 22.3046,
+          "radius": ""
+        },
+        {
+          "name": "康城",
+          "longitude": 114.273315,
+          "latitude": 22.291927,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "機場快綫",
+      "locations": [
+        {
+          "name": "香港",
+          "longitude": 114.16293,
+          "latitude": 22.282038,
+          "radius": ""
+        },
+        {
+          "name": "九龍",
+          "longitude": 114.166664,
+          "latitude": 22.302074,
+          "radius": ""
+        },
+        {
+          "name": "青衣",
+          "longitude": 114.11267,
+          "latitude": 22.355751,
+          "radius": ""
+        },
+        {
+          "name": "機場",
+          "longitude": 113.94162,
+          "latitude": 22.312464,
+          "radius": ""
+        },
+        {
+          "name": "博覽館",
+          "longitude": 113.948006,
+          "latitude": 22.319283,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "迪士尼綫",
+      "locations": [
+        {
+          "name": "欣澳",
+          "longitude": 114.03355,
+          "latitude": 22.329212,
+          "radius": ""
+        },
+        {
+          "name": "迪士尼",
+          "longitude": 114.05013,
+          "latitude": 22.312899,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "港島綫",
+      "locations": [
+        {
+          "name": "柴灣",
+          "longitude": 114.241974,
+          "latitude": 22.261616,
+          "radius": ""
+        },
+        {
+          "name": "杏花邨",
+          "longitude": 114.24491,
+          "latitude": 22.273851,
+          "radius": ""
+        },
+        {
+          "name": "筲箕灣",
+          "longitude": 114.23406,
+          "latitude": 22.276707,
+          "radius": ""
+        },
+        {
+          "name": "西灣河",
+          "longitude": 114.22718,
+          "latitude": 22.2793,
+          "radius": ""
+        },
+        {
+          "name": "太古",
+          "longitude": 114.22092,
+          "latitude": 22.281975,
+          "radius": ""
+        },
+        {
+          "name": "鰂魚涌",
+          "longitude": 114.21358,
+          "latitude": 22.286144,
+          "radius": ""
+        },
+        {
+          "name": "北角",
+          "longitude": 114.20547,
+          "latitude": 22.28827,
+          "radius": ""
+        },
+        {
+          "name": "炮臺山",
+          "longitude": 114.19864,
+          "latitude": 22.285463,
+          "radius": ""
+        },
+        {
+          "name": "天后",
+          "longitude": 114.19678,
+          "latitude": 22.279892,
+          "radius": ""
+        },
+        {
+          "name": "銅鑼灣",
+          "longitude": 114.18855,
+          "latitude": 22.277443,
+          "radius": ""
+        },
+        {
+          "name": "灣仔",
+          "longitude": 114.17806,
+          "latitude": 22.274597,
+          "radius": ""
+        },
+        {
+          "name": "金鐘",
+          "longitude": 114.17047,
+          "latitude": 22.27645,
+          "radius": ""
+        },
+        {
+          "name": "中環",
+          "longitude": 114.164024,
+          "latitude": 22.278841,
+          "radius": ""
+        },
+        {
+          "name": "上環",
+          "longitude": 114.15783,
+          "latitude": 22.283924,
+          "radius": ""
+        },
+        {
+          "name": "西營盤",
+          "longitude": 114.148735,
+          "latitude": 22.283466,
+          "radius": ""
+        },
+        {
+          "name": "香港大學",
+          "longitude": 114.14116,
+          "latitude": 22.281975,
+          "radius": ""
+        },
+        {
+          "name": "堅尼地城",
+          "longitude": 114.134026,
+          "latitude": 22.278576,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "觀塘綫",
+      "locations": [
+        {
+          "name": "調景嶺",
+          "longitude": 114.25701,
+          "latitude": 22.301191,
+          "radius": ""
+        },
+        {
+          "name": "油塘",
+          "longitude": 114.241936,
+          "latitude": 22.295067,
+          "radius": ""
+        },
+        {
+          "name": "藍田",
+          "longitude": 114.23781,
+          "latitude": 22.303732,
+          "radius": ""
+        },
+        {
+          "name": "觀塘",
+          "longitude": 114.23127,
+          "latitude": 22.30943,
+          "radius": ""
+        },
+        {
+          "name": "牛頭角",
+          "longitude": 114.2241,
+          "latitude": 22.31273,
+          "radius": ""
+        },
+        {
+          "name": "九龍灣",
+          "longitude": 114.2188,
+          "latitude": 22.320642,
+          "radius": ""
+        },
+        {
+          "name": "彩虹",
+          "longitude": 114.21408,
+          "latitude": 22.332302,
+          "radius": ""
+        },
+        {
+          "name": "鑽石山",
+          "longitude": 114.20621,
+          "latitude": 22.337372,
+          "radius": ""
+        },
+        {
+          "name": "黃大仙",
+          "longitude": 114.19871,
+          "latitude": 22.338898,
+          "radius": ""
+        },
+        {
+          "name": "樂富",
+          "longitude": 114.1922,
+          "latitude": 22.335276,
+          "radius": ""
+        },
+        {
+          "name": "九龍塘",
+          "longitude": 114.18079,
+          "latitude": 22.334242,
+          "radius": ""
+        },
+        {
+          "name": "石硤尾",
+          "longitude": 114.17384,
+          "latitude": 22.32934,
+          "radius": ""
+        },
+        {
+          "name": "太子",
+          "longitude": 114.173225,
+          "latitude": 22.321941,
+          "radius": ""
+        },
+        {
+          "name": "旺角",
+          "longitude": 114.17428,
+          "latitude": 22.316841,
+          "radius": ""
+        },
+        {
+          "name": "油麻地",
+          "longitude": 114.175674,
+          "latitude": 22.310284,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "荃灣綫",
+      "locations": [
+        {
+          "name": "荃灣",
+          "longitude": 114.122734,
+          "latitude": 22.371092,
+          "radius": ""
+        },
+        {
+          "name": "大窩口",
+          "longitude": 114.13,
+          "latitude": 22.368254,
+          "radius": ""
+        },
+        {
+          "name": "葵興",
+          "longitude": 114.13627,
+          "latitude": 22.360586,
+          "radius": ""
+        },
+        {
+          "name": "葵芳",
+          "longitude": 114.133026,
+          "latitude": 22.354326,
+          "radius": ""
+        },
+        {
+          "name": "荔景",
+          "longitude": 114.13131,
+          "latitude": 22.345732,
+          "radius": ""
+        },
+        {
+          "name": "美孚",
+          "longitude": 114.14245,
+          "latitude": 22.33528,
+          "radius": ""
+        },
+        {
+          "name": "荔枝角",
+          "longitude": 114.15324,
+          "latitude": 22.334656,
+          "radius": ""
+        },
+        {
+          "name": "長沙灣",
+          "longitude": 114.16132,
+          "latitude": 22.332676,
+          "radius": ""
+        },
+        {
+          "name": "深水埗",
+          "longitude": 114.16721,
+          "latitude": 22.32817,
+          "radius": ""
+        },
+        {
+          "name": "太子",
+          "longitude": 114.173225,
+          "latitude": 22.321941,
+          "radius": ""
+        },
+        {
+          "name": "旺角",
+          "longitude": 114.17428,
+          "latitude": 22.316841,
+          "radius": ""
+        },
+        {
+          "name": "油麻地",
+          "longitude": 114.175674,
+          "latitude": 22.310284,
+          "radius": ""
+        },
+        {
+          "name": "佐敦",
+          "longitude": 114.176636,
+          "latitude": 22.302128,
+          "radius": ""
+        },
+        {
+          "name": "尖沙咀",
+          "longitude": 114.1771,
+          "latitude": 22.295162,
+          "radius": ""
+        },
+        {
+          "name": "金鐘",
+          "longitude": 114.17047,
+          "latitude": 22.27645,
+          "radius": ""
+        },
+        {
+          "name": "中環",
+          "longitude": 114.164024,
+          "latitude": 22.278841,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "馬鞍山綫",
+      "locations": [
+        {
+          "name": "大圍",
+          "longitude": 114.18344,
+          "latitude": 22.370132,
+          "radius": ""
+        },
+        {
+          "name": "車公廟",
+          "longitude": 114.19103,
+          "latitude": 22.372011,
+          "radius": ""
+        },
+        {
+          "name": "沙田圍",
+          "longitude": 114.200035,
+          "latitude": 22.374353,
+          "radius": ""
+        },
+        {
+          "name": "第一城",
+          "longitude": 114.2084,
+          "latitude": 22.380198,
+          "radius": ""
+        },
+        {
+          "name": "石門",
+          "longitude": 114.21324,
+          "latitude": 22.385012,
+          "radius": ""
+        },
+        {
+          "name": "大水坑",
+          "longitude": 114.227684,
+          "latitude": 22.405603,
+          "radius": ""
+        },
+        {
+          "name": "恆安",
+          "longitude": 114.23079,
+          "latitude": 22.415266,
+          "radius": ""
+        },
+        {
+          "name": "馬鞍山",
+          "longitude": 114.236626,
+          "latitude": 22.42202,
+          "radius": ""
+        },
+        {
+          "name": "烏溪沙",
+          "longitude": 114.24887,
+          "latitude": 22.42641,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "東鐵綫",
+      "locations": [
+        {
+          "name": "紅磡",
+          "longitude": 114.18669,
+          "latitude": 22.299994,
+          "radius": ""
+        },
+        {
+          "name": "旺角東",
+          "longitude": 114.17755,
+          "latitude": 22.319551,
+          "radius": ""
+        },
+        {
+          "name": "九龍塘",
+          "longitude": 114.18079,
+          "latitude": 22.334242,
+          "radius": ""
+        },
+        {
+          "name": "大圍",
+          "longitude": 114.18344,
+          "latitude": 22.370132,
+          "radius": ""
+        },
+        {
+          "name": "沙田",
+          "longitude": 114.19194,
+          "latitude": 22.379293,
+          "radius": ""
+        },
+        {
+          "name": "火炭",
+          "longitude": 114.20297,
+          "latitude": 22.392208,
+          "radius": ""
+        },
+        {
+          "name": "大學",
+          "longitude": 114.214874,
+          "latitude": 22.410545,
+          "radius": ""
+        },
+        {
+          "name": "大埔墟",
+          "longitude": 114.17537,
+          "latitude": 22.441925,
+          "radius": ""
+        },
+        {
+          "name": "太和",
+          "longitude": 114.16619,
+          "latitude": 22.44825,
+          "radius": ""
+        },
+        {
+          "name": "粉嶺",
+          "longitude": 114.14398,
+          "latitude": 22.48928,
+          "radius": ""
+        },
+        {
+          "name": "上水",
+          "longitude": 114.132614,
+          "latitude": 22.49901,
+          "radius": ""
+        },
+        {
+          "name": "羅湖",
+          "longitude": 114.11813,
+          "latitude": 22.526314,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "東鐵支綫",
+      "locations": [
+        {
+          "name": "落馬洲",
+          "longitude": 114.07081,
+          "latitude": 22.511753,
+          "radius": ""
+        },
+        {
+          "name": "上水",
+          "longitude": 114.132614,
+          "latitude": 22.49901,
+          "radius": ""
+        },
+        {
+          "name": "粉嶺",
+          "longitude": 114.14398,
+          "latitude": 22.48928,
+          "radius": ""
+        },
+        {
+          "name": "太和",
+          "longitude": 114.16619,
+          "latitude": 22.44825,
+          "radius": ""
+        },
+        {
+          "name": "大埔墟",
+          "longitude": 114.17537,
+          "latitude": 22.441925,
+          "radius": ""
+        },
+        {
+          "name": "大學",
+          "longitude": 114.214874,
+          "latitude": 22.410545,
+          "radius": ""
+        },
+        {
+          "name": "火炭",
+          "longitude": 114.20297,
+          "latitude": 22.392208,
+          "radius": ""
+        },
+        {
+          "name": "沙田",
+          "longitude": 114.19194,
+          "latitude": 22.379293,
+          "radius": ""
+        },
+        {
+          "name": "大圍",
+          "longitude": 114.18344,
+          "latitude": 22.370132,
+          "radius": ""
+        },
+        {
+          "name": "九龍塘",
+          "longitude": 114.18079,
+          "latitude": 22.334242,
+          "radius": ""
+        },
+        {
+          "name": "旺角東",
+          "longitude": 114.17755,
+          "latitude": 22.319551,
+          "radius": ""
+        },
+        {
+          "name": "紅磡",
+          "longitude": 114.18669,
+          "latitude": 22.299994,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "西鐵綫",
+      "locations": [
+        {
+          "name": "紅磡",
+          "longitude": 114.18669,
+          "latitude": 22.299994,
+          "radius": ""
+        },
+        {
+          "name": "尖東",
+          "longitude": 114.17984,
+          "latitude": 22.292824,
+          "radius": ""
+        },
+        {
+          "name": "柯士甸",
+          "longitude": 114.17141,
+          "latitude": 22.302116,
+          "radius": ""
+        },
+        {
+          "name": "南昌",
+          "longitude": 114.15853,
+          "latitude": 22.323929,
+          "radius": ""
+        },
+        {
+          "name": "美孚",
+          "longitude": 114.141426,
+          "latitude": 22.336124,
+          "radius": ""
+        },
+        {
+          "name": "荃灣西",
+          "longitude": 114.11486,
+          "latitude": 22.366074,
+          "radius": ""
+        },
+        {
+          "name": "錦上路",
+          "longitude": 114.068504,
+          "latitude": 22.432323,
+          "radius": ""
+        },
+        {
+          "name": "元朗",
+          "longitude": 114.039795,
+          "latitude": 22.443342,
+          "radius": ""
+        },
+        {
+          "name": "朗屏",
+          "longitude": 114.03021,
+          "latitude": 22.44474,
+          "radius": ""
+        },
+        {
+          "name": "天水圍",
+          "longitude": 114.00985,
+          "latitude": 22.44551,
+          "radius": ""
+        },
+        {
+          "name": "兆康",
+          "longitude": 113.98365,
+          "latitude": 22.409168,
+          "radius": ""
+        },
+        {
+          "name": "屯門",
+          "longitude": 113.978226,
+          "latitude": 22.392336,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "東涌綫",
+      "locations": [
+        {
+          "name": "東涌",
+          "longitude": 113.94624,
+          "latitude": 22.286438,
+          "radius": ""
+        },
+        {
+          "name": "欣澳",
+          "longitude": 114.03355,
+          "latitude": 22.329206,
+          "radius": ""
+        },
+        {
+          "name": "青衣",
+          "longitude": 114.11267,
+          "latitude": 22.355751,
+          "radius": ""
+        },
+        {
+          "name": "荔景",
+          "longitude": 114.13131,
+          "latitude": 22.345732,
+          "radius": ""
+        },
+        {
+          "name": "南昌",
+          "longitude": 114.15853,
+          "latitude": 22.323929,
+          "radius": ""
+        },
+        {
+          "name": "奧運",
+          "longitude": 114.1652,
+          "latitude": 22.315132,
+          "radius": ""
+        },
+        {
+          "name": "九龍",
+          "longitude": 114.166664,
+          "latitude": 22.302074,
+          "radius": ""
+        },
+        {
+          "name": "香港",
+          "longitude": 114.16293,
+          "latitude": 22.282038,
+          "radius": ""
+        }
+      ]
+    }
+  ],
+  "landMarks": [
+    {
+      "name": "中西区",
+      "locations": [
+        {
+          "name": "香港医学博物馆",
+          "longitude": 114.15336,
+          "latitude": 22.28058,
+          "radius": ""
+        },
+        {
+          "name": "香港太平山顶",
+          "longitude": 114.1574,
+          "latitude": 22.26294,
+          "radius": ""
+        },
+        {
+          "name": "摩星岭炮台",
+          "longitude": 114.1265,
+          "latitude": 22.27431,
+          "radius": ""
+        },
+        {
+          "name": "苏豪区",
+          "longitude": 114.15741,
+          "latitude": 22.28023,
+          "radius": ""
+        },
+        {
+          "name": "会督府",
+          "longitude": 114.16047,
+          "latitude": 22.27705,
+          "radius": ""
+        },
+        {
+          "name": "太平山狮子亭",
+          "longitude": 114.15573,
+          "latitude": 22.2683,
+          "radius": ""
+        },
+        {
+          "name": "梁基浩堂",
+          "longitude": 114.13695,
+          "latitude": 22.27788,
+          "radius": ""
+        },
+        {
+          "name": "香港海事博物馆",
+          "longitude": 114.1667,
+          "latitude": 22.28387,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "东区",
+      "locations": [
+        {
+          "name": "香港海防博物馆",
+          "longitude": 114.24027,
+          "latitude": 22.27896,
+          "radius": ""
+        },
+        {
+          "name": "罗屋民俗馆",
+          "longitude": 114.24049,
+          "latitude": 22.26138,
+          "radius": ""
+        },
+        {
+          "name": "港岛东体育馆",
+          "longitude": 114.22695,
+          "latitude": 22.28189,
+          "radius": ""
+        },
+        {
+          "name": "石澳郊野公园",
+          "longitude": 114.23598,
+          "latitude": 22.2534,
+          "radius": ""
+        },
+        {
+          "name": "柴湾体育馆",
+          "longitude": 114.24468,
+          "latitude": 22.26235,
+          "radius": ""
+        },
+        {
+          "name": "太上老君庙",
+          "longitude": 114.24594,
+          "latitude": 22.2605,
+          "radius": ""
+        },
+        {
+          "name": "将军石",
+          "longitude": 114.22909,
+          "latitude": 22.26845,
+          "radius": ""
+        },
+        {
+          "name": "玄都岩",
+          "longitude": 114.2458,
+          "latitude": 22.26064,
+          "radius": ""
+        },
+        {
+          "name": "鲤鱼门炮台",
+          "longitude": 114.24069,
+          "latitude": 22.27834,
+          "radius": ""
+        },
+        {
+          "name": "六英吋隐没式大炮",
+          "longitude": 114.24027,
+          "latitude": 22.27896,
+          "radius": ""
+        },
+        {
+          "name": "小西湾运动场",
+          "longitude": 114.25386,
+          "latitude": 22.26462,
+          "radius": ""
+        },
+        {
+          "name": "警官会所",
+          "longitude": 114.1881,
+          "latitude": 22.28082,
+          "radius": ""
+        },
+        {
+          "name": "杏花村俱乐部",
+          "longitude": 114.24548,
+          "latitude": 22.27503,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "九龙城区",
+      "locations": [
+        {
+          "name": "何文田体育馆",
+          "longitude": 114.18585,
+          "latitude": 22.30884,
+          "radius": ""
+        },
+        {
+          "name": "牛棚艺术村",
+          "longitude": 114.19647,
+          "latitude": 22.31805,
+          "radius": ""
+        },
+        {
+          "name": "土瓜湾体育馆",
+          "longitude": 114.19532,
+          "latitude": 22.31633,
+          "radius": ""
+        },
+        {
+          "name": "天光道运动场",
+          "longitude": 114.1897,
+          "latitude": 22.31971,
+          "radius": ""
+        },
+        {
+          "name": "九龙塘会",
+          "longitude": 114.18334,
+          "latitude": 22.32648,
+          "radius": ""
+        },
+        {
+          "name": "大环山游泳池",
+          "longitude": 114.19712,
+          "latitude": 22.30228,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "观塘区",
+      "locations": [
+        {
+          "name": "九龙湾体育馆",
+          "longitude": 114.21595,
+          "latitude": 22.32402,
+          "radius": ""
+        },
+        {
+          "name": "晓光街体育馆",
+          "longitude": 114.23249,
+          "latitude": 22.31666,
+          "radius": ""
+        },
+        {
+          "name": "九龙湾运动场",
+          "longitude": 114.21449,
+          "latitude": 22.32378,
+          "radius": ""
+        },
+        {
+          "name": "零碳天地",
+          "longitude": 114.21321,
+          "latitude": 22.31824,
+          "radius": ""
+        },
+        {
+          "name": "天后宫",
+          "longitude": 114.2445,
+          "latitude": 22.28392,
+          "radius": ""
+        },
+        {
+          "name": "鲤鱼门许愿树",
+          "longitude": 114.24158,
+          "latitude": 22.28546,
+          "radius": ""
+        },
+        {
+          "name": "蓝田南体育馆",
+          "longitude": 114.24361,
+          "latitude": 22.30113,
+          "radius": ""
+        },
+        {
+          "name": "mcl德福戏院(德福广场店)",
+          "longitude": 114.2171,
+          "latitude": 22.31996,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "南区",
+      "locations": [
+        {
+          "name": "惩教博物馆",
+          "longitude": 114.22248,
+          "latitude": 22.2137,
+          "radius": ""
+        },
+        {
+          "name": "浅水湾海滩",
+          "longitude": 114.20123,
+          "latitude": 22.23428,
+          "radius": ""
+        },
+        {
+          "name": "石澳海滩",
+          "longitude": 114.25523,
+          "latitude": 22.22538,
+          "radius": ""
+        },
+        {
+          "name": "赤柱炮台",
+          "longitude": 114.21933,
+          "latitude": 22.202,
+          "radius": ""
+        },
+        {
+          "name": "赤柱酒吧街",
+          "longitude": 114.2161,
+          "latitude": 22.21599,
+          "radius": ""
+        },
+        {
+          "name": "黄竹坑体育馆",
+          "longitude": 114.17792,
+          "latitude": 22.24712,
+          "radius": ""
+        },
+        {
+          "name": "王泽森水运中心",
+          "longitude": 114.22051,
+          "latitude": 22.20905,
+          "radius": ""
+        },
+        {
+          "name": "包玉刚游泳池",
+          "longitude": 114.17097,
+          "latitude": 22.24286,
+          "radius": ""
+        },
+        {
+          "name": "香港乡村俱乐部",
+          "longitude": 114.18304,
+          "latitude": 22.24291,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "深水埗区",
+      "locations": [
+        {
+          "name": "长沙湾体育馆",
+          "longitude": 114.15878,
+          "latitude": 22.33517,
+          "radius": ""
+        },
+        {
+          "name": "深水埗运动场",
+          "longitude": 114.15704,
+          "latitude": 22.33315,
+          "radius": ""
+        },
+        {
+          "name": "黄大仙祠",
+          "longitude": 114.15751,
+          "latitude": 22.33957,
+          "radius": ""
+        },
+        {
+          "name": "员警体育会会馆",
+          "longitude": 114.17337,
+          "latitude": 22.32433,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湾仔区",
+      "locations": [
+        {
+          "name": "香港大球场",
+          "longitude": 114.1934,
+          "latitude": 22.27026,
+          "radius": ""
+        },
+        {
+          "name": "警队博物馆",
+          "longitude": 114.1737,
+          "latitude": 22.26485,
+          "radius": ""
+        },
+        {
+          "name": "港湾道体育馆",
+          "longitude": 114.18122,
+          "latitude": 22.2786,
+          "radius": ""
+        },
+        {
+          "name": "保良局运动场",
+          "longitude": 114.19015,
+          "latitude": 22.2729,
+          "radius": ""
+        },
+        {
+          "name": "港岛径",
+          "longitude": 114.20285,
+          "latitude": 22.25534,
+          "radius": ""
+        },
+        {
+          "name": "伊利沙伯体育馆",
+          "longitude": 114.18386,
+          "latitude": 22.27261,
+          "radius": ""
+        },
+        {
+          "name": "南华体育中心",
+          "longitude": 114.19167,
+          "latitude": 22.27307,
+          "radius": ""
+        },
+        {
+          "name": "摩利臣山游泳池",
+          "longitude": 114.18323,
+          "latitude": 22.2736,
+          "radius": ""
+        },
+        {
+          "name": "扫杆埔运动场",
+          "longitude": 114.19354,
+          "latitude": 22.27286,
+          "radius": ""
+        },
+        {
+          "name": "纪利华木球会",
+          "longitude": 114.1875,
+          "latitude": 22.27316,
+          "radius": ""
+        },
+        {
+          "name": "铜锣湾运动场",
+          "longitude": 114.19539,
+          "latitude": 22.27826,
+          "radius": ""
+        },
+        {
+          "name": "湾仔运动场",
+          "longitude": 114.18251,
+          "latitude": 22.27766,
+          "radius": ""
+        },
+        {
+          "name": "宝觉义学何东运动场",
+          "longitude": 114.19027,
+          "latitude": 22.26444,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "黄大仙区",
+      "locations": [
+        {
+          "name": "牛池湾体育馆",
+          "longitude": 114.21447,
+          "latitude": 22.33163,
+          "radius": ""
+        },
+        {
+          "name": "彩虹道体育馆",
+          "longitude": 114.20135,
+          "latitude": 22.33432,
+          "radius": ""
+        },
+        {
+          "name": "东启德体育馆",
+          "longitude": 114.20538,
+          "latitude": 22.3337,
+          "radius": ""
+        },
+        {
+          "name": "慈峰岩",
+          "longitude": 114.2021,
+          "latitude": 22.34743,
+          "radius": ""
+        },
+        {
+          "name": "蒲岗村道体育馆",
+          "longitude": 114.20629,
+          "latitude": 22.34321,
+          "radius": ""
+        },
+        {
+          "name": "基督教使徒信心会",
+          "longitude": 114.19107,
+          "latitude": 22.33546,
+          "radius": ""
+        },
+        {
+          "name": "竹园体育馆",
+          "longitude": 114.19861,
+          "latitude": 22.34266,
+          "radius": ""
+        },
+        {
+          "name": "斧山道游泳池",
+          "longitude": 114.21198,
+          "latitude": 22.33451,
+          "radius": ""
+        },
+        {
+          "name": "斧山道运动场",
+          "longitude": 114.21158,
+          "latitude": 22.33605,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "油尖旺区",
+      "locations": [
+        {
+          "name": "界限街二号体育馆",
+          "longitude": 114.17561,
+          "latitude": 22.32289,
+          "radius": ""
+        },
+        {
+          "name": "香港理工大学李格致体育馆",
+          "longitude": 114.18392,
+          "latitude": 22.3024,
+          "radius": ""
+        },
+        {
+          "name": "界限街一号体育馆",
+          "longitude": 114.17561,
+          "latitude": 22.32289,
+          "radius": ""
+        },
+        {
+          "name": "香港历史博物馆",
+          "longitude": 114.18195,
+          "latitude": 22.29864,
+          "radius": ""
+        },
+        {
+          "name": "油尖区康乐体育会",
+          "longitude": 114.17593,
+          "latitude": 22.31194,
+          "radius": ""
+        },
+        {
+          "name": "1881 Heritage",
+          "longitude": 114.17499,
+          "latitude": 22.29249,
+          "radius": ""
+        },
+        {
+          "name": "花园街体育馆",
+          "longitude": 114.17554,
+          "latitude": 22.31798,
+          "radius": ""
+        },
+        {
+          "name": "香港体育馆",
+          "longitude": 114.18703,
+          "latitude": 22.29864,
+          "radius": ""
+        },
+        {
+          "name": "庙街夜市",
+          "longitude": 114.17472,
+          "latitude": 22.30279,
+          "radius": ""
+        },
+        {
+          "name": "雷生春",
+          "longitude": 114.16996,
+          "latitude": 22.32221,
+          "radius": ""
+        },
+        {
+          "name": "维多利亚港",
+          "longitude": 114.18149,
+          "latitude": 22.29301,
+          "radius": ""
+        },
+        {
+          "name": "西洋菜街",
+          "longitude": 114.17527,
+          "latitude": 22.31505,
+          "radius": ""
+        },
+        {
+          "name": "前九龙英童学校",
+          "longitude": 114.17699,
+          "latitude": 22.29883,
+          "radius": ""
+        },
+        {
+          "name": "香港国际玩具博物馆",
+          "longitude": 114.17471,
+          "latitude": 22.30919,
+          "radius": ""
+        },
+        {
+          "name": "麦花臣游乐场",
+          "longitude": 114.17706,
+          "latitude": 22.31535,
+          "radius": ""
+        },
+        {
+          "name": "天天游戏机中心",
+          "longitude": 114.17498,
+          "latitude": 22.30176,
+          "radius": ""
+        },
+        {
+          "name": "油麻地戏院",
+          "longitude": 114.17419,
+          "latitude": 22.30985,
+          "radius": ""
+        },
+        {
+          "name": "九龙木球会球场",
+          "longitude": 114.17848,
+          "latitude": 22.30229,
+          "radius": ""
+        },
+        {
+          "name": "林百欣中心",
+          "longitude": 114.16843,
+          "latitude": 22.31863,
+          "radius": ""
+        },
+        {
+          "name": "西洋波会球场",
+          "longitude": 114.18055,
+          "latitude": 22.3042,
+          "radius": ""
+        },
+        {
+          "name": "京士柏曲棍球场",
+          "longitude": 114.18207,
+          "latitude": 22.30419,
+          "radius": ""
+        },
+        {
+          "name": "鸦打街临时游乐场",
+          "longitude": 114.17581,
+          "latitude": 22.30761,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "离岛区",
+      "locations": [
+        {
+          "name": "亚洲国际博览馆Arena",
+          "longitude": 113.94945,
+          "latitude": 22.31904,
+          "radius": ""
+        },
+        {
+          "name": "大澳渔村及棚屋",
+          "longitude": 113.86665,
+          "latitude": 22.24989,
+          "radius": ""
+        },
+        {
+          "name": "南丫岛",
+          "longitude": 114.13953,
+          "latitude": 22.19577,
+          "radius": ""
+        },
+        {
+          "name": "大屿山东涌小炮台",
+          "longitude": 113.94078,
+          "latitude": 22.28501,
+          "radius": ""
+        },
+        {
+          "name": "大澳大会堂",
+          "longitude": 113.86373,
+          "latitude": 22.2523,
+          "radius": ""
+        },
+        {
+          "name": "大屿山石璧石刻",
+          "longitude": 113.90174,
+          "latitude": 22.22148,
+          "radius": ""
+        },
+        {
+          "name": "北大屿郊野公园",
+          "longitude": 113.97024,
+          "latitude": 22.2683,
+          "radius": ""
+        },
+        {
+          "name": "坪洲体育馆",
+          "longitude": 114.04298,
+          "latitude": 22.28212,
+          "radius": ""
+        },
+        {
+          "name": "东涌游泳池",
+          "longitude": 113.94349,
+          "latitude": 22.28629,
+          "radius": ""
+        },
+        {
+          "name": "DISCOVERY BAY MARINA CLUB",
+          "longitude": 114.02854,
+          "latitude": 22.29013,
+          "radius": ""
+        },
+        {
+          "name": "佛教青年康乐营",
+          "longitude": 113.95115,
+          "latitude": 22.285,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "葵青区",
+      "locations": [
+        {
+          "name": "林士德体育馆",
+          "longitude": 114.13503,
+          "latitude": 22.35869,
+          "radius": ""
+        },
+        {
+          "name": "大窝口体育馆",
+          "longitude": 114.13007,
+          "latitude": 22.36744,
+          "radius": ""
+        },
+        {
+          "name": "北葵涌体育中心",
+          "longitude": 114.14159,
+          "latitude": 22.37034,
+          "radius": ""
+        },
+        {
+          "name": "淳风仙观",
+          "longitude": 114.1489,
+          "latitude": 22.36421,
+          "radius": ""
+        },
+        {
+          "name": "北葵涌邓肇坚体育馆",
+          "longitude": 114.14155,
+          "latitude": 22.37172,
+          "radius": ""
+        },
+        {
+          "name": "葵青剧院",
+          "longitude": 114.13177,
+          "latitude": 22.35403,
+          "radius": ""
+        },
+        {
+          "name": "葵涌运动场",
+          "longitude": 114.13088,
+          "latitude": 22.35522,
+          "radius": ""
+        },
+        {
+          "name": "招积堡",
+          "longitude": 114.12791,
+          "latitude": 22.3661,
+          "radius": ""
+        },
+        {
+          "name": "葵盛游泳池",
+          "longitude": 114.12769,
+          "latitude": 22.3561,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "北区",
+      "locations": [
+        {
+          "name": "和兴体育馆",
+          "longitude": 114.14772,
+          "latitude": 22.48199,
+          "radius": ""
+        },
+        {
+          "name": "龙跃头文物径",
+          "longitude": 114.15368,
+          "latitude": 22.50429,
+          "radius": ""
+        },
+        {
+          "name": "龙琛路体育馆",
+          "longitude": 114.13569,
+          "latitude": 22.50217,
+          "radius": ""
+        },
+        {
+          "name": "上水廖万石堂",
+          "longitude": 114.1289,
+          "latitude": 22.50766,
+          "radius": ""
+        },
+        {
+          "name": "保荣路体育馆",
+          "longitude": 114.13338,
+          "latitude": 22.49454,
+          "radius": ""
+        },
+        {
+          "name": "粉岭游泳池",
+          "longitude": 114.14118,
+          "latitude": 22.49236,
+          "radius": ""
+        },
+        {
+          "name": "北区运动场",
+          "longitude": 114.13475,
+          "latitude": 22.50462,
+          "radius": ""
+        },
+        {
+          "name": "粉岭新城市壁球场",
+          "longitude": 114.1414,
+          "latitude": 22.49244,
+          "radius": ""
+        },
+        {
+          "name": "新星游戏机中心",
+          "longitude": 114.13399,
+          "latitude": 22.50109,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "西贡区",
+      "locations": [
+        {
+          "name": "将军澳体育馆",
+          "longitude": 114.26419,
+          "latitude": 22.31481,
+          "radius": ""
+        },
+        {
+          "name": "将军澳运动场",
+          "longitude": 114.26714,
+          "latitude": 22.3091,
+          "radius": ""
+        },
+        {
+          "name": "孟公屋",
+          "longitude": 114.28175,
+          "latitude": 22.31075,
+          "radius": ""
+        },
+        {
+          "name": "纪念碑",
+          "longitude": 114.38342,
+          "latitude": 22.35621,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 114.22629,
+          "latitude": 22.34945,
+          "radius": ""
+        },
+        {
+          "name": "西贡市中心",
+          "longitude": 114.2781,
+          "latitude": 22.37788,
+          "radius": ""
+        },
+        {
+          "name": "西贡户外康乐中心",
+          "longitude": 114.27054,
+          "latitude": 22.37358,
+          "radius": ""
+        },
+        {
+          "name": "狮子会自然教育中心",
+          "longitude": 114.26828,
+          "latitude": 22.37219,
+          "radius": ""
+        },
+        {
+          "name": "好运游戏机中心",
+          "longitude": 114.27651,
+          "latitude": 22.37784,
+          "radius": ""
+        },
+        {
+          "name": "香港游艇会",
+          "longitude": 114.27293,
+          "latitude": 22.36688,
+          "radius": ""
+        },
+        {
+          "name": "西贡壁球场",
+          "longitude": 114.27962,
+          "latitude": 22.38055,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沙田区",
+      "locations": [
+        {
+          "name": "沙田运动场",
+          "longitude": 114.20096,
+          "latitude": 22.38404,
+          "radius": ""
+        },
+        {
+          "name": "源禾路体育馆",
+          "longitude": 114.19735,
+          "latitude": 22.38014,
+          "radius": ""
+        },
+        {
+          "name": "香港文化博物馆",
+          "longitude": 114.19015,
+          "latitude": 22.3748,
+          "radius": ""
+        },
+        {
+          "name": "曾大屋",
+          "longitude": 114.19561,
+          "latitude": 22.37078,
+          "radius": ""
+        },
+        {
+          "name": "地藏殿",
+          "longitude": 114.1898,
+          "latitude": 22.38545,
+          "radius": ""
+        },
+        {
+          "name": "狮子亭",
+          "longitude": 114.19461,
+          "latitude": 22.3883,
+          "radius": ""
+        },
+        {
+          "name": "马鞍台街市",
+          "longitude": 114.24105,
+          "latitude": 22.42014,
+          "radius": ""
+        },
+        {
+          "name": "沙田大会堂",
+          "longitude": 114.19525,
+          "latitude": 22.37835,
+          "radius": ""
+        },
+        {
+          "name": "马鞍山运动场",
+          "longitude": 114.23229,
+          "latitude": 22.41823,
+          "radius": ""
+        },
+        {
+          "name": "香港划艇协会赛马会石门划艇中心",
+          "longitude": 114.21465,
+          "latitude": 22.39398,
+          "radius": ""
+        },
+        {
+          "name": "沙田划艇中心",
+          "longitude": 114.20564,
+          "latitude": 22.38779,
+          "radius": ""
+        },
+        {
+          "name": "突破青年村",
+          "longitude": 114.22257,
+          "latitude": 22.39531,
+          "radius": ""
+        },
+        {
+          "name": "牛皮沙街游乐场",
+          "longitude": 114.21085,
+          "latitude": 22.37932,
+          "radius": ""
+        },
+        {
+          "name": "沙田赛马会游泳池",
+          "longitude": 114.19794,
+          "latitude": 22.38103,
+          "radius": ""
+        },
+        {
+          "name": "沙田赛马会公众壁球场",
+          "longitude": 114.19861,
+          "latitude": 22.38188,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "屯门区",
+      "locations": [
+        {
+          "name": "友爱体育馆",
+          "longitude": 113.97641,
+          "latitude": 22.38251,
+          "radius": ""
+        },
+        {
+          "name": "赛马会屯门蝴蝶湾体育馆",
+          "longitude": 113.96963,
+          "latitude": 22.37575,
+          "radius": ""
+        },
+        {
+          "name": "红楼",
+          "longitude": 113.96578,
+          "latitude": 22.37448,
+          "radius": ""
+        },
+        {
+          "name": "大兴体育馆壁球场",
+          "longitude": 113.97874,
+          "latitude": 22.40023,
+          "radius": ""
+        },
+        {
+          "name": "屯门大会堂",
+          "longitude": 113.98202,
+          "latitude": 22.38868,
+          "radius": ""
+        },
+        {
+          "name": "仁爱堂赛马会社区及体育中心",
+          "longitude": 113.98056,
+          "latitude": 22.39326,
+          "radius": ""
+        },
+        {
+          "name": "屯门康乐体育中心",
+          "longitude": 113.9677,
+          "latitude": 22.37938,
+          "radius": ""
+        },
+        {
+          "name": "兆麟运动场",
+          "longitude": 113.98348,
+          "latitude": 22.38223,
+          "radius": ""
+        },
+        {
+          "name": "屯门游泳池",
+          "longitude": 113.9751,
+          "latitude": 22.38067,
+          "radius": ""
+        },
+        {
+          "name": "屯门邓肇坚运动场",
+          "longitude": 113.97947,
+          "latitude": 22.40145,
+          "radius": ""
+        },
+        {
+          "name": "黄金海岸游艇会",
+          "longitude": 113.99824,
+          "latitude": 22.36836,
+          "radius": ""
+        },
+        {
+          "name": "天后庙",
+          "longitude": 114.02437,
+          "latitude": 22.35708,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大埔区",
+      "locations": [
+        {
+          "name": "大埔体育馆",
+          "longitude": 114.1698,
+          "latitude": 22.45258,
+          "radius": ""
+        },
+        {
+          "name": "人类民俗馆",
+          "longitude": 114.19418,
+          "latitude": 22.43298,
+          "radius": ""
+        },
+        {
+          "name": "大埔体育会李福林体育馆",
+          "longitude": 114.17225,
+          "latitude": 22.45097,
+          "radius": ""
+        },
+        {
+          "name": "大埔运动场",
+          "longitude": 114.16796,
+          "latitude": 22.45319,
+          "radius": ""
+        },
+        {
+          "name": "水浪窝观星台",
+          "longitude": 114.28193,
+          "latitude": 22.40208,
+          "radius": ""
+        },
+        {
+          "name": "林村许愿树",
+          "longitude": 114.14679,
+          "latitude": 22.45397,
+          "radius": ""
+        },
+        {
+          "name": "大埔瞭望台",
+          "longitude": 114.1987,
+          "latitude": 22.43226,
+          "radius": ""
+        },
+        {
+          "name": "大埔上碗窑武帝殿",
+          "longitude": 114.16868,
+          "latitude": 22.43335,
+          "radius": ""
+        },
+        {
+          "name": "香港铁路博物馆",
+          "longitude": 114.16948,
+          "latitude": 22.44498,
+          "radius": ""
+        },
+        {
+          "name": "香港教育学院运动中心",
+          "longitude": 114.20517,
+          "latitude": 22.4288,
+          "radius": ""
+        },
+        {
+          "name": "广福球场",
+          "longitude": 114.17602,
+          "latitude": 22.44455,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "荃湾区",
+      "locations": [
+        {
+          "name": "三栋屋博物馆",
+          "longitude": 114.12521,
+          "latitude": 22.36934,
+          "radius": ""
+        },
+        {
+          "name": "扶轮公园",
+          "longitude": 114.11228,
+          "latitude": 22.40068,
+          "radius": ""
+        },
+        {
+          "name": "芙蓉山",
+          "longitude": 114.12249,
+          "latitude": 22.37756,
+          "radius": ""
+        },
+        {
+          "name": "乾元洞",
+          "longitude": 114.13103,
+          "latitude": 22.37852,
+          "radius": ""
+        },
+        {
+          "name": "陈氏家祠",
+          "longitude": 114.06454,
+          "latitude": 22.34945,
+          "radius": ""
+        },
+        {
+          "name": "荃湾西约体育馆",
+          "longitude": 114.1055,
+          "latitude": 22.36746,
+          "radius": ""
+        },
+        {
+          "name": "惠荃体育馆",
+          "longitude": 114.12741,
+          "latitude": 22.36937,
+          "radius": ""
+        },
+        {
+          "name": "城门谷运动场",
+          "longitude": 114.13271,
+          "latitude": 22.37344,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "元朗区",
+      "locations": [
+        {
+          "name": "天水围体育馆",
+          "longitude": 114.01202,
+          "latitude": 22.45233,
+          "radius": ""
+        },
+        {
+          "name": "凤琴街体育馆",
+          "longitude": 114.03821,
+          "latitude": 22.44069,
+          "radius": ""
+        },
+        {
+          "name": "米埔自然护理区",
+          "longitude": 114.05171,
+          "latitude": 22.49161,
+          "radius": ""
+        },
+        {
+          "name": "尖鼻咀",
+          "longitude": 114.01461,
+          "latitude": 22.48294,
+          "radius": ""
+        },
+        {
+          "name": "吉庆围",
+          "longitude": 114.06879,
+          "latitude": 22.43695,
+          "radius": ""
+        },
+        {
+          "name": "大夫第",
+          "longitude": 114.08162,
+          "latitude": 22.49723,
+          "radius": ""
+        },
+        {
+          "name": "元朗屏山邓氏宗祠",
+          "longitude": 114.01283,
+          "latitude": 22.44244,
+          "radius": ""
+        },
+        {
+          "name": "元朗屏山聚星楼",
+          "longitude": 114.01134,
+          "latitude": 22.44599,
+          "radius": ""
+        },
+        {
+          "name": "麟峰文公祠",
+          "longitude": 114.0795,
+          "latitude": 22.49709,
+          "radius": ""
+        },
+        {
+          "name": "新围士宏书室",
+          "longitude": 113.99661,
+          "latitude": 22.44836,
+          "radius": ""
+        },
+        {
+          "name": "天水围绿田园",
+          "longitude": 113.99802,
+          "latitude": 22.46142,
+          "radius": ""
+        },
+        {
+          "name": "朗屏体育馆",
+          "longitude": 114.02832,
+          "latitude": 22.4474,
+          "radius": ""
+        },
+        {
+          "name": "元朗剧院",
+          "longitude": 114.0274,
+          "latitude": 22.4387,
+          "radius": ""
+        },
+        {
+          "name": "元朗大球场",
+          "longitude": 114.0269,
+          "latitude": 22.44001,
+          "radius": ""
+        },
+        {
+          "name": "国际骑术中心",
+          "longitude": 114.11366,
+          "latitude": 22.46457,
+          "radius": ""
+        },
+        {
+          "name": "金得旺游戏机中心",
+          "longitude": 114.03399,
+          "latitude": 22.44204,
+          "radius": ""
+        },
+        {
+          "name": "金威游戏机",
+          "longitude": 114.03453,
+          "latitude": 22.43953,
+          "radius": ""
+        },
+        {
+          "name": "元朗罗弼时爵士壁球场",
+          "longitude": 114.02725,
+          "latitude": 22.44419,
+          "radius": ""
+        },
+        {
+          "name": "元朗赛马会壁球场",
+          "longitude": 114.03543,
+          "latitude": 22.43811,
+          "radius": ""
+        },
+        {
+          "name": "元朗体育会馆",
+          "longitude": 114.0271,
+          "latitude": 22.43925,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

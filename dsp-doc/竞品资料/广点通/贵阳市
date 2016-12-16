@@ -1,0 +1,1556 @@
+{
+  "cityName": "贵阳市",
+  "businessCenters": [
+    {
+      "name": "南明区",
+      "locations": [
+        {
+          "name": "市府路",
+          "longitude": 106.71004,
+          "latitude": 26.575514,
+          "radius": "231"
+        },
+        {
+          "name": "中华南路",
+          "longitude": 106.714,
+          "latitude": 26.574123,
+          "radius": "439"
+        },
+        {
+          "name": "河滨",
+          "longitude": 106.70364,
+          "latitude": 26.569933,
+          "radius": "601"
+        },
+        {
+          "name": "新华路",
+          "longitude": 106.71821,
+          "latitude": 26.565817,
+          "radius": "534"
+        },
+        {
+          "name": "西湖路",
+          "longitude": 106.72235,
+          "latitude": 26.571129,
+          "radius": "443"
+        },
+        {
+          "name": "遵义路",
+          "longitude": 106.70777,
+          "latitude": 26.564192,
+          "radius": "744"
+        },
+        {
+          "name": "兴关",
+          "longitude": 106.712814,
+          "latitude": 26.56316,
+          "radius": "386"
+        },
+        {
+          "name": "沙冲",
+          "longitude": 106.702515,
+          "latitude": 26.544117,
+          "radius": "1064"
+        },
+        {
+          "name": "油榨街",
+          "longitude": 106.7355,
+          "latitude": 26.559729,
+          "radius": "490"
+        },
+        {
+          "name": "太慈桥",
+          "longitude": 106.6868,
+          "latitude": 26.55324,
+          "radius": "866"
+        },
+        {
+          "name": "二戈寨",
+          "longitude": 106.7333,
+          "latitude": 26.512856,
+          "radius": "768"
+        }
+      ]
+    },
+    {
+      "name": "云岩区",
+      "locations": [
+        {
+          "name": "头桥",
+          "longitude": 106.69229,
+          "latitude": 26.58235,
+          "radius": "573"
+        },
+        {
+          "name": "威清路",
+          "longitude": 106.70154,
+          "latitude": 26.585611,
+          "radius": "452"
+        },
+        {
+          "name": "北京路",
+          "longitude": 106.707985,
+          "latitude": 26.593393,
+          "radius": "1026"
+        },
+        {
+          "name": "宅吉",
+          "longitude": 106.71243,
+          "latitude": 26.605001,
+          "radius": "877"
+        },
+        {
+          "name": "普陀路",
+          "longitude": 106.71345,
+          "latitude": 26.590939,
+          "radius": "209"
+        },
+        {
+          "name": "黔灵东路",
+          "longitude": 106.71467,
+          "latitude": 26.586876,
+          "radius": "238"
+        },
+        {
+          "name": "延安中路",
+          "longitude": 106.70862,
+          "latitude": 26.583595,
+          "radius": "395"
+        },
+        {
+          "name": "中华中路",
+          "longitude": 106.712975,
+          "latitude": 26.58105,
+          "radius": "396"
+        },
+        {
+          "name": "中山西路",
+          "longitude": 106.70862,
+          "latitude": 26.57774,
+          "radius": "315"
+        },
+        {
+          "name": "中山东路",
+          "longitude": 106.71832,
+          "latitude": 26.578121,
+          "radius": "605"
+        },
+        {
+          "name": "贵乌路",
+          "longitude": 106.721924,
+          "latitude": 26.599194,
+          "radius": "670"
+        },
+        {
+          "name": "市西路",
+          "longitude": 106.70169,
+          "latitude": 26.579397,
+          "radius": "410"
+        },
+        {
+          "name": "三桥",
+          "longitude": 106.66645,
+          "latitude": 26.58358,
+          "radius": "1068"
+        },
+        {
+          "name": "中华北路",
+          "longitude": 106.709564,
+          "latitude": 26.591707,
+          "radius": "715"
+        }
+      ]
+    },
+    {
+      "name": "花溪区",
+      "locations": [
+        {
+          "name": "龙洞堡",
+          "longitude": 106.78635,
+          "latitude": 26.54053,
+          "radius": "1541"
+        },
+        {
+          "name": "中曹",
+          "longitude": 106.67965,
+          "latitude": 26.50158,
+          "radius": "999"
+        },
+        {
+          "name": "石板",
+          "longitude": 106.611534,
+          "latitude": 26.461916,
+          "radius": "1270"
+        },
+        {
+          "name": "青岩",
+          "longitude": 106.69023,
+          "latitude": 26.332026,
+          "radius": "845"
+        }
+      ]
+    },
+    {
+      "name": "乌当区",
+      "locations": [
+        {
+          "name": "新添寨",
+          "longitude": 106.7682,
+          "latitude": 26.63073,
+          "radius": "1369"
+        },
+        {
+          "name": "朱昌",
+          "longitude": 106.55284,
+          "latitude": 26.656454,
+          "radius": "521"
+        },
+        {
+          "name": "水田",
+          "longitude": 106.82394,
+          "latitude": 26.745401,
+          "radius": "757"
+        },
+        {
+          "name": "金华",
+          "longitude": 106.57323,
+          "latitude": 26.57825,
+          "radius": "1086"
+        }
+      ]
+    },
+    {
+      "name": "白云区",
+      "locations": [
+        {
+          "name": "艳山红",
+          "longitude": 106.634,
+          "latitude": 26.67747,
+          "radius": "615"
+        },
+        {
+          "name": "龚家寨",
+          "longitude": 106.65022,
+          "latitude": 26.687504,
+          "radius": "712"
+        }
+      ]
+    },
+    {
+      "name": "开阳县",
+      "locations": [
+        {
+          "name": "双流",
+          "longitude": 106.8562,
+          "latitude": 27.051413,
+          "radius": "466"
+        },
+        {
+          "name": "金中",
+          "longitude": 106.85226,
+          "latitude": 27.112919,
+          "radius": "813"
+        },
+        {
+          "name": "龙岗",
+          "longitude": 107.103294,
+          "latitude": 26.879044,
+          "radius": "1296"
+        },
+        {
+          "name": "冯三",
+          "longitude": 107.00955,
+          "latitude": 27.178862,
+          "radius": "627"
+        },
+        {
+          "name": "环城北路",
+          "longitude": 106.96326,
+          "latitude": 27.063353,
+          "radius": "625"
+        }
+      ]
+    },
+    {
+      "name": "息烽县",
+      "locations": [
+        {
+          "name": "小寨坝",
+          "longitude": 106.729034,
+          "latitude": 27.1666,
+          "radius": "642"
+        },
+        {
+          "name": "温泉",
+          "longitude": 106.84394,
+          "latitude": 27.206226,
+          "radius": "352"
+        },
+        {
+          "name": "九庄",
+          "longitude": 106.520226,
+          "latitude": 27.12724,
+          "radius": "443"
+        }
+      ]
+    },
+    {
+      "name": "修文县",
+      "locations": [
+        {
+          "name": "久长",
+          "longitude": 106.69509,
+          "latitude": 26.92962,
+          "radius": "998"
+        },
+        {
+          "name": "扎佐",
+          "longitude": 106.71168,
+          "latitude": 26.862717,
+          "radius": "1229"
+        }
+      ]
+    },
+    {
+      "name": "清镇市",
+      "locations": [
+        {
+          "name": "站街",
+          "longitude": 106.36355,
+          "latitude": 26.633532,
+          "radius": "423"
+        },
+        {
+          "name": "新店",
+          "longitude": 106.22535,
+          "latitude": 26.821985,
+          "radius": "725"
+        },
+        {
+          "name": "青龙",
+          "longitude": 106.47065,
+          "latitude": 26.550816,
+          "radius": "779"
+        },
+        {
+          "name": "卫城",
+          "longitude": 106.3491,
+          "latitude": 26.75865,
+          "radius": "1078"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "南明区",
+      "locations": [
+        {
+          "name": "贵阳龙洞堡国际机场",
+          "longitude": 106.80133,
+          "latitude": 26.541092,
+          "radius": ""
+        },
+        {
+          "name": "贵州体育馆",
+          "longitude": 106.70419,
+          "latitude": 26.56037,
+          "radius": ""
+        },
+        {
+          "name": "贵阳大剧院",
+          "longitude": 106.7195,
+          "latitude": 26.56331,
+          "radius": ""
+        },
+        {
+          "name": "贵州玉田体育运动村",
+          "longitude": 106.70003,
+          "latitude": 26.550224,
+          "radius": ""
+        },
+        {
+          "name": "河滨公园",
+          "longitude": 106.70493,
+          "latitude": 26.56823,
+          "radius": ""
+        },
+        {
+          "name": "甲秀楼",
+          "longitude": 106.7198,
+          "latitude": 26.5714,
+          "radius": ""
+        },
+        {
+          "name": "成铁局贵阳文体中心二戈寨体育馆",
+          "longitude": 106.73808,
+          "latitude": 26.51308,
+          "radius": ""
+        },
+        {
+          "name": "人民广场",
+          "longitude": 106.71155,
+          "latitude": 26.569,
+          "radius": ""
+        },
+        {
+          "name": "钟幺爷开心剧场(瑞金南路店)",
+          "longitude": 106.70546,
+          "latitude": 26.57011,
+          "radius": ""
+        },
+        {
+          "name": "达德学校旧址",
+          "longitude": 106.71249,
+          "latitude": 26.576,
+          "radius": ""
+        },
+        {
+          "name": "白龙洞",
+          "longitude": 106.68145,
+          "latitude": 26.53958,
+          "radius": ""
+        },
+        {
+          "name": "观音洞",
+          "longitude": 106.73639,
+          "latitude": 26.56522,
+          "radius": ""
+        },
+        {
+          "name": "刘统之先生祠",
+          "longitude": 106.71665,
+          "latitude": 26.57713,
+          "radius": ""
+        },
+        {
+          "name": "鱼梁河",
+          "longitude": 106.78861,
+          "latitude": 26.56094,
+          "radius": ""
+        },
+        {
+          "name": "三元宫",
+          "longitude": 106.70683,
+          "latitude": 26.57684,
+          "radius": ""
+        },
+        {
+          "name": "贵州省黔剧院",
+          "longitude": 106.70546,
+          "latitude": 26.57011,
+          "radius": ""
+        },
+        {
+          "name": "贵州省军区大操场",
+          "longitude": 106.7173,
+          "latitude": 26.55413,
+          "radius": ""
+        },
+        {
+          "name": "奥体青少年体育俱乐部",
+          "longitude": 106.70135,
+          "latitude": 26.55999,
+          "radius": ""
+        },
+        {
+          "name": "桃源亭",
+          "longitude": 106.69243,
+          "latitude": 26.5468,
+          "radius": ""
+        },
+        {
+          "name": "花谷",
+          "longitude": 106.6622,
+          "latitude": 26.5405,
+          "radius": ""
+        },
+        {
+          "name": "老君殿",
+          "longitude": 106.73503,
+          "latitude": 26.57574,
+          "radius": ""
+        },
+        {
+          "name": "贵州大学蔡家关校区体育馆",
+          "longitude": 106.661,
+          "latitude": 26.55903,
+          "radius": ""
+        },
+        {
+          "name": "涵碧亭",
+          "longitude": 106.71948,
+          "latitude": 26.57195,
+          "radius": ""
+        },
+        {
+          "name": "城南胜迹",
+          "longitude": 106.71943,
+          "latitude": 26.57201,
+          "radius": ""
+        },
+        {
+          "name": "明涧生态园",
+          "longitude": 106.79064,
+          "latitude": 26.5529,
+          "radius": ""
+        },
+        {
+          "name": "观风台",
+          "longitude": 106.72442,
+          "latitude": 26.56941,
+          "radius": ""
+        },
+        {
+          "name": "贵州省河滨剧场",
+          "longitude": 106.70521,
+          "latitude": 26.57058,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "云岩区",
+      "locations": [
+        {
+          "name": "贵州省博物馆",
+          "longitude": 106.70513,
+          "latitude": 26.59206,
+          "radius": ""
+        },
+        {
+          "name": "贵阳市体育训练馆",
+          "longitude": 106.70981,
+          "latitude": 26.5913,
+          "radius": ""
+        },
+        {
+          "name": "东山青少年运动场",
+          "longitude": 106.72231,
+          "latitude": 26.57912,
+          "radius": ""
+        },
+        {
+          "name": "黔灵山公园",
+          "longitude": 106.692825,
+          "latitude": 26.595692,
+          "radius": ""
+        },
+        {
+          "name": "文昌阁",
+          "longitude": 106.71923,
+          "latitude": 26.57871,
+          "radius": ""
+        },
+        {
+          "name": "虎峰别墅",
+          "longitude": 106.71804,
+          "latitude": 26.57867,
+          "radius": ""
+        },
+        {
+          "name": "龙城公园",
+          "longitude": 106.69125,
+          "latitude": 26.57519,
+          "radius": ""
+        },
+        {
+          "name": "贵阳市市民健身中心",
+          "longitude": 106.70959,
+          "latitude": 26.59227,
+          "radius": ""
+        },
+        {
+          "name": "贵阳老城六广门",
+          "longitude": 106.7103,
+          "latitude": 26.59228,
+          "radius": ""
+        },
+        {
+          "name": "风雨园",
+          "longitude": 106.68518,
+          "latitude": 26.60151,
+          "radius": ""
+        },
+        {
+          "name": "林青就义处",
+          "longitude": 106.70514,
+          "latitude": 26.58907,
+          "radius": ""
+        },
+        {
+          "name": "风雨桥",
+          "longitude": 106.68628,
+          "latitude": 26.60123,
+          "radius": ""
+        },
+        {
+          "name": "卢焘蒙难处",
+          "longitude": 106.68662,
+          "latitude": 26.58021,
+          "radius": ""
+        },
+        {
+          "name": "扶风山景区",
+          "longitude": 106.72537,
+          "latitude": 26.58348,
+          "radius": ""
+        },
+        {
+          "name": "贵州省工委活动旧址",
+          "longitude": 106.71748,
+          "latitude": 26.58071,
+          "radius": ""
+        },
+        {
+          "name": "贵州银行故址",
+          "longitude": 106.71021,
+          "latitude": 26.57762,
+          "radius": ""
+        },
+        {
+          "name": "天时体育度假中心",
+          "longitude": 106.65903,
+          "latitude": 26.56856,
+          "radius": ""
+        },
+        {
+          "name": "水晶宫",
+          "longitude": 106.72319,
+          "latitude": 26.58429,
+          "radius": ""
+        },
+        {
+          "name": "贵阳市体操训练馆",
+          "longitude": 106.70947,
+          "latitude": 26.59113,
+          "radius": ""
+        },
+        {
+          "name": "贵州野战部落",
+          "longitude": 106.72742,
+          "latitude": 26.58275,
+          "radius": ""
+        },
+        {
+          "name": "华联游乐城",
+          "longitude": 106.71139,
+          "latitude": 26.59911,
+          "radius": ""
+        },
+        {
+          "name": "冰火世界",
+          "longitude": 106.70091,
+          "latitude": 26.58936,
+          "radius": ""
+        },
+        {
+          "name": "新吉奥泳馆",
+          "longitude": 106.71162,
+          "latitude": 26.60151,
+          "radius": ""
+        },
+        {
+          "name": "玉元井",
+          "longitude": 106.71599,
+          "latitude": 26.58476,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "花溪区",
+      "locations": [
+        {
+          "name": "花溪十里河滩国家城市湿地公园",
+          "longitude": 106.677826,
+          "latitude": 26.445538,
+          "radius": ""
+        },
+        {
+          "name": "青岩古镇",
+          "longitude": 106.6889,
+          "latitude": 26.33293,
+          "radius": ""
+        },
+        {
+          "name": "花溪公园",
+          "longitude": 106.67258,
+          "latitude": 26.43312,
+          "radius": ""
+        },
+        {
+          "name": "贵州古生物化石博物馆",
+          "longitude": 106.70198,
+          "latitude": 26.523104,
+          "radius": ""
+        },
+        {
+          "name": "天河潭风景区",
+          "longitude": 106.57995,
+          "latitude": 26.44209,
+          "radius": ""
+        },
+        {
+          "name": "花溪国家城市湿地公园十里河滩景区(团寨)",
+          "longitude": 106.67592,
+          "latitude": 26.48877,
+          "radius": ""
+        },
+        {
+          "name": "孔学堂",
+          "longitude": 106.67617,
+          "latitude": 26.46813,
+          "radius": ""
+        },
+        {
+          "name": "花溪夜郎谷宋式古堡",
+          "longitude": 106.64678,
+          "latitude": 26.38674,
+          "radius": ""
+        },
+        {
+          "name": "营盘古堡",
+          "longitude": 106.77756,
+          "latitude": 26.52965,
+          "radius": ""
+        },
+        {
+          "name": "贵州云顶草原民族风情园",
+          "longitude": 106.86229,
+          "latitude": 26.27837,
+          "radius": ""
+        },
+        {
+          "name": "王伯勋旧居",
+          "longitude": 106.67228,
+          "latitude": 26.42888,
+          "radius": ""
+        },
+        {
+          "name": "车田景区",
+          "longitude": 106.54496,
+          "latitude": 26.44056,
+          "radius": ""
+        },
+        {
+          "name": "碧莹盆景观光园",
+          "longitude": 106.76986,
+          "latitude": 26.51845,
+          "radius": ""
+        },
+        {
+          "name": "花溪西社",
+          "longitude": 106.66897,
+          "latitude": 26.43102,
+          "radius": ""
+        },
+        {
+          "name": "麦翁布依古寨",
+          "longitude": 106.6786,
+          "latitude": 26.45144,
+          "radius": ""
+        },
+        {
+          "name": "见龙洞",
+          "longitude": 106.78552,
+          "latitude": 26.54285,
+          "radius": ""
+        },
+        {
+          "name": "十里河滩足球场",
+          "longitude": 106.67445,
+          "latitude": 26.48206,
+          "radius": ""
+        },
+        {
+          "name": "花溪区老干部活动服务中心门球场",
+          "longitude": 106.6745,
+          "latitude": 26.4358,
+          "radius": ""
+        },
+        {
+          "name": "贵州骏驰国际赛车场",
+          "longitude": 106.68065,
+          "latitude": 26.32307,
+          "radius": ""
+        },
+        {
+          "name": "弦宏赛车队",
+          "longitude": 106.69938,
+          "latitude": 26.48822,
+          "radius": ""
+        },
+        {
+          "name": "涟江俱乐部",
+          "longitude": 106.74488,
+          "latitude": 26.38516,
+          "radius": ""
+        },
+        {
+          "name": "香粑车",
+          "longitude": 106.57682,
+          "latitude": 26.43858,
+          "radius": ""
+        },
+        {
+          "name": "阿哈湖风景区",
+          "longitude": 106.6563,
+          "latitude": 26.53613,
+          "radius": ""
+        },
+        {
+          "name": "盖汤亭",
+          "longitude": 106.67643,
+          "latitude": 26.46542,
+          "radius": ""
+        },
+        {
+          "name": "碧翠湖",
+          "longitude": 106.8273,
+          "latitude": 26.5224,
+          "radius": ""
+        },
+        {
+          "name": "高坡云顶苗寨",
+          "longitude": 106.85687,
+          "latitude": 26.28065,
+          "radius": ""
+        },
+        {
+          "name": "高坡乡",
+          "longitude": 106.81314,
+          "latitude": 26.2953,
+          "radius": ""
+        },
+        {
+          "name": "贵阳萌喵动漫手办diy",
+          "longitude": 106.70238,
+          "latitude": 26.52394,
+          "radius": ""
+        },
+        {
+          "name": "卧龙飞瀑",
+          "longitude": 106.57596,
+          "latitude": 26.43792,
+          "radius": ""
+        },
+        {
+          "name": "青岩寻坊",
+          "longitude": 106.6885,
+          "latitude": 26.3358,
+          "radius": ""
+        },
+        {
+          "name": "跳地戏",
+          "longitude": 106.68738,
+          "latitude": 26.43427,
+          "radius": ""
+        },
+        {
+          "name": "月亮湖",
+          "longitude": 106.48288,
+          "latitude": 26.43123,
+          "radius": ""
+        },
+        {
+          "name": "黑神庙",
+          "longitude": 106.68476,
+          "latitude": 26.33171,
+          "radius": ""
+        },
+        {
+          "name": "周渔璜故居",
+          "longitude": 106.72791,
+          "latitude": 26.31729,
+          "radius": ""
+        },
+        {
+          "name": "水碾",
+          "longitude": 106.57492,
+          "latitude": 26.43892,
+          "radius": ""
+        },
+        {
+          "name": "老榜河漂流",
+          "longitude": 106.73609,
+          "latitude": 26.35021,
+          "radius": ""
+        },
+        {
+          "name": "悬棺",
+          "longitude": 106.80072,
+          "latitude": 26.25922,
+          "radius": ""
+        },
+        {
+          "name": "和门",
+          "longitude": 106.77415,
+          "latitude": 26.52973,
+          "radius": ""
+        },
+        {
+          "name": "印色田",
+          "longitude": 106.57657,
+          "latitude": 26.43718,
+          "radius": ""
+        },
+        {
+          "name": "绕拢峡谷",
+          "longitude": 106.77727,
+          "latitude": 26.31729,
+          "radius": ""
+        },
+        {
+          "name": "钙化滩瀑布",
+          "longitude": 106.57682,
+          "latitude": 26.43872,
+          "radius": ""
+        },
+        {
+          "name": "高坡苗寨",
+          "longitude": 106.81123,
+          "latitude": 26.28905,
+          "radius": ""
+        },
+        {
+          "name": "樱花林",
+          "longitude": 106.5739,
+          "latitude": 26.43869,
+          "radius": ""
+        },
+        {
+          "name": "梦草亭",
+          "longitude": 106.5774,
+          "latitude": 26.43995,
+          "radius": ""
+        },
+        {
+          "name": "松柏山水利风景区",
+          "longitude": 106.57013,
+          "latitude": 26.40082,
+          "radius": ""
+        },
+        {
+          "name": "华山松苑",
+          "longitude": 106.73975,
+          "latitude": 26.35305,
+          "radius": ""
+        },
+        {
+          "name": "同心桥",
+          "longitude": 106.57587,
+          "latitude": 26.43623,
+          "radius": ""
+        },
+        {
+          "name": "蟾桂楼",
+          "longitude": 106.68141,
+          "latitude": 26.35079,
+          "radius": ""
+        },
+        {
+          "name": "水车",
+          "longitude": 106.57481,
+          "latitude": 26.43878,
+          "radius": ""
+        },
+        {
+          "name": "甲定苗族洞葬",
+          "longitude": 106.87856,
+          "latitude": 26.22279,
+          "radius": ""
+        },
+        {
+          "name": "美人凼",
+          "longitude": 106.57702,
+          "latitude": 26.43838,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "乌当区",
+      "locations": [
+        {
+          "name": "金阳体育馆",
+          "longitude": 106.62402,
+          "latitude": 26.6228,
+          "radius": ""
+        },
+        {
+          "name": "百花湖风景区",
+          "longitude": 106.5375,
+          "latitude": 26.6545,
+          "radius": ""
+        },
+        {
+          "name": "贵阳奥林匹克体育中心",
+          "longitude": 106.60787,
+          "latitude": 26.61734,
+          "radius": ""
+        },
+        {
+          "name": "情人谷",
+          "longitude": 106.80846,
+          "latitude": 26.60545,
+          "radius": ""
+        },
+        {
+          "name": "渔洞峡",
+          "longitude": 106.83836,
+          "latitude": 26.63172,
+          "radius": ""
+        },
+        {
+          "name": "香纸沟",
+          "longitude": 106.91761,
+          "latitude": 26.77733,
+          "radius": ""
+        },
+        {
+          "name": "金龙谷风景区",
+          "longitude": 106.87482,
+          "latitude": 26.62751,
+          "radius": ""
+        },
+        {
+          "name": "相思河景区",
+          "longitude": 106.85731,
+          "latitude": 26.74323,
+          "radius": ""
+        },
+        {
+          "name": "百宜红军烈士墓",
+          "longitude": 106.99174,
+          "latitude": 26.84047,
+          "radius": ""
+        },
+        {
+          "name": "贵州永乐龙湖水利风景区",
+          "longitude": 106.90144,
+          "latitude": 26.58877,
+          "radius": ""
+        },
+        {
+          "name": "盘龙山森林公园",
+          "longitude": 106.86474,
+          "latitude": 26.75125,
+          "radius": ""
+        },
+        {
+          "name": "跳花场",
+          "longitude": 106.56288,
+          "latitude": 26.58418,
+          "radius": ""
+        },
+        {
+          "name": "香纸沟龙泉景区",
+          "longitude": 106.88605,
+          "latitude": 26.79417,
+          "radius": ""
+        },
+        {
+          "name": "龙泉游泳池",
+          "longitude": 106.75582,
+          "latitude": 26.62391,
+          "radius": ""
+        },
+        {
+          "name": "神秘的马脚冲",
+          "longitude": 106.90583,
+          "latitude": 26.78166,
+          "radius": ""
+        },
+        {
+          "name": "温泉公园",
+          "longitude": 106.77926,
+          "latitude": 26.61836,
+          "radius": ""
+        },
+        {
+          "name": "保利温泉新城演艺中心",
+          "longitude": 106.75919,
+          "latitude": 26.61063,
+          "radius": ""
+        },
+        {
+          "name": "杜寨布衣村",
+          "longitude": 106.8523,
+          "latitude": 26.77938,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "白云区",
+      "locations": [
+        {
+          "name": "双人山公园",
+          "longitude": 106.61158,
+          "latitude": 26.67956,
+          "radius": ""
+        },
+        {
+          "name": "南湖公园",
+          "longitude": 106.61385,
+          "latitude": 26.67236,
+          "radius": ""
+        },
+        {
+          "name": "天鹅湖风景区",
+          "longitude": 106.68078,
+          "latitude": 26.66847,
+          "radius": ""
+        },
+        {
+          "name": "贵铝文体活动中心",
+          "longitude": 106.64929,
+          "latitude": 26.68449,
+          "radius": ""
+        },
+        {
+          "name": "白云体育场",
+          "longitude": 106.63608,
+          "latitude": 26.66742,
+          "radius": ""
+        },
+        {
+          "name": "南方汇通体育馆",
+          "longitude": 106.72858,
+          "latitude": 26.68204,
+          "radius": ""
+        },
+        {
+          "name": "贵州民族民俗博物馆",
+          "longitude": 106.63829,
+          "latitude": 26.6733,
+          "radius": ""
+        },
+        {
+          "name": "山野拓展野战营",
+          "longitude": 106.67884,
+          "latitude": 26.66943,
+          "radius": ""
+        },
+        {
+          "name": "贵铝游泳池",
+          "longitude": 106.65603,
+          "latitude": 26.69121,
+          "radius": ""
+        },
+        {
+          "name": "高仓古堡",
+          "longitude": 106.6743,
+          "latitude": 26.78108,
+          "radius": ""
+        },
+        {
+          "name": "都溪苗族跳场",
+          "longitude": 106.6949,
+          "latitude": 26.66785,
+          "radius": ""
+        },
+        {
+          "name": "贵阳市蓬莱仙界农业与乡村旅游示范园",
+          "longitude": 106.73043,
+          "latitude": 26.74861,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "开阳县",
+      "locations": [
+        {
+          "name": "开阳县体育场",
+          "longitude": 106.96407,
+          "latitude": 27.05498,
+          "radius": ""
+        },
+        {
+          "name": "开阳体育馆",
+          "longitude": 106.97331,
+          "latitude": 27.05551,
+          "radius": ""
+        },
+        {
+          "name": "南江大峡谷景区",
+          "longitude": 106.97679,
+          "latitude": 26.94476,
+          "radius": ""
+        },
+        {
+          "name": "清龙河景区",
+          "longitude": 106.91829,
+          "latitude": 26.93289,
+          "radius": ""
+        },
+        {
+          "name": "白马峪温泉",
+          "longitude": 106.778,
+          "latitude": 26.99022,
+          "radius": ""
+        },
+        {
+          "name": "马岔河溪麓温泉",
+          "longitude": 107.0464,
+          "latitude": 27.08185,
+          "radius": ""
+        },
+        {
+          "name": "南江盐泉小镇",
+          "longitude": 106.96755,
+          "latitude": 26.92726,
+          "radius": ""
+        },
+        {
+          "name": "十里画廊",
+          "longitude": 106.9697,
+          "latitude": 26.9427,
+          "radius": ""
+        },
+        {
+          "name": "香火岩塘上营",
+          "longitude": 106.92117,
+          "latitude": 26.94616,
+          "radius": ""
+        },
+        {
+          "name": "紫江地缝",
+          "longitude": 107.03523,
+          "latitude": 26.90415,
+          "radius": ""
+        },
+        {
+          "name": "清龙十里画廊水头寨",
+          "longitude": 106.92177,
+          "latitude": 26.92062,
+          "radius": ""
+        },
+        {
+          "name": "凤凰寨",
+          "longitude": 106.95733,
+          "latitude": 26.95241,
+          "radius": ""
+        },
+        {
+          "name": "香火岩风景区",
+          "longitude": 106.92131,
+          "latitude": 26.94627,
+          "radius": ""
+        },
+        {
+          "name": "香火岩景区",
+          "longitude": 106.88741,
+          "latitude": 26.97061,
+          "radius": ""
+        },
+        {
+          "name": "水头寨度假村",
+          "longitude": 106.92184,
+          "latitude": 26.91888,
+          "radius": ""
+        },
+        {
+          "name": "猴耳天坑",
+          "longitude": 107.00772,
+          "latitude": 27.08219,
+          "radius": ""
+        },
+        {
+          "name": "洋水影剧院",
+          "longitude": 106.85118,
+          "latitude": 27.11398,
+          "radius": ""
+        },
+        {
+          "name": "开阳县老干部活动中心门球场",
+          "longitude": 106.96551,
+          "latitude": 27.05782,
+          "radius": ""
+        },
+        {
+          "name": "开磷历史陈列馆",
+          "longitude": 106.8511,
+          "latitude": 27.11389,
+          "radius": ""
+        },
+        {
+          "name": "江南旅游文化园",
+          "longitude": 106.95189,
+          "latitude": 26.95548,
+          "radius": ""
+        },
+        {
+          "name": "夜宴国际演艺会所",
+          "longitude": 106.9683,
+          "latitude": 27.06412,
+          "radius": ""
+        },
+        {
+          "name": "南江坪寨",
+          "longitude": 106.95251,
+          "latitude": 26.94971,
+          "radius": ""
+        },
+        {
+          "name": "峡谷漂流",
+          "longitude": 106.97021,
+          "latitude": 26.94164,
+          "radius": ""
+        },
+        {
+          "name": "大坪溶洞群",
+          "longitude": 107.11575,
+          "latitude": 27.19607,
+          "radius": ""
+        },
+        {
+          "name": "马岔河温泉",
+          "longitude": 107.04574,
+          "latitude": 27.07769,
+          "radius": ""
+        },
+        {
+          "name": "马头寨古建筑群",
+          "longitude": 106.91451,
+          "latitude": 26.93367,
+          "radius": ""
+        },
+        {
+          "name": "丰禾坪寨",
+          "longitude": 106.91728,
+          "latitude": 26.92647,
+          "radius": ""
+        },
+        {
+          "name": "安家洞",
+          "longitude": 107.14839,
+          "latitude": 27.32059,
+          "radius": ""
+        },
+        {
+          "name": "唐代扬成将军墓",
+          "longitude": 106.937,
+          "latitude": 27.27476,
+          "radius": ""
+        },
+        {
+          "name": "中黔美秀",
+          "longitude": 106.97291,
+          "latitude": 26.89453,
+          "radius": ""
+        },
+        {
+          "name": "国民政府军事委员会开阳行辕",
+          "longitude": 106.91156,
+          "latitude": 27.08056,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "息烽县",
+      "locations": [
+        {
+          "name": "息烽温泉",
+          "longitude": 106.85111,
+          "latitude": 27.19496,
+          "radius": ""
+        },
+        {
+          "name": "阳朗风情小镇",
+          "longitude": 106.74375,
+          "latitude": 27.04188,
+          "radius": ""
+        },
+        {
+          "name": "团圆山景区",
+          "longitude": 106.73471,
+          "latitude": 27.08542,
+          "radius": ""
+        },
+        {
+          "name": "息烽县体育服务中心",
+          "longitude": 106.73707,
+          "latitude": 27.10006,
+          "radius": ""
+        },
+        {
+          "name": "海域游泳馆",
+          "longitude": 106.73728,
+          "latitude": 27.09776,
+          "radius": ""
+        },
+        {
+          "name": "西望山景区",
+          "longitude": 106.64241,
+          "latitude": 27.13205,
+          "radius": ""
+        },
+        {
+          "name": "西望山",
+          "longitude": 106.68504,
+          "latitude": 27.13053,
+          "radius": ""
+        },
+        {
+          "name": "潮水战斗遗址",
+          "longitude": 106.69706,
+          "latitude": 27.14487,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "修文县",
+      "locations": [
+        {
+          "name": "修文县体育馆",
+          "longitude": 106.60042,
+          "latitude": 26.83854,
+          "radius": ""
+        },
+        {
+          "name": "桃源河景区",
+          "longitude": 106.79417,
+          "latitude": 26.88278,
+          "radius": ""
+        },
+        {
+          "name": "阳明园",
+          "longitude": 106.60881,
+          "latitude": 26.84459,
+          "radius": ""
+        },
+        {
+          "name": "六广河名胜风景区",
+          "longitude": 106.44014,
+          "latitude": 27.00383,
+          "radius": ""
+        },
+        {
+          "name": "中共久长镇体育文化生态旅游园党总支委员会",
+          "longitude": 106.69597,
+          "latitude": 26.90717,
+          "radius": ""
+        },
+        {
+          "name": "回水石林",
+          "longitude": 106.47906,
+          "latitude": 27.0554,
+          "radius": ""
+        },
+        {
+          "name": "河畔公园",
+          "longitude": 106.5959,
+          "latitude": 26.84608,
+          "radius": ""
+        },
+        {
+          "name": "中共久长镇知青文化生态旅游园党总支委员会",
+          "longitude": 106.72293,
+          "latitude": 26.95484,
+          "radius": ""
+        },
+        {
+          "name": "蜈蚣桥",
+          "longitude": 106.49187,
+          "latitude": 26.89723,
+          "radius": ""
+        },
+        {
+          "name": "三潮水",
+          "longitude": 106.58123,
+          "latitude": 26.85054,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "清镇市",
+      "locations": [
+        {
+          "name": "贵州省体育局清镇训练基地",
+          "longitude": 106.50559,
+          "latitude": 26.52257,
+          "radius": ""
+        },
+        {
+          "name": "红枫湖风景区",
+          "longitude": 106.428444,
+          "latitude": 26.537628,
+          "radius": ""
+        },
+        {
+          "name": "时光贵州",
+          "longitude": 106.46493,
+          "latitude": 26.57879,
+          "radius": ""
+        },
+        {
+          "name": "省立贵阳师范学校旧址",
+          "longitude": 106.34757,
+          "latitude": 26.75987,
+          "radius": ""
+        },
+        {
+          "name": "清电影剧院",
+          "longitude": 106.44204,
+          "latitude": 26.50853,
+          "radius": ""
+        },
+        {
+          "name": "桃花岛风景区",
+          "longitude": 106.52372,
+          "latitude": 26.6446,
+          "radius": ""
+        },
+        {
+          "name": "7D动感体验馆",
+          "longitude": 106.4709,
+          "latitude": 26.55449,
+          "radius": ""
+        },
+        {
+          "name": "哎尚小玩家",
+          "longitude": 106.4629,
+          "latitude": 26.55162,
+          "radius": ""
+        },
+        {
+          "name": "动漫世界",
+          "longitude": 106.48575,
+          "latitude": 26.55603,
+          "radius": ""
+        },
+        {
+          "name": "盘龙洞风景区",
+          "longitude": 106.47763,
+          "latitude": 26.684,
+          "radius": ""
+        },
+        {
+          "name": "传7",
+          "longitude": 106.46193,
+          "latitude": 26.54842,
+          "radius": ""
+        },
+        {
+          "name": "动漫新天地",
+          "longitude": 106.46278,
+          "latitude": 26.54721,
+          "radius": ""
+        },
+        {
+          "name": "跳花节",
+          "longitude": 106.47514,
+          "latitude": 26.50164,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

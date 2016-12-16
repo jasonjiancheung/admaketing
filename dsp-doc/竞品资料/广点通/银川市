@@ -1,0 +1,1172 @@
+{
+  "cityName": "银川市",
+  "businessCenters": [
+    {
+      "name": "兴庆区",
+      "locations": [
+        {
+          "name": "新华街",
+          "longitude": 106.279945,
+          "latitude": 38.46156,
+          "radius": "393"
+        },
+        {
+          "name": "中山南街",
+          "longitude": 106.285225,
+          "latitude": 38.46044,
+          "radius": "401"
+        },
+        {
+          "name": "胜利街",
+          "longitude": 106.28058,
+          "latitude": 38.439816,
+          "radius": "1915"
+        },
+        {
+          "name": "解放西街",
+          "longitude": 106.26266,
+          "latitude": 38.47081,
+          "radius": "998"
+        },
+        {
+          "name": "富宁街",
+          "longitude": 106.2635,
+          "latitude": 38.464424,
+          "radius": "1100"
+        },
+        {
+          "name": "玉皇阁北街",
+          "longitude": 106.2854,
+          "latitude": 38.46895,
+          "radius": "478"
+        },
+        {
+          "name": "前进街",
+          "longitude": 106.27041,
+          "latitude": 38.465176,
+          "radius": "539"
+        },
+        {
+          "name": "凤凰北街",
+          "longitude": 106.26384,
+          "latitude": 38.482708,
+          "radius": "1984"
+        }
+      ]
+    },
+    {
+      "name": "西夏区",
+      "locations": [
+        {
+          "name": "北京西路",
+          "longitude": 106.10933,
+          "latitude": 38.485626,
+          "radius": "4106"
+        },
+        {
+          "name": "火车站",
+          "longitude": 106.16815,
+          "latitude": 38.49071,
+          "radius": "594"
+        }
+      ]
+    },
+    {
+      "name": "金凤区",
+      "locations": [
+        {
+          "name": "新城",
+          "longitude": 106.18826,
+          "latitude": 38.485043,
+          "radius": "1282"
+        }
+      ]
+    },
+    {
+      "name": "永宁县",
+      "locations": [
+        {
+          "name": "杨和",
+          "longitude": 106.25082,
+          "latitude": 38.275116,
+          "radius": "828"
+        },
+        {
+          "name": "李俊",
+          "longitude": 106.124,
+          "latitude": 38.18453,
+          "radius": "305"
+        }
+      ]
+    },
+    {
+      "name": "贺兰县",
+      "locations": [
+        {
+          "name": "习岗",
+          "longitude": 106.35223,
+          "latitude": 38.55261,
+          "radius": "1013"
+        }
+      ]
+    },
+    {
+      "name": "灵武市",
+      "locations": [
+        {
+          "name": "新华桥",
+          "longitude": 106.22838,
+          "latitude": 38.06317,
+          "radius": "343"
+        },
+        {
+          "name": "崇兴",
+          "longitude": 106.303696,
+          "latitude": 38.03447,
+          "radius": "318"
+        },
+        {
+          "name": "马家滩",
+          "longitude": 106.79582,
+          "latitude": 37.79512,
+          "radius": "745"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "兴庆区",
+      "locations": [
+        {
+          "name": "银川市湖滨体育场",
+          "longitude": 106.27426,
+          "latitude": 38.4728,
+          "radius": ""
+        },
+        {
+          "name": "湖滨体育馆",
+          "longitude": 106.27641,
+          "latitude": 38.47158,
+          "radius": ""
+        },
+        {
+          "name": "宁夏回族自治区体育场",
+          "longitude": 106.26297,
+          "latitude": 38.4725,
+          "radius": ""
+        },
+        {
+          "name": "宁夏体育馆",
+          "longitude": 106.2678,
+          "latitude": 38.47159,
+          "radius": ""
+        },
+        {
+          "name": "鸣翠湖国家湿地公园",
+          "longitude": 106.37164,
+          "latitude": 38.39927,
+          "radius": ""
+        },
+        {
+          "name": "宁夏体育局河东训练基地",
+          "longitude": 106.44442,
+          "latitude": 38.36025,
+          "radius": ""
+        },
+        {
+          "name": "宁夏银川通用机场",
+          "longitude": 106.56195,
+          "latitude": 38.600677,
+          "radius": ""
+        },
+        {
+          "name": "黄沙古渡原生态旅游区",
+          "longitude": 106.55157,
+          "latitude": 38.58117,
+          "radius": ""
+        },
+        {
+          "name": "鼓楼",
+          "longitude": 106.2812,
+          "latitude": 38.46518,
+          "radius": ""
+        },
+        {
+          "name": "银川南关清真大寺",
+          "longitude": 106.28005,
+          "latitude": 38.45538,
+          "radius": ""
+        },
+        {
+          "name": "凤凰碑",
+          "longitude": 106.26115,
+          "latitude": 38.47031,
+          "radius": ""
+        },
+        {
+          "name": "承天寺塔",
+          "longitude": 106.26973,
+          "latitude": 38.46355,
+          "radius": ""
+        },
+        {
+          "name": "兵沟旅游区浑怀障汉墓群景区",
+          "longitude": 106.54518,
+          "latitude": 38.47111,
+          "radius": ""
+        },
+        {
+          "name": "银川市职工体育馆",
+          "longitude": 106.26379,
+          "latitude": 38.47802,
+          "radius": ""
+        },
+        {
+          "name": "黄河横城旅游度假区",
+          "longitude": 106.43175,
+          "latitude": 38.36392,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 106.52401,
+          "latitude": 38.409,
+          "radius": ""
+        },
+        {
+          "name": "庆王府旧址",
+          "longitude": 106.28507,
+          "latitude": 38.46078,
+          "radius": ""
+        },
+        {
+          "name": "兵沟大峡谷",
+          "longitude": 106.54206,
+          "latitude": 38.4579,
+          "radius": ""
+        },
+        {
+          "name": "燕子湖",
+          "longitude": 106.56503,
+          "latitude": 38.48799,
+          "radius": ""
+        },
+        {
+          "name": "长城",
+          "longitude": 106.44856,
+          "latitude": 38.36957,
+          "radius": ""
+        },
+        {
+          "name": "兵沟自驾车营地",
+          "longitude": 106.54418,
+          "latitude": 38.46727,
+          "radius": ""
+        },
+        {
+          "name": "南薰门",
+          "longitude": 106.28448,
+          "latitude": 38.45755,
+          "radius": ""
+        },
+        {
+          "name": "昭阳门旧址",
+          "longitude": 106.28339,
+          "latitude": 38.45251,
+          "radius": ""
+        },
+        {
+          "name": "城隍庙旧址",
+          "longitude": 106.28384,
+          "latitude": 38.47298,
+          "radius": ""
+        },
+        {
+          "name": "清宁观旧址",
+          "longitude": 106.27267,
+          "latitude": 38.47529,
+          "radius": ""
+        },
+        {
+          "name": "光化门旧址",
+          "longitude": 106.26788,
+          "latitude": 38.46196,
+          "radius": ""
+        },
+        {
+          "name": "永通桥",
+          "longitude": 106.28254,
+          "latitude": 38.45065,
+          "radius": ""
+        },
+        {
+          "name": "晏公庙旧址",
+          "longitude": 106.27974,
+          "latitude": 38.46747,
+          "radius": ""
+        },
+        {
+          "name": "回纥清真寺旧址",
+          "longitude": 106.2879,
+          "latitude": 38.46185,
+          "radius": ""
+        },
+        {
+          "name": "帅府井",
+          "longitude": 106.28672,
+          "latitude": 38.47046,
+          "radius": ""
+        },
+        {
+          "name": "宁夏邮政博物馆",
+          "longitude": 106.27608,
+          "latitude": 38.46678,
+          "radius": ""
+        },
+        {
+          "name": "艺苑剧场",
+          "longitude": 106.27569,
+          "latitude": 38.47114,
+          "radius": ""
+        },
+        {
+          "name": "盛世龙池游泳场",
+          "longitude": 106.25816,
+          "latitude": 38.46338,
+          "radius": ""
+        },
+        {
+          "name": "职工之家",
+          "longitude": 106.3108,
+          "latitude": 38.44597,
+          "radius": ""
+        },
+        {
+          "name": "蓝莲花俱乐部",
+          "longitude": 106.28393,
+          "latitude": 38.46996,
+          "radius": ""
+        },
+        {
+          "name": "金色歌舞剧院",
+          "longitude": 106.27552,
+          "latitude": 38.47129,
+          "radius": ""
+        },
+        {
+          "name": "水洞沟旧石器遗址公园",
+          "longitude": 106.46946,
+          "latitude": 38.38555,
+          "radius": ""
+        },
+        {
+          "name": "金波湖旧址",
+          "longitude": 106.29499,
+          "latitude": 38.46261,
+          "radius": ""
+        },
+        {
+          "name": "英雄联盟动漫",
+          "longitude": 106.29234,
+          "latitude": 38.48064,
+          "radius": ""
+        },
+        {
+          "name": "滨河野战俱乐部",
+          "longitude": 106.46601,
+          "latitude": 38.43153,
+          "radius": ""
+        },
+        {
+          "name": "银川书苑旧址(清)",
+          "longitude": 106.26864,
+          "latitude": 38.46725,
+          "radius": ""
+        },
+        {
+          "name": "银川沙渠观音寺",
+          "longitude": 106.28842,
+          "latitude": 38.505,
+          "radius": ""
+        },
+        {
+          "name": "宁夏话剧团",
+          "longitude": 106.27568,
+          "latitude": 38.4713,
+          "radius": ""
+        },
+        {
+          "name": "德胜门旧址(明代)",
+          "longitude": 106.28983,
+          "latitude": 38.47321,
+          "radius": ""
+        },
+        {
+          "name": "华夏河图艺术小镇",
+          "longitude": 106.36341,
+          "latitude": 38.34905,
+          "radius": ""
+        },
+        {
+          "name": "黄河外滩长河栈道景区",
+          "longitude": 106.44772,
+          "latitude": 38.373516,
+          "radius": ""
+        },
+        {
+          "name": "赵良栋府旧址",
+          "longitude": 106.28785,
+          "latitude": 38.46394,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 106.56805,
+          "latitude": 38.43648,
+          "radius": ""
+        },
+        {
+          "name": "银川市古方秘方中医研究会博物馆",
+          "longitude": 106.28629,
+          "latitude": 38.46453,
+          "radius": ""
+        },
+        {
+          "name": "章子湖生态保护风情园",
+          "longitude": 106.30838,
+          "latitude": 38.42916,
+          "radius": ""
+        },
+        {
+          "name": "汉墓遗址",
+          "longitude": 106.45622,
+          "latitude": 38.38082,
+          "radius": ""
+        },
+        {
+          "name": "星宇文化动漫",
+          "longitude": 106.28995,
+          "latitude": 38.47263,
+          "radius": ""
+        },
+        {
+          "name": "振武门旧址",
+          "longitude": 106.27274,
+          "latitude": 38.47774,
+          "radius": ""
+        },
+        {
+          "name": "镇远门旧址",
+          "longitude": 106.26065,
+          "latitude": 38.47011,
+          "radius": ""
+        },
+        {
+          "name": "砚家班相声会馆",
+          "longitude": 106.27545,
+          "latitude": 38.4627,
+          "radius": ""
+        },
+        {
+          "name": "黄河外滩横城旅游度假区",
+          "longitude": 106.44006,
+          "latitude": 38.36566,
+          "radius": ""
+        },
+        {
+          "name": "甘肃宁夏府署旧址",
+          "longitude": 106.28265,
+          "latitude": 38.45999,
+          "radius": ""
+        },
+        {
+          "name": "城市明珠",
+          "longitude": 106.28264,
+          "latitude": 38.46164,
+          "radius": ""
+        },
+        {
+          "name": "帅府旧址",
+          "longitude": 106.28691,
+          "latitude": 38.47036,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "西夏区",
+      "locations": [
+        {
+          "name": "镇北堡西部影城",
+          "longitude": 106.07241,
+          "latitude": 38.614162,
+          "radius": ""
+        },
+        {
+          "name": "银川市体育中心",
+          "longitude": 106.15217,
+          "latitude": 38.49835,
+          "radius": ""
+        },
+        {
+          "name": "西夏王陵",
+          "longitude": 105.99791,
+          "latitude": 38.43,
+          "radius": ""
+        },
+        {
+          "name": "银铁体育馆",
+          "longitude": 106.16648,
+          "latitude": 38.48933,
+          "radius": ""
+        },
+        {
+          "name": "滚钟口风景区",
+          "longitude": 105.9482,
+          "latitude": 38.60537,
+          "radius": ""
+        },
+        {
+          "name": "银川火车头游泳馆",
+          "longitude": 106.16738,
+          "latitude": 38.4893,
+          "radius": ""
+        },
+        {
+          "name": "宁夏飞碟射击场",
+          "longitude": 106.05097,
+          "latitude": 38.57297,
+          "radius": ""
+        },
+        {
+          "name": "西夏风情园",
+          "longitude": 106.03315,
+          "latitude": 38.48432,
+          "radius": ""
+        },
+        {
+          "name": "奇石城",
+          "longitude": 106.06995,
+          "latitude": 38.62665,
+          "radius": ""
+        },
+        {
+          "name": "宁夏金锑体育运动中心",
+          "longitude": 106.14449,
+          "latitude": 38.50073,
+          "radius": ""
+        },
+        {
+          "name": "宁夏枸杞馆",
+          "longitude": 106.19466,
+          "latitude": 38.66141,
+          "radius": ""
+        },
+        {
+          "name": "宁夏远山剧场",
+          "longitude": 106.11087,
+          "latitude": 38.50117,
+          "radius": ""
+        },
+        {
+          "name": "宁夏万宝博物馆",
+          "longitude": 106.16098,
+          "latitude": 38.47615,
+          "radius": ""
+        },
+        {
+          "name": "英雄寨",
+          "longitude": 106.06756,
+          "latitude": 38.61429,
+          "radius": ""
+        },
+        {
+          "name": "西夏博物馆",
+          "longitude": 106.00911,
+          "latitude": 38.426746,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "金凤区",
+      "locations": [
+        {
+          "name": "森淼生态旅游区",
+          "longitude": 106.17894,
+          "latitude": 38.41845,
+          "radius": ""
+        },
+        {
+          "name": "宁夏亲水体育中心",
+          "longitude": 106.21644,
+          "latitude": 38.47138,
+          "radius": ""
+        },
+        {
+          "name": "宁夏博物馆",
+          "longitude": 106.2352,
+          "latitude": 38.48439,
+          "radius": ""
+        },
+        {
+          "name": "宁夏地质博物馆",
+          "longitude": 106.23585,
+          "latitude": 38.49904,
+          "radius": ""
+        },
+        {
+          "name": "阅海国家湿地公园",
+          "longitude": 106.19843,
+          "latitude": 38.55931,
+          "radius": ""
+        },
+        {
+          "name": "银川国际岩画园",
+          "longitude": 106.23354,
+          "latitude": 38.51394,
+          "radius": ""
+        },
+        {
+          "name": "龙眼湖",
+          "longitude": 106.25651,
+          "latitude": 38.56429,
+          "radius": ""
+        },
+        {
+          "name": "宁夏交通博物馆",
+          "longitude": 106.22075,
+          "latitude": 38.48544,
+          "radius": ""
+        },
+        {
+          "name": "中国移动宁夏体育馆",
+          "longitude": 106.24239,
+          "latitude": 38.48002,
+          "radius": ""
+        },
+        {
+          "name": "银川海洋博物馆",
+          "longitude": 106.21498,
+          "latitude": 38.49826,
+          "radius": ""
+        },
+        {
+          "name": "胜利体育运动休闲中心",
+          "longitude": 106.22331,
+          "latitude": 38.47946,
+          "radius": ""
+        },
+        {
+          "name": "新满城严武门旧址",
+          "longitude": 106.18342,
+          "latitude": 38.49052,
+          "radius": ""
+        },
+        {
+          "name": "黄沙古渡",
+          "longitude": 106.20598,
+          "latitude": 38.48681,
+          "radius": ""
+        },
+        {
+          "name": "中阿之轴",
+          "longitude": 106.22918,
+          "latitude": 38.52361,
+          "radius": ""
+        },
+        {
+          "name": "银川儿童剧院",
+          "longitude": 106.22916,
+          "latitude": 38.45857,
+          "radius": ""
+        },
+        {
+          "name": "艾依莎河",
+          "longitude": 106.21615,
+          "latitude": 38.48709,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "永宁县",
+      "locations": [
+        {
+          "name": "永宁县体育中心",
+          "longitude": 106.25724,
+          "latitude": 38.29127,
+          "radius": ""
+        },
+        {
+          "name": "中华回乡文化园",
+          "longitude": 106.239555,
+          "latitude": 38.291115,
+          "radius": ""
+        },
+        {
+          "name": "鹤泉湖",
+          "longitude": 106.27495,
+          "latitude": 38.29953,
+          "radius": ""
+        },
+        {
+          "name": "头圣寺",
+          "longitude": 106.25763,
+          "latitude": 38.30389,
+          "radius": ""
+        },
+        {
+          "name": "梦幻游戏厅",
+          "longitude": 106.27196,
+          "latitude": 38.37938,
+          "radius": ""
+        },
+        {
+          "name": "庆典湖",
+          "longitude": 106.22023,
+          "latitude": 38.38957,
+          "radius": ""
+        },
+        {
+          "name": "雅园",
+          "longitude": 106.25065,
+          "latitude": 38.28684,
+          "radius": ""
+        },
+        {
+          "name": "闽宁镇北寺",
+          "longitude": 105.97839,
+          "latitude": 38.24513,
+          "radius": ""
+        },
+        {
+          "name": "多宝塔",
+          "longitude": 106.12228,
+          "latitude": 38.18456,
+          "radius": ""
+        },
+        {
+          "name": "黄河滩",
+          "longitude": 106.23858,
+          "latitude": 38.2719,
+          "radius": ""
+        },
+        {
+          "name": "雷台寺",
+          "longitude": 106.20048,
+          "latitude": 38.14743,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "贺兰县",
+      "locations": [
+        {
+          "name": "贺兰山苏峪口国家森林公园",
+          "longitude": 105.99326,
+          "latitude": 38.71527,
+          "radius": ""
+        },
+        {
+          "name": "贺兰山岩画",
+          "longitude": 106.02745,
+          "latitude": 38.74458,
+          "radius": ""
+        },
+        {
+          "name": "贺兰县体育中心",
+          "longitude": 106.34385,
+          "latitude": 38.56033,
+          "radius": ""
+        },
+        {
+          "name": "贺兰体育馆",
+          "longitude": 106.34473,
+          "latitude": 38.56007,
+          "radius": ""
+        },
+        {
+          "name": "拜寺口双塔",
+          "longitude": 105.96762,
+          "latitude": 38.68086,
+          "radius": ""
+        },
+        {
+          "name": "宏佛塔",
+          "longitude": 106.432,
+          "latitude": 38.57204,
+          "radius": ""
+        },
+        {
+          "name": "宏佛塔",
+          "longitude": 106.43079,
+          "latitude": 38.61771,
+          "radius": ""
+        },
+        {
+          "name": "灵泉",
+          "longitude": 106.02618,
+          "latitude": 38.73859,
+          "radius": ""
+        },
+        {
+          "name": "塔前小庙",
+          "longitude": 105.96686,
+          "latitude": 38.68138,
+          "radius": ""
+        },
+        {
+          "name": "西塔",
+          "longitude": 105.96686,
+          "latitude": 38.6815,
+          "radius": ""
+        },
+        {
+          "name": "鸡鸡洞",
+          "longitude": 106.02594,
+          "latitude": 38.74525,
+          "radius": ""
+        },
+        {
+          "name": "人面动物组合岩画",
+          "longitude": 106.02522,
+          "latitude": 38.74529,
+          "radius": ""
+        },
+        {
+          "name": "鹿与马",
+          "longitude": 106.02531,
+          "latitude": 38.74518,
+          "radius": ""
+        },
+        {
+          "name": "皇家寺庙",
+          "longitude": 105.96602,
+          "latitude": 38.68216,
+          "radius": ""
+        },
+        {
+          "name": "山神庙",
+          "longitude": 106.02821,
+          "latitude": 38.7425,
+          "radius": ""
+        },
+        {
+          "name": "祭天坛",
+          "longitude": 106.02928,
+          "latitude": 38.74254,
+          "radius": ""
+        },
+        {
+          "name": "明代哨台",
+          "longitude": 106.02649,
+          "latitude": 38.74515,
+          "radius": ""
+        },
+        {
+          "name": "西夏庙院石碾",
+          "longitude": 105.96823,
+          "latitude": 38.6814,
+          "radius": ""
+        },
+        {
+          "name": "昊王渠遗址",
+          "longitude": 106.17819,
+          "latitude": 38.77802,
+          "radius": ""
+        },
+        {
+          "name": "驴羊图",
+          "longitude": 106.02606,
+          "latitude": 38.74452,
+          "radius": ""
+        },
+        {
+          "name": "父子鹿",
+          "longitude": 106.02483,
+          "latitude": 38.74573,
+          "radius": ""
+        },
+        {
+          "name": "明万历三十七年题刻",
+          "longitude": 106.02552,
+          "latitude": 38.74494,
+          "radius": ""
+        },
+        {
+          "name": "神石",
+          "longitude": 106.02991,
+          "latitude": 38.74232,
+          "radius": ""
+        },
+        {
+          "name": "欣兰广场",
+          "longitude": 106.33943,
+          "latitude": 38.5573,
+          "radius": ""
+        },
+        {
+          "name": "山崩遗观",
+          "longitude": 106.02268,
+          "latitude": 38.7469,
+          "radius": ""
+        },
+        {
+          "name": "牧猎图",
+          "longitude": 106.02456,
+          "latitude": 38.74629,
+          "radius": ""
+        },
+        {
+          "name": "水关遗址",
+          "longitude": 106.02207,
+          "latitude": 38.74704,
+          "radius": ""
+        },
+        {
+          "name": "贺兰山自然造像",
+          "longitude": 105.96767,
+          "latitude": 38.68189,
+          "radius": ""
+        },
+        {
+          "name": "望银亭",
+          "longitude": 106.02637,
+          "latitude": 38.73746,
+          "radius": ""
+        },
+        {
+          "name": "坑穴与虎",
+          "longitude": 106.02608,
+          "latitude": 38.74448,
+          "radius": ""
+        },
+        {
+          "name": "双羊出圈图",
+          "longitude": 106.02578,
+          "latitude": 38.74537,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 106.16309,
+          "latitude": 38.71783,
+          "radius": ""
+        },
+        {
+          "name": "圣像壁",
+          "longitude": 106.02541,
+          "latitude": 38.74508,
+          "radius": ""
+        },
+        {
+          "name": "手印图",
+          "longitude": 106.02529,
+          "latitude": 38.74601,
+          "radius": ""
+        },
+        {
+          "name": "猴头像",
+          "longitude": 106.02614,
+          "latitude": 38.74518,
+          "radius": ""
+        },
+        {
+          "name": "西夏文题刻与岩画群像",
+          "longitude": 106.02627,
+          "latitude": 38.74513,
+          "radius": ""
+        },
+        {
+          "name": "暖泉汉墓",
+          "longitude": 106.15395,
+          "latitude": 38.77983,
+          "radius": ""
+        },
+        {
+          "name": "雁斜石",
+          "longitude": 106.02509,
+          "latitude": 38.74535,
+          "radius": ""
+        },
+        {
+          "name": "祭石",
+          "longitude": 106.02947,
+          "latitude": 38.7423,
+          "radius": ""
+        },
+        {
+          "name": "古猿观天",
+          "longitude": 106.0253,
+          "latitude": 38.74536,
+          "radius": ""
+        },
+        {
+          "name": "高窑子",
+          "longitude": 106.02456,
+          "latitude": 38.74601,
+          "radius": ""
+        },
+        {
+          "name": "凝露台",
+          "longitude": 106.02434,
+          "latitude": 38.74627,
+          "radius": ""
+        },
+        {
+          "name": "危石欲坠",
+          "longitude": 106.02281,
+          "latitude": 38.74628,
+          "radius": ""
+        },
+        {
+          "name": "贺兰飞瀑",
+          "longitude": 106.02162,
+          "latitude": 38.74673,
+          "radius": ""
+        },
+        {
+          "name": "寺庙建筑遗址",
+          "longitude": 105.96687,
+          "latitude": 38.68133,
+          "radius": ""
+        },
+        {
+          "name": "符号与人面像",
+          "longitude": 106.02585,
+          "latitude": 38.74482,
+          "radius": ""
+        },
+        {
+          "name": "览山亭",
+          "longitude": 106.02554,
+          "latitude": 38.73778,
+          "radius": ""
+        },
+        {
+          "name": "西夏石器",
+          "longitude": 105.96804,
+          "latitude": 38.68162,
+          "radius": ""
+        },
+        {
+          "name": "考古探方",
+          "longitude": 105.96814,
+          "latitude": 38.68153,
+          "radius": ""
+        },
+        {
+          "name": "镇山虎",
+          "longitude": 106.02671,
+          "latitude": 38.74504,
+          "radius": ""
+        },
+        {
+          "name": "泉卧石",
+          "longitude": 106.02969,
+          "latitude": 38.74215,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "灵武市",
+      "locations": [
+        {
+          "name": "银川河东国际机场",
+          "longitude": 106.39323,
+          "latitude": 38.32452,
+          "radius": ""
+        },
+        {
+          "name": "灵武市体育中心综合体育馆",
+          "longitude": 106.31118,
+          "latitude": 38.10548,
+          "radius": ""
+        },
+        {
+          "name": "水洞沟旅游区",
+          "longitude": 106.51893,
+          "latitude": 38.28365,
+          "radius": ""
+        },
+        {
+          "name": "长流水生态旅游区",
+          "longitude": 106.38037,
+          "latitude": 37.84439,
+          "radius": ""
+        },
+        {
+          "name": "黄河书院",
+          "longitude": 106.36109,
+          "latitude": 38.31371,
+          "radius": ""
+        },
+        {
+          "name": "鼓楼",
+          "longitude": 106.33649,
+          "latitude": 38.1026,
+          "radius": ""
+        },
+        {
+          "name": "大海子度假旅游区",
+          "longitude": 106.40393,
+          "latitude": 38.04531,
+          "radius": ""
+        },
+        {
+          "name": "释湛忠法师塔",
+          "longitude": 106.37637,
+          "latitude": 38.07794,
+          "radius": ""
+        },
+        {
+          "name": "灵武市体育中心",
+          "longitude": 106.33082,
+          "latitude": 38.10683,
+          "radius": ""
+        },
+        {
+          "name": "宁夏神英户外运动俱乐部",
+          "longitude": 106.32568,
+          "latitude": 37.81181,
+          "radius": ""
+        },
+        {
+          "name": "镇河塔",
+          "longitude": 106.33736,
+          "latitude": 38.08713,
+          "radius": ""
+        },
+        {
+          "name": "灵州城墙",
+          "longitude": 106.33354,
+          "latitude": 38.09705,
+          "radius": ""
+        },
+        {
+          "name": "灵武市少年宫",
+          "longitude": 106.33426,
+          "latitude": 38.09572,
+          "radius": ""
+        },
+        {
+          "name": "高庙大戏楼",
+          "longitude": 106.33665,
+          "latitude": 38.09617,
+          "radius": ""
+        },
+        {
+          "name": "新未来电子城",
+          "longitude": 106.33578,
+          "latitude": 38.0924,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1271 @@
+{
+  "cityName": "南通市",
+  "businessCenters": [
+    {
+      "name": "崇川区",
+      "locations": [
+        {
+          "name": "城南",
+          "longitude": 120.87447,
+          "latitude": 31.999462,
+          "radius": "1052"
+        },
+        {
+          "name": "城东",
+          "longitude": 120.87796,
+          "latitude": 32.0213,
+          "radius": "1598"
+        },
+        {
+          "name": "城北",
+          "longitude": 120.865005,
+          "latitude": 32.02977,
+          "radius": "770"
+        },
+        {
+          "name": "城西",
+          "longitude": 120.8517,
+          "latitude": 32.01144,
+          "radius": "1404"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "崇川区",
+      "locations": [
+        {
+          "name": "濠河风景名胜区",
+          "longitude": 120.8577,
+          "latitude": 32.0214,
+          "radius": ""
+        },
+        {
+          "name": "更俗剧院",
+          "longitude": 120.8566,
+          "latitude": 32.00981,
+          "radius": ""
+        },
+        {
+          "name": "南通体育馆",
+          "longitude": 120.8485,
+          "latitude": 32.00398,
+          "radius": ""
+        },
+        {
+          "name": "狼山风景名胜区",
+          "longitude": 120.88843,
+          "latitude": 31.95008,
+          "radius": ""
+        },
+        {
+          "name": "军山景区",
+          "longitude": 120.90212,
+          "latitude": 31.93947,
+          "radius": ""
+        },
+        {
+          "name": "南通风筝博物馆(环城西路)",
+          "longitude": 120.8624,
+          "latitude": 32.01249,
+          "radius": ""
+        },
+        {
+          "name": "南通市健康路体育馆",
+          "longitude": 120.86521,
+          "latitude": 32.01074,
+          "radius": ""
+        },
+        {
+          "name": "剑山景区",
+          "longitude": 120.8948,
+          "latitude": 31.94648,
+          "radius": ""
+        },
+        {
+          "name": "太平禅寺",
+          "longitude": 120.93757,
+          "latitude": 32.00147,
+          "radius": ""
+        },
+        {
+          "name": "倭子坡",
+          "longitude": 120.87976,
+          "latitude": 31.98462,
+          "radius": ""
+        },
+        {
+          "name": "崇川植物园",
+          "longitude": 120.90831,
+          "latitude": 31.9625,
+          "radius": ""
+        },
+        {
+          "name": "玄妙观玉皇楼",
+          "longitude": 120.86774,
+          "latitude": 32.01738,
+          "radius": ""
+        },
+        {
+          "name": "通师一附体育馆",
+          "longitude": 120.88744,
+          "latitude": 31.96751,
+          "radius": ""
+        },
+        {
+          "name": "南通建筑博物馆",
+          "longitude": 120.83861,
+          "latitude": 32.00105,
+          "radius": ""
+        },
+        {
+          "name": "中华慈善博物馆",
+          "longitude": 120.88019,
+          "latitude": 31.9986,
+          "radius": ""
+        },
+        {
+          "name": "中国审计博物馆",
+          "longitude": 120.85845,
+          "latitude": 32.02431,
+          "radius": ""
+        },
+        {
+          "name": "给水技术博物馆",
+          "longitude": 120.87429,
+          "latitude": 31.95516,
+          "radius": ""
+        },
+        {
+          "name": "江海美食博物馆",
+          "longitude": 120.88593,
+          "latitude": 31.96275,
+          "radius": ""
+        },
+        {
+          "name": "新天地二附体育馆",
+          "longitude": 120.86766,
+          "latitude": 32.01993,
+          "radius": ""
+        },
+        {
+          "name": "南通艺术剧院",
+          "longitude": 120.85785,
+          "latitude": 32.0027,
+          "radius": ""
+        },
+        {
+          "name": "中臣大剧院",
+          "longitude": 120.86846,
+          "latitude": 32.01894,
+          "radius": ""
+        },
+        {
+          "name": "崇川区门球场",
+          "longitude": 120.86142,
+          "latitude": 32.00669,
+          "radius": ""
+        },
+        {
+          "name": "水世界·健身中心",
+          "longitude": 120.87607,
+          "latitude": 32.01491,
+          "radius": ""
+        },
+        {
+          "name": "玘迹游泳会馆",
+          "longitude": 120.87132,
+          "latitude": 32.00428,
+          "radius": ""
+        },
+        {
+          "name": "张骞纪念馆(南通)",
+          "longitude": 120.86986,
+          "latitude": 32.01461,
+          "radius": ""
+        },
+        {
+          "name": "南通民俗文化博览园",
+          "longitude": 120.9015,
+          "latitude": 31.94433,
+          "radius": ""
+        },
+        {
+          "name": "东方勇士拓展训练营真人cs基地",
+          "longitude": 120.90256,
+          "latitude": 31.94261,
+          "radius": ""
+        },
+        {
+          "name": "介山寄傲",
+          "longitude": 120.87542,
+          "latitude": 31.95182,
+          "radius": ""
+        },
+        {
+          "name": "听涛轩",
+          "longitude": 120.87199,
+          "latitude": 31.95348,
+          "radius": ""
+        },
+        {
+          "name": "咏春拳馆",
+          "longitude": 120.8285,
+          "latitude": 32.00932,
+          "radius": ""
+        },
+        {
+          "name": "狼山乐园",
+          "longitude": 120.88834,
+          "latitude": 31.94828,
+          "radius": ""
+        },
+        {
+          "name": "崇川名蓝",
+          "longitude": 120.93752,
+          "latitude": 32.00164,
+          "radius": ""
+        },
+        {
+          "name": "更俗剧场",
+          "longitude": 120.90561,
+          "latitude": 31.9453,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "港闸区",
+      "locations": [
+        {
+          "name": "南通市人民体育场",
+          "longitude": 120.82646,
+          "latitude": 32.02874,
+          "radius": ""
+        },
+        {
+          "name": "福田寺",
+          "longitude": 120.79321,
+          "latitude": 32.09184,
+          "radius": ""
+        },
+        {
+          "name": "大生马头",
+          "longitude": 120.81065,
+          "latitude": 32.06364,
+          "radius": ""
+        },
+        {
+          "name": "唐闸东工房",
+          "longitude": 120.80463,
+          "latitude": 32.06473,
+          "radius": ""
+        },
+        {
+          "name": "张謇像",
+          "longitude": 120.80861,
+          "latitude": 32.06419,
+          "radius": ""
+        },
+        {
+          "name": "泽生外港水利公司",
+          "longitude": 120.80519,
+          "latitude": 32.06611,
+          "radius": ""
+        },
+        {
+          "name": "大生纺织公司",
+          "longitude": 120.81033,
+          "latitude": 32.0634,
+          "radius": ""
+        },
+        {
+          "name": "南通通作家具博物馆",
+          "longitude": 120.89572,
+          "latitude": 32.04805,
+          "radius": ""
+        },
+        {
+          "name": "南通板鹞风筝艺术博物馆",
+          "longitude": 120.86993,
+          "latitude": 32.04377,
+          "radius": ""
+        },
+        {
+          "name": "南通通吕绿廊景区",
+          "longitude": 120.85896,
+          "latitude": 32.0367,
+          "radius": ""
+        },
+        {
+          "name": "体育馆",
+          "longitude": 120.80727,
+          "latitude": 32.04447,
+          "radius": ""
+        },
+        {
+          "name": "大达内河轮船公司",
+          "longitude": 120.80631,
+          "latitude": 32.06575,
+          "radius": ""
+        },
+        {
+          "name": "南通久发农业科技生态园",
+          "longitude": 120.83536,
+          "latitude": 32.11768,
+          "radius": ""
+        },
+        {
+          "name": "果园路记",
+          "longitude": 120.76517,
+          "latitude": 32.04181,
+          "radius": ""
+        },
+        {
+          "name": "南通县市图",
+          "longitude": 120.80852,
+          "latitude": 32.06412,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "通州区",
+      "locations": [
+        {
+          "name": "南通兴东机场",
+          "longitude": 120.98075,
+          "latitude": 32.070843,
+          "radius": ""
+        },
+        {
+          "name": "通州区体育馆",
+          "longitude": 121.07913,
+          "latitude": 32.06835,
+          "radius": ""
+        },
+        {
+          "name": "世外桃园休闲农庄",
+          "longitude": 120.93872,
+          "latitude": 31.88202,
+          "radius": ""
+        },
+        {
+          "name": "南山公园",
+          "longitude": 121.09212,
+          "latitude": 32.05927,
+          "radius": ""
+        },
+        {
+          "name": "南山寺",
+          "longitude": 121.08428,
+          "latitude": 32.05552,
+          "radius": ""
+        },
+        {
+          "name": "慈云禅寺",
+          "longitude": 121.11396,
+          "latitude": 32.13498,
+          "radius": ""
+        },
+        {
+          "name": "普昭禅寺",
+          "longitude": 120.8936,
+          "latitude": 32.11373,
+          "radius": ""
+        },
+        {
+          "name": "典园",
+          "longitude": 120.66013,
+          "latitude": 32.04728,
+          "radius": ""
+        },
+        {
+          "name": "西禅寺",
+          "longitude": 121.00013,
+          "latitude": 32.09846,
+          "radius": ""
+        },
+        {
+          "name": "江北特委旧址",
+          "longitude": 120.94198,
+          "latitude": 32.15289,
+          "radius": ""
+        },
+        {
+          "name": "范仲淹像",
+          "longitude": 121.05208,
+          "latitude": 32.17418,
+          "radius": ""
+        },
+        {
+          "name": "曹公亭",
+          "longitude": 120.7511,
+          "latitude": 32.1053,
+          "radius": ""
+        },
+        {
+          "name": "范公堤遗址",
+          "longitude": 121.0522,
+          "latitude": 32.17399,
+          "radius": ""
+        },
+        {
+          "name": "南通刺绣博物馆",
+          "longitude": 120.71034,
+          "latitude": 32.05983,
+          "radius": ""
+        },
+        {
+          "name": "平潮影剧院",
+          "longitude": 120.74782,
+          "latitude": 32.10098,
+          "radius": ""
+        },
+        {
+          "name": "南通市通州区体育中心",
+          "longitude": 121.08062,
+          "latitude": 32.06363,
+          "radius": ""
+        },
+        {
+          "name": "南通东方游泳池",
+          "longitude": 120.93949,
+          "latitude": 32.04271,
+          "radius": ""
+        },
+        {
+          "name": "南通市开发区跆拳道",
+          "longitude": 120.93054,
+          "latitude": 31.92059,
+          "radius": ""
+        },
+        {
+          "name": "小海影剧院",
+          "longitude": 120.9672,
+          "latitude": 31.95523,
+          "radius": ""
+        },
+        {
+          "name": "通州区游泳馆",
+          "longitude": 121.07997,
+          "latitude": 32.08192,
+          "radius": ""
+        },
+        {
+          "name": "南通市通州区人民体育场",
+          "longitude": 121.07009,
+          "latitude": 32.09574,
+          "radius": ""
+        },
+        {
+          "name": "三余门球场",
+          "longitude": 121.28745,
+          "latitude": 32.12471,
+          "radius": ""
+        },
+        {
+          "name": "极点球吧",
+          "longitude": 120.9564,
+          "latitude": 32.00454,
+          "radius": ""
+        },
+        {
+          "name": "中共开沙岛旅游度假区工作委员会",
+          "longitude": 120.68607,
+          "latitude": 32.08542,
+          "radius": ""
+        },
+        {
+          "name": "甬金体育馆",
+          "longitude": 121.05875,
+          "latitude": 32.02202,
+          "radius": ""
+        },
+        {
+          "name": "谢家渡战斗纪念碑",
+          "longitude": 121.23103,
+          "latitude": 32.17722,
+          "radius": ""
+        },
+        {
+          "name": "忠孝坊",
+          "longitude": 121.19787,
+          "latitude": 32.10318,
+          "radius": ""
+        },
+        {
+          "name": "一健家园健康会所通州旗舰店",
+          "longitude": 121.08178,
+          "latitude": 32.08399,
+          "radius": ""
+        },
+        {
+          "name": "忠孝园",
+          "longitude": 121.19763,
+          "latitude": 32.10361,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "海安县",
+      "locations": [
+        {
+          "name": "海安县博物馆",
+          "longitude": 120.46389,
+          "latitude": 32.54696,
+          "radius": ""
+        },
+        {
+          "name": "江淮文化园",
+          "longitude": 120.46358,
+          "latitude": 32.55685,
+          "radius": ""
+        },
+        {
+          "name": "如来寺",
+          "longitude": 120.84729,
+          "latitude": 32.59158,
+          "radius": ""
+        },
+        {
+          "name": "南通里下河湿地文化公园",
+          "longitude": 120.40556,
+          "latitude": 32.63559,
+          "radius": ""
+        },
+        {
+          "name": "金庄战斗纪念碑",
+          "longitude": 120.36831,
+          "latitude": 32.36501,
+          "radius": ""
+        },
+        {
+          "name": "新四军联抗烈士纪念碑",
+          "longitude": 120.37666,
+          "latitude": 32.59997,
+          "radius": ""
+        },
+        {
+          "name": "德让博物馆",
+          "longitude": 120.481,
+          "latitude": 32.52518,
+          "radius": ""
+        },
+        {
+          "name": "海安县体育中心",
+          "longitude": 120.46254,
+          "latitude": 32.54779,
+          "radius": ""
+        },
+        {
+          "name": "奥体新城体育中心",
+          "longitude": 120.4599,
+          "latitude": 32.51907,
+          "radius": ""
+        },
+        {
+          "name": "孙庄影剧院",
+          "longitude": 120.38991,
+          "latitude": 32.43441,
+          "radius": ""
+        },
+        {
+          "name": "大公影剧院",
+          "longitude": 120.51791,
+          "latitude": 32.61297,
+          "radius": ""
+        },
+        {
+          "name": "南通机场(海安)候机厅",
+          "longitude": 120.48147,
+          "latitude": 32.5377,
+          "radius": ""
+        },
+        {
+          "name": "龙之梦时尚运动馆",
+          "longitude": 120.48369,
+          "latitude": 32.53602,
+          "radius": ""
+        },
+        {
+          "name": "曲塘大剧院",
+          "longitude": 120.32594,
+          "latitude": 32.49507,
+          "radius": ""
+        },
+        {
+          "name": "龙虎跆拳道俱乐部(贵都店)",
+          "longitude": 120.46648,
+          "latitude": 32.53011,
+          "radius": ""
+        },
+        {
+          "name": "高家垛战斗旧址",
+          "longitude": 120.21729,
+          "latitude": 32.58946,
+          "radius": ""
+        },
+        {
+          "name": "张莫天战斗旧址",
+          "longitude": 120.34782,
+          "latitude": 32.43333,
+          "radius": ""
+        },
+        {
+          "name": "青墩遗址",
+          "longitude": 120.25433,
+          "latitude": 32.60847,
+          "radius": ""
+        },
+        {
+          "name": "海安博物馆",
+          "longitude": 120.46493,
+          "latitude": 32.53239,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "如东县",
+      "locations": [
+        {
+          "name": "如东县体育馆",
+          "longitude": 121.17262,
+          "latitude": 32.2922,
+          "radius": ""
+        },
+        {
+          "name": "如东县体育场",
+          "longitude": 121.18314,
+          "latitude": 32.31415,
+          "radius": ""
+        },
+        {
+          "name": "南通小洋口风景区",
+          "longitude": 121.04295,
+          "latitude": 32.56169,
+          "radius": ""
+        },
+        {
+          "name": "国清寺",
+          "longitude": 121.16931,
+          "latitude": 32.29247,
+          "radius": ""
+        },
+        {
+          "name": "太阳岛",
+          "longitude": 121.42806,
+          "latitude": 32.52571,
+          "radius": ""
+        },
+        {
+          "name": "扶海洲碑记",
+          "longitude": 121.17732,
+          "latitude": 32.30425,
+          "radius": ""
+        },
+        {
+          "name": "纪念碑",
+          "longitude": 121.11609,
+          "latitude": 32.34039,
+          "radius": ""
+        },
+        {
+          "name": "苏中四分区抗日反清乡斗争胜利纪念碑",
+          "longitude": 121.18355,
+          "latitude": 32.41141,
+          "radius": ""
+        },
+        {
+          "name": "河口大会堂",
+          "longitude": 120.82679,
+          "latitude": 32.4906,
+          "radius": ""
+        },
+        {
+          "name": "洋口港景区",
+          "longitude": 121.34482,
+          "latitude": 32.43854,
+          "radius": ""
+        },
+        {
+          "name": "人民海军起航纪念址",
+          "longitude": 121.42806,
+          "latitude": 32.52571,
+          "radius": ""
+        },
+        {
+          "name": "岔河影剧院",
+          "longitude": 120.92408,
+          "latitude": 32.35004,
+          "radius": ""
+        },
+        {
+          "name": "西华门",
+          "longitude": 121.20021,
+          "latitude": 32.32162,
+          "radius": ""
+        },
+        {
+          "name": "烈士纪念碑",
+          "longitude": 120.81191,
+          "latitude": 32.48681,
+          "radius": ""
+        },
+        {
+          "name": "南黄海训练营",
+          "longitude": 120.99064,
+          "latitude": 32.56184,
+          "radius": ""
+        },
+        {
+          "name": "晓塘剧院",
+          "longitude": 121.04257,
+          "latitude": 32.31505,
+          "radius": ""
+        },
+        {
+          "name": "如东烈士碑",
+          "longitude": 121.19182,
+          "latitude": 32.31683,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "启东市",
+      "locations": [
+        {
+          "name": "启东体育馆",
+          "longitude": 121.63601,
+          "latitude": 31.81886,
+          "radius": ""
+        },
+        {
+          "name": "圆陀角风景区",
+          "longitude": 121.89677,
+          "latitude": 31.69823,
+          "radius": ""
+        },
+        {
+          "name": "启东直升机场",
+          "longitude": 121.70158,
+          "latitude": 31.86016,
+          "radius": ""
+        },
+        {
+          "name": "法音寺",
+          "longitude": 121.67241,
+          "latitude": 31.79865,
+          "radius": ""
+        },
+        {
+          "name": "中国吕四港风情区",
+          "longitude": 121.59997,
+          "latitude": 32.08147,
+          "radius": ""
+        },
+        {
+          "name": "九令村烈士公墓",
+          "longitude": 121.58818,
+          "latitude": 31.97852,
+          "radius": ""
+        },
+        {
+          "name": "蔡道邦墓",
+          "longitude": 121.57702,
+          "latitude": 31.83548,
+          "radius": ""
+        },
+        {
+          "name": "渔民大队突围战纪念地",
+          "longitude": 121.75959,
+          "latitude": 31.98128,
+          "radius": ""
+        },
+        {
+          "name": "新四军一师师部驻地",
+          "longitude": 121.70098,
+          "latitude": 31.98917,
+          "radius": ""
+        },
+        {
+          "name": "首缴日军九六式机枪纪念地",
+          "longitude": 121.73364,
+          "latitude": 31.92807,
+          "radius": ""
+        },
+        {
+          "name": "启东人民首战日军纪念地",
+          "longitude": 121.66836,
+          "latitude": 31.80505,
+          "radius": ""
+        },
+        {
+          "name": "革命烈士陵园",
+          "longitude": 121.63856,
+          "latitude": 31.79515,
+          "radius": ""
+        },
+        {
+          "name": "伏击日军首次胜利纪念地",
+          "longitude": 121.57829,
+          "latitude": 31.93146,
+          "radius": ""
+        },
+        {
+          "name": "慧丰跆拳道馆(启东店)",
+          "longitude": 121.64838,
+          "latitude": 31.80289,
+          "radius": ""
+        },
+        {
+          "name": "鹤城影剧场",
+          "longitude": 121.59793,
+          "latitude": 32.05349,
+          "radius": ""
+        },
+        {
+          "name": "慧丰跆拳道馆(紫薇公园店)",
+          "longitude": 121.67627,
+          "latitude": 31.81674,
+          "radius": ""
+        },
+        {
+          "name": "中天塔",
+          "longitude": 121.67213,
+          "latitude": 31.79818,
+          "radius": ""
+        },
+        {
+          "name": "圩角烈士纪念碑",
+          "longitude": 121.62191,
+          "latitude": 31.85346,
+          "radius": ""
+        },
+        {
+          "name": "和合镇革命烈士纪念碑",
+          "longitude": 121.81984,
+          "latitude": 31.76966,
+          "radius": ""
+        },
+        {
+          "name": "寅阳镇人口文化园",
+          "longitude": 121.80945,
+          "latitude": 31.73458,
+          "radius": ""
+        },
+        {
+          "name": "江海演艺厅",
+          "longitude": 121.66396,
+          "latitude": 31.81714,
+          "radius": ""
+        },
+        {
+          "name": "蔡邦道墓",
+          "longitude": 121.57701,
+          "latitude": 31.83547,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "如皋市",
+      "locations": [
+        {
+          "name": "场北体育场",
+          "longitude": 120.50601,
+          "latitude": 32.29981,
+          "radius": ""
+        },
+        {
+          "name": "水绘园",
+          "longitude": 120.56933,
+          "latitude": 32.3956,
+          "radius": ""
+        },
+        {
+          "name": "如皋市体育场",
+          "longitude": 120.58602,
+          "latitude": 32.3861,
+          "radius": ""
+        },
+        {
+          "name": "如皋奥林匹克体育中心-体育会展馆",
+          "longitude": 120.58732,
+          "latitude": 32.37736,
+          "radius": ""
+        },
+        {
+          "name": "颐园",
+          "longitude": 120.56257,
+          "latitude": 32.39288,
+          "radius": ""
+        },
+        {
+          "name": "绍隆禅寺",
+          "longitude": 120.47429,
+          "latitude": 32.28439,
+          "radius": ""
+        },
+        {
+          "name": "中国长寿城旅游景区",
+          "longitude": 120.54437,
+          "latitude": 32.36175,
+          "radius": ""
+        },
+        {
+          "name": "范公苑",
+          "longitude": 120.56744,
+          "latitude": 32.38529,
+          "radius": ""
+        },
+        {
+          "name": "如皋高师",
+          "longitude": 120.57205,
+          "latitude": 32.39007,
+          "radius": ""
+        },
+        {
+          "name": "观音塔",
+          "longitude": 120.57285,
+          "latitude": 32.38946,
+          "radius": ""
+        },
+        {
+          "name": "顾景怡颜",
+          "longitude": 120.56531,
+          "latitude": 32.34774,
+          "radius": ""
+        },
+        {
+          "name": "丞相亭",
+          "longitude": 120.5718,
+          "latitude": 32.38772,
+          "radius": ""
+        },
+        {
+          "name": "如皋市如西人家农耕文化园景区",
+          "longitude": 120.41996,
+          "latitude": 32.2864,
+          "radius": ""
+        },
+        {
+          "name": "钟楼",
+          "longitude": 120.56082,
+          "latitude": 32.39527,
+          "radius": ""
+        },
+        {
+          "name": "文昌阁",
+          "longitude": 120.57212,
+          "latitude": 32.38806,
+          "radius": ""
+        },
+        {
+          "name": "红十四军严惩军内腐败万人大会遗址",
+          "longitude": 120.43223,
+          "latitude": 32.23303,
+          "radius": ""
+        },
+        {
+          "name": "龙游水利风景区",
+          "longitude": 120.57217,
+          "latitude": 32.39539,
+          "radius": ""
+        },
+        {
+          "name": "长青沙生态旅游度假区",
+          "longitude": 120.62185,
+          "latitude": 32.062,
+          "radius": ""
+        },
+        {
+          "name": "如皋奥林匹克体育中心-篮球馆",
+          "longitude": 120.58778,
+          "latitude": 32.37607,
+          "radius": ""
+        },
+        {
+          "name": "如皋市戴氏家藏博物馆",
+          "longitude": 120.56856,
+          "latitude": 32.39187,
+          "radius": ""
+        },
+        {
+          "name": "如皋市博物馆",
+          "longitude": 120.5709,
+          "latitude": 32.36994,
+          "radius": ""
+        },
+        {
+          "name": "如皋奥林匹克体育中心-游泳馆",
+          "longitude": 120.58679,
+          "latitude": 32.37676,
+          "radius": ""
+        },
+        {
+          "name": "如皋大剧院",
+          "longitude": 120.55999,
+          "latitude": 32.37485,
+          "radius": ""
+        },
+        {
+          "name": "南通机场(如皋)候机厅",
+          "longitude": 120.55706,
+          "latitude": 32.36077,
+          "radius": ""
+        },
+        {
+          "name": "合和乒乓球馆",
+          "longitude": 120.55774,
+          "latitude": 32.38469,
+          "radius": ""
+        },
+        {
+          "name": "宝龙球吧",
+          "longitude": 120.56698,
+          "latitude": 32.37905,
+          "radius": ""
+        },
+        {
+          "name": "集贤里民居",
+          "longitude": 120.57059,
+          "latitude": 32.38956,
+          "radius": ""
+        },
+        {
+          "name": "磨头游泳馆",
+          "longitude": 120.57198,
+          "latitude": 32.28602,
+          "radius": ""
+        },
+        {
+          "name": "如皋港风景区",
+          "longitude": 120.53723,
+          "latitude": 32.08449,
+          "radius": ""
+        },
+        {
+          "name": "吴庄烈士墓",
+          "longitude": 120.45546,
+          "latitude": 32.22207,
+          "radius": ""
+        },
+        {
+          "name": "花神居",
+          "longitude": 120.58533,
+          "latitude": 32.35733,
+          "radius": ""
+        },
+        {
+          "name": "如皋公立简易师范学堂旧址",
+          "longitude": 120.57192,
+          "latitude": 32.3899,
+          "radius": ""
+        },
+        {
+          "name": "新四军烈士纪念碑",
+          "longitude": 120.72506,
+          "latitude": 32.35876,
+          "radius": ""
+        },
+        {
+          "name": "杨枝禅院遗址",
+          "longitude": 120.64051,
+          "latitude": 32.39643,
+          "radius": ""
+        },
+        {
+          "name": "中共如皋县委旧址",
+          "longitude": 120.5672,
+          "latitude": 32.39151,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "海门市",
+      "locations": [
+        {
+          "name": "沿江渔村",
+          "longitude": 121.14079,
+          "latitude": 31.84606,
+          "radius": ""
+        },
+        {
+          "name": "华夏第一龙桥",
+          "longitude": 121.5202,
+          "latitude": 32.11057,
+          "radius": ""
+        },
+        {
+          "name": "刘浩烈士墓",
+          "longitude": 121.48883,
+          "latitude": 32.03696,
+          "radius": ""
+        },
+        {
+          "name": "沈绣艺术馆",
+          "longitude": 121.08876,
+          "latitude": 31.96565,
+          "radius": ""
+        },
+        {
+          "name": "蛎岈山牡蛎礁海洋特别保护区",
+          "longitude": 121.52599,
+          "latitude": 32.10835,
+          "radius": ""
+        },
+        {
+          "name": "滨海森林公园",
+          "longitude": 121.47284,
+          "latitude": 32.10075,
+          "radius": ""
+        },
+        {
+          "name": "海门市快活林休闲山庄",
+          "longitude": 121.13262,
+          "latitude": 31.82731,
+          "radius": ""
+        },
+        {
+          "name": "民族英烈墓",
+          "longitude": 121.36528,
+          "latitude": 32.02172,
+          "radius": ""
+        },
+        {
+          "name": "荔园",
+          "longitude": 121.19614,
+          "latitude": 31.89014,
+          "radius": ""
+        },
+        {
+          "name": "海门市体育馆",
+          "longitude": 121.17795,
+          "latitude": 31.89546,
+          "radius": ""
+        },
+        {
+          "name": "牡蛎博物馆",
+          "longitude": 121.52599,
+          "latitude": 32.10835,
+          "radius": ""
+        },
+        {
+          "name": "悦来影剧院",
+          "longitude": 121.43575,
+          "latitude": 31.93434,
+          "radius": ""
+        },
+        {
+          "name": "水上运动中心",
+          "longitude": 121.17551,
+          "latitude": 31.89736,
+          "radius": ""
+        },
+        {
+          "name": "人民大剧院",
+          "longitude": 121.17328,
+          "latitude": 31.89353,
+          "radius": ""
+        },
+        {
+          "name": "海门市人民体育场",
+          "longitude": 121.17061,
+          "latitude": 31.89326,
+          "radius": ""
+        },
+        {
+          "name": "海门市门球场",
+          "longitude": 121.19405,
+          "latitude": 31.89874,
+          "radius": ""
+        },
+        {
+          "name": "巨鹰国际跆拳道(三厂馆)",
+          "longitude": 121.25161,
+          "latitude": 31.89229,
+          "radius": ""
+        },
+        {
+          "name": "南通机场(海门)候机厅",
+          "longitude": 121.15983,
+          "latitude": 31.88949,
+          "radius": ""
+        },
+        {
+          "name": "海门市伟龙跆拳道馆",
+          "longitude": 121.17377,
+          "latitude": 31.89498,
+          "radius": ""
+        },
+        {
+          "name": "宏升村社区农民俱乐部",
+          "longitude": 121.42281,
+          "latitude": 32.03459,
+          "radius": ""
+        },
+        {
+          "name": "上搏羽毛球馆",
+          "longitude": 121.20233,
+          "latitude": 31.89417,
+          "radius": ""
+        },
+        {
+          "name": "状元故里牌坊",
+          "longitude": 121.25182,
+          "latitude": 31.93207,
+          "radius": ""
+        },
+        {
+          "name": "六匡人民革命烈士纪念碑",
+          "longitude": 121.37469,
+          "latitude": 31.93413,
+          "radius": ""
+        },
+        {
+          "name": "绿茵足球馆",
+          "longitude": 121.15607,
+          "latitude": 31.89123,
+          "radius": ""
+        },
+        {
+          "name": "江堤达标纪念碑",
+          "longitude": 121.18697,
+          "latitude": 31.83728,
+          "radius": ""
+        },
+        {
+          "name": "海门市新通海沙观景台",
+          "longitude": 121.04034,
+          "latitude": 31.81652,
+          "radius": ""
+        },
+        {
+          "name": "江山广场",
+          "longitude": 121.2515,
+          "latitude": 31.97097,
+          "radius": ""
+        },
+        {
+          "name": "大生三厂钟楼",
+          "longitude": 121.24895,
+          "latitude": 31.89251,
+          "radius": ""
+        },
+        {
+          "name": "海门市电视塔",
+          "longitude": 121.19422,
+          "latitude": 31.89448,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

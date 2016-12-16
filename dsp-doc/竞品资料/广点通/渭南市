@@ -1,0 +1,1010 @@
+{
+  "cityName": "渭南市",
+  "businessCenters": [
+    {
+      "name": "临渭区",
+      "locations": [
+        {
+          "name": "东风大街",
+          "longitude": 109.48965,
+          "latitude": 34.49997,
+          "radius": "2092"
+        },
+        {
+          "name": "朝阳大街",
+          "longitude": 109.480385,
+          "latitude": 34.495045,
+          "radius": "3296"
+        },
+        {
+          "name": "老城",
+          "longitude": 109.5226,
+          "latitude": 34.49699,
+          "radius": "606"
+        }
+      ]
+    },
+    {
+      "name": "潼关县",
+      "locations": [
+        {
+          "name": "中心大街",
+          "longitude": 110.25075,
+          "latitude": 34.543896,
+          "radius": "386"
+        }
+      ]
+    },
+    {
+      "name": "大荔县",
+      "locations": [
+        {
+          "name": "东大街",
+          "longitude": 109.9489,
+          "latitude": 34.79508,
+          "radius": "469"
+        }
+      ]
+    },
+    {
+      "name": "蒲城县",
+      "locations": [
+        {
+          "name": "延安街",
+          "longitude": 109.59043,
+          "latitude": 34.958603,
+          "radius": "357"
+        }
+      ]
+    },
+    {
+      "name": "白水县",
+      "locations": [
+        {
+          "name": "人民路",
+          "longitude": 109.59392,
+          "latitude": 35.18022,
+          "radius": "384"
+        }
+      ]
+    },
+    {
+      "name": "韩城市",
+      "locations": [
+        {
+          "name": "太史大街",
+          "longitude": 110.44373,
+          "latitude": 35.47607,
+          "radius": "560"
+        }
+      ]
+    },
+    {
+      "name": "华阴市",
+      "locations": [
+        {
+          "name": "太华路",
+          "longitude": 110.08855,
+          "latitude": 34.563576,
+          "radius": "202"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "临渭区",
+      "locations": [
+        {
+          "name": "渭南市体育中心",
+          "longitude": 109.4627,
+          "latitude": 34.51858,
+          "radius": ""
+        },
+        {
+          "name": "渭南体育馆",
+          "longitude": 109.46167,
+          "latitude": 34.49412,
+          "radius": ""
+        },
+        {
+          "name": "渭南鼓楼",
+          "longitude": 109.524,
+          "latitude": 34.4973,
+          "radius": ""
+        },
+        {
+          "name": "渭南中心博物馆",
+          "longitude": 109.52727,
+          "latitude": 34.49733,
+          "radius": ""
+        },
+        {
+          "name": "渭南非物质文化遣产博物馆",
+          "longitude": 109.47503,
+          "latitude": 34.50803,
+          "radius": ""
+        },
+        {
+          "name": "渭南市秦腔剧团",
+          "longitude": 109.50724,
+          "latitude": 34.49892,
+          "radius": ""
+        },
+        {
+          "name": "北站游泳馆",
+          "longitude": 109.48176,
+          "latitude": 34.53175,
+          "radius": ""
+        },
+        {
+          "name": "养生林",
+          "longitude": 109.4506,
+          "latitude": 34.48993,
+          "radius": ""
+        },
+        {
+          "name": "龙源游泳池",
+          "longitude": 109.52226,
+          "latitude": 34.504,
+          "radius": ""
+        },
+        {
+          "name": "杜中游泳池",
+          "longitude": 109.47876,
+          "latitude": 34.49875,
+          "radius": ""
+        },
+        {
+          "name": "灰堆遗址",
+          "longitude": 109.52431,
+          "latitude": 34.47459,
+          "radius": ""
+        },
+        {
+          "name": "石鼓山",
+          "longitude": 109.5198,
+          "latitude": 34.27219,
+          "radius": ""
+        },
+        {
+          "name": "渭阳楼",
+          "longitude": 109.59971,
+          "latitude": 34.63718,
+          "radius": ""
+        },
+        {
+          "name": "抗日纪念碑",
+          "longitude": 109.69898,
+          "latitude": 34.66495,
+          "radius": ""
+        },
+        {
+          "name": "腊杨遗址",
+          "longitude": 109.44606,
+          "latitude": 34.61377,
+          "radius": ""
+        },
+        {
+          "name": "文庙大成殿",
+          "longitude": 109.53963,
+          "latitude": 34.49781,
+          "radius": ""
+        },
+        {
+          "name": "寇准墓",
+          "longitude": 109.44114,
+          "latitude": 34.73058,
+          "radius": ""
+        },
+        {
+          "name": "渭南鼓楼",
+          "longitude": 109.51378,
+          "latitude": 34.50726,
+          "radius": ""
+        },
+        {
+          "name": "孝义涝池画像",
+          "longitude": 109.71051,
+          "latitude": 34.61666,
+          "radius": ""
+        },
+        {
+          "name": "崇宁宫遗址",
+          "longitude": 109.59108,
+          "latitude": 34.37748,
+          "radius": ""
+        },
+        {
+          "name": "渭南大剧院",
+          "longitude": 109.47357,
+          "latitude": 34.51736,
+          "radius": ""
+        },
+        {
+          "name": "王松年墓",
+          "longitude": 109.66277,
+          "latitude": 34.76072,
+          "radius": ""
+        },
+        {
+          "name": "北庄遗址",
+          "longitude": 109.54833,
+          "latitude": 34.32102,
+          "radius": ""
+        },
+        {
+          "name": "六姑泉",
+          "longitude": 109.51939,
+          "latitude": 34.43958,
+          "radius": ""
+        },
+        {
+          "name": "姜河遗址",
+          "longitude": 109.57494,
+          "latitude": 34.30054,
+          "radius": ""
+        },
+        {
+          "name": "渭南市人民剧院",
+          "longitude": 109.49117,
+          "latitude": 34.50006,
+          "radius": ""
+        },
+        {
+          "name": "李十三墓",
+          "longitude": 109.61148,
+          "latitude": 34.73047,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "华县",
+      "locations": [
+        {
+          "name": "陕西省少华山森林公园",
+          "longitude": 109.83487,
+          "latitude": 34.49436,
+          "radius": ""
+        },
+        {
+          "name": "华山大地震遗址",
+          "longitude": 109.84972,
+          "latitude": 34.51188,
+          "radius": ""
+        },
+        {
+          "name": "金堆钼业体育场",
+          "longitude": 109.97079,
+          "latitude": 34.28365,
+          "radius": ""
+        },
+        {
+          "name": "华县影剧院",
+          "longitude": 109.76611,
+          "latitude": 34.5115,
+          "radius": ""
+        },
+        {
+          "name": "渭华起义遗址",
+          "longitude": 109.67593,
+          "latitude": 34.40372,
+          "radius": ""
+        },
+        {
+          "name": "情侣溪",
+          "longitude": 109.7965,
+          "latitude": 34.44217,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "潼关县",
+      "locations": [
+        {
+          "name": "潼关黄河风景区",
+          "longitude": 110.28779,
+          "latitude": 34.60935,
+          "radius": ""
+        },
+        {
+          "name": "潼关黄河金三角游览区",
+          "longitude": 110.33163,
+          "latitude": 34.60224,
+          "radius": ""
+        },
+        {
+          "name": "杨震廉政博物馆",
+          "longitude": 110.22534,
+          "latitude": 34.61137,
+          "radius": ""
+        },
+        {
+          "name": "十二连城",
+          "longitude": 110.32026,
+          "latitude": 34.55918,
+          "radius": ""
+        },
+        {
+          "name": "仰韶文化遗址",
+          "longitude": 110.26135,
+          "latitude": 34.56557,
+          "radius": ""
+        },
+        {
+          "name": "佛头山",
+          "longitude": 110.22197,
+          "latitude": 34.46089,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大荔县",
+      "locations": [
+        {
+          "name": "丰图义仓",
+          "longitude": 110.1197,
+          "latitude": 34.78447,
+          "radius": ""
+        },
+        {
+          "name": "大荔县剧院",
+          "longitude": 109.94755,
+          "latitude": 34.79473,
+          "radius": ""
+        },
+        {
+          "name": "同州湖景区",
+          "longitude": 109.94508,
+          "latitude": 34.77247,
+          "radius": ""
+        },
+        {
+          "name": "八鱼清代石墓群",
+          "longitude": 109.83224,
+          "latitude": 34.72492,
+          "radius": ""
+        },
+        {
+          "name": "埝头遗址",
+          "longitude": 109.97596,
+          "latitude": 34.78604,
+          "radius": ""
+        },
+        {
+          "name": "文殊新塔",
+          "longitude": 109.92637,
+          "latitude": 34.78882,
+          "radius": ""
+        },
+        {
+          "name": "王仁皎墓",
+          "longitude": 109.81096,
+          "latitude": 34.74736,
+          "radius": ""
+        },
+        {
+          "name": "朝邑遗址",
+          "longitude": 110.12608,
+          "latitude": 34.78137,
+          "radius": ""
+        },
+        {
+          "name": "金明博物馆",
+          "longitude": 109.89772,
+          "latitude": 34.78025,
+          "radius": ""
+        },
+        {
+          "name": "大荔人遗址",
+          "longitude": 109.73294,
+          "latitude": 34.86597,
+          "radius": ""
+        },
+        {
+          "name": "畅家农业公园",
+          "longitude": 110.002174,
+          "latitude": 34.76969,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "合阳县",
+      "locations": [
+        {
+          "name": "处女泉",
+          "longitude": 110.34297,
+          "latitude": 35.14347,
+          "radius": ""
+        },
+        {
+          "name": "中国洽川神泉景区",
+          "longitude": 110.34611,
+          "latitude": 35.16509,
+          "radius": ""
+        },
+        {
+          "name": "福山景点",
+          "longitude": 110.31424,
+          "latitude": 35.17129,
+          "radius": ""
+        },
+        {
+          "name": "黄河魂",
+          "longitude": 110.36445,
+          "latitude": 35.21321,
+          "radius": ""
+        },
+        {
+          "name": "天柱山",
+          "longitude": 110.32605,
+          "latitude": 35.14322,
+          "radius": ""
+        },
+        {
+          "name": "黄河湾",
+          "longitude": 110.27989,
+          "latitude": 35.03686,
+          "radius": ""
+        },
+        {
+          "name": "合阳文庙",
+          "longitude": 110.14921,
+          "latitude": 35.2372,
+          "radius": ""
+        },
+        {
+          "name": "合阳县博物馆",
+          "longitude": 110.14897,
+          "latitude": 35.23651,
+          "radius": ""
+        },
+        {
+          "name": "789新概念",
+          "longitude": 110.15599,
+          "latitude": 35.2257,
+          "radius": ""
+        },
+        {
+          "name": "快枪",
+          "longitude": 110.14794,
+          "latitude": 35.23786,
+          "radius": ""
+        },
+        {
+          "name": "快乐8球馆",
+          "longitude": 110.14802,
+          "latitude": 35.23794,
+          "radius": ""
+        },
+        {
+          "name": "卡卡欢乐谷",
+          "longitude": 110.14861,
+          "latitude": 35.23671,
+          "radius": ""
+        },
+        {
+          "name": "大象寺塔",
+          "longitude": 110.2191,
+          "latitude": 35.19231,
+          "radius": ""
+        },
+        {
+          "name": "韩信城遗址",
+          "longitude": 110.31741,
+          "latitude": 35.14343,
+          "radius": ""
+        },
+        {
+          "name": "汉村河遗址",
+          "longitude": 110.23385,
+          "latitude": 35.30741,
+          "radius": ""
+        },
+        {
+          "name": "北华遗址",
+          "longitude": 110.03116,
+          "latitude": 35.29245,
+          "radius": ""
+        },
+        {
+          "name": "白圪垯遗址",
+          "longitude": 110.17865,
+          "latitude": 35.34638,
+          "radius": ""
+        },
+        {
+          "name": "东雷遗址",
+          "longitude": 110.36499,
+          "latitude": 35.22356,
+          "radius": ""
+        },
+        {
+          "name": "合阳县体育中心",
+          "longitude": 110.16415,
+          "latitude": 35.24222,
+          "radius": ""
+        },
+        {
+          "name": "仙宫遗址",
+          "longitude": 110.10978,
+          "latitude": 35.3301,
+          "radius": ""
+        },
+        {
+          "name": "合阳县运动场",
+          "longitude": 110.1437,
+          "latitude": 35.22144,
+          "radius": ""
+        },
+        {
+          "name": "蒙汉合文碑",
+          "longitude": 110.13629,
+          "latitude": 35.24071,
+          "radius": ""
+        },
+        {
+          "name": "白家遗址",
+          "longitude": 110.22656,
+          "latitude": 35.27803,
+          "radius": ""
+        },
+        {
+          "name": "曹全碑",
+          "longitude": 110.32754,
+          "latitude": 35.15066,
+          "radius": ""
+        },
+        {
+          "name": "千佛洞",
+          "longitude": 110.12444,
+          "latitude": 35.40507,
+          "radius": ""
+        },
+        {
+          "name": "北永宁遗址",
+          "longitude": 110.03158,
+          "latitude": 35.29266,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "澄城县",
+      "locations": [
+        {
+          "name": "澄城体育场",
+          "longitude": 109.94354,
+          "latitude": 35.15903,
+          "radius": ""
+        },
+        {
+          "name": "富佳游艺园",
+          "longitude": 109.94357,
+          "latitude": 35.19212,
+          "radius": ""
+        },
+        {
+          "name": "澄城剧院",
+          "longitude": 109.93477,
+          "latitude": 35.19186,
+          "radius": ""
+        },
+        {
+          "name": "韦庄影剧院",
+          "longitude": 109.93353,
+          "latitude": 34.97081,
+          "radius": ""
+        },
+        {
+          "name": "铸钱遗址",
+          "longitude": 109.98657,
+          "latitude": 34.97387,
+          "radius": ""
+        },
+        {
+          "name": "良周宫殿遗址",
+          "longitude": 109.87468,
+          "latitude": 35.36765,
+          "radius": ""
+        },
+        {
+          "name": "崖畔寨遗址",
+          "longitude": 109.87444,
+          "latitude": 35.36745,
+          "radius": ""
+        },
+        {
+          "name": "精进寺塔",
+          "longitude": 109.93825,
+          "latitude": 35.18896,
+          "radius": ""
+        },
+        {
+          "name": "乐楼",
+          "longitude": 109.92346,
+          "latitude": 35.17783,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "蒲城县",
+      "locations": [
+        {
+          "name": "清代考院博物馆",
+          "longitude": 109.58512,
+          "latitude": 34.95396,
+          "radius": ""
+        },
+        {
+          "name": "蒲城内府机场",
+          "longitude": 109.54614,
+          "latitude": 34.83649,
+          "radius": ""
+        },
+        {
+          "name": "玄宗泰陵",
+          "longitude": 109.67366,
+          "latitude": 35.0356,
+          "radius": ""
+        },
+        {
+          "name": "蒲城县体育场",
+          "longitude": 109.59303,
+          "latitude": 34.9495,
+          "radius": ""
+        },
+        {
+          "name": "唐襄帝惠陵",
+          "longitude": 109.526,
+          "latitude": 34.97409,
+          "radius": ""
+        },
+        {
+          "name": "桥陵",
+          "longitude": 109.47382,
+          "latitude": 34.98085,
+          "radius": ""
+        },
+        {
+          "name": "蒲城县博物馆",
+          "longitude": 109.58805,
+          "latitude": 34.9556,
+          "radius": ""
+        },
+        {
+          "name": "蒲城大剧院",
+          "longitude": 109.58617,
+          "latitude": 34.95753,
+          "radius": ""
+        },
+        {
+          "name": "王振东家宅",
+          "longitude": 109.58529,
+          "latitude": 34.95357,
+          "radius": ""
+        },
+        {
+          "name": "唐泰陵",
+          "longitude": 109.65734,
+          "latitude": 35.04483,
+          "radius": ""
+        },
+        {
+          "name": "王鼎家祠",
+          "longitude": 109.5829,
+          "latitude": 34.95596,
+          "radius": ""
+        },
+        {
+          "name": "唐景陵",
+          "longitude": 109.52099,
+          "latitude": 35.00678,
+          "radius": ""
+        },
+        {
+          "name": "王贲墓",
+          "longitude": 109.43596,
+          "latitude": 34.96029,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "白水县",
+      "locations": [
+        {
+          "name": "御泉阁",
+          "longitude": 109.59766,
+          "latitude": 35.18445,
+          "radius": ""
+        },
+        {
+          "name": "永垣陵",
+          "longitude": 109.41168,
+          "latitude": 35.19422,
+          "radius": ""
+        },
+        {
+          "name": "中圣旅游",
+          "longitude": 109.59331,
+          "latitude": 35.17758,
+          "radius": ""
+        },
+        {
+          "name": "保警队起义处",
+          "longitude": 109.59202,
+          "latitude": 35.15928,
+          "radius": ""
+        },
+        {
+          "name": "雷牙遗址",
+          "longitude": 109.63148,
+          "latitude": 35.25003,
+          "radius": ""
+        },
+        {
+          "name": "仓颉故里碑",
+          "longitude": 109.60786,
+          "latitude": 35.14316,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "富平县",
+      "locations": [
+        {
+          "name": "陶艺村生态文化旅游景区",
+          "longitude": 109.18253,
+          "latitude": 34.76973,
+          "radius": ""
+        },
+        {
+          "name": "金栗山风景区",
+          "longitude": 109.32355,
+          "latitude": 34.99804,
+          "radius": ""
+        },
+        {
+          "name": "李四笃墓",
+          "longitude": 109.24065,
+          "latitude": 34.9773,
+          "radius": ""
+        },
+        {
+          "name": "炭村遗址",
+          "longitude": 109.20803,
+          "latitude": 34.87013,
+          "radius": ""
+        },
+        {
+          "name": "富平习仲勋陵园",
+          "longitude": 109.17628,
+          "latitude": 34.76963,
+          "radius": ""
+        },
+        {
+          "name": "李光弼碑",
+          "longitude": 109.04892,
+          "latitude": 34.81772,
+          "radius": ""
+        },
+        {
+          "name": "唐定陵",
+          "longitude": 109.15496,
+          "latitude": 34.8637,
+          "radius": ""
+        },
+        {
+          "name": "北周文帝成陵",
+          "longitude": 109.15271,
+          "latitude": 34.83329,
+          "radius": ""
+        },
+        {
+          "name": "唐元陵",
+          "longitude": 109.11767,
+          "latitude": 34.86304,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "韩城市",
+      "locations": [
+        {
+          "name": "汉太史司马迁祠墓",
+          "longitude": 110.40955,
+          "latitude": 35.37224,
+          "radius": ""
+        },
+        {
+          "name": "韩城市博物馆景区",
+          "longitude": 110.44121,
+          "latitude": 35.45988,
+          "radius": ""
+        },
+        {
+          "name": "吕祖坛",
+          "longitude": 110.44483,
+          "latitude": 35.46243,
+          "radius": ""
+        },
+        {
+          "name": "毓秀桥",
+          "longitude": 110.4362,
+          "latitude": 35.45493,
+          "radius": ""
+        },
+        {
+          "name": "韩城城隍庙",
+          "longitude": 110.44138,
+          "latitude": 35.46309,
+          "radius": ""
+        },
+        {
+          "name": "毓秀园",
+          "longitude": 110.43685,
+          "latitude": 35.45618,
+          "radius": ""
+        },
+        {
+          "name": "陕西元代建筑博物馆",
+          "longitude": 110.49957,
+          "latitude": 35.54325,
+          "radius": ""
+        },
+        {
+          "name": "韩城市体育场",
+          "longitude": 110.45531,
+          "latitude": 35.47349,
+          "radius": ""
+        },
+        {
+          "name": "涧南农家水上乐园游泳馆",
+          "longitude": 110.4353,
+          "latitude": 35.4551,
+          "radius": ""
+        },
+        {
+          "name": "快意人游艺俱乐部",
+          "longitude": 110.44955,
+          "latitude": 35.46958,
+          "radius": ""
+        },
+        {
+          "name": "下矿体育场",
+          "longitude": 110.56284,
+          "latitude": 35.62111,
+          "radius": ""
+        },
+        {
+          "name": "龙门大禹庙遗址",
+          "longitude": 110.60322,
+          "latitude": 35.6582,
+          "radius": ""
+        },
+        {
+          "name": "韩城市人民艺术剧院",
+          "longitude": 110.43593,
+          "latitude": 35.46087,
+          "radius": ""
+        },
+        {
+          "name": "司马逸史记碑林博物馆",
+          "longitude": 110.44233,
+          "latitude": 35.47867,
+          "radius": ""
+        },
+        {
+          "name": "韩城市民俗文化博物馆",
+          "longitude": 110.44592,
+          "latitude": 35.48193,
+          "radius": ""
+        },
+        {
+          "name": "汉太史遗祠",
+          "longitude": 110.34672,
+          "latitude": 35.40463,
+          "radius": ""
+        },
+        {
+          "name": "庙后村遗址",
+          "longitude": 110.43418,
+          "latitude": 35.70581,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "华阴市",
+      "locations": [
+        {
+          "name": "华山风景名胜区",
+          "longitude": 110.08217,
+          "latitude": 34.52646,
+          "radius": ""
+        },
+        {
+          "name": "华山西岳庙",
+          "longitude": 110.10674,
+          "latitude": 34.57696,
+          "radius": ""
+        },
+        {
+          "name": "瓮峪景区",
+          "longitude": 110.03706,
+          "latitude": 34.47781,
+          "radius": ""
+        },
+        {
+          "name": "灌风楼",
+          "longitude": 110.10011,
+          "latitude": 34.57334,
+          "radius": ""
+        },
+        {
+          "name": "华阴市影剧院",
+          "longitude": 110.08857,
+          "latitude": 34.56286,
+          "radius": ""
+        },
+        {
+          "name": "京师仓遗址",
+          "longitude": 110.1733,
+          "latitude": 34.62387,
+          "radius": ""
+        },
+        {
+          "name": "华仓遗址",
+          "longitude": 110.17331,
+          "latitude": 34.62389,
+          "radius": ""
+        },
+        {
+          "name": "大罡楼",
+          "longitude": 110.1002,
+          "latitude": 34.5739,
+          "radius": ""
+        },
+        {
+          "name": "智兴楼",
+          "longitude": 110.10128,
+          "latitude": 34.57399,
+          "radius": ""
+        },
+        {
+          "name": "兴安居",
+          "longitude": 110.10061,
+          "latitude": 34.57365,
+          "radius": ""
+        },
+        {
+          "name": "阴晋故城",
+          "longitude": 110.10144,
+          "latitude": 34.58864,
+          "radius": ""
+        },
+        {
+          "name": "杨修墓",
+          "longitude": 110.10121,
+          "latitude": 34.54505,
+          "radius": ""
+        },
+        {
+          "name": "怡健园羽毛球馆",
+          "longitude": 110.12311,
+          "latitude": 34.55865,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

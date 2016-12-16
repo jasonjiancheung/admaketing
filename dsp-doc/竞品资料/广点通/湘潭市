@@ -1,0 +1,577 @@
+{
+  "cityName": "湘潭市",
+  "businessCenters": [
+    {
+      "name": "岳塘区",
+      "locations": [
+        {
+          "name": "建设路口",
+          "longitude": 112.91668,
+          "latitude": 27.8344,
+          "radius": "473"
+        }
+      ]
+    },
+    {
+      "name": "湘潭县",
+      "locations": [
+        {
+          "name": "易俗河",
+          "longitude": 112.95249,
+          "latitude": 27.778969,
+          "radius": "2257"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "雨湖区",
+      "locations": [
+        {
+          "name": "望衡亭",
+          "longitude": 112.89702,
+          "latitude": 27.84692,
+          "radius": ""
+        },
+        {
+          "name": "文庙",
+          "longitude": 112.92165,
+          "latitude": 27.86068,
+          "radius": ""
+        },
+        {
+          "name": "湘潭体育馆",
+          "longitude": 112.91172,
+          "latitude": 27.8568,
+          "radius": ""
+        },
+        {
+          "name": "江麓运动场",
+          "longitude": 112.89415,
+          "latitude": 27.86943,
+          "radius": ""
+        },
+        {
+          "name": "金都游泳馆",
+          "longitude": 112.88378,
+          "latitude": 27.85656,
+          "radius": ""
+        },
+        {
+          "name": "江麓乒乓球馆",
+          "longitude": 112.89733,
+          "latitude": 27.86604,
+          "radius": ""
+        },
+        {
+          "name": "友人会所",
+          "longitude": 112.86651,
+          "latitude": 27.87694,
+          "radius": ""
+        },
+        {
+          "name": "群艺影剧院",
+          "longitude": 112.89892,
+          "latitude": 27.85584,
+          "radius": ""
+        },
+        {
+          "name": "江麓球场",
+          "longitude": 112.89839,
+          "latitude": 27.86635,
+          "radius": ""
+        },
+        {
+          "name": "湘乡市博物馆近现代艺术馆",
+          "longitude": 112.9116,
+          "latitude": 27.85553,
+          "radius": ""
+        },
+        {
+          "name": "北五省会馆",
+          "longitude": 112.9116,
+          "latitude": 27.85553,
+          "radius": ""
+        },
+        {
+          "name": "天行宝贝",
+          "longitude": 112.90543,
+          "latitude": 27.85497,
+          "radius": ""
+        },
+        {
+          "name": "银河民俗博物馆",
+          "longitude": 112.89368,
+          "latitude": 27.86008,
+          "radius": ""
+        },
+        {
+          "name": "抗日阵亡将士纪念碑",
+          "longitude": 112.92188,
+          "latitude": 27.86004,
+          "radius": ""
+        },
+        {
+          "name": "易跆拳道馆",
+          "longitude": 112.90684,
+          "latitude": 27.86427,
+          "radius": ""
+        },
+        {
+          "name": "湘潭市博物馆",
+          "longitude": 112.9116,
+          "latitude": 27.85553,
+          "radius": ""
+        },
+        {
+          "name": "银河民俗博物馆",
+          "longitude": 112.90329,
+          "latitude": 27.856,
+          "radius": ""
+        },
+        {
+          "name": "湘潭市文物处",
+          "longitude": 112.9116,
+          "latitude": 27.85553,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "岳塘区",
+      "locations": [
+        {
+          "name": "湘潭市体育中心",
+          "longitude": 112.91343,
+          "latitude": 27.84211,
+          "radius": ""
+        },
+        {
+          "name": "昭山风景名胜区",
+          "longitude": 113.01159,
+          "latitude": 27.961,
+          "radius": ""
+        },
+        {
+          "name": "湘潭盘龙大观园",
+          "longitude": 113.01131,
+          "latitude": 27.905775,
+          "radius": ""
+        },
+        {
+          "name": "高峰塔",
+          "longitude": 112.93678,
+          "latitude": 27.84956,
+          "radius": ""
+        },
+        {
+          "name": "湘钢体育馆",
+          "longitude": 112.91539,
+          "latitude": 27.81531,
+          "radius": ""
+        },
+        {
+          "name": "湘潭电机体育馆",
+          "longitude": 112.92755,
+          "latitude": 27.80485,
+          "radius": ""
+        },
+        {
+          "name": "湘钢篮球馆",
+          "longitude": 112.92064,
+          "latitude": 27.81638,
+          "radius": ""
+        },
+        {
+          "name": "原动力球吧",
+          "longitude": 112.97283,
+          "latitude": 27.8733,
+          "radius": ""
+        },
+        {
+          "name": "易聚商务休闲",
+          "longitude": 112.9126,
+          "latitude": 27.83916,
+          "radius": ""
+        },
+        {
+          "name": "湘潭大剧院",
+          "longitude": 112.94172,
+          "latitude": 27.82964,
+          "radius": ""
+        },
+        {
+          "name": "银海体育广场",
+          "longitude": 112.95885,
+          "latitude": 27.86163,
+          "radius": ""
+        },
+        {
+          "name": "宝塔奇石博物馆",
+          "longitude": 112.93678,
+          "latitude": 27.84956,
+          "radius": ""
+        },
+        {
+          "name": "湘潭市宝塔民俗博物馆",
+          "longitude": 112.93678,
+          "latitude": 27.84956,
+          "radius": ""
+        },
+        {
+          "name": "银海游泳池",
+          "longitude": 112.95884,
+          "latitude": 27.86178,
+          "radius": ""
+        },
+        {
+          "name": "湘纺体育馆",
+          "longitude": 112.95806,
+          "latitude": 27.86214,
+          "radius": ""
+        },
+        {
+          "name": "湘电体育馆",
+          "longitude": 112.92788,
+          "latitude": 27.80501,
+          "radius": ""
+        },
+        {
+          "name": "炫舞时代",
+          "longitude": 112.92514,
+          "latitude": 27.85258,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湘潭县",
+      "locations": [
+        {
+          "name": "湘潭农博园",
+          "longitude": 112.80333,
+          "latitude": 27.86032,
+          "radius": ""
+        },
+        {
+          "name": "齐白石故居",
+          "longitude": 112.89341,
+          "latitude": 27.47375,
+          "radius": ""
+        },
+        {
+          "name": "江南体育中心",
+          "longitude": 112.66036,
+          "latitude": 27.84404,
+          "radius": ""
+        },
+        {
+          "name": "仙女风景区",
+          "longitude": 112.7732,
+          "latitude": 27.91649,
+          "radius": ""
+        },
+        {
+          "name": "江南体育馆",
+          "longitude": 112.65906,
+          "latitude": 27.84399,
+          "radius": ""
+        },
+        {
+          "name": "关圣殿",
+          "longitude": 112.86912,
+          "latitude": 27.77186,
+          "radius": ""
+        },
+        {
+          "name": "乌石寨遗址",
+          "longitude": 112.65024,
+          "latitude": 27.65756,
+          "radius": ""
+        },
+        {
+          "name": "周小舟故居",
+          "longitude": 112.64766,
+          "latitude": 27.61751,
+          "radius": ""
+        },
+        {
+          "name": "宋楚瑜先生祖居地",
+          "longitude": 112.76214,
+          "latitude": 27.68813,
+          "radius": ""
+        },
+        {
+          "name": "升平轩纸影博物馆",
+          "longitude": 112.83339,
+          "latitude": 27.96734,
+          "radius": ""
+        },
+        {
+          "name": "湘潭白石紫荆湖旅游开发区",
+          "longitude": 112.86618,
+          "latitude": 27.43912,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湘乡市",
+      "locations": [
+        {
+          "name": "湖南水府旅游区",
+          "longitude": 112.21763,
+          "latitude": 27.68398,
+          "radius": ""
+        },
+        {
+          "name": "东山书院",
+          "longitude": 112.55234,
+          "latitude": 27.7298,
+          "radius": ""
+        },
+        {
+          "name": "湘乡博物馆",
+          "longitude": 112.52348,
+          "latitude": 27.73592,
+          "radius": ""
+        },
+        {
+          "name": "茅浒水乡",
+          "longitude": 112.58723,
+          "latitude": 27.74592,
+          "radius": ""
+        },
+        {
+          "name": "陈赓故居",
+          "longitude": 112.52538,
+          "latitude": 27.79723,
+          "radius": ""
+        },
+        {
+          "name": "黄公略故居",
+          "longitude": 112.36271,
+          "latitude": 27.48507,
+          "radius": ""
+        },
+        {
+          "name": "湘乡体育馆",
+          "longitude": 112.52618,
+          "latitude": 27.73218,
+          "radius": ""
+        },
+        {
+          "name": "湘乡剧院",
+          "longitude": 112.52796,
+          "latitude": 27.73273,
+          "radius": ""
+        },
+        {
+          "name": "湘铝体育场",
+          "longitude": 112.51318,
+          "latitude": 27.73665,
+          "radius": ""
+        },
+        {
+          "name": "黄公略同志故居",
+          "longitude": 112.36294,
+          "latitude": 27.4851,
+          "radius": ""
+        },
+        {
+          "name": "舜帝南巡纪念馆",
+          "longitude": 112.46816,
+          "latitude": 27.8906,
+          "radius": ""
+        },
+        {
+          "name": "金锁堂",
+          "longitude": 112.46837,
+          "latitude": 27.89079,
+          "radius": ""
+        },
+        {
+          "name": "历代名人馆",
+          "longitude": 112.46803,
+          "latitude": 27.89052,
+          "radius": ""
+        },
+        {
+          "name": "谭政故居",
+          "longitude": 112.5039,
+          "latitude": 27.83066,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "韶山市",
+      "locations": [
+        {
+          "name": "韶山旅游区",
+          "longitude": 112.49446,
+          "latitude": 27.911108,
+          "radius": ""
+        },
+        {
+          "name": "韶山滴水洞",
+          "longitude": 112.467995,
+          "latitude": 27.920279,
+          "radius": ""
+        },
+        {
+          "name": "东方红大剧院",
+          "longitude": 112.53552,
+          "latitude": 27.8983,
+          "radius": ""
+        },
+        {
+          "name": "毛震公祠",
+          "longitude": 112.47614,
+          "latitude": 27.91319,
+          "radius": ""
+        },
+        {
+          "name": "韶峰景区",
+          "longitude": 112.47672,
+          "latitude": 27.89071,
+          "radius": ""
+        },
+        {
+          "name": "碑林2区",
+          "longitude": 112.47568,
+          "latitude": 27.89415,
+          "radius": ""
+        },
+        {
+          "name": "五四式侦察雷达",
+          "longitude": 112.52628,
+          "latitude": 27.91322,
+          "radius": ""
+        },
+        {
+          "name": "三英陵",
+          "longitude": 112.52863,
+          "latitude": 27.91058,
+          "radius": ""
+        },
+        {
+          "name": "清溪景区",
+          "longitude": 112.52759,
+          "latitude": 27.91849,
+          "radius": ""
+        },
+        {
+          "name": "韶山茶文化博物馆",
+          "longitude": 112.53655,
+          "latitude": 27.89797,
+          "radius": ""
+        },
+        {
+          "name": "天鹅池",
+          "longitude": 112.52585,
+          "latitude": 27.91281,
+          "radius": ""
+        },
+        {
+          "name": "忠烈亭",
+          "longitude": 112.52746,
+          "latitude": 27.91063,
+          "radius": ""
+        },
+        {
+          "name": "仿苏式T62坦克",
+          "longitude": 112.5264,
+          "latitude": 27.9131,
+          "radius": ""
+        },
+        {
+          "name": "青松亭",
+          "longitude": 112.52851,
+          "latitude": 27.91041,
+          "radius": ""
+        },
+        {
+          "name": "碑廊",
+          "longitude": 112.52671,
+          "latitude": 27.91233,
+          "radius": ""
+        },
+        {
+          "name": "泪飞泉",
+          "longitude": 112.52736,
+          "latitude": 27.91073,
+          "radius": ""
+        },
+        {
+          "name": "绿化",
+          "longitude": 112.52752,
+          "latitude": 27.91433,
+          "radius": ""
+        },
+        {
+          "name": "人工湖",
+          "longitude": 112.52797,
+          "latitude": 27.91502,
+          "radius": ""
+        },
+        {
+          "name": "聚英亭",
+          "longitude": 112.52565,
+          "latitude": 27.91135,
+          "radius": ""
+        },
+        {
+          "name": "毓秀亭",
+          "longitude": 112.52571,
+          "latitude": 27.9121,
+          "radius": ""
+        },
+        {
+          "name": "溢芳亭",
+          "longitude": 112.52759,
+          "latitude": 27.91218,
+          "radius": ""
+        },
+        {
+          "name": "韶峰游览索道",
+          "longitude": 112.47553,
+          "latitude": 27.8933,
+          "radius": ""
+        },
+        {
+          "name": "韶山毛泽东诗词碑林",
+          "longitude": 112.4744,
+          "latitude": 27.89376,
+          "radius": ""
+        },
+        {
+          "name": "毛主席家风展",
+          "longitude": 112.48311,
+          "latitude": 27.89322,
+          "radius": ""
+        },
+        {
+          "name": "爬山道",
+          "longitude": 112.52607,
+          "latitude": 27.91248,
+          "radius": ""
+        },
+        {
+          "name": "五杰亭",
+          "longitude": 112.52821,
+          "latitude": 27.91092,
+          "radius": ""
+        },
+        {
+          "name": "六亲台",
+          "longitude": 112.52781,
+          "latitude": 27.91048,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1568 @@
+{
+  "cityName": "厦门市",
+  "businessCenters": [
+    {
+      "name": "思明区",
+      "locations": [
+        {
+          "name": "鹭江",
+          "longitude": 118.07706,
+          "latitude": 24.457823,
+          "radius": "983"
+        },
+        {
+          "name": "厦港",
+          "longitude": 118.08942,
+          "latitude": 24.44118,
+          "radius": "703"
+        },
+        {
+          "name": "莲前西路",
+          "longitude": 118.13797,
+          "latitude": 24.47703,
+          "radius": "601"
+        },
+        {
+          "name": "禾祥西路",
+          "longitude": 118.089676,
+          "latitude": 24.465418,
+          "radius": "581"
+        },
+        {
+          "name": "莲花",
+          "longitude": 118.13107,
+          "latitude": 24.48591,
+          "radius": "786"
+        },
+        {
+          "name": "筼筜",
+          "longitude": 118.099464,
+          "latitude": 24.481487,
+          "radius": "620"
+        },
+        {
+          "name": "鼓浪屿",
+          "longitude": 118.06801,
+          "latitude": 24.444258,
+          "radius": "1089"
+        },
+        {
+          "name": "湖滨北路",
+          "longitude": 118.103264,
+          "latitude": 24.483343,
+          "radius": "1056"
+        },
+        {
+          "name": "梧村",
+          "longitude": 118.11141,
+          "latitude": 24.469572,
+          "radius": "623"
+        },
+        {
+          "name": "莲前",
+          "longitude": 118.15079,
+          "latitude": 24.475454,
+          "radius": "2401"
+        },
+        {
+          "name": "松柏",
+          "longitude": 118.12067,
+          "latitude": 24.492792,
+          "radius": "837"
+        },
+        {
+          "name": "莲坂",
+          "longitude": 118.12101,
+          "latitude": 24.479225,
+          "radius": "630"
+        },
+        {
+          "name": "开元",
+          "longitude": 118.110954,
+          "latitude": 24.47574,
+          "radius": "2068"
+        },
+        {
+          "name": "湖滨南路",
+          "longitude": 118.10102,
+          "latitude": 24.47108,
+          "radius": "1828"
+        },
+        {
+          "name": "嘉莲",
+          "longitude": 118.12663,
+          "latitude": 24.485695,
+          "radius": "440"
+        },
+        {
+          "name": "文灶",
+          "longitude": 118.10595,
+          "latitude": 24.466377,
+          "radius": "346"
+        },
+        {
+          "name": "厦禾路",
+          "longitude": 118.10216,
+          "latitude": 24.466011,
+          "radius": "1556"
+        }
+      ]
+    },
+    {
+      "name": "海沧区",
+      "locations": [
+        {
+          "name": "沧虹路",
+          "longitude": 118.03744,
+          "latitude": 24.497328,
+          "radius": "497"
+        },
+        {
+          "name": "沧林路",
+          "longitude": 118.03513,
+          "latitude": 24.492079,
+          "radius": "455"
+        },
+        {
+          "name": "东孚",
+          "longitude": 117.93328,
+          "latitude": 24.559689,
+          "radius": "1377"
+        }
+      ]
+    },
+    {
+      "name": "湖里区",
+      "locations": [
+        {
+          "name": "殿前",
+          "longitude": 118.110435,
+          "latitude": 24.52809,
+          "radius": "669"
+        },
+        {
+          "name": "康乐",
+          "longitude": 118.115486,
+          "latitude": 24.505232,
+          "radius": "581"
+        },
+        {
+          "name": "大唐世家",
+          "longitude": 118.12416,
+          "latitude": 24.51051,
+          "radius": "442"
+        },
+        {
+          "name": "嘉禾路",
+          "longitude": 118.12164,
+          "latitude": 24.509666,
+          "radius": "4053"
+        },
+        {
+          "name": "吕岭路",
+          "longitude": 118.1601,
+          "latitude": 24.486362,
+          "radius": "2812"
+        },
+        {
+          "name": "禾山",
+          "longitude": 118.137505,
+          "latitude": 24.511833,
+          "radius": "2253"
+        },
+        {
+          "name": "江头",
+          "longitude": 118.13358,
+          "latitude": 24.496695,
+          "radius": "630"
+        },
+        {
+          "name": "东渡",
+          "longitude": 118.082794,
+          "latitude": 24.488695,
+          "radius": "1208"
+        },
+        {
+          "name": "兴隆路",
+          "longitude": 118.11309,
+          "latitude": 24.509361,
+          "radius": "1885"
+        },
+        {
+          "name": "金尚路",
+          "longitude": 118.14657,
+          "latitude": 24.499166,
+          "radius": "1998"
+        },
+        {
+          "name": "台湾街",
+          "longitude": 118.13289,
+          "latitude": 24.495996,
+          "radius": "467"
+        },
+        {
+          "name": "南山路",
+          "longitude": 118.12955,
+          "latitude": 24.50611,
+          "radius": "826"
+        },
+        {
+          "name": "湖里大道",
+          "longitude": 118.10571,
+          "latitude": 24.511421,
+          "radius": "1186"
+        }
+      ]
+    },
+    {
+      "name": "集美区",
+      "locations": [
+        {
+          "name": "银江路",
+          "longitude": 118.098,
+          "latitude": 24.57568,
+          "radius": "844"
+        },
+        {
+          "name": "同集南路",
+          "longitude": 118.11009,
+          "latitude": 24.596003,
+          "radius": "1303"
+        },
+        {
+          "name": "杏林",
+          "longitude": 118.04056,
+          "latitude": 24.569328,
+          "radius": "2373"
+        },
+        {
+          "name": "集源路",
+          "longitude": 118.10135,
+          "latitude": 24.574236,
+          "radius": "466"
+        },
+        {
+          "name": "石鼓路",
+          "longitude": 118.09933,
+          "latitude": 24.574787,
+          "radius": "1006"
+        }
+      ]
+    },
+    {
+      "name": "同安区",
+      "locations": [
+        {
+          "name": "祥平",
+          "longitude": 118.148186,
+          "latitude": 24.721165,
+          "radius": "1056"
+        },
+        {
+          "name": "五显",
+          "longitude": 118.17245,
+          "latitude": 24.745758,
+          "radius": "1015"
+        },
+        {
+          "name": "中山路",
+          "longitude": 118.1496,
+          "latitude": 24.733112,
+          "radius": "335"
+        },
+        {
+          "name": "西柯",
+          "longitude": 118.15892,
+          "latitude": 24.669228,
+          "radius": "770"
+        },
+        {
+          "name": "城南路",
+          "longitude": 118.14806,
+          "latitude": 24.71645,
+          "radius": "939"
+        },
+        {
+          "name": "南门路",
+          "longitude": 118.154236,
+          "latitude": 24.729605,
+          "radius": "424"
+        },
+        {
+          "name": "银湖路",
+          "longitude": 118.15424,
+          "latitude": 24.720007,
+          "radius": "351"
+        },
+        {
+          "name": "大同",
+          "longitude": 118.15019,
+          "latitude": 24.727703,
+          "radius": "1272"
+        },
+        {
+          "name": "汀溪",
+          "longitude": 118.13945,
+          "latitude": 24.776709,
+          "radius": "202"
+        }
+      ]
+    },
+    {
+      "name": "翔安区",
+      "locations": [
+        {
+          "name": "内厝",
+          "longitude": 118.27625,
+          "latitude": 24.664967,
+          "radius": "234"
+        },
+        {
+          "name": "大嶝",
+          "longitude": 118.33042,
+          "latitude": 24.554466,
+          "radius": "1247"
+        },
+        {
+          "name": "马巷",
+          "longitude": 118.25039,
+          "latitude": 24.663235,
+          "radius": "1270"
+        },
+        {
+          "name": "新店",
+          "longitude": 118.2461,
+          "latitude": 24.605684,
+          "radius": "717"
+        },
+        {
+          "name": "新圩",
+          "longitude": 118.25616,
+          "latitude": 24.73685,
+          "radius": "513"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "思明区",
+      "locations": [
+        {
+          "name": "华侨博物院",
+          "longitude": 118.09015,
+          "latitude": 24.44212,
+          "radius": ""
+        },
+        {
+          "name": "工人体育馆",
+          "longitude": 118.11195,
+          "latitude": 24.48962,
+          "radius": ""
+        },
+        {
+          "name": "鼓浪屿",
+          "longitude": 118.06715,
+          "latitude": 24.444641,
+          "radius": ""
+        },
+        {
+          "name": "厦门市体育中心",
+          "longitude": 118.10856,
+          "latitude": 24.48637,
+          "radius": ""
+        },
+        {
+          "name": "鼓浪屿-万石山国家重点风景名胜区",
+          "longitude": 118.09372,
+          "latitude": 24.45343,
+          "radius": ""
+        },
+        {
+          "name": "厦门市人民体育场",
+          "longitude": 118.08632,
+          "latitude": 24.46106,
+          "radius": ""
+        },
+        {
+          "name": "人民体育场",
+          "longitude": 118.07024,
+          "latitude": 24.44173,
+          "radius": ""
+        },
+        {
+          "name": "厦门博物馆",
+          "longitude": 118.10922,
+          "latitude": 24.49114,
+          "radius": ""
+        },
+        {
+          "name": "胡里山炮台",
+          "longitude": 118.10654,
+          "latitude": 24.429026,
+          "radius": ""
+        },
+        {
+          "name": "厦门奥林匹克博物馆",
+          "longitude": 118.19352,
+          "latitude": 24.47783,
+          "radius": ""
+        },
+        {
+          "name": "厦台史料馆",
+          "longitude": 118.08478,
+          "latitude": 24.45661,
+          "radius": ""
+        },
+        {
+          "name": "椰风寨",
+          "longitude": 118.16934,
+          "latitude": 24.44764,
+          "radius": ""
+        },
+        {
+          "name": "鸿山公园",
+          "longitude": 118.08663,
+          "latitude": 24.4473,
+          "radius": ""
+        },
+        {
+          "name": "金鸡亭普光寺",
+          "longitude": 118.13972,
+          "latitude": 24.4779,
+          "radius": ""
+        },
+        {
+          "name": "海韵台",
+          "longitude": 118.15327,
+          "latitude": 24.4365,
+          "radius": ""
+        },
+        {
+          "name": "芙蓉隧道",
+          "longitude": 118.11312,
+          "latitude": 24.43603,
+          "radius": ""
+        },
+        {
+          "name": "梅海岭",
+          "longitude": 118.12786,
+          "latitude": 24.44847,
+          "radius": ""
+        },
+        {
+          "name": "虎溪禅寺",
+          "longitude": 118.09196,
+          "latitude": 24.45033,
+          "radius": ""
+        },
+        {
+          "name": "环岛路木栈道",
+          "longitude": 118.10526,
+          "latitude": 24.43133,
+          "radius": ""
+        },
+        {
+          "name": "闽南大戏院",
+          "longitude": 118.18948,
+          "latitude": 24.47362,
+          "radius": ""
+        },
+        {
+          "name": "白石炮台遗址",
+          "longitude": 118.13703,
+          "latitude": 24.42215,
+          "radius": ""
+        },
+        {
+          "name": "磨鑫山游泳馆",
+          "longitude": 118.16568,
+          "latitude": 24.46474,
+          "radius": ""
+        },
+        {
+          "name": "925羽乒馆",
+          "longitude": 118.11384,
+          "latitude": 24.43348,
+          "radius": ""
+        },
+        {
+          "name": "厦金湾直升机场",
+          "longitude": 118.19833,
+          "latitude": 24.50355,
+          "radius": ""
+        },
+        {
+          "name": "渡月亭",
+          "longitude": 118.06915,
+          "latitude": 24.43856,
+          "radius": ""
+        },
+        {
+          "name": "观海曲桥",
+          "longitude": 118.07679,
+          "latitude": 24.44159,
+          "radius": ""
+        },
+        {
+          "name": "招凉亭",
+          "longitude": 118.06949,
+          "latitude": 24.43814,
+          "radius": ""
+        },
+        {
+          "name": "郑成功巨型石雕",
+          "longitude": 118.07677,
+          "latitude": 24.44125,
+          "radius": ""
+        },
+        {
+          "name": "皇帝殿",
+          "longitude": 118.07701,
+          "latitude": 24.44172,
+          "radius": ""
+        },
+        {
+          "name": "千波亭",
+          "longitude": 118.06921,
+          "latitude": 24.43825,
+          "radius": ""
+        },
+        {
+          "name": "陈化成墓",
+          "longitude": 118.11111,
+          "latitude": 24.466,
+          "radius": ""
+        },
+        {
+          "name": "非常道",
+          "longitude": 118.12095,
+          "latitude": 24.45249,
+          "radius": ""
+        },
+        {
+          "name": "江夏堂",
+          "longitude": 118.08106,
+          "latitude": 24.45226,
+          "radius": ""
+        },
+        {
+          "name": "卧龙山土地公庙",
+          "longitude": 118.13535,
+          "latitude": 24.47817,
+          "radius": ""
+        },
+        {
+          "name": "大清厦门一等邮局遗址",
+          "longitude": 118.07374,
+          "latitude": 24.45555,
+          "radius": ""
+        },
+        {
+          "name": "鸿山隧道",
+          "longitude": 118.08943,
+          "latitude": 24.44625,
+          "radius": ""
+        },
+        {
+          "name": "晋爵会",
+          "longitude": 118.07801,
+          "latitude": 24.47201,
+          "radius": ""
+        },
+        {
+          "name": "厦门破狱斗争旧址",
+          "longitude": 118.08698,
+          "latitude": 24.44454,
+          "radius": ""
+        },
+        {
+          "name": "厦门海关新关关署遗址",
+          "longitude": 118.07413,
+          "latitude": 24.45448,
+          "radius": ""
+        },
+        {
+          "name": "厦大校园",
+          "longitude": 118.09773,
+          "latitude": 24.43881,
+          "radius": ""
+        },
+        {
+          "name": "磨心山健身道",
+          "longitude": 118.16551,
+          "latitude": 24.46721,
+          "radius": ""
+        },
+        {
+          "name": "虎溪岩",
+          "longitude": 118.09157,
+          "latitude": 24.44734,
+          "radius": ""
+        },
+        {
+          "name": "古楼",
+          "longitude": 118.16626,
+          "latitude": 24.46509,
+          "radius": ""
+        },
+        {
+          "name": "台湾公会旧址",
+          "longitude": 118.0847,
+          "latitude": 24.45669,
+          "radius": ""
+        },
+        {
+          "name": "陈化成祠",
+          "longitude": 118.08718,
+          "latitude": 24.45766,
+          "radius": ""
+        },
+        {
+          "name": "将军府",
+          "longitude": 118.09063,
+          "latitude": 24.45578,
+          "radius": ""
+        },
+        {
+          "name": "纯真博物馆",
+          "longitude": 118.0878,
+          "latitude": 24.45934,
+          "radius": ""
+        },
+        {
+          "name": "厦门市水上运动中心",
+          "longitude": 118.12693,
+          "latitude": 24.42405,
+          "radius": ""
+        },
+        {
+          "name": "思明区群民游泳休闲中心",
+          "longitude": 118.11817,
+          "latitude": 24.4844,
+          "radius": ""
+        },
+        {
+          "name": "亚特兰·大活水馆",
+          "longitude": 118.10361,
+          "latitude": 24.46664,
+          "radius": ""
+        },
+        {
+          "name": "金桥社区体育活动中心",
+          "longitude": 118.09449,
+          "latitude": 24.48698,
+          "radius": ""
+        },
+        {
+          "name": "厦门市游泳馆",
+          "longitude": 118.09457,
+          "latitude": 24.45562,
+          "radius": ""
+        },
+        {
+          "name": "天山泉活水养生会馆",
+          "longitude": 118.1062,
+          "latitude": 24.45831,
+          "radius": ""
+        },
+        {
+          "name": "厦门风筝冲浪联盟",
+          "longitude": 118.15202,
+          "latitude": 24.43604,
+          "radius": ""
+        },
+        {
+          "name": "欢乐之星",
+          "longitude": 118.12217,
+          "latitude": 24.479,
+          "radius": ""
+        },
+        {
+          "name": "厦门世界语之友俱乐部",
+          "longitude": 118.10417,
+          "latitude": 24.46094,
+          "radius": ""
+        },
+        {
+          "name": "云顶球场",
+          "longitude": 118.15183,
+          "latitude": 24.44254,
+          "radius": ""
+        },
+        {
+          "name": "音乐岛爱乐厅",
+          "longitude": 118.10033,
+          "latitude": 24.46055,
+          "radius": ""
+        },
+        {
+          "name": "诗巴丹潜水俱乐部",
+          "longitude": 118.14132,
+          "latitude": 24.42947,
+          "radius": ""
+        },
+        {
+          "name": "天玺",
+          "longitude": 118.08986,
+          "latitude": 24.43619,
+          "radius": ""
+        },
+        {
+          "name": "聆香泉",
+          "longitude": 118.08988,
+          "latitude": 24.48444,
+          "radius": ""
+        },
+        {
+          "name": "怪坡",
+          "longitude": 118.12749,
+          "latitude": 24.42825,
+          "radius": ""
+        },
+        {
+          "name": "厦门市花三角梅园",
+          "longitude": 118.128,
+          "latitude": 24.44846,
+          "radius": ""
+        },
+        {
+          "name": "max club",
+          "longitude": 118.096,
+          "latitude": 24.48214,
+          "radius": ""
+        },
+        {
+          "name": "三官道院",
+          "longitude": 118.1338,
+          "latitude": 24.44041,
+          "radius": ""
+        },
+        {
+          "name": "玩月坡",
+          "longitude": 118.15417,
+          "latitude": 24.43702,
+          "radius": ""
+        },
+        {
+          "name": "厦港龙珠殿(原钓艚王宫)",
+          "longitude": 118.08821,
+          "latitude": 24.43892,
+          "radius": ""
+        },
+        {
+          "name": "union dance街舞俱乐部",
+          "longitude": 118.09707,
+          "latitude": 24.48257,
+          "radius": ""
+        },
+        {
+          "name": "孝阙增光坊",
+          "longitude": 118.08252,
+          "latitude": 24.45311,
+          "radius": ""
+        },
+        {
+          "name": "全球最大微雕博物馆",
+          "longitude": 118.15842,
+          "latitude": 24.44109,
+          "radius": ""
+        },
+        {
+          "name": "思明区鼓浪屿街道老人门球场",
+          "longitude": 118.06777,
+          "latitude": 24.44254,
+          "radius": ""
+        },
+        {
+          "name": "地丰体育",
+          "longitude": 118.10636,
+          "latitude": 24.46188,
+          "radius": ""
+        },
+        {
+          "name": "袁厝美山庙",
+          "longitude": 118.09376,
+          "latitude": 24.49143,
+          "radius": ""
+        },
+        {
+          "name": "陈化成故居",
+          "longitude": 118.08384,
+          "latitude": 24.45309,
+          "radius": ""
+        },
+        {
+          "name": "许通海微雕博物馆",
+          "longitude": 118.15838,
+          "latitude": 24.44117,
+          "radius": ""
+        },
+        {
+          "name": "金鸡胜境",
+          "longitude": 118.13835,
+          "latitude": 24.47744,
+          "radius": ""
+        },
+        {
+          "name": "四仙石",
+          "longitude": 118.08447,
+          "latitude": 24.45303,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "海沧区",
+      "locations": [
+        {
+          "name": "日月谷温泉",
+          "longitude": 117.94123,
+          "latitude": 24.5578,
+          "radius": ""
+        },
+        {
+          "name": "青礁慈济祖宫",
+          "longitude": 117.97347,
+          "latitude": 24.48538,
+          "radius": ""
+        },
+        {
+          "name": "海沧体育中心",
+          "longitude": 118.03053,
+          "latitude": 24.47246,
+          "radius": ""
+        },
+        {
+          "name": "天竺山森林公园",
+          "longitude": 117.93713,
+          "latitude": 24.588451,
+          "radius": ""
+        },
+        {
+          "name": "青龙寨",
+          "longitude": 117.92071,
+          "latitude": 24.56489,
+          "radius": ""
+        },
+        {
+          "name": "厦门海沧体育中心二期",
+          "longitude": 118.03171,
+          "latitude": 24.47305,
+          "radius": ""
+        },
+        {
+          "name": "嵩屿SPA游泳馆",
+          "longitude": 118.04024,
+          "latitude": 24.45582,
+          "radius": ""
+        },
+        {
+          "name": "全祝游泳馆",
+          "longitude": 118.01356,
+          "latitude": 24.5371,
+          "radius": ""
+        },
+        {
+          "name": "迎仙宫",
+          "longitude": 117.92674,
+          "latitude": 24.55342,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湖里区",
+      "locations": [
+        {
+          "name": "厦门高崎国际机场",
+          "longitude": 118.13167,
+          "latitude": 24.534584,
+          "radius": ""
+        },
+        {
+          "name": "五缘湾运动馆",
+          "longitude": 118.18671,
+          "latitude": 24.52669,
+          "radius": ""
+        },
+        {
+          "name": "厦门港务文化体育中心",
+          "longitude": 118.08159,
+          "latitude": 24.48988,
+          "radius": ""
+        },
+        {
+          "name": "海沧大桥旅游区",
+          "longitude": 118.08183,
+          "latitude": 24.493458,
+          "radius": ""
+        },
+        {
+          "name": "厦门大桥",
+          "longitude": 118.110115,
+          "latitude": 24.550165,
+          "radius": ""
+        },
+        {
+          "name": "闽南古镇",
+          "longitude": 118.11043,
+          "latitude": 24.52233,
+          "radius": ""
+        },
+        {
+          "name": "湖里区体育馆",
+          "longitude": 118.10293,
+          "latitude": 24.50376,
+          "radius": ""
+        },
+        {
+          "name": "高殿",
+          "longitude": 118.10897,
+          "latitude": 24.52617,
+          "radius": ""
+        },
+        {
+          "name": "陈胜元故居",
+          "longitude": 118.10762,
+          "latitude": 24.53002,
+          "radius": ""
+        },
+        {
+          "name": "上古文化艺术馆",
+          "longitude": 118.16906,
+          "latitude": 24.53163,
+          "radius": ""
+        },
+        {
+          "name": "马垅篮球场",
+          "longitude": 118.11711,
+          "latitude": 24.51238,
+          "radius": ""
+        },
+        {
+          "name": "龙湫亭",
+          "longitude": 118.17518,
+          "latitude": 24.49323,
+          "radius": ""
+        },
+        {
+          "name": "厦门海堤纪念碑",
+          "longitude": 118.10776,
+          "latitude": 24.54946,
+          "radius": ""
+        },
+        {
+          "name": "厦门六中游泳池",
+          "longitude": 118.08816,
+          "latitude": 24.49416,
+          "radius": ""
+        },
+        {
+          "name": "一国两制沙滩",
+          "longitude": 118.19751,
+          "latitude": 24.50679,
+          "radius": ""
+        },
+        {
+          "name": "厦金湾汽车文化中心",
+          "longitude": 118.19654,
+          "latitude": 24.50969,
+          "radius": ""
+        },
+        {
+          "name": "马垅门球场",
+          "longitude": 118.11632,
+          "latitude": 24.51189,
+          "radius": ""
+        },
+        {
+          "name": "泥金篮球场",
+          "longitude": 118.19211,
+          "latitude": 24.50996,
+          "radius": ""
+        },
+        {
+          "name": "五缘湾足球场",
+          "longitude": 118.18516,
+          "latitude": 24.53136,
+          "radius": ""
+        },
+        {
+          "name": "厦门荣豪国际散打俱乐部",
+          "longitude": 118.14053,
+          "latitude": 24.51633,
+          "radius": ""
+        },
+        {
+          "name": "五缘湾栗喉蜂虎自然保护区",
+          "longitude": 118.16007,
+          "latitude": 24.5338,
+          "radius": ""
+        },
+        {
+          "name": "福灵堂",
+          "longitude": 118.09763,
+          "latitude": 24.49999,
+          "radius": ""
+        },
+        {
+          "name": "观戏园",
+          "longitude": 118.11087,
+          "latitude": 24.54846,
+          "radius": ""
+        },
+        {
+          "name": "仙之源",
+          "longitude": 118.10713,
+          "latitude": 24.50143,
+          "radius": ""
+        },
+        {
+          "name": "财神宫",
+          "longitude": 118.1301,
+          "latitude": 24.49119,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "集美区",
+      "locations": [
+        {
+          "name": "嘉庚体育馆",
+          "longitude": 118.10644,
+          "latitude": 24.58757,
+          "radius": ""
+        },
+        {
+          "name": "厦门园林博览苑",
+          "longitude": 118.07505,
+          "latitude": 24.56821,
+          "radius": ""
+        },
+        {
+          "name": "厦门市射击射箭中心",
+          "longitude": 118.11914,
+          "latitude": 24.60967,
+          "radius": ""
+        },
+        {
+          "name": "龙舟池",
+          "longitude": 118.09837,
+          "latitude": 24.56424,
+          "radius": ""
+        },
+        {
+          "name": "双龙潭生态运动景区",
+          "longitude": 117.95575,
+          "latitude": 24.608929,
+          "radius": ""
+        },
+        {
+          "name": "杏林体育馆",
+          "longitude": 118.05449,
+          "latitude": 24.56415,
+          "radius": ""
+        },
+        {
+          "name": "集美学村",
+          "longitude": 118.09267,
+          "latitude": 24.56629,
+          "radius": ""
+        },
+        {
+          "name": "归来堂",
+          "longitude": 118.10197,
+          "latitude": 24.56739,
+          "radius": ""
+        },
+        {
+          "name": "光前体育馆",
+          "longitude": 118.09443,
+          "latitude": 24.5829,
+          "radius": ""
+        },
+        {
+          "name": "南薰楼",
+          "longitude": 118.10295,
+          "latitude": 24.56488,
+          "radius": ""
+        },
+        {
+          "name": "集美寨遗址",
+          "longitude": 118.10437,
+          "latitude": 24.56473,
+          "radius": ""
+        },
+        {
+          "name": "深青泽深宫",
+          "longitude": 117.96679,
+          "latitude": 24.58316,
+          "radius": ""
+        },
+        {
+          "name": "白虎岩景区",
+          "longitude": 118.01198,
+          "latitude": 24.66285,
+          "radius": ""
+        },
+        {
+          "name": "苎溪桥",
+          "longitude": 118.03391,
+          "latitude": 24.65818,
+          "radius": ""
+        },
+        {
+          "name": "定琳院",
+          "longitude": 118.01184,
+          "latitude": 24.70195,
+          "radius": ""
+        },
+        {
+          "name": "灌口凤山庙",
+          "longitude": 117.99349,
+          "latitude": 24.60697,
+          "radius": ""
+        },
+        {
+          "name": "集美游泳馆",
+          "longitude": 118.10436,
+          "latitude": 24.56441,
+          "radius": ""
+        },
+        {
+          "name": "长青运动馆",
+          "longitude": 118.04435,
+          "latitude": 24.56587,
+          "radius": ""
+        },
+        {
+          "name": "羿腾射箭馆(集美店)",
+          "longitude": 118.10564,
+          "latitude": 24.57291,
+          "radius": ""
+        },
+        {
+          "name": "鹰坑谷民俗文化园",
+          "longitude": 117.96001,
+          "latitude": 24.62119,
+          "radius": ""
+        },
+        {
+          "name": "香蕉亭",
+          "longitude": 118.10458,
+          "latitude": 24.56448,
+          "radius": ""
+        },
+        {
+          "name": "鳄鱼博物馆",
+          "longitude": 118.10271,
+          "latitude": 24.56415,
+          "radius": ""
+        },
+        {
+          "name": "厦门神游华夏大剧院",
+          "longitude": 118.075485,
+          "latitude": 24.621525,
+          "radius": ""
+        },
+        {
+          "name": "集美始祖墓",
+          "longitude": 118.0931,
+          "latitude": 24.5662,
+          "radius": ""
+        },
+        {
+          "name": "李林园",
+          "longitude": 118.10388,
+          "latitude": 24.56475,
+          "radius": ""
+        },
+        {
+          "name": "屿仔尾公",
+          "longitude": 118.02941,
+          "latitude": 24.5522,
+          "radius": ""
+        },
+        {
+          "name": "兴艺和",
+          "longitude": 118.11028,
+          "latitude": 24.60116,
+          "radius": ""
+        },
+        {
+          "name": "养正楼",
+          "longitude": 118.10331,
+          "latitude": 24.57106,
+          "radius": ""
+        },
+        {
+          "name": "复兴宫",
+          "longitude": 118.04328,
+          "latitude": 24.60334,
+          "radius": ""
+        },
+        {
+          "name": "凹凸影像中心",
+          "longitude": 118.09904,
+          "latitude": 24.5799,
+          "radius": ""
+        },
+        {
+          "name": "延平楼",
+          "longitude": 118.1031,
+          "latitude": 24.56552,
+          "radius": ""
+        },
+        {
+          "name": "道南楼",
+          "longitude": 118.10003,
+          "latitude": 24.56611,
+          "radius": ""
+        },
+        {
+          "name": "黎明楼",
+          "longitude": 118.1031,
+          "latitude": 24.56552,
+          "radius": ""
+        },
+        {
+          "name": "翔赝跆拳道馆",
+          "longitude": 117.99039,
+          "latitude": 24.61062,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "同安区",
+      "locations": [
+        {
+          "name": "同安区体育馆",
+          "longitude": 118.15592,
+          "latitude": 24.71745,
+          "radius": ""
+        },
+        {
+          "name": "翠丰SPA温泉度假村",
+          "longitude": 118.13161,
+          "latitude": 24.79306,
+          "radius": ""
+        },
+        {
+          "name": "北辰山风景名胜区",
+          "longitude": 118.24314,
+          "latitude": 24.79183,
+          "radius": ""
+        },
+        {
+          "name": "梅山寺",
+          "longitude": 118.16509,
+          "latitude": 24.73808,
+          "radius": ""
+        },
+        {
+          "name": "文山景区",
+          "longitude": 118.08763,
+          "latitude": 24.792112,
+          "radius": ""
+        },
+        {
+          "name": "庄潘二烈士纪念钟楼",
+          "longitude": 118.15203,
+          "latitude": 24.7305,
+          "radius": ""
+        },
+        {
+          "name": "金光湖生态旅游区",
+          "longitude": 117.96718,
+          "latitude": 24.74943,
+          "radius": ""
+        },
+        {
+          "name": "梵天禅寺",
+          "longitude": 118.15817,
+          "latitude": 24.7408,
+          "radius": ""
+        },
+        {
+          "name": "小坪森林公园",
+          "longitude": 118.04183,
+          "latitude": 24.85136,
+          "radius": ""
+        },
+        {
+          "name": "罗汉山",
+          "longitude": 118.04666,
+          "latitude": 24.73573,
+          "radius": ""
+        },
+        {
+          "name": "德安古堡",
+          "longitude": 118.1633,
+          "latitude": 24.84936,
+          "radius": ""
+        },
+        {
+          "name": "同安孔庙",
+          "longitude": 118.15639,
+          "latitude": 24.73165,
+          "radius": ""
+        },
+        {
+          "name": "西山白云岩",
+          "longitude": 118.0951,
+          "latitude": 24.71035,
+          "radius": ""
+        },
+        {
+          "name": "竹坝南洋风情度假区",
+          "longitude": 118.20585,
+          "latitude": 24.77766,
+          "radius": ""
+        },
+        {
+          "name": "蔡复一故居",
+          "longitude": 118.15649,
+          "latitude": 24.73426,
+          "radius": ""
+        },
+        {
+          "name": "迪拜藏宝阁",
+          "longitude": 118.14167,
+          "latitude": 24.70196,
+          "radius": ""
+        },
+        {
+          "name": "同安古城墙",
+          "longitude": 118.15788,
+          "latitude": 24.73205,
+          "radius": ""
+        },
+        {
+          "name": "叶郡马墓",
+          "longitude": 118.16197,
+          "latitude": 24.72845,
+          "radius": ""
+        },
+        {
+          "name": "绩光铜桂坊",
+          "longitude": 118.17444,
+          "latitude": 24.72183,
+          "radius": ""
+        },
+        {
+          "name": "芦山堂",
+          "longitude": 118.15038,
+          "latitude": 24.73295,
+          "radius": ""
+        },
+        {
+          "name": "蔡献臣墓",
+          "longitude": 118.16096,
+          "latitude": 24.7297,
+          "radius": ""
+        },
+        {
+          "name": "南清宫",
+          "longitude": 118.13165,
+          "latitude": 24.69915,
+          "radius": ""
+        },
+        {
+          "name": "铜鱼池",
+          "longitude": 118.15517,
+          "latitude": 24.72907,
+          "radius": ""
+        },
+        {
+          "name": "同安博物馆",
+          "longitude": 118.15639,
+          "latitude": 24.73165,
+          "radius": ""
+        },
+        {
+          "name": "中华糕饼博物馆闽南馆",
+          "longitude": 118.12004,
+          "latitude": 24.65567,
+          "radius": ""
+        },
+        {
+          "name": "煌萍茶花观光园",
+          "longitude": 118.2185,
+          "latitude": 24.77228,
+          "radius": ""
+        },
+        {
+          "name": "蝴蝶谷",
+          "longitude": 118.07579,
+          "latitude": 24.83713,
+          "radius": ""
+        },
+        {
+          "name": "康乐球室",
+          "longitude": 117.97304,
+          "latitude": 24.80696,
+          "radius": ""
+        },
+        {
+          "name": "慧觉岩",
+          "longitude": 118.00813,
+          "latitude": 24.7887,
+          "radius": ""
+        },
+        {
+          "name": "东岳行宫",
+          "longitude": 118.16626,
+          "latitude": 24.72443,
+          "radius": ""
+        },
+        {
+          "name": "爱儿乐儿童乐园",
+          "longitude": 118.14525,
+          "latitude": 24.73304,
+          "radius": ""
+        },
+        {
+          "name": "厦门市运动训练中心",
+          "longitude": 118.17017,
+          "latitude": 24.65438,
+          "radius": ""
+        },
+        {
+          "name": "观音观",
+          "longitude": 118.15108,
+          "latitude": 24.72863,
+          "radius": ""
+        },
+        {
+          "name": "五斗格宫",
+          "longitude": 117.98176,
+          "latitude": 24.78645,
+          "radius": ""
+        },
+        {
+          "name": "金道跆拳道联盟",
+          "longitude": 118.14908,
+          "latitude": 24.72956,
+          "radius": ""
+        },
+        {
+          "name": "碧溪殿",
+          "longitude": 118.15813,
+          "latitude": 24.72302,
+          "radius": ""
+        },
+        {
+          "name": "同安烈士陵园",
+          "longitude": 118.15076,
+          "latitude": 24.7358,
+          "radius": ""
+        },
+        {
+          "name": "玄坛公宫",
+          "longitude": 118.14383,
+          "latitude": 24.76088,
+          "radius": ""
+        },
+        {
+          "name": "金元殿",
+          "longitude": 118.16173,
+          "latitude": 24.66906,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "翔安区",
+      "locations": [
+        {
+          "name": "英雄三岛战地观光园",
+          "longitude": 118.32885,
+          "latitude": 24.54348,
+          "radius": ""
+        },
+        {
+          "name": "香山岩",
+          "longitude": 118.29902,
+          "latitude": 24.62872,
+          "radius": ""
+        },
+        {
+          "name": "大嶝金门县政府旧址",
+          "longitude": 118.33177,
+          "latitude": 24.56215,
+          "radius": ""
+        },
+        {
+          "name": "厦门翔安大帽山三角梅园",
+          "longitude": 118.31451,
+          "latitude": 24.77411,
+          "radius": ""
+        },
+        {
+          "name": "清龙塔",
+          "longitude": 118.31079,
+          "latitude": 24.55521,
+          "radius": ""
+        },
+        {
+          "name": "小嶝休闲渔村",
+          "longitude": 118.38125,
+          "latitude": 24.55601,
+          "radius": ""
+        },
+        {
+          "name": "清泉岩",
+          "longitude": 118.25583,
+          "latitude": 24.62367,
+          "radius": ""
+        },
+        {
+          "name": "翔安人民体育广场",
+          "longitude": 118.24011,
+          "latitude": 24.62319,
+          "radius": ""
+        },
+        {
+          "name": "武道跆拳道馆",
+          "longitude": 118.24693,
+          "latitude": 24.66718,
+          "radius": ""
+        },
+        {
+          "name": "池王宫",
+          "longitude": 118.24944,
+          "latitude": 24.66492,
+          "radius": ""
+        },
+        {
+          "name": "八闽铁树王",
+          "longitude": 118.38528,
+          "latitude": 24.55641,
+          "radius": ""
+        },
+        {
+          "name": "邱葵故居",
+          "longitude": 118.3864,
+          "latitude": 24.55677,
+          "radius": ""
+        },
+        {
+          "name": "下坂戏剧场",
+          "longitude": 118.24908,
+          "latitude": 24.64681,
+          "radius": ""
+        },
+        {
+          "name": "雅健跆拳道馆",
+          "longitude": 118.24707,
+          "latitude": 24.66737,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

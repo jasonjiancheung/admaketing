@@ -1,0 +1,1684 @@
+{
+  "cityName": "太原市",
+  "businessCenters": [
+    {
+      "name": "小店区",
+      "locations": [
+        {
+          "name": "黄陵",
+          "longitude": 112.610115,
+          "latitude": 37.77934,
+          "radius": "518"
+        },
+        {
+          "name": "并州南路",
+          "longitude": 112.575836,
+          "latitude": 37.826805,
+          "radius": "1352"
+        },
+        {
+          "name": "亲贤",
+          "longitude": 112.56873,
+          "latitude": 37.820667,
+          "radius": "1339"
+        },
+        {
+          "name": "坞城",
+          "longitude": 112.57876,
+          "latitude": 37.806667,
+          "radius": "1346"
+        },
+        {
+          "name": "平阳路",
+          "longitude": 112.55335,
+          "latitude": 37.823063,
+          "radius": "392"
+        },
+        {
+          "name": "太榆路",
+          "longitude": 112.60013,
+          "latitude": 37.795326,
+          "radius": "945"
+        },
+        {
+          "name": "大营盘",
+          "longitude": 112.574524,
+          "latitude": 37.83729,
+          "radius": "1010"
+        },
+        {
+          "name": "王村南街",
+          "longitude": 112.56175,
+          "latitude": 37.83039,
+          "radius": "636"
+        },
+        {
+          "name": "经济技术开发区",
+          "longitude": 112.58623,
+          "latitude": 37.736683,
+          "radius": "239"
+        },
+        {
+          "name": "体育西路",
+          "longitude": 112.56592,
+          "latitude": 37.817295,
+          "radius": "938"
+        },
+        {
+          "name": "高新区",
+          "longitude": 112.55859,
+          "latitude": 37.803352,
+          "radius": "819"
+        },
+        {
+          "name": "学府街",
+          "longitude": 112.56974,
+          "latitude": 37.807667,
+          "radius": "528"
+        },
+        {
+          "name": "体育路",
+          "longitude": 112.56721,
+          "latitude": 37.8258,
+          "radius": "1437"
+        },
+        {
+          "name": "长风",
+          "longitude": 112.55453,
+          "latitude": 37.81817,
+          "radius": "1106"
+        },
+        {
+          "name": "平阳",
+          "longitude": 112.55453,
+          "latitude": 37.805603,
+          "radius": "4951"
+        },
+        {
+          "name": "长治路",
+          "longitude": 112.56135,
+          "latitude": 37.816486,
+          "radius": "1304"
+        }
+      ]
+    },
+    {
+      "name": "迎泽区",
+      "locations": [
+        {
+          "name": "体育馆",
+          "longitude": 112.56014,
+          "latitude": 37.84438,
+          "radius": "834"
+        },
+        {
+          "name": "五一广场",
+          "longitude": 112.57421,
+          "latitude": 37.86046,
+          "radius": "395"
+        },
+        {
+          "name": "朝阳",
+          "longitude": 112.59945,
+          "latitude": 37.85531,
+          "radius": "977"
+        },
+        {
+          "name": "庙前",
+          "longitude": 112.55667,
+          "latitude": 37.866436,
+          "radius": "249"
+        },
+        {
+          "name": "老军营",
+          "longitude": 112.54841,
+          "latitude": 37.84232,
+          "radius": "507"
+        },
+        {
+          "name": "服装城",
+          "longitude": 112.59548,
+          "latitude": 37.854263,
+          "radius": "583"
+        },
+        {
+          "name": "双塔",
+          "longitude": 112.58424,
+          "latitude": 37.843758,
+          "radius": "3579"
+        },
+        {
+          "name": "郝庄",
+          "longitude": 112.59825,
+          "latitude": 37.85351,
+          "radius": "954"
+        },
+        {
+          "name": "五龙口",
+          "longitude": 112.59136,
+          "latitude": 37.864418,
+          "radius": "654"
+        },
+        {
+          "name": "桃园",
+          "longitude": 112.545555,
+          "latitude": 37.86325,
+          "radius": "2205"
+        },
+        {
+          "name": "并州北路",
+          "longitude": 112.57225,
+          "latitude": 37.85008,
+          "radius": "1007"
+        },
+        {
+          "name": "建设南路",
+          "longitude": 112.58512,
+          "latitude": 37.839275,
+          "radius": "1657"
+        },
+        {
+          "name": "柳巷",
+          "longitude": 112.56667,
+          "latitude": 37.866863,
+          "radius": "931"
+        },
+        {
+          "name": "桥东",
+          "longitude": 112.58053,
+          "latitude": 37.856777,
+          "radius": "536"
+        },
+        {
+          "name": "青年路",
+          "longitude": 112.56629,
+          "latitude": 37.852592,
+          "radius": "738"
+        },
+        {
+          "name": "文庙",
+          "longitude": 112.58069,
+          "latitude": 37.864117,
+          "radius": "287"
+        },
+        {
+          "name": "大南门",
+          "longitude": 112.559364,
+          "latitude": 37.86149,
+          "radius": "382"
+        },
+        {
+          "name": "水西关",
+          "longitude": 112.5459,
+          "latitude": 37.86301,
+          "radius": "641"
+        },
+        {
+          "name": "南内环",
+          "longitude": 112.54672,
+          "latitude": 37.83882,
+          "radius": "840"
+        }
+      ]
+    },
+    {
+      "name": "杏花岭区",
+      "locations": [
+        {
+          "name": "五一路",
+          "longitude": 112.573105,
+          "latitude": 37.876545,
+          "radius": "1644"
+        },
+        {
+          "name": "涧河",
+          "longitude": 112.57869,
+          "latitude": 37.91086,
+          "radius": "1696"
+        },
+        {
+          "name": "解放路",
+          "longitude": 112.56207,
+          "latitude": 37.87712,
+          "radius": "1369"
+        },
+        {
+          "name": "巨轮",
+          "longitude": 112.56074,
+          "latitude": 37.890545,
+          "radius": "517"
+        },
+        {
+          "name": "杨家峪",
+          "longitude": 112.62735,
+          "latitude": 37.87539,
+          "radius": "581"
+        },
+        {
+          "name": "中涧河",
+          "longitude": 112.576164,
+          "latitude": 37.914913,
+          "radius": "271"
+        },
+        {
+          "name": "大东关",
+          "longitude": 112.59221,
+          "latitude": 37.87482,
+          "radius": "640"
+        },
+        {
+          "name": "建设北路",
+          "longitude": 112.58454,
+          "latitude": 37.879143,
+          "radius": "1808"
+        },
+        {
+          "name": "北大街",
+          "longitude": 112.560936,
+          "latitude": 37.888123,
+          "radius": "1773"
+        },
+        {
+          "name": "旱西关",
+          "longitude": 112.54646,
+          "latitude": 37.87785,
+          "radius": "475"
+        },
+        {
+          "name": "鼓楼",
+          "longitude": 112.563,
+          "latitude": 37.871292,
+          "radius": "334"
+        },
+        {
+          "name": "小东门",
+          "longitude": 112.57939,
+          "latitude": 37.882225,
+          "radius": "482"
+        },
+        {
+          "name": "胜利街",
+          "longitude": 112.56336,
+          "latitude": 37.894608,
+          "radius": "2138"
+        },
+        {
+          "name": "敦化坊",
+          "longitude": 112.58412,
+          "latitude": 37.895878,
+          "radius": "587"
+        },
+        {
+          "name": "三桥",
+          "longitude": 112.551926,
+          "latitude": 37.875957,
+          "radius": "679"
+        },
+        {
+          "name": "坝陵桥",
+          "longitude": 112.56946,
+          "latitude": 37.8828,
+          "radius": "400"
+        }
+      ]
+    },
+    {
+      "name": "尖草坪区",
+      "locations": [
+        {
+          "name": "迎新街",
+          "longitude": 112.53443,
+          "latitude": 37.95383,
+          "radius": "723"
+        },
+        {
+          "name": "南寨",
+          "longitude": 112.54044,
+          "latitude": 37.97461,
+          "radius": "209"
+        },
+        {
+          "name": "兴华",
+          "longitude": 112.521255,
+          "latitude": 37.88862,
+          "radius": "775"
+        },
+        {
+          "name": "胜利桥",
+          "longitude": 112.53587,
+          "latitude": 37.887863,
+          "radius": "370"
+        }
+      ]
+    },
+    {
+      "name": "万柏林区",
+      "locations": [
+        {
+          "name": "迎泽西大街",
+          "longitude": 112.50597,
+          "latitude": 37.85734,
+          "radius": "880"
+        },
+        {
+          "name": "西宫",
+          "longitude": 112.511566,
+          "latitude": 37.886627,
+          "radius": "417"
+        },
+        {
+          "name": "漪汾",
+          "longitude": 112.522766,
+          "latitude": 37.87521,
+          "radius": "1006"
+        },
+        {
+          "name": "南寒",
+          "longitude": 112.464714,
+          "latitude": 37.8548,
+          "radius": "960"
+        },
+        {
+          "name": "义井",
+          "longitude": 112.50799,
+          "latitude": 37.817474,
+          "radius": "933"
+        },
+        {
+          "name": "千峰",
+          "longitude": 112.51825,
+          "latitude": 37.86577,
+          "radius": "3440"
+        },
+        {
+          "name": "滨河西路",
+          "longitude": 112.53502,
+          "latitude": 37.827713,
+          "radius": "1209"
+        },
+        {
+          "name": "小井",
+          "longitude": 112.50666,
+          "latitude": 37.85536,
+          "radius": "1036"
+        },
+        {
+          "name": "下元",
+          "longitude": 112.51173,
+          "latitude": 37.85654,
+          "radius": "566"
+        },
+        {
+          "name": "和平",
+          "longitude": 112.509415,
+          "latitude": 37.866974,
+          "radius": "4613"
+        }
+      ]
+    },
+    {
+      "name": "晋源区",
+      "locations": [
+        {
+          "name": "罗城",
+          "longitude": 112.47811,
+          "latitude": 37.753986,
+          "radius": "677"
+        },
+        {
+          "name": "金胜",
+          "longitude": 112.4918,
+          "latitude": 37.779827,
+          "radius": "981"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "小店区",
+      "locations": [
+        {
+          "name": "太原武宿国际机场",
+          "longitude": 112.63265,
+          "latitude": 37.75217,
+          "radius": ""
+        },
+        {
+          "name": "山西体育场",
+          "longitude": 112.56676,
+          "latitude": 37.82845,
+          "radius": ""
+        },
+        {
+          "name": "永辉俱乐部",
+          "longitude": 112.56825,
+          "latitude": 37.83399,
+          "radius": ""
+        },
+        {
+          "name": "山西省体育中心",
+          "longitude": 112.56714,
+          "latitude": 37.83205,
+          "radius": ""
+        },
+        {
+          "name": "太航职工体育馆",
+          "longitude": 112.57893,
+          "latitude": 37.82202,
+          "radius": ""
+        },
+        {
+          "name": "九龙国际文化生态旅游园区",
+          "longitude": 112.67699,
+          "latitude": 37.78912,
+          "radius": ""
+        },
+        {
+          "name": "小店区第一中学体育运动场",
+          "longitude": 112.56305,
+          "latitude": 37.73632,
+          "radius": ""
+        },
+        {
+          "name": "太原汾河景区",
+          "longitude": 112.54449,
+          "latitude": 37.83117,
+          "radius": ""
+        },
+        {
+          "name": "郑村烈士陵园",
+          "longitude": 112.62079,
+          "latitude": 37.8042,
+          "radius": ""
+        },
+        {
+          "name": "魁星阁",
+          "longitude": 112.57695,
+          "latitude": 37.64897,
+          "radius": ""
+        },
+        {
+          "name": "文昌阁",
+          "longitude": 112.57695,
+          "latitude": 37.64897,
+          "radius": ""
+        },
+        {
+          "name": "西蒲1号民居",
+          "longitude": 112.51648,
+          "latitude": 37.67912,
+          "radius": ""
+        },
+        {
+          "name": "太原四十八中春晖体育场",
+          "longitude": 112.55985,
+          "latitude": 37.81379,
+          "radius": ""
+        },
+        {
+          "name": "游泳馆",
+          "longitude": 112.57801,
+          "latitude": 37.8327,
+          "radius": ""
+        },
+        {
+          "name": "体育综合训练馆",
+          "longitude": 112.56295,
+          "latitude": 37.80737,
+          "radius": ""
+        },
+        {
+          "name": "鑫天地旱冰场",
+          "longitude": 112.59996,
+          "latitude": 37.74218,
+          "radius": ""
+        },
+        {
+          "name": "山西泰豪跆拳道太原训练中心",
+          "longitude": 112.55284,
+          "latitude": 37.82097,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "迎泽区",
+      "locations": [
+        {
+          "name": "山西省体育馆",
+          "longitude": 112.56258,
+          "latitude": 37.84534,
+          "radius": ""
+        },
+        {
+          "name": "山西剧院",
+          "longitude": 112.56758,
+          "latitude": 37.86929,
+          "radius": ""
+        },
+        {
+          "name": "纯阳宫",
+          "longitude": 112.57232,
+          "latitude": 37.86217,
+          "radius": ""
+        },
+        {
+          "name": "山西省民俗博物馆",
+          "longitude": 112.57948,
+          "latitude": 37.86481,
+          "radius": ""
+        },
+        {
+          "name": "关帝庙",
+          "longitude": 112.55785,
+          "latitude": 37.86752,
+          "radius": ""
+        },
+        {
+          "name": "崇善寺",
+          "longitude": 112.57992,
+          "latitude": 37.86686,
+          "radius": ""
+        },
+        {
+          "name": "乌金山国家森林公园",
+          "longitude": 112.77437,
+          "latitude": 37.87866,
+          "radius": ""
+        },
+        {
+          "name": "龙王山风景区",
+          "longitude": 112.77437,
+          "latitude": 37.87866,
+          "radius": ""
+        },
+        {
+          "name": "山西华祥游泳馆",
+          "longitude": 112.56397,
+          "latitude": 37.84379,
+          "radius": ""
+        },
+        {
+          "name": "山西大学堂",
+          "longitude": 112.57732,
+          "latitude": 37.86281,
+          "radius": ""
+        },
+        {
+          "name": "长风剧院",
+          "longitude": 112.56731,
+          "latitude": 37.86697,
+          "radius": ""
+        },
+        {
+          "name": "太原市历史建筑",
+          "longitude": 112.57138,
+          "latitude": 37.85361,
+          "radius": ""
+        },
+        {
+          "name": "山西日报体育馆",
+          "longitude": 112.57355,
+          "latitude": 37.84576,
+          "radius": ""
+        },
+        {
+          "name": "山西省话剧院",
+          "longitude": 112.57253,
+          "latitude": 37.86352,
+          "radius": ""
+        },
+        {
+          "name": "梅兰芳剧院",
+          "longitude": 112.55355,
+          "latitude": 37.85544,
+          "radius": ""
+        },
+        {
+          "name": "太原市艺校儿童实验艺术剧院",
+          "longitude": 112.54604,
+          "latitude": 37.83925,
+          "radius": ""
+        },
+        {
+          "name": "书业诚旧址",
+          "longitude": 112.56373,
+          "latitude": 37.86906,
+          "radius": ""
+        },
+        {
+          "name": "万寿宫3号民居",
+          "longitude": 112.57618,
+          "latitude": 37.86639,
+          "radius": ""
+        },
+        {
+          "name": "永祚祈福郝庄大戏台",
+          "longitude": 112.59674,
+          "latitude": 37.84849,
+          "radius": ""
+        },
+        {
+          "name": "大中剧院影视厅",
+          "longitude": 112.5642,
+          "latitude": 37.8711,
+          "radius": ""
+        },
+        {
+          "name": "美乐世界",
+          "longitude": 112.591,
+          "latitude": 37.8561,
+          "radius": ""
+        },
+        {
+          "name": "孟家井瓷窑遗址",
+          "longitude": 112.6949,
+          "latitude": 37.87971,
+          "radius": ""
+        },
+        {
+          "name": "亨升久旧址",
+          "longitude": 112.56372,
+          "latitude": 37.86905,
+          "radius": ""
+        },
+        {
+          "name": "申记恒义诚店",
+          "longitude": 112.56532,
+          "latitude": 37.86784,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "杏花岭区",
+      "locations": [
+        {
+          "name": "机车社区体育活动中心",
+          "longitude": 112.5729,
+          "latitude": 37.9045,
+          "radius": ""
+        },
+        {
+          "name": "东湖醋园",
+          "longitude": 112.59516,
+          "latitude": 37.87883,
+          "radius": ""
+        },
+        {
+          "name": "青年宫演艺中心",
+          "longitude": 112.54169,
+          "latitude": 37.87426,
+          "radius": ""
+        },
+        {
+          "name": "九龙仙境",
+          "longitude": 112.59053,
+          "latitude": 37.95203,
+          "radius": ""
+        },
+        {
+          "name": "拱极门",
+          "longitude": 112.5723,
+          "latitude": 37.88839,
+          "radius": ""
+        },
+        {
+          "name": "王靖国公馆旧址",
+          "longitude": 112.5695,
+          "latitude": 37.87356,
+          "radius": ""
+        },
+        {
+          "name": "牛驼寨战斗遗址",
+          "longitude": 112.63355,
+          "latitude": 37.90062,
+          "radius": ""
+        },
+        {
+          "name": "赵树理故居",
+          "longitude": 112.575,
+          "latitude": 37.87302,
+          "radius": ""
+        },
+        {
+          "name": "太铁体育馆",
+          "longitude": 112.58483,
+          "latitude": 37.87801,
+          "radius": ""
+        },
+        {
+          "name": "彩虹馆",
+          "longitude": 112.56952,
+          "latitude": 37.91517,
+          "radius": ""
+        },
+        {
+          "name": "赵树理旧居",
+          "longitude": 112.57503,
+          "latitude": 37.87304,
+          "radius": ""
+        },
+        {
+          "name": "浑源会馆旧址",
+          "longitude": 112.57248,
+          "latitude": 37.87691,
+          "radius": ""
+        },
+        {
+          "name": "太原瓷厂乒羽馆",
+          "longitude": 112.59194,
+          "latitude": 37.87855,
+          "radius": ""
+        },
+        {
+          "name": "太原市薰衣草基地",
+          "longitude": 112.58931,
+          "latitude": 37.95989,
+          "radius": ""
+        },
+        {
+          "name": "永兴路11号民居",
+          "longitude": 112.56704,
+          "latitude": 37.88516,
+          "radius": ""
+        },
+        {
+          "name": "古壁画陈列馆",
+          "longitude": 112.56593,
+          "latitude": 37.8804,
+          "radius": ""
+        },
+        {
+          "name": "东山体育场",
+          "longitude": 112.63275,
+          "latitude": 37.87542,
+          "radius": ""
+        },
+        {
+          "name": "十三冶工厂宿舍旧址",
+          "longitude": 112.55037,
+          "latitude": 37.88354,
+          "radius": ""
+        },
+        {
+          "name": "永兴路12号民居",
+          "longitude": 112.56762,
+          "latitude": 37.88508,
+          "radius": ""
+        },
+        {
+          "name": "山西跆健跆拳道",
+          "longitude": 112.54499,
+          "latitude": 37.88307,
+          "radius": ""
+        },
+        {
+          "name": "历史民居",
+          "longitude": 112.57635,
+          "latitude": 37.87398,
+          "radius": ""
+        },
+        {
+          "name": "庙碉遗址",
+          "longitude": 112.63355,
+          "latitude": 37.90062,
+          "radius": ""
+        },
+        {
+          "name": "东花园",
+          "longitude": 112.56313,
+          "latitude": 37.87333,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "尖草坪区",
+      "locations": [
+        {
+          "name": "森林公园",
+          "longitude": 112.53491,
+          "latitude": 37.9092,
+          "radius": ""
+        },
+        {
+          "name": "太原市兴华金钱豹游泳馆",
+          "longitude": 112.51781,
+          "latitude": 37.89251,
+          "radius": ""
+        },
+        {
+          "name": "太原市尖草坪区体育馆",
+          "longitude": 112.48649,
+          "latitude": 37.94154,
+          "radius": ""
+        },
+        {
+          "name": "太原市汾河景区(胜利西小区东北)",
+          "longitude": 112.53588,
+          "latitude": 37.89358,
+          "radius": ""
+        },
+        {
+          "name": "三给文体中心",
+          "longitude": 112.49956,
+          "latitude": 37.9056,
+          "radius": ""
+        },
+        {
+          "name": "崛围山",
+          "longitude": 112.45527,
+          "latitude": 37.96945,
+          "radius": ""
+        },
+        {
+          "name": "窦大夫祠",
+          "longitude": 112.43963,
+          "latitude": 38.01127,
+          "radius": ""
+        },
+        {
+          "name": "中华傅山园旅游景区",
+          "longitude": 112.46243,
+          "latitude": 38.0085,
+          "radius": ""
+        },
+        {
+          "name": "莲花台(千佛洞)土雕群风景区",
+          "longitude": 112.44262,
+          "latitude": 38.02334,
+          "radius": ""
+        },
+        {
+          "name": "呼延村当铺",
+          "longitude": 112.46098,
+          "latitude": 37.9721,
+          "radius": ""
+        },
+        {
+          "name": "新城永安堡址",
+          "longitude": 112.54798,
+          "latitude": 37.94896,
+          "radius": ""
+        },
+        {
+          "name": "天门关",
+          "longitude": 112.45618,
+          "latitude": 38.06449,
+          "radius": ""
+        },
+        {
+          "name": "华岩洞",
+          "longitude": 112.43744,
+          "latitude": 37.96776,
+          "radius": ""
+        },
+        {
+          "name": "二龙山",
+          "longitude": 112.4441,
+          "latitude": 38.0182,
+          "radius": ""
+        },
+        {
+          "name": "赵庄游泳馆",
+          "longitude": 112.53716,
+          "latitude": 37.92209,
+          "radius": ""
+        },
+        {
+          "name": "兴安体育场",
+          "longitude": 112.54428,
+          "latitude": 37.9765,
+          "radius": ""
+        },
+        {
+          "name": "耄仁寺景区",
+          "longitude": 112.44497,
+          "latitude": 38.05129,
+          "radius": ""
+        },
+        {
+          "name": "歇子楼剧场",
+          "longitude": 112.59726,
+          "latitude": 37.98161,
+          "radius": ""
+        },
+        {
+          "name": "兰岗剧场",
+          "longitude": 112.5323,
+          "latitude": 38.01131,
+          "radius": ""
+        },
+        {
+          "name": "辘碌坝",
+          "longitude": 112.48417,
+          "latitude": 37.98798,
+          "radius": ""
+        },
+        {
+          "name": "汾河湾花境",
+          "longitude": 112.46532,
+          "latitude": 37.99064,
+          "radius": ""
+        },
+        {
+          "name": "太钢城郊森林公园",
+          "longitude": 112.42394,
+          "latitude": 38.00495,
+          "radius": ""
+        },
+        {
+          "name": "赵家山民居",
+          "longitude": 112.57003,
+          "latitude": 38.03127,
+          "radius": ""
+        },
+        {
+          "name": "慕云山",
+          "longitude": 112.44247,
+          "latitude": 38.03797,
+          "radius": ""
+        },
+        {
+          "name": "西村剧场",
+          "longitude": 112.46594,
+          "latitude": 38.00679,
+          "radius": ""
+        },
+        {
+          "name": "杜家村剧场",
+          "longitude": 112.57683,
+          "latitude": 37.94844,
+          "radius": ""
+        },
+        {
+          "name": "南固碾",
+          "longitude": 112.52378,
+          "latitude": 37.95937,
+          "radius": ""
+        },
+        {
+          "name": "芮城剧场",
+          "longitude": 112.49329,
+          "latitude": 37.92984,
+          "radius": ""
+        },
+        {
+          "name": "薰衣草庄园",
+          "longitude": 112.51124,
+          "latitude": 37.97066,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "万柏林区",
+      "locations": [
+        {
+          "name": "山西博物院",
+          "longitude": 112.5312,
+          "latitude": 37.86548,
+          "radius": ""
+        },
+        {
+          "name": "中国煤炭博物馆",
+          "longitude": 112.5286,
+          "latitude": 37.85694,
+          "radius": ""
+        },
+        {
+          "name": "滨河体育中心",
+          "longitude": 112.53071,
+          "latitude": 37.87531,
+          "radius": ""
+        },
+        {
+          "name": "西山工人体育馆",
+          "longitude": 112.4536,
+          "latitude": 37.85212,
+          "radius": ""
+        },
+        {
+          "name": "太重体育馆",
+          "longitude": 112.49768,
+          "latitude": 37.86889,
+          "radius": ""
+        },
+        {
+          "name": "万柏林生态园",
+          "longitude": 112.46104,
+          "latitude": 37.83176,
+          "radius": ""
+        },
+        {
+          "name": "山西六建省地质博物馆",
+          "longitude": 112.53241,
+          "latitude": 37.86753,
+          "radius": ""
+        },
+        {
+          "name": "太原汾河景区",
+          "longitude": 112.5343,
+          "latitude": 37.86873,
+          "radius": ""
+        },
+        {
+          "name": "万柏林体育馆",
+          "longitude": 112.50951,
+          "latitude": 37.88883,
+          "radius": ""
+        },
+        {
+          "name": "狮子崖景区",
+          "longitude": 112.39435,
+          "latitude": 37.79962,
+          "radius": ""
+        },
+        {
+          "name": "四达沟生态恢复景区",
+          "longitude": 112.41118,
+          "latitude": 37.84366,
+          "radius": ""
+        },
+        {
+          "name": "沐阳门",
+          "longitude": 112.52723,
+          "latitude": 37.81451,
+          "radius": ""
+        },
+        {
+          "name": "启春阁",
+          "longitude": 112.45531,
+          "latitude": 37.82602,
+          "radius": ""
+        },
+        {
+          "name": "山西酷赛赛车俱乐部",
+          "longitude": 112.48144,
+          "latitude": 37.8569,
+          "radius": ""
+        },
+        {
+          "name": "汾西重工体育中心",
+          "longitude": 112.50874,
+          "latitude": 37.88414,
+          "radius": ""
+        },
+        {
+          "name": "龙泉泳馆",
+          "longitude": 112.48627,
+          "latitude": 37.80048,
+          "radius": ""
+        },
+        {
+          "name": "金鑫游泳馆",
+          "longitude": 112.49593,
+          "latitude": 37.87076,
+          "radius": ""
+        },
+        {
+          "name": "北头剧场",
+          "longitude": 112.40905,
+          "latitude": 37.89111,
+          "radius": ""
+        },
+        {
+          "name": "山西焦炭发展史陈列馆",
+          "longitude": 112.53052,
+          "latitude": 37.84689,
+          "radius": ""
+        },
+        {
+          "name": "曲桥",
+          "longitude": 112.53932,
+          "latitude": 37.83401,
+          "radius": ""
+        },
+        {
+          "name": "西山长风城郊森林公园",
+          "longitude": 112.46737,
+          "latitude": 37.82313,
+          "radius": ""
+        },
+        {
+          "name": "樱花园",
+          "longitude": 112.45598,
+          "latitude": 37.8986,
+          "radius": ""
+        },
+        {
+          "name": "东社城郊森林公园",
+          "longitude": 112.45722,
+          "latitude": 37.9002,
+          "radius": ""
+        },
+        {
+          "name": "小井峪剧坊",
+          "longitude": 112.49934,
+          "latitude": 37.84787,
+          "radius": ""
+        },
+        {
+          "name": "直桥",
+          "longitude": 112.54114,
+          "latitude": 37.821,
+          "radius": ""
+        },
+        {
+          "name": "化客头剧场",
+          "longitude": 112.39328,
+          "latitude": 37.88164,
+          "radius": ""
+        },
+        {
+          "name": "山西省青少年跆拳道训练基地",
+          "longitude": 112.51877,
+          "latitude": 37.81752,
+          "radius": ""
+        },
+        {
+          "name": "山西省红丽艺术剧院",
+          "longitude": 112.45209,
+          "latitude": 37.89166,
+          "radius": ""
+        },
+        {
+          "name": "黄坡遗址",
+          "longitude": 112.47863,
+          "latitude": 37.82653,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "晋源区",
+      "locations": [
+        {
+          "name": "山西体育中心",
+          "longitude": 112.53808,
+          "latitude": 37.75587,
+          "radius": ""
+        },
+        {
+          "name": "山西大剧院",
+          "longitude": 112.53409,
+          "latitude": 37.80774,
+          "radius": ""
+        },
+        {
+          "name": "蒙山景区",
+          "longitude": 112.44555,
+          "latitude": 37.77707,
+          "radius": ""
+        },
+        {
+          "name": "圣寿寺",
+          "longitude": 112.38072,
+          "latitude": 37.73337,
+          "radius": ""
+        },
+        {
+          "name": "太山景区",
+          "longitude": 112.44117,
+          "latitude": 37.74867,
+          "radius": ""
+        },
+        {
+          "name": "龙山景区",
+          "longitude": 112.44053,
+          "latitude": 37.73306,
+          "radius": ""
+        },
+        {
+          "name": "魁星楼",
+          "longitude": 112.53118,
+          "latitude": 37.76062,
+          "radius": ""
+        },
+        {
+          "name": "太原县牺盟会旧址",
+          "longitude": 112.4857,
+          "latitude": 37.72946,
+          "radius": ""
+        },
+        {
+          "name": "天龙山景区",
+          "longitude": 112.43623,
+          "latitude": 37.70785,
+          "radius": ""
+        },
+        {
+          "name": "冶峪村南山寺景区",
+          "longitude": 112.46474,
+          "latitude": 37.79407,
+          "radius": ""
+        },
+        {
+          "name": "七苦山",
+          "longitude": 112.37383,
+          "latitude": 37.65376,
+          "radius": ""
+        },
+        {
+          "name": "晋阳名湖",
+          "longitude": 112.51803,
+          "latitude": 37.75952,
+          "radius": ""
+        },
+        {
+          "name": "店头古村落",
+          "longitude": 112.42593,
+          "latitude": 37.75435,
+          "radius": ""
+        },
+        {
+          "name": "太原市博物馆",
+          "longitude": 112.5343,
+          "latitude": 37.80568,
+          "radius": ""
+        },
+        {
+          "name": "金胜剧场",
+          "longitude": 112.49169,
+          "latitude": 37.77446,
+          "radius": ""
+        },
+        {
+          "name": "北后街28号民居",
+          "longitude": 112.48964,
+          "latitude": 37.72951,
+          "radius": ""
+        },
+        {
+          "name": "龙山园",
+          "longitude": 112.45548,
+          "latitude": 37.73955,
+          "radius": ""
+        },
+        {
+          "name": "东街村段氏宅院",
+          "longitude": 112.48827,
+          "latitude": 37.72773,
+          "radius": ""
+        },
+        {
+          "name": "北后街48号民居",
+          "longitude": 112.48745,
+          "latitude": 37.72991,
+          "radius": ""
+        },
+        {
+          "name": "东街村郝氏宅院",
+          "longitude": 112.49042,
+          "latitude": 37.72854,
+          "radius": ""
+        },
+        {
+          "name": "蟠龙树",
+          "longitude": 112.38117,
+          "latitude": 37.73329,
+          "radius": ""
+        },
+        {
+          "name": "东大街102号民居",
+          "longitude": 112.49038,
+          "latitude": 37.72748,
+          "radius": ""
+        },
+        {
+          "name": "东大街120号民居",
+          "longitude": 112.48816,
+          "latitude": 37.72781,
+          "radius": ""
+        },
+        {
+          "name": "东横街62号民居",
+          "longitude": 112.49033,
+          "latitude": 37.72813,
+          "radius": ""
+        },
+        {
+          "name": "北大街22号民居",
+          "longitude": 112.48618,
+          "latitude": 37.73023,
+          "radius": ""
+        },
+        {
+          "name": "北后街46号民居",
+          "longitude": 112.48824,
+          "latitude": 37.72972,
+          "radius": ""
+        },
+        {
+          "name": "姑姑寨剧场",
+          "longitude": 112.54011,
+          "latitude": 37.74376,
+          "radius": ""
+        },
+        {
+          "name": "花塔张家宅院",
+          "longitude": 112.46004,
+          "latitude": 37.72431,
+          "radius": ""
+        },
+        {
+          "name": "山西省艺术博物馆",
+          "longitude": 112.43962,
+          "latitude": 37.65873,
+          "radius": ""
+        },
+        {
+          "name": "北后街40号民居",
+          "longitude": 112.4888,
+          "latitude": 37.72968,
+          "radius": ""
+        },
+        {
+          "name": "赤桥李氏民宅",
+          "longitude": 112.44772,
+          "latitude": 37.71521,
+          "radius": ""
+        },
+        {
+          "name": "北后街8号民居",
+          "longitude": 112.48797,
+          "latitude": 37.7294,
+          "radius": ""
+        },
+        {
+          "name": "冯玉祥题词",
+          "longitude": 112.38463,
+          "latitude": 37.73677,
+          "radius": ""
+        },
+        {
+          "name": "西街村崔氏宅院",
+          "longitude": 112.48239,
+          "latitude": 37.72827,
+          "radius": ""
+        },
+        {
+          "name": "北后街59号民居",
+          "longitude": 112.48646,
+          "latitude": 37.73019,
+          "radius": ""
+        },
+        {
+          "name": "白龙洞",
+          "longitude": 112.38474,
+          "latitude": 37.73667,
+          "radius": ""
+        },
+        {
+          "name": "北后街49号民居",
+          "longitude": 112.48738,
+          "latitude": 37.72998,
+          "radius": ""
+        },
+        {
+          "name": "东大街123号民居",
+          "longitude": 112.48725,
+          "latitude": 37.72788,
+          "radius": ""
+        },
+        {
+          "name": "观景亭",
+          "longitude": 112.38312,
+          "latitude": 37.73405,
+          "radius": ""
+        },
+        {
+          "name": "北后街7号民居",
+          "longitude": 112.48788,
+          "latitude": 37.72939,
+          "radius": ""
+        },
+        {
+          "name": "星牌球厅",
+          "longitude": 112.4843,
+          "latitude": 37.76475,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "清徐县",
+      "locations": [
+        {
+          "name": "市楼",
+          "longitude": 112.34716,
+          "latitude": 37.6144,
+          "radius": ""
+        },
+        {
+          "name": "龙林山风景名胜区",
+          "longitude": 112.30931,
+          "latitude": 37.68502,
+          "radius": ""
+        },
+        {
+          "name": "三国城",
+          "longitude": 112.36145,
+          "latitude": 37.62564,
+          "radius": ""
+        },
+        {
+          "name": "宝源老醋坊",
+          "longitude": 112.36861,
+          "latitude": 37.50786,
+          "radius": ""
+        },
+        {
+          "name": "竹林院",
+          "longitude": 112.30793,
+          "latitude": 37.54503,
+          "radius": ""
+        },
+        {
+          "name": "北宜武砖塔",
+          "longitude": 112.47709,
+          "latitude": 37.52282,
+          "radius": ""
+        },
+        {
+          "name": "葡峰山庄",
+          "longitude": 112.31039,
+          "latitude": 37.65466,
+          "radius": ""
+        },
+        {
+          "name": "乔万选旧居",
+          "longitude": 112.34688,
+          "latitude": 37.61477,
+          "radius": ""
+        },
+        {
+          "name": "文源楼",
+          "longitude": 112.35414,
+          "latitude": 37.60471,
+          "radius": ""
+        },
+        {
+          "name": "中国醋文化博物馆",
+          "longitude": 112.35414,
+          "latitude": 37.60471,
+          "radius": ""
+        },
+        {
+          "name": "康乐源游泳馆",
+          "longitude": 112.3517,
+          "latitude": 37.60443,
+          "radius": ""
+        },
+        {
+          "name": "清徐县门球场",
+          "longitude": 112.35896,
+          "latitude": 37.60562,
+          "radius": ""
+        },
+        {
+          "name": "大北村剧场",
+          "longitude": 112.31767,
+          "latitude": 37.60409,
+          "radius": ""
+        },
+        {
+          "name": "山西旅游演艺城",
+          "longitude": 112.36217,
+          "latitude": 37.62599,
+          "radius": ""
+        },
+        {
+          "name": "禹龙泉游泳馆",
+          "longitude": 112.33867,
+          "latitude": 37.62188,
+          "radius": ""
+        },
+        {
+          "name": "富国亭",
+          "longitude": 112.30982,
+          "latitude": 37.68254,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "阳曲县",
+      "locations": [
+        {
+          "name": "汾河二库国家水利风景区",
+          "longitude": 112.38458,
+          "latitude": 37.98664,
+          "radius": ""
+        },
+        {
+          "name": "青龙古镇",
+          "longitude": 112.63119,
+          "latitude": 38.02287,
+          "radius": ""
+        },
+        {
+          "name": "不二寺",
+          "longitude": 112.66619,
+          "latitude": 38.05193,
+          "radius": ""
+        },
+        {
+          "name": "三郎洞原生态旅游景点",
+          "longitude": 112.30651,
+          "latitude": 38.26146,
+          "radius": ""
+        },
+        {
+          "name": "龙珠石",
+          "longitude": 112.64622,
+          "latitude": 38.0292,
+          "radius": ""
+        },
+        {
+          "name": "兴华剧场",
+          "longitude": 112.84687,
+          "latitude": 38.01061,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "娄烦县",
+      "locations": [
+        {
+          "name": "高君宇故居",
+          "longitude": 111.8699,
+          "latitude": 38.16621,
+          "radius": ""
+        },
+        {
+          "name": "云顶山景区",
+          "longitude": 111.6061,
+          "latitude": 37.88173,
+          "radius": ""
+        },
+        {
+          "name": "游泳馆",
+          "longitude": 111.80097,
+          "latitude": 38.06238,
+          "radius": ""
+        },
+        {
+          "name": "篮球场",
+          "longitude": 111.79563,
+          "latitude": 38.06552,
+          "radius": ""
+        },
+        {
+          "name": "汾河水库风景名胜区",
+          "longitude": 111.93429,
+          "latitude": 38.04577,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "古交市",
+      "locations": [
+        {
+          "name": "文峰塔",
+          "longitude": 112.09636,
+          "latitude": 37.92848,
+          "radius": ""
+        },
+        {
+          "name": "岔口乡关头观音堂",
+          "longitude": 111.83682,
+          "latitude": 37.86553,
+          "radius": ""
+        },
+        {
+          "name": "金隆门",
+          "longitude": 112.17671,
+          "latitude": 37.90608,
+          "radius": ""
+        },
+        {
+          "name": "狐爷山风景区",
+          "longitude": 111.99714,
+          "latitude": 37.72297,
+          "radius": ""
+        },
+        {
+          "name": "晋绥八分区(专署)旧址",
+          "longitude": 111.83376,
+          "latitude": 37.86696,
+          "radius": ""
+        },
+        {
+          "name": "古交明扶里游泳馆",
+          "longitude": 112.16743,
+          "latitude": 37.87069,
+          "radius": ""
+        },
+        {
+          "name": "古交市体育场",
+          "longitude": 112.18312,
+          "latitude": 37.90723,
+          "radius": ""
+        },
+        {
+          "name": "老爷阁",
+          "longitude": 112.08663,
+          "latitude": 37.80288,
+          "radius": ""
+        },
+        {
+          "name": "岔口戏台",
+          "longitude": 111.8786,
+          "latitude": 37.84447,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

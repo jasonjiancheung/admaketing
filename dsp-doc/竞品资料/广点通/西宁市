@@ -1,0 +1,888 @@
+{
+  "cityName": "西宁市",
+  "businessCenters": [
+    {
+      "name": "城东区",
+      "locations": [
+        {
+          "name": "林家崖",
+          "longitude": 101.80179,
+          "latitude": 36.63056,
+          "radius": "247"
+        },
+        {
+          "name": "八一路",
+          "longitude": 101.823944,
+          "latitude": 36.594833,
+          "radius": "419"
+        },
+        {
+          "name": "火车站",
+          "longitude": 101.81146,
+          "latitude": 36.618153,
+          "radius": "572"
+        },
+        {
+          "name": "大众街",
+          "longitude": 101.8052,
+          "latitude": 36.608856,
+          "radius": "1051"
+        },
+        {
+          "name": "共和",
+          "longitude": 101.8012,
+          "latitude": 36.61333,
+          "radius": "1146"
+        },
+        {
+          "name": "东关大街",
+          "longitude": 101.797424,
+          "latitude": 36.616425,
+          "radius": "612"
+        }
+      ]
+    },
+    {
+      "name": "城中区",
+      "locations": [
+        {
+          "name": "南川东路",
+          "longitude": 101.75489,
+          "latitude": 36.58389,
+          "radius": "1531"
+        },
+        {
+          "name": "饮马街",
+          "longitude": 101.786964,
+          "latitude": 36.621773,
+          "radius": "299"
+        },
+        {
+          "name": "人民街",
+          "longitude": 101.78062,
+          "latitude": 36.617706,
+          "radius": "407"
+        },
+        {
+          "name": "礼让街",
+          "longitude": 101.78117,
+          "latitude": 36.62551,
+          "radius": "764"
+        }
+      ]
+    },
+    {
+      "name": "城西区",
+      "locations": [
+        {
+          "name": "胜利路",
+          "longitude": 101.763176,
+          "latitude": 36.632717,
+          "radius": "951"
+        },
+        {
+          "name": "虎台",
+          "longitude": 101.745964,
+          "latitude": 36.63512,
+          "radius": "661"
+        },
+        {
+          "name": "古城台",
+          "longitude": 101.76045,
+          "latitude": 36.62694,
+          "radius": "685"
+        },
+        {
+          "name": "南川西路",
+          "longitude": 101.75894,
+          "latitude": 36.60174,
+          "radius": "1749"
+        },
+        {
+          "name": "西关大街",
+          "longitude": 101.75754,
+          "latitude": 36.62843,
+          "radius": "984"
+        },
+        {
+          "name": "兴海路",
+          "longitude": 101.7751,
+          "latitude": 36.629597,
+          "radius": "465"
+        }
+      ]
+    },
+    {
+      "name": "城北区",
+      "locations": [
+        {
+          "name": "三其",
+          "longitude": 101.6689,
+          "latitude": 36.661446,
+          "radius": "837"
+        },
+        {
+          "name": "小桥",
+          "longitude": 101.757225,
+          "latitude": 36.652073,
+          "radius": "1375"
+        },
+        {
+          "name": "朝阳",
+          "longitude": 101.770744,
+          "latitude": 36.648083,
+          "radius": "2809"
+        },
+        {
+          "name": "马坊",
+          "longitude": 101.71086,
+          "latitude": 36.65986,
+          "radius": "742"
+        }
+      ]
+    },
+    {
+      "name": "大通回族土族自治县",
+      "locations": [
+        {
+          "name": "东峡",
+          "longitude": 101.80907,
+          "latitude": 37.038254,
+          "radius": "223"
+        },
+        {
+          "name": "城关",
+          "longitude": 101.54897,
+          "latitude": 37.03132,
+          "radius": "464"
+        },
+        {
+          "name": "景阳",
+          "longitude": 101.63967,
+          "latitude": 36.80529,
+          "radius": "216"
+        },
+        {
+          "name": "长宁",
+          "longitude": 101.76573,
+          "latitude": 36.81751,
+          "radius": "224"
+        },
+        {
+          "name": "塔尔",
+          "longitude": 101.63938,
+          "latitude": 36.993603,
+          "radius": "920"
+        }
+      ]
+    },
+    {
+      "name": "湟中县",
+      "locations": [
+        {
+          "name": "拦隆口",
+          "longitude": 101.48611,
+          "latitude": 36.768227,
+          "radius": "376"
+        },
+        {
+          "name": "鲁沙尔",
+          "longitude": 101.56586,
+          "latitude": 36.496807,
+          "radius": "189"
+        },
+        {
+          "name": "多巴",
+          "longitude": 101.52566,
+          "latitude": 36.655354,
+          "radius": "1635"
+        },
+        {
+          "name": "李家山",
+          "longitude": 101.55771,
+          "latitude": 36.800117,
+          "radius": "257"
+        },
+        {
+          "name": "总寨",
+          "longitude": 101.68763,
+          "latitude": 36.54281,
+          "radius": "224"
+        },
+        {
+          "name": "甘河滩",
+          "longitude": 101.51845,
+          "latitude": 36.54617,
+          "radius": "189"
+        },
+        {
+          "name": "上新庄",
+          "longitude": 101.59647,
+          "latitude": 36.42894,
+          "radius": "454"
+        },
+        {
+          "name": "田家寨",
+          "longitude": 101.79643,
+          "latitude": 36.452984,
+          "radius": "312"
+        }
+      ]
+    },
+    {
+      "name": "湟源县",
+      "locations": [
+        {
+          "name": "城关",
+          "longitude": 101.26553,
+          "latitude": 36.685654,
+          "radius": "1061"
+        },
+        {
+          "name": "和平",
+          "longitude": 101.25445,
+          "latitude": 36.62735,
+          "radius": "189"
+        },
+        {
+          "name": "巴燕",
+          "longitude": 101.13373,
+          "latitude": 36.76675,
+          "radius": "256"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "城东区",
+      "locations": [
+        {
+          "name": "马步芳公馆",
+          "longitude": 101.80586,
+          "latitude": 36.617466,
+          "radius": ""
+        },
+        {
+          "name": "铁路体育馆",
+          "longitude": 101.82344,
+          "latitude": 36.60813,
+          "radius": ""
+        },
+        {
+          "name": "九眼泉自然旅游区",
+          "longitude": 101.83079,
+          "latitude": 36.57142,
+          "radius": ""
+        },
+        {
+          "name": "小峡清风",
+          "longitude": 101.90741,
+          "latitude": 36.56339,
+          "radius": ""
+        },
+        {
+          "name": "红叶谷休闲生态旅游景区",
+          "longitude": 101.89263,
+          "latitude": 36.55092,
+          "radius": ""
+        },
+        {
+          "name": "石峡清风",
+          "longitude": 101.90335,
+          "latitude": 36.55859,
+          "radius": ""
+        },
+        {
+          "name": "西宁艺术剧院",
+          "longitude": 101.80907,
+          "latitude": 36.61335,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "城中区",
+      "locations": [
+        {
+          "name": "西宁市体育场",
+          "longitude": 101.77187,
+          "latitude": 36.61938,
+          "radius": ""
+        },
+        {
+          "name": "西宁体育馆",
+          "longitude": 101.77278,
+          "latitude": 36.6213,
+          "radius": ""
+        },
+        {
+          "name": "青唐城遗址公园",
+          "longitude": 101.78425,
+          "latitude": 36.610893,
+          "radius": ""
+        },
+        {
+          "name": "文庙",
+          "longitude": 101.78608,
+          "latitude": 36.62271,
+          "radius": ""
+        },
+        {
+          "name": "南门体育场",
+          "longitude": 101.78614,
+          "latitude": 36.61195,
+          "radius": ""
+        },
+        {
+          "name": "西宁市青少年体育训练营地",
+          "longitude": 101.77041,
+          "latitude": 36.61857,
+          "radius": ""
+        },
+        {
+          "name": "丁香园",
+          "longitude": 101.77005,
+          "latitude": 36.61501,
+          "radius": ""
+        },
+        {
+          "name": "拱辰门",
+          "longitude": 101.7847,
+          "latitude": 36.62734,
+          "radius": ""
+        },
+        {
+          "name": "西宁明清故城遗址",
+          "longitude": 101.79047,
+          "latitude": 36.62103,
+          "radius": ""
+        },
+        {
+          "name": "城隍庙",
+          "longitude": 101.78202,
+          "latitude": 36.62416,
+          "radius": ""
+        },
+        {
+          "name": "文峰耸翠",
+          "longitude": 101.77964,
+          "latitude": 36.56327,
+          "radius": ""
+        },
+        {
+          "name": "水井巷(水眼洞街)",
+          "longitude": 101.77658,
+          "latitude": 36.6208,
+          "radius": ""
+        },
+        {
+          "name": "大成殿",
+          "longitude": 101.78608,
+          "latitude": 36.62271,
+          "radius": ""
+        },
+        {
+          "name": "解放剧场",
+          "longitude": 101.78082,
+          "latitude": 36.62353,
+          "radius": ""
+        },
+        {
+          "name": "雪域民俗博物馆",
+          "longitude": 101.78391,
+          "latitude": 36.59889,
+          "radius": ""
+        },
+        {
+          "name": "凤凰丰泌园",
+          "longitude": 101.7615,
+          "latitude": 36.5912,
+          "radius": ""
+        },
+        {
+          "name": "河湟园",
+          "longitude": 101.79078,
+          "latitude": 36.63011,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "城西区",
+      "locations": [
+        {
+          "name": "青海省博物馆",
+          "longitude": 101.75599,
+          "latitude": 36.63021,
+          "radius": ""
+        },
+        {
+          "name": "青海海湖体育中心",
+          "longitude": 101.6986,
+          "latitude": 36.65069,
+          "radius": ""
+        },
+        {
+          "name": "西宁电视塔",
+          "longitude": 101.74944,
+          "latitude": 36.62037,
+          "radius": ""
+        },
+        {
+          "name": "北山烟雨景区",
+          "longitude": 101.68224,
+          "latitude": 36.65284,
+          "radius": ""
+        },
+        {
+          "name": "金银滩",
+          "longitude": 101.76152,
+          "latitude": 36.6345,
+          "radius": ""
+        },
+        {
+          "name": "青海大剧院",
+          "longitude": 101.71847,
+          "latitude": 36.64587,
+          "radius": ""
+        },
+        {
+          "name": "青海剧场",
+          "longitude": 101.76223,
+          "latitude": 36.62976,
+          "radius": ""
+        },
+        {
+          "name": "天天小剧场",
+          "longitude": 101.76289,
+          "latitude": 36.62689,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "城北区",
+      "locations": [
+        {
+          "name": "青海藏文化博物馆",
+          "longitude": 101.74775,
+          "latitude": 36.68929,
+          "radius": ""
+        },
+        {
+          "name": "青藏高原自然博物馆",
+          "longitude": 101.74957,
+          "latitude": 36.68743,
+          "radius": ""
+        },
+        {
+          "name": "沈那遗址",
+          "longitude": 101.75596,
+          "latitude": 36.65332,
+          "radius": ""
+        },
+        {
+          "name": "颐乐亭",
+          "longitude": 101.6666,
+          "latitude": 36.65996,
+          "radius": ""
+        },
+        {
+          "name": "青海交通职业技术学院-体育馆",
+          "longitude": 101.74723,
+          "latitude": 36.64889,
+          "radius": ""
+        },
+        {
+          "name": "翔龙赛鸽俱乐部",
+          "longitude": 101.74895,
+          "latitude": 36.64501,
+          "radius": ""
+        },
+        {
+          "name": "宁寿塔",
+          "longitude": 101.78447,
+          "latitude": 36.64455,
+          "radius": ""
+        },
+        {
+          "name": "魁星楼",
+          "longitude": 101.63237,
+          "latitude": 36.65525,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大通回族土族自治县",
+      "locations": [
+        {
+          "name": "大通县体育场",
+          "longitude": 101.69276,
+          "latitude": 36.92493,
+          "radius": ""
+        },
+        {
+          "name": "老爷山风景区",
+          "longitude": 101.69023,
+          "latitude": 36.93175,
+          "radius": ""
+        },
+        {
+          "name": "大通鹞子沟国家森林公园",
+          "longitude": 101.83083,
+          "latitude": 37.04148,
+          "radius": ""
+        },
+        {
+          "name": "广惠寺",
+          "longitude": 101.81469,
+          "latitude": 37.04518,
+          "radius": ""
+        },
+        {
+          "name": "多隆老院落",
+          "longitude": 101.76784,
+          "latitude": 37.01217,
+          "radius": ""
+        },
+        {
+          "name": "察汗河森林公园",
+          "longitude": 101.52089,
+          "latitude": 37.25929,
+          "radius": ""
+        },
+        {
+          "name": "大通土族民俗博物馆",
+          "longitude": 101.4799,
+          "latitude": 37.04852,
+          "radius": ""
+        },
+        {
+          "name": "西宁市户外拓展康乐山庄训练基地",
+          "longitude": 101.81966,
+          "latitude": 37.03278,
+          "radius": ""
+        },
+        {
+          "name": "大通青少年体育俱乐部",
+          "longitude": 101.69116,
+          "latitude": 36.92581,
+          "radius": ""
+        },
+        {
+          "name": "高峡平湖",
+          "longitude": 101.53891,
+          "latitude": 37.20792,
+          "radius": ""
+        },
+        {
+          "name": "鹞子沟漂流基地",
+          "longitude": 101.82324,
+          "latitude": 37.04203,
+          "radius": ""
+        },
+        {
+          "name": "达板风光",
+          "longitude": 101.41498,
+          "latitude": 37.31761,
+          "radius": ""
+        },
+        {
+          "name": "太极岛",
+          "longitude": 101.50574,
+          "latitude": 37.23419,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湟中县",
+      "locations": [
+        {
+          "name": "塔尔寺景区",
+          "longitude": 101.5696,
+          "latitude": 36.488697,
+          "radius": ""
+        },
+        {
+          "name": "青海多巴国家高原体育训练基地",
+          "longitude": 101.50674,
+          "latitude": 36.6602,
+          "radius": ""
+        },
+        {
+          "name": "湟中县博物馆",
+          "longitude": 101.57002,
+          "latitude": 36.5015,
+          "radius": ""
+        },
+        {
+          "name": "青海省国安艺术博物馆",
+          "longitude": 101.72965,
+          "latitude": 36.56093,
+          "radius": ""
+        },
+        {
+          "name": "城南博物馆",
+          "longitude": 101.70323,
+          "latitude": 36.54918,
+          "radius": ""
+        },
+        {
+          "name": "九天圣都扎麻隆凤凰山",
+          "longitude": 101.44057,
+          "latitude": 36.66465,
+          "radius": ""
+        },
+        {
+          "name": "青海藏文化馆",
+          "longitude": 101.58823,
+          "latitude": 36.49235,
+          "radius": ""
+        },
+        {
+          "name": "海藏咽喉(大黑沟)森林公园",
+          "longitude": 101.37659,
+          "latitude": 36.67565,
+          "radius": ""
+        },
+        {
+          "name": "莲花山景区",
+          "longitude": 101.55872,
+          "latitude": 36.49594,
+          "radius": ""
+        },
+        {
+          "name": "总寨堡玉皇阁",
+          "longitude": 101.68994,
+          "latitude": 36.5381,
+          "radius": ""
+        },
+        {
+          "name": "西纳桑珠林",
+          "longitude": 101.50413,
+          "latitude": 36.72307,
+          "radius": ""
+        },
+        {
+          "name": "水峡森林旅游风景区",
+          "longitude": 101.35855,
+          "latitude": 36.8826,
+          "radius": ""
+        },
+        {
+          "name": "上新庄长城",
+          "longitude": 101.5897,
+          "latitude": 36.43916,
+          "radius": ""
+        },
+        {
+          "name": "黑古城",
+          "longitude": 101.59267,
+          "latitude": 36.43423,
+          "radius": ""
+        },
+        {
+          "name": "南朔山旅游景区",
+          "longitude": 101.44446,
+          "latitude": 36.45669,
+          "radius": ""
+        },
+        {
+          "name": "慕氏酩酼古宅",
+          "longitude": 101.48765,
+          "latitude": 36.78635,
+          "radius": ""
+        },
+        {
+          "name": "湟中县湟河文化博物馆",
+          "longitude": 101.58769,
+          "latitude": 36.49311,
+          "radius": ""
+        },
+        {
+          "name": "药水滩",
+          "longitude": 101.55905,
+          "latitude": 36.393,
+          "radius": ""
+        },
+        {
+          "name": "八宝吉祥",
+          "longitude": 101.58096,
+          "latitude": 36.49172,
+          "radius": ""
+        },
+        {
+          "name": "华厦三祖宫",
+          "longitude": 101.44094,
+          "latitude": 36.66362,
+          "radius": ""
+        },
+        {
+          "name": "九间殿",
+          "longitude": 101.55856,
+          "latitude": 36.49571,
+          "radius": ""
+        },
+        {
+          "name": "莲花宝地",
+          "longitude": 101.55826,
+          "latitude": 36.49595,
+          "radius": ""
+        },
+        {
+          "name": "卡约文化遗址",
+          "longitude": 101.55404,
+          "latitude": 36.76898,
+          "radius": ""
+        },
+        {
+          "name": "卡约遗韵景点",
+          "longitude": 101.58166,
+          "latitude": 36.49182,
+          "radius": ""
+        },
+        {
+          "name": "弘德泽民",
+          "longitude": 101.56293,
+          "latitude": 36.49391,
+          "radius": ""
+        },
+        {
+          "name": "东坪风景区",
+          "longitude": 101.56599,
+          "latitude": 36.49685,
+          "radius": ""
+        },
+        {
+          "name": "天缘宫",
+          "longitude": 101.44064,
+          "latitude": 36.66354,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "湟源县",
+      "locations": [
+        {
+          "name": "湟源县体育场",
+          "longitude": 101.26004,
+          "latitude": 36.68626,
+          "radius": ""
+        },
+        {
+          "name": "湟源县博物馆",
+          "longitude": 101.26618,
+          "latitude": 36.68866,
+          "radius": ""
+        },
+        {
+          "name": "丹噶尔古城",
+          "longitude": 101.27307,
+          "latitude": 36.68711,
+          "radius": ""
+        },
+        {
+          "name": "文庙",
+          "longitude": 101.26925,
+          "latitude": 36.68863,
+          "radius": ""
+        },
+        {
+          "name": "北极山",
+          "longitude": 101.27349,
+          "latitude": 36.69369,
+          "radius": ""
+        },
+        {
+          "name": "宗家沟风景名胜区",
+          "longitude": 101.17057,
+          "latitude": 36.56445,
+          "radius": ""
+        },
+        {
+          "name": "拉尔贯自然风景区",
+          "longitude": 101.31653,
+          "latitude": 36.75642,
+          "radius": ""
+        },
+        {
+          "name": "丹噶尔厅署",
+          "longitude": 101.26738,
+          "latitude": 36.68865,
+          "radius": ""
+        },
+        {
+          "name": "丹噶尔演艺厅(羌笛乐宫)",
+          "longitude": 101.272,
+          "latitude": 36.68862,
+          "radius": ""
+        },
+        {
+          "name": "中国牦牛文化博物馆",
+          "longitude": 101.27615,
+          "latitude": 36.66628,
+          "radius": ""
+        },
+        {
+          "name": "关帝牌坊",
+          "longitude": 101.2676,
+          "latitude": 36.68865,
+          "radius": ""
+        },
+        {
+          "name": "镇海协营",
+          "longitude": 101.27091,
+          "latitude": 36.68865,
+          "radius": ""
+        },
+        {
+          "name": "东峡",
+          "longitude": 101.31103,
+          "latitude": 36.67735,
+          "radius": ""
+        },
+        {
+          "name": "经房湾",
+          "longitude": 101.18991,
+          "latitude": 36.52055,
+          "radius": ""
+        },
+        {
+          "name": "石堡城",
+          "longitude": 101.14857,
+          "latitude": 36.4805,
+          "radius": ""
+        },
+        {
+          "name": "华石山",
+          "longitude": 101.19014,
+          "latitude": 36.52038,
+          "radius": ""
+        },
+        {
+          "name": "丹噶尔曲苑",
+          "longitude": 101.2699,
+          "latitude": 36.68836,
+          "radius": ""
+        },
+        {
+          "name": "大地艺术雕塑",
+          "longitude": 101.11477,
+          "latitude": 36.44866,
+          "radius": ""
+        },
+        {
+          "name": "火神庙",
+          "longitude": 101.27307,
+          "latitude": 36.68806,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

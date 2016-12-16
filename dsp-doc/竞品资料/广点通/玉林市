@@ -1,0 +1,325 @@
+{
+  "cityName": "玉林市",
+  "businessCenters": [
+    {
+      "name": "玉州区",
+      "locations": [
+        {
+          "name": "玉城",
+          "longitude": 110.14959,
+          "latitude": 22.62689,
+          "radius": "1217"
+        },
+        {
+          "name": "名山",
+          "longitude": 110.169334,
+          "latitude": 22.64541,
+          "radius": "1707"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "玉州区",
+      "locations": [
+        {
+          "name": "玉林市体育馆",
+          "longitude": 110.16304,
+          "latitude": 22.62009,
+          "radius": ""
+        },
+        {
+          "name": "玉林体育中心",
+          "longitude": 110.20962,
+          "latitude": 22.65727,
+          "radius": ""
+        },
+        {
+          "name": "云天文化城",
+          "longitude": 110.16572,
+          "latitude": 22.62268,
+          "radius": ""
+        },
+        {
+          "name": "梦幻水乡风景区",
+          "longitude": 109.96001,
+          "latitude": 22.56806,
+          "radius": ""
+        },
+        {
+          "name": "生态本草园",
+          "longitude": 110.06369,
+          "latitude": 22.65944,
+          "radius": ""
+        },
+        {
+          "name": "粤东会馆",
+          "longitude": 110.14915,
+          "latitude": 22.62489,
+          "radius": ""
+        },
+        {
+          "name": "祖园",
+          "longitude": 110.15092,
+          "latitude": 22.63752,
+          "radius": ""
+        },
+        {
+          "name": "玉林市城市博物馆",
+          "longitude": 110.15089,
+          "latitude": 22.62754,
+          "radius": ""
+        },
+        {
+          "name": "铁路水电游泳池",
+          "longitude": 110.15989,
+          "latitude": 22.60078,
+          "radius": ""
+        },
+        {
+          "name": "玉林市游泳池",
+          "longitude": 110.16211,
+          "latitude": 22.6349,
+          "radius": ""
+        },
+        {
+          "name": "全胜跆拳道",
+          "longitude": 110.1661,
+          "latitude": 22.62875,
+          "radius": ""
+        },
+        {
+          "name": "育才武术散打俱乐部",
+          "longitude": 110.15961,
+          "latitude": 22.63789,
+          "radius": ""
+        },
+        {
+          "name": "陈式太极拳馆",
+          "longitude": 110.16132,
+          "latitude": 22.63551,
+          "radius": ""
+        },
+        {
+          "name": "广西机场管理集团玉林城市候机楼",
+          "longitude": 110.17503,
+          "latitude": 22.63962,
+          "radius": ""
+        },
+        {
+          "name": "群兰书店旧址",
+          "longitude": 110.15198,
+          "latitude": 22.62678,
+          "radius": ""
+        },
+        {
+          "name": "名山",
+          "longitude": 110.16324,
+          "latitude": 22.65168,
+          "radius": ""
+        },
+        {
+          "name": "玉林市体育场",
+          "longitude": 110.14759,
+          "latitude": 22.63643,
+          "radius": ""
+        },
+        {
+          "name": "陈瑞泉祠",
+          "longitude": 110.16013,
+          "latitude": 22.62593,
+          "radius": ""
+        },
+        {
+          "name": "奇门斋",
+          "longitude": 110.14053,
+          "latitude": 22.6252,
+          "radius": ""
+        },
+        {
+          "name": "英豪散打俱乐部",
+          "longitude": 110.17729,
+          "latitude": 22.60831,
+          "radius": ""
+        },
+        {
+          "name": "抗日纪念塔风景区",
+          "longitude": 110.21192,
+          "latitude": 22.68896,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "容县",
+      "locations": [
+        {
+          "name": "容县三名景区",
+          "longitude": 110.60577,
+          "latitude": 22.791529,
+          "radius": ""
+        },
+        {
+          "name": "都峤山森林公园",
+          "longitude": 110.64758,
+          "latitude": 22.82098,
+          "radius": ""
+        },
+        {
+          "name": "真武阁景区",
+          "longitude": 110.56054,
+          "latitude": 22.85552,
+          "radius": ""
+        },
+        {
+          "name": "容县博物馆",
+          "longitude": 110.56056,
+          "latitude": 22.85694,
+          "radius": ""
+        },
+        {
+          "name": "新大陆5D动感体验馆",
+          "longitude": 110.55518,
+          "latitude": 22.86066,
+          "radius": ""
+        },
+        {
+          "name": "温泉康体会所",
+          "longitude": 110.72651,
+          "latitude": 22.56296,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "陆川县",
+      "locations": [
+        {
+          "name": "谢鲁山庄",
+          "longitude": 110.18477,
+          "latitude": 22.15174,
+          "radius": ""
+        },
+        {
+          "name": "陆川县综合健身馆",
+          "longitude": 110.27217,
+          "latitude": 22.32365,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "博白县",
+      "locations": [
+        {
+          "name": "太平坡水楼",
+          "longitude": 109.98986,
+          "latitude": 22.24399,
+          "radius": ""
+        },
+        {
+          "name": "博白县体育馆",
+          "longitude": 109.98008,
+          "latitude": 22.2739,
+          "radius": ""
+        },
+        {
+          "name": "博白县宴石山风景区",
+          "longitude": 109.81186,
+          "latitude": 22.11653,
+          "radius": ""
+        },
+        {
+          "name": "八将岭风景区",
+          "longitude": 109.97483,
+          "latitude": 21.88291,
+          "radius": ""
+        },
+        {
+          "name": "博白县博物馆",
+          "longitude": 109.98549,
+          "latitude": 22.27832,
+          "radius": ""
+        },
+        {
+          "name": "博白县欢乐水都",
+          "longitude": 109.98965,
+          "latitude": 22.2916,
+          "radius": ""
+        },
+        {
+          "name": "博白九龙生态园游泳馆",
+          "longitude": 110.00248,
+          "latitude": 22.30447,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "兴业县",
+      "locations": [
+        {
+          "name": "鹿峰山风景区",
+          "longitude": 109.758224,
+          "latitude": 22.608294,
+          "radius": ""
+        },
+        {
+          "name": "兴业体育馆",
+          "longitude": 109.87264,
+          "latitude": 22.74154,
+          "radius": ""
+        },
+        {
+          "name": "兴业训练馆",
+          "longitude": 109.87647,
+          "latitude": 22.73664,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "北流市",
+      "locations": [
+        {
+          "name": "北流市体育场",
+          "longitude": 110.34897,
+          "latitude": 22.70592,
+          "radius": ""
+        },
+        {
+          "name": "白云岩仙人洞风景区",
+          "longitude": 110.38279,
+          "latitude": 22.79034,
+          "radius": ""
+        },
+        {
+          "name": "景苏楼",
+          "longitude": 110.35595,
+          "latitude": 22.70813,
+          "radius": ""
+        },
+        {
+          "name": "北流县博物馆",
+          "longitude": 110.35493,
+          "latitude": 22.71164,
+          "radius": ""
+        },
+        {
+          "name": "大成殿",
+          "longitude": 110.35495,
+          "latitude": 22.70967,
+          "radius": ""
+        },
+        {
+          "name": "六祖阁",
+          "longitude": 110.36681,
+          "latitude": 22.72328,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

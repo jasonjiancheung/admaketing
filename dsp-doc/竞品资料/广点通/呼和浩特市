@@ -1,0 +1,930 @@
+{
+  "cityName": "呼和浩特市",
+  "businessCenters": [
+    {
+      "name": "新城区",
+      "locations": [
+        {
+          "name": "海东路",
+          "longitude": 111.69616,
+          "latitude": 40.841125,
+          "radius": "2892"
+        },
+        {
+          "name": "中山东路",
+          "longitude": 111.6748,
+          "latitude": 40.819782,
+          "radius": "502"
+        },
+        {
+          "name": "光华街",
+          "longitude": 111.702644,
+          "latitude": 40.832985,
+          "radius": "585"
+        },
+        {
+          "name": "迎新路",
+          "longitude": 111.72701,
+          "latitude": 40.83795,
+          "radius": "509"
+        },
+        {
+          "name": "哲里木路",
+          "longitude": 111.680405,
+          "latitude": 40.846485,
+          "radius": "2013"
+        },
+        {
+          "name": "润宇",
+          "longitude": 111.69664,
+          "latitude": 40.839638,
+          "radius": "353"
+        },
+        {
+          "name": "东风路",
+          "longitude": 111.708466,
+          "latitude": 40.83408,
+          "radius": "969"
+        },
+        {
+          "name": "鼓楼",
+          "longitude": 111.68941,
+          "latitude": 40.824425,
+          "radius": "801"
+        },
+        {
+          "name": "火车站",
+          "longitude": 111.665375,
+          "latitude": 40.82982,
+          "radius": "545"
+        }
+      ]
+    },
+    {
+      "name": "回民区",
+      "locations": [
+        {
+          "name": "中山西路",
+          "longitude": 111.66313,
+          "latitude": 40.81247,
+          "radius": "710"
+        },
+        {
+          "name": "西龙王庙",
+          "longitude": 111.63501,
+          "latitude": 40.807503,
+          "radius": "392"
+        },
+        {
+          "name": "县府街",
+          "longitude": 111.641136,
+          "latitude": 40.802654,
+          "radius": "745"
+        },
+        {
+          "name": "海拉尔西路",
+          "longitude": 111.64456,
+          "latitude": 40.836033,
+          "radius": "702"
+        },
+        {
+          "name": "钢铁路",
+          "longitude": 111.626305,
+          "latitude": 40.811226,
+          "radius": "632"
+        },
+        {
+          "name": "通道街",
+          "longitude": 111.65598,
+          "latitude": 40.814102,
+          "radius": "381"
+        },
+        {
+          "name": "攸攸板",
+          "longitude": 111.60823,
+          "latitude": 40.82631,
+          "radius": "888"
+        }
+      ]
+    },
+    {
+      "name": "玉泉区",
+      "locations": [
+        {
+          "name": "兴隆巷",
+          "longitude": 111.659386,
+          "latitude": 40.796684,
+          "radius": "214"
+        },
+        {
+          "name": "南茶坊",
+          "longitude": 111.66143,
+          "latitude": 40.788963,
+          "radius": "714"
+        },
+        {
+          "name": "大南街",
+          "longitude": 111.65606,
+          "latitude": 40.799572,
+          "radius": "769"
+        },
+        {
+          "name": "大召",
+          "longitude": 111.65089,
+          "latitude": 40.80053,
+          "radius": "805"
+        }
+      ]
+    },
+    {
+      "name": "赛罕区",
+      "locations": [
+        {
+          "name": "丰州路",
+          "longitude": 111.73462,
+          "latitude": 40.819595,
+          "radius": "929"
+        },
+        {
+          "name": "大学东街",
+          "longitude": 111.72014,
+          "latitude": 40.81692,
+          "radius": "1847"
+        },
+        {
+          "name": "桥华世纪",
+          "longitude": 111.71885,
+          "latitude": 40.814934,
+          "radius": "587"
+        },
+        {
+          "name": "乌兰察布东路",
+          "longitude": 111.7148,
+          "latitude": 40.825424,
+          "radius": "1017"
+        },
+        {
+          "name": "展览馆",
+          "longitude": 111.71891,
+          "latitude": 40.83118,
+          "radius": "385"
+        },
+        {
+          "name": "人民路",
+          "longitude": 111.6808,
+          "latitude": 40.809097,
+          "radius": "988"
+        },
+        {
+          "name": "长乐宫",
+          "longitude": 111.708824,
+          "latitude": 40.829277,
+          "radius": "445"
+        },
+        {
+          "name": "大学西路",
+          "longitude": 111.6871,
+          "latitude": 40.807686,
+          "radius": "1017"
+        }
+      ]
+    },
+    {
+      "name": "托克托县",
+      "locations": [
+        {
+          "name": "光明路",
+          "longitude": 111.19714,
+          "latitude": 40.279957,
+          "radius": "488"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "新城区",
+      "locations": [
+        {
+          "name": "呼和浩特体育场",
+          "longitude": 111.65739,
+          "latitude": 40.8526,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古自治区将军衙署博物院",
+          "longitude": 111.68713,
+          "latitude": 40.82598,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古博物院",
+          "longitude": 111.73865,
+          "latitude": 40.84,
+          "radius": ""
+        },
+        {
+          "name": "体育馆",
+          "longitude": 111.67141,
+          "latitude": 40.82937,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古体育馆",
+          "longitude": 111.66156,
+          "latitude": 40.85442,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古博物馆",
+          "longitude": 111.67654,
+          "latitude": 40.82264,
+          "radius": ""
+        },
+        {
+          "name": "清·固伦恪靖公主府",
+          "longitude": 111.65449,
+          "latitude": 40.83818,
+          "radius": ""
+        },
+        {
+          "name": "千手千眼观音院",
+          "longitude": 111.66068,
+          "latitude": 40.84721,
+          "radius": ""
+        },
+        {
+          "name": "情人谷",
+          "longitude": 111.80798,
+          "latitude": 41.0329,
+          "radius": ""
+        },
+        {
+          "name": "清代绥远城阜安门遗址",
+          "longitude": 111.67818,
+          "latitude": 40.82341,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古民族剧院",
+          "longitude": 111.73595,
+          "latitude": 40.84209,
+          "radius": ""
+        },
+        {
+          "name": "同乐游戏厅",
+          "longitude": 111.72443,
+          "latitude": 40.83577,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古地质矿产陈列馆",
+          "longitude": 111.67941,
+          "latitude": 40.8173,
+          "radius": ""
+        },
+        {
+          "name": "清代绥远城西城墙遗址",
+          "longitude": 111.67817,
+          "latitude": 40.82396,
+          "radius": ""
+        },
+        {
+          "name": "龙榻瀑布",
+          "longitude": 111.88205,
+          "latitude": 41.00724,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "回民区",
+      "locations": [
+        {
+          "name": "呼和浩特市人民体育场",
+          "longitude": 111.67072,
+          "latitude": 40.80965,
+          "radius": ""
+        },
+        {
+          "name": "呼和浩特体育馆",
+          "longitude": 111.66974,
+          "latitude": 40.81093,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古自治区体育馆",
+          "longitude": 111.65992,
+          "latitude": 40.819,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古青少年生态园",
+          "longitude": 111.62932,
+          "latitude": 40.88063,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古田径柔道武术运动管理中心武术散打训练馆",
+          "longitude": 111.6617,
+          "latitude": 40.81875,
+          "radius": ""
+        },
+        {
+          "name": "呼和浩特民族剧场",
+          "longitude": 111.67052,
+          "latitude": 40.80812,
+          "radius": ""
+        },
+        {
+          "name": "乌素图生态游泳场",
+          "longitude": 111.59298,
+          "latitude": 40.84336,
+          "radius": ""
+        },
+        {
+          "name": "树源港游泳池",
+          "longitude": 111.64393,
+          "latitude": 40.81573,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古民族歌舞剧院",
+          "longitude": 111.65461,
+          "latitude": 40.82194,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古银行乒乓球俱乐部",
+          "longitude": 111.6607,
+          "latitude": 40.81876,
+          "radius": ""
+        },
+        {
+          "name": "园外园",
+          "longitude": 111.57608,
+          "latitude": 40.90177,
+          "radius": ""
+        },
+        {
+          "name": "伊斯兰建筑特色景观街",
+          "longitude": 111.6547,
+          "latitude": 40.80905,
+          "radius": ""
+        },
+        {
+          "name": "呼和浩特市老牛儿童博物馆",
+          "longitude": 111.67397,
+          "latitude": 40.80888,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "玉泉区",
+      "locations": [
+        {
+          "name": "昭君博物院",
+          "longitude": 111.68447,
+          "latitude": 40.7062,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古蒙博博物馆",
+          "longitude": 111.65244,
+          "latitude": 40.79952,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古盛元博物馆",
+          "longitude": 111.65167,
+          "latitude": 40.8005,
+          "radius": ""
+        },
+        {
+          "name": "隆寿寺",
+          "longitude": 111.64743,
+          "latitude": 40.80251,
+          "radius": ""
+        },
+        {
+          "name": "财神庙",
+          "longitude": 111.65536,
+          "latitude": 40.79794,
+          "radius": ""
+        },
+        {
+          "name": "苏勒德吉格",
+          "longitude": 111.66947,
+          "latitude": 40.71893,
+          "radius": ""
+        },
+        {
+          "name": "腾格里敖包",
+          "longitude": 111.66556,
+          "latitude": 40.71375,
+          "radius": ""
+        },
+        {
+          "name": "蒙古大汗营",
+          "longitude": 111.67283,
+          "latitude": 40.71906,
+          "radius": ""
+        },
+        {
+          "name": "草原神舟航天台",
+          "longitude": 111.67433,
+          "latitude": 40.715,
+          "radius": ""
+        },
+        {
+          "name": "蒙古部落",
+          "longitude": 111.67248,
+          "latitude": 40.71901,
+          "radius": ""
+        },
+        {
+          "name": "古典艺术博物馆",
+          "longitude": 111.65736,
+          "latitude": 40.8034,
+          "radius": ""
+        },
+        {
+          "name": "密密板剧场",
+          "longitude": 111.71641,
+          "latitude": 40.65066,
+          "radius": ""
+        },
+        {
+          "name": "大召文化产业群落区块国家文化产业示范基地",
+          "longitude": 111.65968,
+          "latitude": 40.80365,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古元代瓷器博物馆",
+          "longitude": 111.65359,
+          "latitude": 40.79821,
+          "radius": ""
+        },
+        {
+          "name": "绥梦抗日救国会旧址",
+          "longitude": 111.65528,
+          "latitude": 40.79803,
+          "radius": ""
+        },
+        {
+          "name": "灵泉湾玉",
+          "longitude": 111.65536,
+          "latitude": 40.79914,
+          "radius": ""
+        },
+        {
+          "name": "阿拉坦汗(铜像)",
+          "longitude": 111.6545,
+          "latitude": 40.79899,
+          "radius": ""
+        },
+        {
+          "name": "小召寺",
+          "longitude": 111.66285,
+          "latitude": 40.7157,
+          "radius": ""
+        },
+        {
+          "name": "神通俱乐部",
+          "longitude": 111.6692,
+          "latitude": 40.79443,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "赛罕区",
+      "locations": [
+        {
+          "name": "呼和浩特白塔国际机场",
+          "longitude": 111.82155,
+          "latitude": 40.855568,
+          "radius": ""
+        },
+        {
+          "name": "呼和浩特体育活动中心",
+          "longitude": 111.72242,
+          "latitude": 40.83088,
+          "radius": ""
+        },
+        {
+          "name": "万部华严经塔",
+          "longitude": 111.8876,
+          "latitude": 40.8386,
+          "radius": ""
+        },
+        {
+          "name": "水上公园",
+          "longitude": 111.76464,
+          "latitude": 40.83371,
+          "radius": ""
+        },
+        {
+          "name": "内蒙古羊绒博物馆",
+          "longitude": 111.83768,
+          "latitude": 40.88705,
+          "radius": ""
+        },
+        {
+          "name": "斯琴塔娜艺术博物馆",
+          "longitude": 111.77569,
+          "latitude": 40.81406,
+          "radius": ""
+        },
+        {
+          "name": "东北二人转",
+          "longitude": 111.69448,
+          "latitude": 40.8144,
+          "radius": ""
+        },
+        {
+          "name": "射雕英雄射击俱乐部",
+          "longitude": 111.9513,
+          "latitude": 40.76705,
+          "radius": ""
+        },
+        {
+          "name": "东喇嘛营村剧场",
+          "longitude": 111.75665,
+          "latitude": 40.76889,
+          "radius": ""
+        },
+        {
+          "name": "东北二人转大舞台",
+          "longitude": 111.69446,
+          "latitude": 40.81438,
+          "radius": ""
+        },
+        {
+          "name": "射雕英雄飞碟射击",
+          "longitude": 111.95054,
+          "latitude": 40.76729,
+          "radius": ""
+        },
+        {
+          "name": "白塔",
+          "longitude": 111.88585,
+          "latitude": 40.83849,
+          "radius": ""
+        },
+        {
+          "name": "呼和浩特市赛罕区小黑河景观带",
+          "longitude": 111.71758,
+          "latitude": 40.7774,
+          "radius": ""
+        },
+        {
+          "name": "乐享小镇",
+          "longitude": 111.71055,
+          "latitude": 40.83099,
+          "radius": ""
+        },
+        {
+          "name": "保全庄综合运动场",
+          "longitude": 111.73838,
+          "latitude": 40.787224,
+          "radius": ""
+        },
+        {
+          "name": "罗家营剧场",
+          "longitude": 111.85592,
+          "latitude": 40.88329,
+          "radius": ""
+        },
+        {
+          "name": "东把栅剧场",
+          "longitude": 111.82302,
+          "latitude": 40.80563,
+          "radius": ""
+        },
+        {
+          "name": "室内足球场",
+          "longitude": 111.72044,
+          "latitude": 40.76578,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "土默特左旗",
+      "locations": [
+        {
+          "name": "白石头沟生态旅游区",
+          "longitude": 111.45516,
+          "latitude": 40.76745,
+          "radius": ""
+        },
+        {
+          "name": "贾力更烈士故居",
+          "longitude": 111.09444,
+          "latitude": 40.72904,
+          "radius": ""
+        },
+        {
+          "name": "土默特左旗体育馆",
+          "longitude": 111.15879,
+          "latitude": 40.73159,
+          "radius": ""
+        },
+        {
+          "name": "土默特博物馆",
+          "longitude": 111.16258,
+          "latitude": 40.72746,
+          "radius": ""
+        },
+        {
+          "name": "土默特奥林匹克体育场",
+          "longitude": 111.16194,
+          "latitude": 40.73209,
+          "radius": ""
+        },
+        {
+          "name": "乳都科技示范园",
+          "longitude": 111.57081,
+          "latitude": 40.79771,
+          "radius": ""
+        },
+        {
+          "name": "明清建筑博览园",
+          "longitude": 111.53971,
+          "latitude": 40.7703,
+          "radius": ""
+        },
+        {
+          "name": "庆丰剧场",
+          "longitude": 111.20421,
+          "latitude": 40.72974,
+          "radius": ""
+        },
+        {
+          "name": "喇嘛洞",
+          "longitude": 111.29819,
+          "latitude": 40.79394,
+          "radius": ""
+        },
+        {
+          "name": "人民剧场",
+          "longitude": 111.07707,
+          "latitude": 40.4862,
+          "radius": ""
+        },
+        {
+          "name": "大众剧场",
+          "longitude": 0.0,
+          "latitude": 0.0,
+          "radius": ""
+        },
+        {
+          "name": "祥和剧场",
+          "longitude": 111.10207,
+          "latitude": 40.61362,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "托克托县",
+      "locations": [
+        {
+          "name": "神泉生态旅游景区",
+          "longitude": 111.21851,
+          "latitude": 40.18628,
+          "radius": ""
+        },
+        {
+          "name": "明泉文化广场",
+          "longitude": 111.45264,
+          "latitude": 40.22132,
+          "radius": ""
+        },
+        {
+          "name": "武泉县故城遗址",
+          "longitude": 111.45333,
+          "latitude": 40.22028,
+          "radius": ""
+        },
+        {
+          "name": "托克托博物馆",
+          "longitude": 111.20424,
+          "latitude": 40.27739,
+          "radius": ""
+        },
+        {
+          "name": "星牌台友",
+          "longitude": 111.20421,
+          "latitude": 40.27409,
+          "radius": ""
+        },
+        {
+          "name": "人民剧场(乃只盖)",
+          "longitude": 111.19995,
+          "latitude": 40.46715,
+          "radius": ""
+        },
+        {
+          "name": "元和剧院",
+          "longitude": 111.2731,
+          "latitude": 40.25876,
+          "radius": ""
+        },
+        {
+          "name": "百姓剧场",
+          "longitude": 111.24751,
+          "latitude": 40.26399,
+          "radius": ""
+        },
+        {
+          "name": "五申剧场",
+          "longitude": 111.14943,
+          "latitude": 40.40439,
+          "radius": ""
+        },
+        {
+          "name": "后壕剧场",
+          "longitude": 111.21778,
+          "latitude": 40.2677,
+          "radius": ""
+        },
+        {
+          "name": "托克托人民体育场",
+          "longitude": 111.25761,
+          "latitude": 40.26564,
+          "radius": ""
+        },
+        {
+          "name": "坝上剧场",
+          "longitude": 111.42673,
+          "latitude": 40.22264,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "和林格尔县",
+      "locations": [
+        {
+          "name": "蒙牛工业旅游景区",
+          "longitude": 111.79827,
+          "latitude": 40.47806,
+          "radius": ""
+        },
+        {
+          "name": "盛乐博物馆",
+          "longitude": 111.78374,
+          "latitude": 40.46773,
+          "radius": ""
+        },
+        {
+          "name": "盛乐百亭园",
+          "longitude": 111.83029,
+          "latitude": 40.37041,
+          "radius": ""
+        },
+        {
+          "name": "和林格尔县体育活动中心",
+          "longitude": 111.83318,
+          "latitude": 40.40108,
+          "radius": ""
+        },
+        {
+          "name": "白二爷沙坝",
+          "longitude": 111.81659,
+          "latitude": 40.15964,
+          "radius": ""
+        },
+        {
+          "name": "唐代单于大都护府遗址",
+          "longitude": 111.79925,
+          "latitude": 40.4389,
+          "radius": ""
+        },
+        {
+          "name": "大红城人民剧场",
+          "longitude": 111.76245,
+          "latitude": 40.17884,
+          "radius": ""
+        },
+        {
+          "name": "人民剧场",
+          "longitude": 112.09146,
+          "latitude": 40.43152,
+          "radius": ""
+        },
+        {
+          "name": "和林格尔地震纪念碑",
+          "longitude": 111.81779,
+          "latitude": 40.38287,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "清水河县",
+      "locations": [
+        {
+          "name": "内蒙古清水河老牛湾国家地质公园",
+          "longitude": 111.44421,
+          "latitude": 39.64269,
+          "radius": ""
+        },
+        {
+          "name": "圣泉",
+          "longitude": 111.66116,
+          "latitude": 39.92148,
+          "radius": ""
+        },
+        {
+          "name": "宏河镇剧场",
+          "longitude": 111.62635,
+          "latitude": 40.06894,
+          "radius": ""
+        },
+        {
+          "name": "窑沟乡人民剧场",
+          "longitude": 111.41813,
+          "latitude": 39.81847,
+          "radius": ""
+        },
+        {
+          "name": "老牛湾景区",
+          "longitude": 111.44421,
+          "latitude": 39.64269,
+          "radius": ""
+        },
+        {
+          "name": "地象大法",
+          "longitude": 111.76943,
+          "latitude": 39.6643,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "武川县",
+      "locations": [
+        {
+          "name": "哈达门国家森林公园",
+          "longitude": 111.58128,
+          "latitude": 41.00915,
+          "radius": ""
+        },
+        {
+          "name": "大青山抗日游击根据地展馆",
+          "longitude": 111.22155,
+          "latitude": 40.99762,
+          "radius": ""
+        },
+        {
+          "name": "中国燕麦博物馆",
+          "longitude": 111.44518,
+          "latitude": 41.1193,
+          "radius": ""
+        },
+        {
+          "name": "青山影视演艺广场",
+          "longitude": 111.45976,
+          "latitude": 41.09412,
+          "radius": ""
+        },
+        {
+          "name": "豪门俱乐部",
+          "longitude": 111.44545,
+          "latitude": 41.12072,
+          "radius": ""
+        },
+        {
+          "name": "武川体育场",
+          "longitude": 111.45744,
+          "latitude": 41.09633,
+          "radius": ""
+        },
+        {
+          "name": "武川县综合健身馆",
+          "longitude": 111.46184,
+          "latitude": 41.09784,
+          "radius": ""
+        },
+        {
+          "name": "哈达门高原牧场",
+          "longitude": 111.58091,
+          "latitude": 41.00932,
+          "radius": ""
+        },
+        {
+          "name": "了目山庄",
+          "longitude": 111.69803,
+          "latitude": 41.00326,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

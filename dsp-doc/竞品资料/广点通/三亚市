@@ -1,0 +1,324 @@
+{
+  "cityName": "三亚市",
+  "businessCenters": [
+    {
+      "name": "市辖区",
+      "locations": [
+        {
+          "name": "春光路",
+          "longitude": 109.51562,
+          "latitude": 18.262302,
+          "radius": "357"
+        },
+        {
+          "name": "迎宾路",
+          "longitude": 109.509674,
+          "latitude": 18.27334,
+          "radius": "1602"
+        },
+        {
+          "name": "港门村",
+          "longitude": 109.51502,
+          "latitude": 18.2422,
+          "radius": "402"
+        },
+        {
+          "name": "建港路",
+          "longitude": 109.505455,
+          "latitude": 18.234613,
+          "radius": "0"
+        },
+        {
+          "name": "河东",
+          "longitude": 109.512245,
+          "latitude": 18.249891,
+          "radius": "1372"
+        },
+        {
+          "name": "解放路",
+          "longitude": 109.49928,
+          "latitude": 18.258858,
+          "radius": "0"
+        },
+        {
+          "name": "金鸡岭",
+          "longitude": 109.49573,
+          "latitude": 18.276398,
+          "radius": "2106"
+        },
+        {
+          "name": "祥瑞路",
+          "longitude": 109.51435,
+          "latitude": 18.249674,
+          "radius": "368"
+        },
+        {
+          "name": "河西",
+          "longitude": 109.506935,
+          "latitude": 18.247845,
+          "radius": "1170"
+        },
+        {
+          "name": "荔枝沟",
+          "longitude": 109.5203,
+          "latitude": 18.294147,
+          "radius": "866"
+        },
+        {
+          "name": "临春河路",
+          "longitude": 109.51658,
+          "latitude": 18.243528,
+          "radius": "654"
+        },
+        {
+          "name": "光明街",
+          "longitude": 109.503685,
+          "latitude": 18.24623,
+          "radius": "0"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "市辖区",
+      "locations": [
+        {
+          "name": "美丽之冠",
+          "longitude": 109.51942,
+          "latitude": 18.25513,
+          "radius": ""
+        },
+        {
+          "name": "南山大小洞天风景区",
+          "longitude": 109.16302,
+          "latitude": 18.299007,
+          "radius": ""
+        },
+        {
+          "name": "三亚蜈支洲岛旅游区",
+          "longitude": 109.76638,
+          "latitude": 18.309925,
+          "radius": ""
+        },
+        {
+          "name": "扬帆游艇俱乐部",
+          "longitude": 109.50564,
+          "latitude": 18.23039,
+          "radius": ""
+        },
+        {
+          "name": "大东海旅游区",
+          "longitude": 109.52535,
+          "latitude": 18.22209,
+          "radius": ""
+        },
+        {
+          "name": "交通运输部南海第一救助飞行队三亚基地",
+          "longitude": 109.42522,
+          "latitude": 18.29924,
+          "radius": ""
+        },
+        {
+          "name": "三亚直升机场",
+          "longitude": 109.42503,
+          "latitude": 18.29922,
+          "radius": ""
+        },
+        {
+          "name": "三亚湾",
+          "longitude": 109.41852,
+          "latitude": 18.28982,
+          "radius": ""
+        },
+        {
+          "name": "三亚宋城旅游区",
+          "longitude": 109.5309,
+          "latitude": 18.29396,
+          "radius": ""
+        },
+        {
+          "name": "崖州古城文明门",
+          "longitude": 109.16613,
+          "latitude": 18.37022,
+          "radius": ""
+        },
+        {
+          "name": "三亚国际奥林匹克射击娱乐中心",
+          "longitude": 109.55609,
+          "latitude": 18.24004,
+          "radius": ""
+        },
+        {
+          "name": "崖州古越",
+          "longitude": 109.62371,
+          "latitude": 18.32207,
+          "radius": ""
+        },
+        {
+          "name": "神州第一泉",
+          "longitude": 109.72597,
+          "latitude": 18.38916,
+          "radius": ""
+        },
+        {
+          "name": "三亚凤凰花海",
+          "longitude": 109.69227,
+          "latitude": 18.3185,
+          "radius": ""
+        },
+        {
+          "name": "崖城学宫",
+          "longitude": 109.1662,
+          "latitude": 18.37121,
+          "radius": ""
+        },
+        {
+          "name": "甘什岭森林公园",
+          "longitude": 109.67635,
+          "latitude": 18.37778,
+          "radius": ""
+        },
+        {
+          "name": "南田温泉热带风情旅游城",
+          "longitude": 109.7039,
+          "latitude": 18.39256,
+          "radius": ""
+        },
+        {
+          "name": "三亚沉香博物馆",
+          "longitude": 109.50171,
+          "latitude": 18.24566,
+          "radius": ""
+        },
+        {
+          "name": "三亚市老干部活动中心门球馆地掷球馆",
+          "longitude": 109.51689,
+          "latitude": 18.25374,
+          "radius": ""
+        },
+        {
+          "name": "鑫启点跆拳道健身中心",
+          "longitude": 109.45528,
+          "latitude": 18.29419,
+          "radius": ""
+        },
+        {
+          "name": "三亚市业余体校青少年体育俱乐部",
+          "longitude": 109.50598,
+          "latitude": 18.23523,
+          "radius": ""
+        },
+        {
+          "name": "骏达车技表演馆",
+          "longitude": 109.43106,
+          "latitude": 18.29911,
+          "radius": ""
+        },
+        {
+          "name": "南新工人俱乐部",
+          "longitude": 109.525,
+          "latitude": 18.29756,
+          "radius": ""
+        },
+        {
+          "name": "南田黎苗风情村",
+          "longitude": 109.72597,
+          "latitude": 18.38916,
+          "radius": ""
+        },
+        {
+          "name": "神象沐海",
+          "longitude": 109.34785,
+          "latitude": 18.29118,
+          "radius": ""
+        },
+        {
+          "name": "沈鹏题诗",
+          "longitude": 109.34614,
+          "latitude": 18.29625,
+          "radius": ""
+        },
+        {
+          "name": "日月石",
+          "longitude": 109.34903,
+          "latitude": 18.2905,
+          "radius": ""
+        },
+        {
+          "name": "三亚海昌梦幻不夜城",
+          "longitude": 109.72876,
+          "latitude": 18.31381,
+          "radius": ""
+        },
+        {
+          "name": "中御水晶",
+          "longitude": 109.4993,
+          "latitude": 18.29206,
+          "radius": ""
+        },
+        {
+          "name": "情侣树",
+          "longitude": 109.34754,
+          "latitude": 18.29255,
+          "radius": ""
+        },
+        {
+          "name": "华光祖师老庙",
+          "longitude": 109.56549,
+          "latitude": 18.23945,
+          "radius": ""
+        },
+        {
+          "name": "好莱坞车技演艺馆",
+          "longitude": 109.43114,
+          "latitude": 18.29914,
+          "radius": ""
+        },
+        {
+          "name": "神泉谷",
+          "longitude": 109.73437,
+          "latitude": 18.40948,
+          "radius": ""
+        },
+        {
+          "name": "海坡旅游度假区",
+          "longitude": 109.43715,
+          "latitude": 18.28786,
+          "radius": ""
+        },
+        {
+          "name": "月牙湾",
+          "longitude": 109.72485,
+          "latitude": 18.21458,
+          "radius": ""
+        },
+        {
+          "name": "海上军事博物馆",
+          "longitude": 109.50962,
+          "latitude": 18.23664,
+          "radius": ""
+        },
+        {
+          "name": "海南省海洋文化旅游景区",
+          "longitude": 109.61427,
+          "latitude": 18.30944,
+          "radius": ""
+        },
+        {
+          "name": "海南黄花梨博物馆",
+          "longitude": 109.49728,
+          "latitude": 18.26178,
+          "radius": ""
+        },
+        {
+          "name": "珊瑚保护区",
+          "longitude": 109.52969,
+          "latitude": 18.21666,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

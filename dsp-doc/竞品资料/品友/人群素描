@@ -1,0 +1,151 @@
+[
+  {
+    "name": "品质人群",
+    "nameEn": "Quality crowd",
+    "children": [
+      {
+        "name": "白富美",
+        "nameEn": "Phu Bai",
+        "children": []
+      },
+      {
+        "name": "财智精英",
+        "nameEn": "Choi Chi elite",
+        "children": []
+      },
+      {
+        "name": "高富帅",
+        "nameEn": "Rich handsome",
+        "children": []
+      },
+      {
+        "name": "金领族",
+        "nameEn": "Jinling family",
+        "children": []
+      },
+      {
+        "name": "商旅人士",
+        "nameEn": "Business travelers",
+        "children": []
+      },
+      {
+        "name": "中小企业主",
+        "nameEn": "Small business owners",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "大众人群",
+    "nameEn": "General population",
+    "children": [
+      {
+        "name": "工薪族",
+        "nameEn": "Earners",
+        "children": []
+      },
+      {
+        "name": "妈咪族",
+        "nameEn": "Mummy Family",
+        "children": []
+      },
+      {
+        "name": "商务白领",
+        "nameEn": "White-collar business",
+        "children": []
+      },
+      {
+        "name": "学生党",
+        "nameEn": "Student Party",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "潮流先锋",
+    "nameEn": "Trendsetters",
+    "children": [
+      {
+        "name": "IT潮人",
+        "nameEn": "IT influx of people",
+        "children": []
+      },
+      {
+        "name": "保健养生族",
+        "nameEn": "Family health care",
+        "children": []
+      },
+      {
+        "name": "驴友",
+        "nameEn": "ALICE",
+        "children": []
+      },
+      {
+        "name": "汽车发烧友",
+        "nameEn": "Car enthusiasts",
+        "children": []
+      },
+      {
+        "name": "网购达人",
+        "nameEn": "Online shopping Daren",
+        "children": []
+      },
+      {
+        "name": "游戏人群",
+        "nameEn": "Game crowd",
+        "children": []
+      },
+      {
+        "name": "运动健身一族",
+        "nameEn": "Sports and fitness family",
+        "children": []
+      },
+      {
+        "name": "主妇、煮夫",
+        "nameEn": "Housewife, cook husband",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "直接消费人群",
+    "nameEn": "Direct consumer groups",
+    "children": [
+      {
+        "name": "家居家装",
+        "nameEn": "Home Decoration",
+        "children": []
+      },
+      {
+        "name": "酒类消费",
+        "nameEn": "Alcohol Consumption",
+        "children": []
+      },
+      {
+        "name": "美容瘦身族",
+        "nameEn": "Beauty and fitness race",
+        "children": []
+      },
+      {
+        "name": "生活家电",
+        "nameEn": "Home appliances",
+        "children": []
+      },
+      {
+        "name": "时尚男装",
+        "nameEn": "Men\u0027s Fashion",
+        "children": []
+      },
+      {
+        "name": "时尚女装",
+        "nameEn": "Fashion Women",
+        "children": []
+      },
+      {
+        "name": "数码控",
+        "nameEn": "Digital control",
+        "children": []
+      }
+    ]
+  }
+]

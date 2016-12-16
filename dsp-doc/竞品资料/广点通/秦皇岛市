@@ -1,0 +1,996 @@
+{
+  "cityName": "秦皇岛市",
+  "businessCenters": [
+    {
+      "name": "海港区",
+      "locations": [
+        {
+          "name": "太阳城",
+          "longitude": 119.60632,
+          "latitude": 39.931328,
+          "radius": "389"
+        },
+        {
+          "name": "和平大街",
+          "longitude": 119.57852,
+          "latitude": 39.934536,
+          "radius": "1565"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "海港区",
+      "locations": [
+        {
+          "name": "秦皇岛市奥林匹克体育中心",
+          "longitude": 119.55267,
+          "latitude": 39.91026,
+          "radius": ""
+        },
+        {
+          "name": "秦皇求仙入海处景区",
+          "longitude": 119.621666,
+          "latitude": 39.91458,
+          "radius": ""
+        },
+        {
+          "name": "金海湾森林公园",
+          "longitude": 119.53605,
+          "latitude": 39.89132,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛开发区体育中心",
+          "longitude": 119.53438,
+          "latitude": 39.93585,
+          "radius": ""
+        },
+        {
+          "name": "东北大戏院",
+          "longitude": 119.61602,
+          "latitude": 39.9416,
+          "radius": ""
+        },
+        {
+          "name": "公主王子号游船",
+          "longitude": 119.57174,
+          "latitude": 39.91039,
+          "radius": ""
+        },
+        {
+          "name": "法云寺",
+          "longitude": 119.49971,
+          "latitude": 39.88864,
+          "radius": ""
+        },
+        {
+          "name": "东山浴场景区",
+          "longitude": 119.62622,
+          "latitude": 39.91714,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛港口博物馆",
+          "longitude": 119.61886,
+          "latitude": 39.91147,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛晨砻游泳俱乐部",
+          "longitude": 119.6447,
+          "latitude": 39.94963,
+          "radius": ""
+        },
+        {
+          "name": "万通仁人乐相声社",
+          "longitude": 119.60224,
+          "latitude": 39.9365,
+          "radius": ""
+        },
+        {
+          "name": "中国足球学校比赛馆",
+          "longitude": 119.56916,
+          "latitude": 39.91479,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛影剧城",
+          "longitude": 119.57277,
+          "latitude": 39.94705,
+          "radius": ""
+        },
+        {
+          "name": "海阳大剧院",
+          "longitude": 119.54324,
+          "latitude": 39.96175,
+          "radius": ""
+        },
+        {
+          "name": "体育场(音乐广场西北)",
+          "longitude": 119.54638,
+          "latitude": 39.91081,
+          "radius": ""
+        },
+        {
+          "name": "津榆铁路基址",
+          "longitude": 119.59415,
+          "latitude": 39.95292,
+          "radius": ""
+        },
+        {
+          "name": "海螺女",
+          "longitude": 119.56996,
+          "latitude": 39.92168,
+          "radius": ""
+        },
+        {
+          "name": "似锦门",
+          "longitude": 119.52287,
+          "latitude": 39.89713,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛市海港区佛堂管理委员会",
+          "longitude": 119.49776,
+          "latitude": 39.87762,
+          "radius": ""
+        },
+        {
+          "name": "海上运动场",
+          "longitude": 119.57188,
+          "latitude": 39.90981,
+          "radius": ""
+        },
+        {
+          "name": "体育馆",
+          "longitude": 119.56136,
+          "latitude": 39.91501,
+          "radius": ""
+        },
+        {
+          "name": "南山饭店",
+          "longitude": 119.61804,
+          "latitude": 39.91274,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛开滦矿务局高级员司特等房",
+          "longitude": 119.62355,
+          "latitude": 39.91553,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛市傲林排球俱乐部",
+          "longitude": 119.5503,
+          "latitude": 39.90843,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "山海关区",
+      "locations": [
+        {
+          "name": "秦皇岛山海关机场",
+          "longitude": 119.723404,
+          "latitude": 39.966446,
+          "radius": ""
+        },
+        {
+          "name": "天下第一关景区",
+          "longitude": 119.76002,
+          "latitude": 40.010975,
+          "radius": ""
+        },
+        {
+          "name": "老龙头景区",
+          "longitude": 119.79878,
+          "latitude": 39.9699,
+          "radius": ""
+        },
+        {
+          "name": "山海关欢乐海洋公园",
+          "longitude": 119.75618,
+          "latitude": 39.954906,
+          "radius": ""
+        },
+        {
+          "name": "燕塞湖景区",
+          "longitude": 119.70633,
+          "latitude": 40.03653,
+          "radius": ""
+        },
+        {
+          "name": "万寿山景区",
+          "longitude": 119.75405,
+          "latitude": 40.070396,
+          "radius": ""
+        },
+        {
+          "name": "孟姜女庙",
+          "longitude": 119.82357,
+          "latitude": 40.03751,
+          "radius": ""
+        },
+        {
+          "name": "望峪山庄景区",
+          "longitude": 119.66858,
+          "latitude": 40.04315,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛市金峰园景区",
+          "longitude": 119.80191,
+          "latitude": 40.0357,
+          "radius": ""
+        },
+        {
+          "name": "首山二郎庙风景区",
+          "longitude": 119.70969,
+          "latitude": 40.03001,
+          "radius": ""
+        },
+        {
+          "name": "山海关体育中心",
+          "longitude": 119.7837,
+          "latitude": 39.97699,
+          "radius": ""
+        },
+        {
+          "name": "TT战士拓展基地",
+          "longitude": 119.75235,
+          "latitude": 39.95778,
+          "radius": ""
+        },
+        {
+          "name": "搏海湾",
+          "longitude": 119.75998,
+          "latitude": 39.95465,
+          "radius": ""
+        },
+        {
+          "name": "靖卤台",
+          "longitude": 119.80101,
+          "latitude": 39.96801,
+          "radius": ""
+        },
+        {
+          "name": "探春桥",
+          "longitude": 119.76992,
+          "latitude": 40.0044,
+          "radius": ""
+        },
+        {
+          "name": "天后宫",
+          "longitude": 119.79847,
+          "latitude": 39.96551,
+          "radius": ""
+        },
+        {
+          "name": "李时珍石窟",
+          "longitude": 119.74725,
+          "latitude": 40.0689,
+          "radius": ""
+        },
+        {
+          "name": "海神殿",
+          "longitude": 119.79833,
+          "latitude": 39.96569,
+          "radius": ""
+        },
+        {
+          "name": "飞龙武官",
+          "longitude": 119.74425,
+          "latitude": 40.0045,
+          "radius": ""
+        },
+        {
+          "name": "神医华佗石窟",
+          "longitude": 119.74747,
+          "latitude": 40.06905,
+          "radius": ""
+        },
+        {
+          "name": "财神殿",
+          "longitude": 119.79826,
+          "latitude": 39.96589,
+          "radius": ""
+        },
+        {
+          "name": "钟楼",
+          "longitude": 119.79839,
+          "latitude": 39.96584,
+          "radius": ""
+        },
+        {
+          "name": "鼓楼",
+          "longitude": 119.79815,
+          "latitude": 39.96576,
+          "radius": ""
+        },
+        {
+          "name": "凝荷桥",
+          "longitude": 119.76796,
+          "latitude": 40.00416,
+          "radius": ""
+        },
+        {
+          "name": "山海关界",
+          "longitude": 119.76599,
+          "latitude": 40.0127,
+          "radius": ""
+        },
+        {
+          "name": "观海亭",
+          "longitude": 119.79864,
+          "latitude": 39.96529,
+          "radius": ""
+        },
+        {
+          "name": "西南交通大学(山海关北洋铁路官学堂)旧址",
+          "longitude": 119.76258,
+          "latitude": 39.99849,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "北戴河区",
+      "locations": [
+        {
+          "name": "秦皇岛鸟类博物馆",
+          "longitude": 119.51858,
+          "latitude": 39.83584,
+          "radius": ""
+        },
+        {
+          "name": "北戴河·集发观光园",
+          "longitude": 119.418015,
+          "latitude": 39.817623,
+          "radius": ""
+        },
+        {
+          "name": "碧螺塔",
+          "longitude": 119.5361,
+          "latitude": 39.82072,
+          "radius": ""
+        },
+        {
+          "name": "怪楼奇园景区",
+          "longitude": 119.49535,
+          "latitude": 39.829697,
+          "radius": ""
+        },
+        {
+          "name": "北戴河秦行宫遗址",
+          "longitude": 119.53023,
+          "latitude": 39.81803,
+          "radius": ""
+        },
+        {
+          "name": "秦皇宫",
+          "longitude": 119.51393,
+          "latitude": 39.82533,
+          "radius": ""
+        },
+        {
+          "name": "北戴河森林湿地",
+          "longitude": 119.51171,
+          "latitude": 39.84505,
+          "radius": ""
+        },
+        {
+          "name": "听涛园",
+          "longitude": 119.49544,
+          "latitude": 39.81529,
+          "radius": ""
+        },
+        {
+          "name": "北戴河自然生态公园",
+          "longitude": 119.51851,
+          "latitude": 39.84046,
+          "radius": ""
+        },
+        {
+          "name": "海上音乐厅",
+          "longitude": 119.53587,
+          "latitude": 39.83161,
+          "radius": ""
+        },
+        {
+          "name": "韦陀像",
+          "longitude": 119.43092,
+          "latitude": 39.81354,
+          "radius": ""
+        },
+        {
+          "name": "好汉办案堂",
+          "longitude": 119.41644,
+          "latitude": 39.81262,
+          "radius": ""
+        },
+        {
+          "name": "百味酱菜铺",
+          "longitude": 119.41654,
+          "latitude": 39.81101,
+          "radius": ""
+        },
+        {
+          "name": "三里屯制粉坊",
+          "longitude": 119.41656,
+          "latitude": 39.81069,
+          "radius": ""
+        },
+        {
+          "name": "民俗生产生活用具馆",
+          "longitude": 119.41714,
+          "latitude": 39.81074,
+          "radius": ""
+        },
+        {
+          "name": "集发慧集寺",
+          "longitude": 119.42391,
+          "latitude": 39.80968,
+          "radius": ""
+        },
+        {
+          "name": "天籁鸣湾",
+          "longitude": 119.52084,
+          "latitude": 39.81668,
+          "radius": ""
+        },
+        {
+          "name": "瞭望台",
+          "longitude": 119.5296,
+          "latitude": 39.83512,
+          "radius": ""
+        },
+        {
+          "name": "葫芦长廊",
+          "longitude": 119.41807,
+          "latitude": 39.82233,
+          "radius": ""
+        },
+        {
+          "name": "剑秋园",
+          "longitude": 119.47085,
+          "latitude": 39.82821,
+          "radius": ""
+        },
+        {
+          "name": "烟标展示厅",
+          "longitude": 119.41657,
+          "latitude": 39.8111,
+          "radius": ""
+        },
+        {
+          "name": "避雨亭",
+          "longitude": 119.52762,
+          "latitude": 39.83734,
+          "radius": ""
+        },
+        {
+          "name": "丝瓜长廊",
+          "longitude": 119.41736,
+          "latitude": 39.82258,
+          "radius": ""
+        },
+        {
+          "name": "连心桥",
+          "longitude": 119.41723,
+          "latitude": 39.81996,
+          "radius": ""
+        },
+        {
+          "name": "涛声",
+          "longitude": 119.52998,
+          "latitude": 39.83646,
+          "radius": ""
+        },
+        {
+          "name": "礁石区",
+          "longitude": 119.48592,
+          "latitude": 39.81347,
+          "radius": ""
+        },
+        {
+          "name": "右海岸",
+          "longitude": 119.48528,
+          "latitude": 39.81374,
+          "radius": ""
+        },
+        {
+          "name": "沙雕",
+          "longitude": 119.42024,
+          "latitude": 39.81037,
+          "radius": ""
+        },
+        {
+          "name": "袁氏家织布坊",
+          "longitude": 119.41735,
+          "latitude": 39.81092,
+          "radius": ""
+        },
+        {
+          "name": "中华传统酒器文化展",
+          "longitude": 119.41676,
+          "latitude": 39.81121,
+          "radius": ""
+        },
+        {
+          "name": "蠏山",
+          "longitude": 119.52994,
+          "latitude": 39.83652,
+          "radius": ""
+        },
+        {
+          "name": "传统生活器物展馆",
+          "longitude": 119.41719,
+          "latitude": 39.81114,
+          "radius": ""
+        },
+        {
+          "name": "风车",
+          "longitude": 119.52504,
+          "latitude": 39.83776,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛市北戴河区体育中心",
+          "longitude": 119.50365,
+          "latitude": 39.82901,
+          "radius": ""
+        },
+        {
+          "name": "传统民俗文化展",
+          "longitude": 119.41731,
+          "latitude": 39.8111,
+          "radius": ""
+        },
+        {
+          "name": "中华百家姓图腾展厅",
+          "longitude": 119.41648,
+          "latitude": 39.81087,
+          "radius": ""
+        },
+        {
+          "name": "民间陶瓷馆",
+          "longitude": 119.41741,
+          "latitude": 39.81106,
+          "radius": ""
+        },
+        {
+          "name": "老字号精编屋",
+          "longitude": 119.4174,
+          "latitude": 39.81099,
+          "radius": ""
+        },
+        {
+          "name": "通天洞",
+          "longitude": 119.42644,
+          "latitude": 39.827,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "青龙满族自治县",
+      "locations": [
+        {
+          "name": "祖山风景区",
+          "longitude": 119.49531,
+          "latitude": 40.12986,
+          "radius": ""
+        },
+        {
+          "name": "花果山景区",
+          "longitude": 119.36062,
+          "latitude": 40.1282,
+          "radius": ""
+        },
+        {
+          "name": "南山生态观光园",
+          "longitude": 118.94349,
+          "latitude": 40.3981,
+          "radius": ""
+        },
+        {
+          "name": "桃林湖",
+          "longitude": 119.05271,
+          "latitude": 40.14013,
+          "radius": ""
+        },
+        {
+          "name": "黄金溶洞",
+          "longitude": 118.64233,
+          "latitude": 40.29142,
+          "radius": ""
+        },
+        {
+          "name": "龙河清漂流生态园",
+          "longitude": 119.1228,
+          "latitude": 40.56254,
+          "radius": ""
+        },
+        {
+          "name": "神石沟旅游区",
+          "longitude": 119.02242,
+          "latitude": 40.56137,
+          "radius": ""
+        },
+        {
+          "name": "青龙满族自治县八道河镇钱丈子村白龙神泉",
+          "longitude": 118.68945,
+          "latitude": 40.37778,
+          "radius": ""
+        },
+        {
+          "name": "小石湖沟观音庙景区",
+          "longitude": 118.66777,
+          "latitude": 40.43738,
+          "radius": ""
+        },
+        {
+          "name": "冰塘峪大峡谷",
+          "longitude": 119.35843,
+          "latitude": 40.1056,
+          "radius": ""
+        },
+        {
+          "name": "望海庙",
+          "longitude": 119.54968,
+          "latitude": 40.26895,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "昌黎县",
+      "locations": [
+        {
+          "name": "金沙湾沙雕大世界",
+          "longitude": 119.30264,
+          "latitude": 39.62009,
+          "radius": ""
+        },
+        {
+          "name": "黄金海岸",
+          "longitude": 119.341484,
+          "latitude": 39.702103,
+          "radius": ""
+        },
+        {
+          "name": "昌黎葡萄沟",
+          "longitude": 119.10539,
+          "latitude": 39.758,
+          "radius": ""
+        },
+        {
+          "name": "碣石山风景区",
+          "longitude": 119.15016,
+          "latitude": 39.74453,
+          "radius": ""
+        },
+        {
+          "name": "渔岛景区",
+          "longitude": 119.28496,
+          "latitude": 39.6053,
+          "radius": ""
+        },
+        {
+          "name": "翡翠岛",
+          "longitude": 119.28559,
+          "latitude": 39.571106,
+          "radius": ""
+        },
+        {
+          "name": "秦皇岛北戴河机场",
+          "longitude": 119.0648,
+          "latitude": 39.66329,
+          "radius": ""
+        },
+        {
+          "name": "华夏庄园",
+          "longitude": 119.18255,
+          "latitude": 39.73539,
+          "radius": ""
+        },
+        {
+          "name": "昌黎体育馆",
+          "longitude": 119.15547,
+          "latitude": 39.71558,
+          "radius": ""
+        },
+        {
+          "name": "黄金海岸机场",
+          "longitude": 119.32006,
+          "latitude": 39.69197,
+          "radius": ""
+        },
+        {
+          "name": "亿邦·动漫旅游城",
+          "longitude": 119.30708,
+          "latitude": 39.65274,
+          "radius": ""
+        },
+        {
+          "name": "玛蒂尼·酒庄",
+          "longitude": 119.20916,
+          "latitude": 39.75784,
+          "radius": ""
+        },
+        {
+          "name": "五峰山景区",
+          "longitude": 119.16226,
+          "latitude": 39.75285,
+          "radius": ""
+        },
+        {
+          "name": "南开区卫生局康复院-游泳馆",
+          "longitude": 119.34051,
+          "latitude": 39.70723,
+          "radius": ""
+        },
+        {
+          "name": "长峪山风景区",
+          "longitude": 119.16678,
+          "latitude": 39.78995,
+          "radius": ""
+        },
+        {
+          "name": "昌黎县东山群艺大舞台",
+          "longitude": 119.17547,
+          "latitude": 39.71536,
+          "radius": ""
+        },
+        {
+          "name": "李小龙截拳道培训中心",
+          "longitude": 119.15537,
+          "latitude": 39.69383,
+          "radius": ""
+        },
+        {
+          "name": "源影塔",
+          "longitude": 119.1594,
+          "latitude": 39.7112,
+          "radius": ""
+        },
+        {
+          "name": "海洋大漠观光区",
+          "longitude": 119.27412,
+          "latitude": 39.55188,
+          "radius": ""
+        },
+        {
+          "name": "福来岛",
+          "longitude": 119.29136,
+          "latitude": 39.58175,
+          "radius": ""
+        },
+        {
+          "name": "天龙截拳道搏击俱乐部",
+          "longitude": 119.15537,
+          "latitude": 39.69383,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "抚宁县",
+      "locations": [
+        {
+          "name": "南戴河国际娱乐中心",
+          "longitude": 119.3508,
+          "latitude": 39.734734,
+          "radius": ""
+        },
+        {
+          "name": "板厂峪",
+          "longitude": 119.5733,
+          "latitude": 40.19973,
+          "radius": ""
+        },
+        {
+          "name": "南戴河旅游渡假区",
+          "longitude": 119.4254,
+          "latitude": 39.78676,
+          "radius": ""
+        },
+        {
+          "name": "天马湖旅游度假区",
+          "longitude": 119.21446,
+          "latitude": 39.97951,
+          "radius": ""
+        },
+        {
+          "name": "天马山风景区",
+          "longitude": 119.24452,
+          "latitude": 39.98086,
+          "radius": ""
+        },
+        {
+          "name": "董家口景区",
+          "longitude": 119.67222,
+          "latitude": 40.21768,
+          "radius": ""
+        },
+        {
+          "name": "龙潭峡",
+          "longitude": 119.34592,
+          "latitude": 40.06478,
+          "radius": ""
+        },
+        {
+          "name": "象山景区",
+          "longitude": 119.34308,
+          "latitude": 39.99697,
+          "radius": ""
+        },
+        {
+          "name": "葡萄岛",
+          "longitude": 119.38018,
+          "latitude": 39.75304,
+          "radius": ""
+        },
+        {
+          "name": "板厂峪景区",
+          "longitude": 119.56883,
+          "latitude": 40.24445,
+          "radius": ""
+        },
+        {
+          "name": "董家口长城风景区",
+          "longitude": 119.6419,
+          "latitude": 40.22195,
+          "radius": ""
+        },
+        {
+          "name": "派啊南戴河国际沙滩狂欢派对公园",
+          "longitude": 119.35905,
+          "latitude": 39.73367,
+          "radius": ""
+        },
+        {
+          "name": "万里长城第一口",
+          "longitude": 119.64625,
+          "latitude": 40.22232,
+          "radius": ""
+        },
+        {
+          "name": "隆盛旅游观光园",
+          "longitude": 119.16782,
+          "latitude": 39.8514,
+          "radius": ""
+        },
+        {
+          "name": "冰糖峪旅游区",
+          "longitude": 119.34409,
+          "latitude": 40.096687,
+          "radius": ""
+        },
+        {
+          "name": "柳江地学博物馆",
+          "longitude": 119.59212,
+          "latitude": 40.12185,
+          "radius": ""
+        },
+        {
+          "name": "乱刀峪",
+          "longitude": 119.36215,
+          "latitude": 39.84434,
+          "radius": ""
+        },
+        {
+          "name": "柳江盆地地质遗迹国家级自然保护区",
+          "longitude": 119.65031,
+          "latitude": 40.14509,
+          "radius": ""
+        },
+        {
+          "name": "圆梦园",
+          "longitude": 119.41361,
+          "latitude": 39.81891,
+          "radius": ""
+        },
+        {
+          "name": "九道缸瀑布",
+          "longitude": 119.57133,
+          "latitude": 40.24474,
+          "radius": ""
+        },
+        {
+          "name": "蟠桃峪长城人嘟嘟农场拓展基地",
+          "longitude": 119.65249,
+          "latitude": 40.07205,
+          "radius": ""
+        },
+        {
+          "name": "抚宁影剧城",
+          "longitude": 119.23642,
+          "latitude": 39.88811,
+          "radius": ""
+        },
+        {
+          "name": "抚宁电影院",
+          "longitude": 119.23642,
+          "latitude": 39.88811,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "卢龙县",
+      "locations": [
+        {
+          "name": "桃林口风景区",
+          "longitude": 119.02224,
+          "latitude": 40.10791,
+          "radius": ""
+        },
+        {
+          "name": "段家沟万亩李子观光园",
+          "longitude": 118.89236,
+          "latitude": 39.99666,
+          "radius": ""
+        },
+        {
+          "name": "鲍子沟景区",
+          "longitude": 119.09579,
+          "latitude": 39.77312,
+          "radius": ""
+        },
+        {
+          "name": "棋盘山",
+          "longitude": 118.96095,
+          "latitude": 39.80298,
+          "radius": ""
+        },
+        {
+          "name": "柳河北山",
+          "longitude": 119.116,
+          "latitude": 39.8564,
+          "radius": ""
+        },
+        {
+          "name": "新兴广场",
+          "longitude": 118.87427,
+          "latitude": 39.89072,
+          "radius": ""
+        },
+        {
+          "name": "卢龙县体育馆",
+          "longitude": 118.89844,
+          "latitude": 39.88959,
+          "radius": ""
+        },
+        {
+          "name": "金文跆拳道馆驻卢龙分馆",
+          "longitude": 118.87409,
+          "latitude": 39.89266,
+          "radius": ""
+        },
+        {
+          "name": "大佛顶尊胜陀罗尼经幢",
+          "longitude": 118.86626,
+          "latitude": 39.88059,
+          "radius": ""
+        },
+        {
+          "name": "冀东抗战纪念馆",
+          "longitude": 119.11619,
+          "latitude": 39.85582,
+          "radius": ""
+        },
+        {
+          "name": "永平府",
+          "longitude": 118.8629,
+          "latitude": 39.88091,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

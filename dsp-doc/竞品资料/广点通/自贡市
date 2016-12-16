@@ -1,0 +1,444 @@
+{
+  "cityName": "自贡市",
+  "businessCenters": [
+    {
+      "name": "自流井区",
+      "locations": [
+        {
+          "name": "汇西",
+          "longitude": 104.759636,
+          "latitude": 29.334753,
+          "radius": "270"
+        },
+        {
+          "name": "汇川路",
+          "longitude": 104.770744,
+          "latitude": 29.32596,
+          "radius": "757"
+        },
+        {
+          "name": "丹桂大街",
+          "longitude": 104.77675,
+          "latitude": 29.325548,
+          "radius": "2638"
+        },
+        {
+          "name": "汇东路",
+          "longitude": 104.7634,
+          "latitude": 29.33956,
+          "radius": "1228"
+        },
+        {
+          "name": "东兴寺",
+          "longitude": 104.77875,
+          "latitude": 29.349977,
+          "radius": "989"
+        }
+      ]
+    },
+    {
+      "name": "大安区",
+      "locations": [
+        {
+          "name": "广华",
+          "longitude": 104.77372,
+          "latitude": 29.363152,
+          "radius": "410"
+        },
+        {
+          "name": "马吃水",
+          "longitude": 104.74053,
+          "latitude": 29.331566,
+          "radius": "1210"
+        },
+        {
+          "name": "龙井",
+          "longitude": 104.77988,
+          "latitude": 29.36308,
+          "radius": "925"
+        },
+        {
+          "name": "五星街",
+          "longitude": 104.76877,
+          "latitude": 29.356865,
+          "radius": "698"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "自流井区",
+      "locations": [
+        {
+          "name": "自贡市盐业历史博物馆",
+          "longitude": 104.77097,
+          "latitude": 29.34902,
+          "radius": ""
+        },
+        {
+          "name": "飞龙峡风景区",
+          "longitude": 104.65085,
+          "latitude": 29.23146,
+          "radius": ""
+        },
+        {
+          "name": "中国彩灯博物馆",
+          "longitude": 104.76893,
+          "latitude": 29.35167,
+          "radius": ""
+        },
+        {
+          "name": "灵秀尖山",
+          "longitude": 104.65148,
+          "latitude": 29.26526,
+          "radius": ""
+        },
+        {
+          "name": "宜宾机场自贡城市候机楼",
+          "longitude": 104.76734,
+          "latitude": 29.34824,
+          "radius": ""
+        },
+        {
+          "name": "王爷庙",
+          "longitude": 104.77042,
+          "latitude": 29.34645,
+          "radius": ""
+        },
+        {
+          "name": "桓候宫",
+          "longitude": 104.76838,
+          "latitude": 29.34912,
+          "radius": ""
+        },
+        {
+          "name": "古盐运码头",
+          "longitude": 104.75867,
+          "latitude": 29.34897,
+          "radius": ""
+        },
+        {
+          "name": "玉竹临风",
+          "longitude": 104.75838,
+          "latitude": 29.34894,
+          "radius": ""
+        },
+        {
+          "name": "自贡农团生态旅游景区",
+          "longitude": 104.64242,
+          "latitude": 29.2422,
+          "radius": ""
+        },
+        {
+          "name": "路边井",
+          "longitude": 104.76023,
+          "latitude": 29.34657,
+          "radius": ""
+        },
+        {
+          "name": "运盐缆车",
+          "longitude": 104.75853,
+          "latitude": 29.34888,
+          "radius": ""
+        },
+        {
+          "name": "古龙井",
+          "longitude": 104.75863,
+          "latitude": 29.34865,
+          "radius": ""
+        },
+        {
+          "name": "盐场地滚子遗址",
+          "longitude": 104.75895,
+          "latitude": 29.34836,
+          "radius": ""
+        },
+        {
+          "name": "盐商家居陈列馆",
+          "longitude": 104.75749,
+          "latitude": 29.34942,
+          "radius": ""
+        },
+        {
+          "name": "川西南矿区体育馆",
+          "longitude": 104.78647,
+          "latitude": 29.3363,
+          "radius": ""
+        },
+        {
+          "name": "自贡川剧艺术中心",
+          "longitude": 104.76669,
+          "latitude": 29.35291,
+          "radius": ""
+        },
+        {
+          "name": "自贡飞扬羽毛球馆",
+          "longitude": 104.75971,
+          "latitude": 29.32989,
+          "radius": ""
+        },
+        {
+          "name": "自贡尖山自然风景区",
+          "longitude": 104.65177,
+          "latitude": 29.26539,
+          "radius": ""
+        },
+        {
+          "name": "桓侯祠",
+          "longitude": 104.76838,
+          "latitude": 29.34911,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "贡井区",
+      "locations": [
+        {
+          "name": "天宫堂",
+          "longitude": 104.68391,
+          "latitude": 29.35326,
+          "radius": ""
+        },
+        {
+          "name": "水磨坊游泳池",
+          "longitude": 104.72103,
+          "latitude": 29.35981,
+          "radius": ""
+        },
+        {
+          "name": "中华风景旅游区",
+          "longitude": 104.53944,
+          "latitude": 29.24627,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "大安区",
+      "locations": [
+        {
+          "name": "自贡恐龙博物馆",
+          "longitude": 104.82905,
+          "latitude": 29.395302,
+          "radius": ""
+        },
+        {
+          "name": "燊海井",
+          "longitude": 104.78795,
+          "latitude": 29.37397,
+          "radius": ""
+        },
+        {
+          "name": "三多古寨",
+          "longitude": 104.87585,
+          "latitude": 29.44674,
+          "radius": ""
+        },
+        {
+          "name": "自流井",
+          "longitude": 104.75436,
+          "latitude": 29.3508,
+          "radius": ""
+        },
+        {
+          "name": "观景台",
+          "longitude": 104.75491,
+          "latitude": 29.35093,
+          "radius": ""
+        },
+        {
+          "name": "长山岭硅化木埋藏现场",
+          "longitude": 104.80409,
+          "latitude": 29.38065,
+          "radius": ""
+        },
+        {
+          "name": "永和大学堂",
+          "longitude": 104.83819,
+          "latitude": 29.37438,
+          "radius": ""
+        },
+        {
+          "name": "郭家坳砂岩地层命名地",
+          "longitude": 104.75607,
+          "latitude": 29.3502,
+          "radius": ""
+        },
+        {
+          "name": "宝隆井",
+          "longitude": 104.75459,
+          "latitude": 29.35072,
+          "radius": ""
+        },
+        {
+          "name": "宝龙滴泉",
+          "longitude": 104.75484,
+          "latitude": 29.35042,
+          "radius": ""
+        },
+        {
+          "name": "自贡市体育中心",
+          "longitude": 104.77679,
+          "latitude": 29.35928,
+          "radius": ""
+        },
+        {
+          "name": "东方锅炉体育馆",
+          "longitude": 104.76661,
+          "latitude": 29.36171,
+          "radius": ""
+        },
+        {
+          "name": "青岩洞风景区",
+          "longitude": 104.80486,
+          "latitude": 29.36475,
+          "radius": ""
+        },
+        {
+          "name": "江姐故里景区",
+          "longitude": 104.84946,
+          "latitude": 29.37389,
+          "radius": ""
+        },
+        {
+          "name": "青龙湖",
+          "longitude": 104.83898,
+          "latitude": 29.40785,
+          "radius": ""
+        },
+        {
+          "name": "输卤笕管",
+          "longitude": 104.75474,
+          "latitude": 29.35044,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "沿滩区",
+      "locations": [
+        {
+          "name": "仙市古镇",
+          "longitude": 104.87921,
+          "latitude": 29.3312,
+          "radius": ""
+        },
+        {
+          "name": "南湖体育中心",
+          "longitude": 104.78416,
+          "latitude": 29.32396,
+          "radius": ""
+        },
+        {
+          "name": "王家大院",
+          "longitude": 104.80748,
+          "latitude": 29.31717,
+          "radius": ""
+        },
+        {
+          "name": "自贡板仓花海",
+          "longitude": 104.83627,
+          "latitude": 29.3404,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "荣县",
+      "locations": [
+        {
+          "name": "荣县体育中心",
+          "longitude": 104.41401,
+          "latitude": 29.45011,
+          "radius": ""
+        },
+        {
+          "name": "荣县大佛景区",
+          "longitude": 104.43123,
+          "latitude": 29.45445,
+          "radius": ""
+        },
+        {
+          "name": "吴玉章故居",
+          "longitude": 104.52659,
+          "latitude": 29.37395,
+          "radius": ""
+        },
+        {
+          "name": "自贡双溪风景区",
+          "longitude": 104.41352,
+          "latitude": 29.47243,
+          "radius": ""
+        },
+        {
+          "name": "双溪湖风景区",
+          "longitude": 104.41506,
+          "latitude": 29.47195,
+          "radius": ""
+        },
+        {
+          "name": "四川省高石梯森林公园",
+          "longitude": 104.34814,
+          "latitude": 29.49886,
+          "radius": ""
+        },
+        {
+          "name": "辛亥革命荣县独立军政府旧址",
+          "longitude": 104.42332,
+          "latitude": 29.45683,
+          "radius": ""
+        },
+        {
+          "name": "荣县影剧院",
+          "longitude": 104.42144,
+          "latitude": 29.4547,
+          "radius": ""
+        },
+        {
+          "name": "桫椤谷风景区",
+          "longitude": 104.14484,
+          "latitude": 29.25974,
+          "radius": ""
+        },
+        {
+          "name": "自贡市赛艇皮划艇训练基地",
+          "longitude": 104.4106,
+          "latitude": 29.47331,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "富顺县",
+      "locations": [
+        {
+          "name": "富顺文庙",
+          "longitude": 105.00386,
+          "latitude": 29.17838,
+          "radius": ""
+        },
+        {
+          "name": "维维音乐厅",
+          "longitude": 104.98224,
+          "latitude": 29.18485,
+          "radius": ""
+        },
+        {
+          "name": "花郎跆拳道俱乐部富顺道馆",
+          "longitude": 104.97336,
+          "latitude": 29.18201,
+          "radius": ""
+        },
+        {
+          "name": "中国豆花村",
+          "longitude": 105.05367,
+          "latitude": 29.19352,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "cityName": "澳门",
+  "businessCenters": [
+    {
+      "name": "澳门半岛",
+      "locations": [
+        {
+          "name": "新口岸",
+          "longitude": 113.55592,
+          "latitude": 22.187449,
+          "radius": "1076"
+        },
+        {
+          "name": "新桥",
+          "longitude": 113.548325,
+          "latitude": 22.199455,
+          "radius": "338"
+        },
+        {
+          "name": "宋玉生广场",
+          "longitude": 113.55551,
+          "latitude": 22.187296,
+          "radius": "434"
+        },
+        {
+          "name": "妈阁",
+          "longitude": 113.536354,
+          "latitude": 22.182184,
+          "radius": "346"
+        },
+        {
+          "name": "下环",
+          "longitude": 113.53947,
+          "latitude": 22.187208,
+          "radius": "346"
+        },
+        {
+          "name": "黑沙环",
+          "longitude": 113.55924,
+          "latitude": 22.205858,
+          "radius": "800"
+        },
+        {
+          "name": "荷兰园",
+          "longitude": 113.553055,
+          "latitude": 22.197792,
+          "radius": "465"
+        },
+        {
+          "name": "筷子基",
+          "longitude": 113.54624,
+          "latitude": 22.204605,
+          "radius": "687"
+        },
+        {
+          "name": "新八佰伴百货",
+          "longitude": 113.54625,
+          "latitude": 22.187538,
+          "radius": "210"
+        },
+        {
+          "name": "澳门旅游塔",
+          "longitude": 113.54259,
+          "latitude": 22.17768,
+          "radius": "166"
+        },
+        {
+          "name": "板樟堂",
+          "longitude": 113.54599,
+          "latitude": 22.191319,
+          "radius": "159"
+        },
+        {
+          "name": "议事亭前地",
+          "longitude": 113.54541,
+          "latitude": 22.191141,
+          "radius": "100"
+        },
+        {
+          "name": "渔人码头",
+          "longitude": 113.5616,
+          "latitude": 22.188679,
+          "radius": "571"
+        },
+        {
+          "name": "大三巴牌坊",
+          "longitude": 113.54633,
+          "latitude": 22.194056,
+          "radius": "324"
+        },
+        {
+          "name": "新马路",
+          "longitude": 113.54394,
+          "latitude": 22.191385,
+          "radius": "147"
+        }
+      ]
+    },
+    {
+      "name": "凼仔",
+      "locations": [
+        {
+          "name": "氹仔",
+          "longitude": 113.55904,
+          "latitude": 22.153494,
+          "radius": "674"
+        },
+        {
+          "name": "官也街",
+          "longitude": 113.56195,
+          "latitude": 22.150776,
+          "radius": "0"
+        }
+      ]
+    },
+    {
+      "name": "路凼城",
+      "locations": [
+        {
+          "name": "路氹",
+          "longitude": 113.56911,
+          "latitude": 22.143902,
+          "radius": "1536"
+        }
+      ]
+    },
+    {
+      "name": "路环",
+      "locations": [
+        {
+          "name": "路环",
+          "longitude": 113.56232,
+          "latitude": 22.116936,
+          "radius": "1910"
+        },
+        {
+          "name": "黑沙海滩",
+          "longitude": 113.57454,
+          "latitude": 22.116398,
+          "radius": "567"
+        }
+      ]
+    }
+  ],
+  "metroLines": [],
+  "landMarks": [
+    {
+      "name": "澳门半岛",
+      "locations": [
+        {
+          "name": "海事博物馆",
+          "longitude": 113.53574,
+          "latitude": 22.18305,
+          "radius": ""
+        },
+        {
+          "name": "澳门特别行政区政府体育发展局巴坡沙体育中心",
+          "longitude": 113.55162,
+          "latitude": 22.20929,
+          "radius": ""
+        },
+        {
+          "name": "塔石体育馆",
+          "longitude": 113.55158,
+          "latitude": 22.19357,
+          "radius": ""
+        },
+        {
+          "name": "澳门工会联合总会工人体育场",
+          "longitude": 113.55306,
+          "latitude": 22.212,
+          "radius": ""
+        },
+        {
+          "name": "大三巴牌坊",
+          "longitude": 113.54594,
+          "latitude": 22.19456,
+          "radius": ""
+        },
+        {
+          "name": "澳门林则徐纪念馆",
+          "longitude": 113.55275,
+          "latitude": 22.20694,
+          "radius": ""
+        },
+        {
+          "name": "圣老楞佐教堂",
+          "longitude": 113.54221,
+          "latitude": 22.18796,
+          "radius": ""
+        },
+        {
+          "name": "观音莲花苑",
+          "longitude": 113.55721,
+          "latitude": 22.18286,
+          "radius": ""
+        },
+        {
+          "name": "卢家大屋",
+          "longitude": 113.54627,
+          "latitude": 22.19126,
+          "radius": ""
+        },
+        {
+          "name": "澳门茶文化馆",
+          "longitude": 113.55299,
+          "latitude": 22.19693,
+          "radius": ""
+        },
+        {
+          "name": "鲍思高体育中心",
+          "longitude": 113.55792,
+          "latitude": 22.19978,
+          "radius": ""
+        },
+        {
+          "name": "望厦体育馆",
+          "longitude": 113.55609,
+          "latitude": 22.20422,
+          "radius": ""
+        },
+        {
+          "name": "澳门特别行政区政府体育发展局得胜体育中心",
+          "longitude": 113.55359,
+          "latitude": 22.19517,
+          "radius": ""
+        },
+        {
+          "name": "大炮台",
+          "longitude": 113.54737,
+          "latitude": 22.19434,
+          "radius": ""
+        },
+        {
+          "name": "岗顶剧院",
+          "longitude": 113.54347,
+          "latitude": 22.18905,
+          "radius": ""
+        },
+        {
+          "name": "葡萄酒博物馆",
+          "longitude": 113.55792,
+          "latitude": 22.1918,
+          "radius": ""
+        },
+        {
+          "name": "港澳直升机场",
+          "longitude": 113.5645,
+          "latitude": 22.19476,
+          "radius": ""
+        },
+        {
+          "name": "塔石艺文馆",
+          "longitude": 113.5521,
+          "latitude": 22.19605,
+          "radius": ""
+        },
+        {
+          "name": "澳门博物馆前地",
+          "longitude": 113.54615,
+          "latitude": 22.19487,
+          "radius": ""
+        },
+        {
+          "name": "天主教圣安多尼堂",
+          "longitude": 113.54478,
+          "latitude": 22.19589,
+          "radius": ""
+        },
+        {
+          "name": "关闸",
+          "longitude": 113.55436,
+          "latitude": 22.213497,
+          "radius": ""
+        },
+        {
+          "name": "松山缆车",
+          "longitude": 113.55592,
+          "latitude": 22.19738,
+          "radius": ""
+        },
+        {
+          "name": "民政总署大楼",
+          "longitude": 113.54468,
+          "latitude": 22.19044,
+          "radius": ""
+        },
+        {
+          "name": "天主教艺术博物馆",
+          "longitude": 113.54594,
+          "latitude": 22.19484,
+          "radius": ""
+        },
+        {
+          "name": "郑家大屋",
+          "longitude": 113.53973,
+          "latitude": 22.18573,
+          "radius": ""
+        },
+        {
+          "name": "叶挺故居",
+          "longitude": 113.55165,
+          "latitude": 22.1978,
+          "radius": ""
+        },
+        {
+          "name": "大赛车博物馆",
+          "longitude": 113.55792,
+          "latitude": 22.1918,
+          "radius": ""
+        },
+        {
+          "name": "亚婆井前地",
+          "longitude": 113.54006,
+          "latitude": 22.18549,
+          "radius": ""
+        },
+        {
+          "name": "岗顶前地",
+          "longitude": 113.54313,
+          "latitude": 22.18932,
+          "radius": ""
+        },
+        {
+          "name": "音乐喷泉",
+          "longitude": 113.55056,
+          "latitude": 22.18535,
+          "radius": ""
+        },
+        {
+          "name": "松山炮台",
+          "longitude": 113.55451,
+          "latitude": 22.19347,
+          "radius": ""
+        },
+        {
+          "name": "澳门历史城区",
+          "longitude": 113.5419,
+          "latitude": 22.19748,
+          "radius": ""
+        },
+        {
+          "name": "通讯博物馆",
+          "longitude": 113.56016,
+          "latitude": 22.20018,
+          "radius": ""
+        },
+        {
+          "name": "佳景乐园",
+          "longitude": 113.54484,
+          "latitude": 22.19658,
+          "radius": ""
+        },
+        {
+          "name": "澳门特别行政区政府体育发展局莲峰体育中心",
+          "longitude": 113.55098,
+          "latitude": 22.20487,
+          "radius": ""
+        },
+        {
+          "name": "永乐大戏院",
+          "longitude": 113.54801,
+          "latitude": 22.19921,
+          "radius": ""
+        },
+        {
+          "name": "新桥花园",
+          "longitude": 113.54799,
+          "latitude": 22.1994,
+          "radius": ""
+        },
+        {
+          "name": "莲峰球场",
+          "longitude": 113.5519,
+          "latitude": 22.20665,
+          "radius": ""
+        },
+        {
+          "name": "海之圣母眺望台",
+          "longitude": 113.55586,
+          "latitude": 22.19204,
+          "radius": ""
+        },
+        {
+          "name": "玛利二世皇后眺望台",
+          "longitude": 113.5627,
+          "latitude": 22.20064,
+          "radius": ""
+        },
+        {
+          "name": "妈阁炮台",
+          "longitude": 113.53584,
+          "latitude": 22.17977,
+          "radius": ""
+        },
+        {
+          "name": "柿山结义堂",
+          "longitude": 113.54727,
+          "latitude": 22.19256,
+          "radius": ""
+        },
+        {
+          "name": "澳门体育综合体",
+          "longitude": 113.55111,
+          "latitude": 22.20506,
+          "radius": ""
+        },
+        {
+          "name": "中葡文化纪念物",
+          "longitude": 113.53545,
+          "latitude": 22.18017,
+          "radius": ""
+        },
+        {
+          "name": "焯公亭",
+          "longitude": 113.554,
+          "latitude": 22.19229,
+          "radius": ""
+        },
+        {
+          "name": "永远的握手",
+          "longitude": 113.54878,
+          "latitude": 22.21258,
+          "radius": ""
+        },
+        {
+          "name": "和丽女神喷泉",
+          "longitude": 113.54903,
+          "latitude": 22.18971,
+          "radius": ""
+        },
+        {
+          "name": "手信博物馆",
+          "longitude": 113.53711,
+          "latitude": 22.18407,
+          "radius": ""
+        },
+        {
+          "name": "葡国领事官邸",
+          "longitude": 113.54158,
+          "latitude": 22.18349,
+          "radius": ""
+        },
+        {
+          "name": "南湾人工湖",
+          "longitude": 113.54599,
+          "latitude": 22.18332,
+          "radius": ""
+        },
+        {
+          "name": "高园街纪念像",
+          "longitude": 113.54587,
+          "latitude": 22.1906,
+          "radius": ""
+        },
+        {
+          "name": "融和门",
+          "longitude": 113.53712,
+          "latitude": 22.17692,
+          "radius": ""
+        },
+        {
+          "name": "议事厅前地广场",
+          "longitude": 113.54491,
+          "latitude": 22.19061,
+          "radius": ""
+        },
+        {
+          "name": "加思栏炮台",
+          "longitude": 113.54968,
+          "latitude": 22.1892,
+          "radius": ""
+        },
+        {
+          "name": "圣地牙哥炮台",
+          "longitude": 113.5359,
+          "latitude": 22.17958,
+          "radius": ""
+        },
+        {
+          "name": "东望洋山保垒",
+          "longitude": 113.55452,
+          "latitude": 22.19347,
+          "radius": ""
+        },
+        {
+          "name": "表演湖",
+          "longitude": 113.55055,
+          "latitude": 22.18541,
+          "radius": ""
+        },
+        {
+          "name": "怡和房屋",
+          "longitude": 113.54243,
+          "latitude": 22.18441,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "凼仔",
+      "locations": [
+        {
+          "name": "四面佛",
+          "longitude": 113.55607,
+          "latitude": 22.15397,
+          "radius": ""
+        },
+        {
+          "name": "澳门运动场",
+          "longitude": 113.55773,
+          "latitude": 22.15204,
+          "radius": ""
+        },
+        {
+          "name": "澳门特区政府体育发展局嘉模泳池",
+          "longitude": 113.56512,
+          "latitude": 22.15156,
+          "radius": ""
+        },
+        {
+          "name": "观观岩",
+          "longitude": 113.56128,
+          "latitude": 22.16124,
+          "radius": ""
+        },
+        {
+          "name": "奥林匹克体育中心",
+          "longitude": 113.55803,
+          "latitude": 22.15039,
+          "radius": ""
+        },
+        {
+          "name": "大型浮雕及瞭望台",
+          "longitude": 113.55423,
+          "latitude": 22.16013,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "路凼城",
+      "locations": [
+        {
+          "name": "龙环葡韵",
+          "longitude": 113.56518,
+          "latitude": 22.15118,
+          "radius": ""
+        },
+        {
+          "name": "澳门东亚运动会体育馆",
+          "longitude": 113.57541,
+          "latitude": 22.13758,
+          "radius": ""
+        },
+        {
+          "name": "澳门石排湾路环小型赛车场",
+          "longitude": 113.56628,
+          "latitude": 22.12937,
+          "radius": ""
+        }
+      ]
+    },
+    {
+      "name": "路环",
+      "locations": [
+        {
+          "name": "澳门妈祖文化村",
+          "longitude": 113.55988,
+          "latitude": 22.12139,
+          "radius": ""
+        },
+        {
+          "name": "龙爪角",
+          "longitude": 113.57767,
+          "latitude": 22.11215,
+          "radius": ""
+        },
+        {
+          "name": "路环圣方济各圣堂",
+          "longitude": 113.55659,
+          "latitude": 22.11397,
+          "radius": ""
+        },
+        {
+          "name": "三圣庙",
+          "longitude": 113.58672,
+          "latitude": 22.13187,
+          "radius": ""
+        },
+        {
+          "name": "竹湾泳池",
+          "longitude": 113.56391,
+          "latitude": 22.1098,
+          "radius": ""
+        },
+        {
+          "name": "路环步行径",
+          "longitude": 113.56361,
+          "latitude": 22.11903,
+          "radius": ""
+        },
+        {
+          "name": "路环市区自由波地",
+          "longitude": 113.55691,
+          "latitude": 22.11305,
+          "radius": ""
+        },
+        {
+          "name": "宝鼎广场",
+          "longitude": 113.56839,
+          "latitude": 22.11994,
+          "radius": ""
+        },
+        {
+          "name": "路环石面盆古道",
+          "longitude": 113.5716,
+          "latitude": 22.11416,
+          "radius": ""
+        },
+        {
+          "name": "竹湾瞭望台",
+          "longitude": 113.56762,
+          "latitude": 22.10923,
+          "radius": ""
+        },
+        {
+          "name": "路环市政球场",
+          "longitude": 113.55694,
+          "latitude": 22.11317,
+          "radius": ""
+        }
+      ]
+    }
+  ]
+}
